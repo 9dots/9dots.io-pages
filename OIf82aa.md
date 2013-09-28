@@ -13,8 +13,11 @@ id: "9dots-OIf82aa"
 
 ## Setup
 ### Each Group Will Need
+
 - 20 pieces of uncooked spaghetti
 - 30 small marshmallows
+
+
 <!-- -->
 ## Introduce
 Ask the students to name a few tall buildings. How do those buildings stay up? Engineers know what materials and shapes are the most stable and use those to design strong structures.  Engineers often have a budget and can not always use all of the resources they would like. Today, you will be limited to building your building with only spaghetti and marshmallows.<!-- -->

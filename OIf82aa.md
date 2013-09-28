@@ -12,7 +12,7 @@ id: "9dots-OIf82aa"
 ---
 
 ## Setup
-## Each Group Will Need
+### Each Group Will Need
 - 20 pieces of uncooked spaghetti
 - 30 small marshmallows
 <!-- -->

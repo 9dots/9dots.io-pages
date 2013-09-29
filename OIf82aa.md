@@ -17,16 +17,18 @@ id: "9dots-OIf82aa"
 - 20 pieces of uncooked spaghetti
 - 30 small marshmallows
 
-
-<!-- -->
 ## Introduce
-Ask the students to name a few tall buildings. How do those buildings stay up? Engineers know what materials and shapes are the most stable and use those to design strong structures.  Engineers often have a budget and can not always use all of the resources they would like. Today, you will be limited to building your building with only spaghetti and marshmallows.<!-- -->
+Ask the students to name a few tall buildings. How do those buildings stay up? Engineers know what materials and shapes are the most stable and use those to design strong structures.  Engineers often have a budget and can not always use all of the resources they would like. Today, you will be limited to building your building with only spaghetti and marshmallows.
+
 ## Explore
-Students now have ten minutes to experiment and attempt to build the tallest tower that they can. At the end of this session, the students will use their rulers to measure their tower.<!-- -->
+Students now have ten minutes to experiment and attempt to build the tallest tower that they can. At the end of this session, the students will use their rulers to measure their tower.
+
 ## Inquire
-Students have five minutes to look at the other towers in the room.  Afterwards everyone will sit down and discuss which geometric shapes seemed the strongest. Show them of the eiffel tower and all of the triangles that are used in it.<!-- -->
+Students have five minutes to look at the other towers in the room.  Afterwards everyone will sit down and discuss which geometric shapes seemed the strongest. Show them of the eiffel tower and all of the triangles that are used in it.
+
 ## Innovate
-With their new information the students will try again to build the tallest possible tower.<!-- -->
+With their new information the students will try again to build the tallest possible tower.
+
 ## Discuss
 Each group will give a short presentation about their tower. 
 - How tall was your structure? 

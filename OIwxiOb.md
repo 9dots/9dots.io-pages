@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 title: Spaghetti String Tower
 blurb: "Students will need to get creative to build towers with only string, tape, and uncooked spaghetti that support a single marshmallow."

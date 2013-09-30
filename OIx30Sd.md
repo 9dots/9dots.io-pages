@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 blurb: Students will create a car that is propelled using the wind generate through blowing air at it.
 title: Puff Mobiles

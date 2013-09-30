@@ -7,11 +7,9 @@ image: /bokeh.png
 org: 9dots
 title: About
 id: "9dots-OIQQVMT"
-blurb: ""
+blurb: "Teaching innovation, together."
 
 ---
-
-Teaching innovation, together.
 
 9dots.io is a community of educators working to develop and share curriulum that makes science, technology, engineering, and math fun and exciting. 
 

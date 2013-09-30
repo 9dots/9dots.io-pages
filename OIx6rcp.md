@@ -29,9 +29,14 @@ Begin by reviewing with students what they know about gravity.
 Students now have ten minutes to experiment and attempt to build a tower that is 11 inches tall that can hold as much weight as possible.
 
 ## Inquire
-Students have five minutes to look at the other towers in the room.  Afterwards everyone will sit down and discuss what strategies worked the best. Discuss what creative solutions people had used in their projects.  What could they do differently to go even taller?
+Students have five minutes to look at the other towers in the room.  Afterwards everyone will sit down and discuss what strategies worked the best. 
+- Which designs had the best structural walls?
+- What could they do differently that would help them make their buildings taller?
 
 ## Innovate
 With their new information the students will try to build a tower that is ~ 22 inches tall and capable of holding the weights.  If they are succesful at this they can try to build a tower that is ~ 33 inches tall.
 
 ## Discuss
+- What is tension? demonstrate with your hands.
+- What is compression? Demonstrate with your hands.
+- What is a structural wall?

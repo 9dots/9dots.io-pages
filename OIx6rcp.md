@@ -23,7 +23,7 @@ id: "9dots-OIx6rcp"
 Begin by reviewing with students what they know about gravity.  
 - Discuss that gravity gives weight to objects and causes them to fall to the ground when dropped.
 - Discuss with students how buildings work.  Particularly, ask them why, if you are standing on the second floor of a building with a room underneath you, does the floor not collapse?  Lead them to the point that the structural walls are bearing most of the weight.
-Challenge students to use 5 pieces of printer paper to hold as many pumpkins ~11 inches in the air.  As students finish, challenge them to try the structure ~22 inches high, and ~33  inches high.
+- Challenge students to use 5 pieces of printer paper to hold as many pumpkins ~11 inches in the air.
 
 ## Explore
 Students now have ten minutes to experiment and attempt to build a tower that is 11 inches tall that can hold as much weight as possible.

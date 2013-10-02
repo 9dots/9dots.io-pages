@@ -32,7 +32,7 @@ Tell the students that the goal of the project is to build a vehicle that moves 
 ## Inquire
 Ask the students what is working well. 
 	- What needs to be improved upon? 
-    - What other types of vehicles use the wind to move. 
+    - What other types of vehicles use the wind to move?
     - What makes them move fast? 
 	- What works better: a big sail or a small sail?
 

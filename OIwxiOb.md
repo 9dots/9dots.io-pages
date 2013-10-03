@@ -13,7 +13,7 @@ id: "9dots-OIwxiOb"
 ---
 
 ## Setup
-#### Each group will recieve a paper bag containing: 
+#### Each group will receive a paper bag containing: 
 
 - 1 yard of string
 - 1 yard of tape

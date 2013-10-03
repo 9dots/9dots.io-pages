@@ -25,6 +25,7 @@ Students now have ten minutes to experiment and attempt to build the tallest tow
 
 ## Inquire
 Students have five minutes to look at the other towers in the room.  Afterwards everyone will sit down and discuss:
+
 - Which geometric shapes seemed the strongest? 
 
 Building with equilateral triangles is very strong because any weight put on the triangle is evenly distributed among the sides.

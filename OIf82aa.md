@@ -24,13 +24,19 @@ Ask the students to name a few tall buildings. How do those buildings stay up? E
 Students now have ten minutes to experiment and attempt to build the tallest tower that they can. At the end of this session, the students will use their rulers to measure their tower.
 
 ## Inquire
-Students have five minutes to look at the other towers in the room.  Afterwards everyone will sit down and discuss which geometric shapes seemed the strongest. Show them of the eiffel tower and all of the triangles that are used in it.
+Students have five minutes to look at the other towers in the room.  Afterwards everyone will sit down and discuss:
+- Which geometric shapes seemed the strongest? 
+
+Building with equilateral triangles is very strong because any weight put on the triangle is evenly distributed among the sides.
+
+Show them pictures of various structures (eiffel tower, epcot center, most bridges) and all of the triangles that are used in them.
 
 ## Innovate
 With their new information the students will try again to build the tallest possible tower.
 
 ## Discuss
 Each group will give a short presentation about their tower. 
+
 - How tall was your structure? 
 - What shape did your group use? 
 - What would you do differently if you could try to build the tower again?

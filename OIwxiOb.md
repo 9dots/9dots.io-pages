@@ -29,11 +29,11 @@ An innovator is someone who strives to better their local and global communities
 
 - Who are some famous innovators that you know of?
 
-Recognizable innovators include Elon Musk (founder of Paypal, Tesla, and SpaceX), Steve Jobs (Apple), and Margaret Chan (Director General of World Health Orginization).
+Recognizable innovators include Elon Musk (founder of Paypal, Tesla, and SpaceX), Steve Jobs (Apple), and Margaret Chan (Director General of World Health Organization).
 
 - What are some important attributes to become an innovator?  
 
-Some important attributes are grit, creativity, and the ability to collaborate.
+Some important attributes are determination, creativity, and the ability to collaborate.
 
 Tell students that today they will have to build a tower out of the surprise materials that they find in the bags. The goal is to build the tallest possible tower that can support a marshmallow. They are encouraged to be creative in their designs.
 

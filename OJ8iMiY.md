@@ -16,7 +16,7 @@ attachments:
     name: taskbot.pdf
   - path: "http://uploads.9dots.io/OJ8lcC3.pdf"
     name: rem.pdf
-image: "http://uploads.9dots.io/OJ8n75l_md.jpg"
+image: "http://uploads.9dots.io/OJEbnI2_md.jpg"
 id: "9dots-OJ8iMiY"
 
 ---
@@ -24,7 +24,7 @@ id: "9dots-OJ8iMiY"
 ## Setup
 #### Materials
 Each group will need:
-	- Lego Mindstorm NXT kit
+- Lego Mindstorm NXT kit
 
 ## Introduce
 Ask the students what engineers do and have a discussion. Direct them towards the fact that engineers use science and math to solve problems and make everyday life easier.  Ask what kind of process they think engineers use when they are solving a problem. Show the introduction to [engineering video](http://www.education.rec.ri.cmu.edu/previews/robot_c_products/teaching_rc_lego_v2_preview/fundamentals/projectmanagement/videos/engineeringprocess.html "link"). Pass out the document with the sensors and have a discussion about what can be accomplished by using each of the sensors. Tell students that their goal for the afternoon is to build a robot capable of driving in a straight line.  ([Link for straight line program](https://docs.google.com/file/d/0BxdHB7jON6H0M2NlUlpWVjNIU28/edit))

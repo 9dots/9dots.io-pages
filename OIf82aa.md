@@ -28,7 +28,7 @@ Engineers know what materials and shapes are the most stable and use those to de
 Engineers often have a budget and cannot always use all of the resources they would like. Today, students are limited to building their structure with only spaghetti and marshmallows.
 
 ## Explore
-Students now have ten minutes to experiment and attempt to build the tallest tower that they can. At the end of this session, the students will use their rulers to measure their tower.
+Students now have ten minutes to experiment and attempt to build the tallest tower that they can. At the end of this session, the students take measurements of their towers using a ruler.
 
 ## Inquire
 Students have five minutes to look at the other towers in the room. Afterwards everyone will sit down and discuss:

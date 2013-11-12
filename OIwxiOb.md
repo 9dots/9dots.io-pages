@@ -35,25 +35,40 @@ Recognizable innovators include Elon Musk (founder of Paypal, Tesla, and SpaceX)
 
 Some important attributes are determination, creativity, and the ability to collaborate.
 
-Tell students that today they will have to build a tower out of the surprise materials that they find in the bags. The goal is to build the tallest possible tower that can support a marshmallow. They are encouraged to be creative in their designs.
-
 ## Explore
-Distribute one bag of supplies to each team.  Students now have ten minutes to experiment and attempt to complete their goal. At the end of this session, the students will use their rulers to measure their tower.
+Distribute one bag of supplies to each team.  Students now have ten minutes to experiment and attempt to build the tallest possible tower that can support a marshmallow. At the end of this session, the students will use their rulers to measure their tower.
 
 ## Inquire
 Students have five minutes to look at the other towers in the room.  Afterwards everyone will sit down and discuss what strategies worked the best. Discuss what creative solutions people had used in their projects. 
 
 - What could they do differently to go even taller?
-- How could the string be used to support the tower?
+- What is a counterbalance?
+
+A counterbalance is a weight that balances another weight.  Students can counterbalance an existing force by applying an opposite force. 
+
+- What is tension?
+
+Tension is the pulling force created by a string or cable on another object.
+
+- How can we create tension in the string?
+
+Tension in the string could be created by attaching one side of the string to the tower and the other to a stationary object like the desk or table.
+
+- How can we use that tension to counterbalance gravity?
+
+By leaning the tower in the opposite direction that the string is pulling, an effective counterbalance can be created.
+
 
 One possibility is for the string to be used to counterbalance a leaning spaghetti tower.![](http://uploads.9dots.io/OJEPMO1.png) 
 
 ## Innovate
-Distribute new materials to each group and then tell students that they have 20 minutes to try to achieve their goal.
+Distribute new materials to each group. Students have 20 minutes to use their new information to build a taller tower.
 
 ## Discuss
 Ask students which team they though was the most creative with their design. 
 
 - How did your own team work together to combine several creative ideas? 
+
 - If they could build another tower what could you do differently to build it taller?
+
 - If you could have one more building material, what would it be and why?

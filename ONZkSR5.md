@@ -1,7 +1,7 @@
 ---
 author: melissachen
 views: 0
-published: false
+published: true
 type: lesson
 title: "Interactive Zine Part 1: Creating your Zine"
 blurb: Students will create a 6 page long zine with text and illustrations

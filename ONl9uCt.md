@@ -7,6 +7,7 @@ objective: "Students will learn basic computer programming through Scratch and t
 blurb: Students will learn how to use Scratch and the Makey Makey to add interactivity to their zines.
 title: "Interactive Zine Part 2: Adding Scratch & the Makey Makey"
 id: "9dots-ONl9uCt"
+image: "http://uploads.9dots.io/ONlRvgo_md.jpg"
 
 ---
 

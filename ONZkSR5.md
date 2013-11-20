@@ -8,7 +8,7 @@ blurb: Students will create a 6 page long zine with text and illustrations
 org: 9dots
 objective: "Students will learn about zines and electricity.  By the end of the lesson, students will be able to express themselves creatively using a zine format, and understand the basics of circuits."
 id: "9dots-ONZkSR5"
-image: "http://uploads.9dots.io/ONlSe7G_md.jpg"
+image: "http://uploads.9dots.io/ONlStA7_md.jpg"
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 views: 0
-published: false
+published: true
 type: lesson
 org: 9dots
 objective: "Students will learn basic computer programming through Scratch and the Makey Makey.  By the end of the lesson, students will be able to build a simple computer program in Scratch and control it with the MaKey MaKey."

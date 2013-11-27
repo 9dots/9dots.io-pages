@@ -3,10 +3,10 @@ author: melissachen
 views: 0
 published: false
 type: lesson
-title: "It's Electric Pt 1- Intro to Currents, Conductivity & Circuits"
+title: "It's Electric Pt 1- Currents & Circuits"
 blurb: Students will earn about electricity by building circuits with conductive playdough.
 org: 9dots
-objective: Students will earn about electricity by building circuits with conductive playdough.
+objective: ""
 id: "9dots-OOQhbJP"
 
 ---

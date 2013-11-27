@@ -13,15 +13,21 @@ image: "http://uploads.9dots.io/OOQuCwd_md.jpg"
 ---
 
 ## Setup
-Materials for entire class to share:
+####Materials for entire class to share:
  - 1 [energy ball](http://www.amazon.com/Energy-Ball-Scientific-your-fingertips/dp/B000OU9RMS) 
-Materials per group:
+ 
+####Materials per group:
  - The following Squishy Circuit Components, which can be purchased [as kits](http://squishycircuitsstore.com/kits.html) or individually at electronics stores.
+ 
+```
  - 1 Motor (optional)  
  - Buzzers (optional)
  - 1 4AA battery pack
  - different colored LEDs
-Ingredients for the conductive playdough:
+```
+ - Ingredients for the conductive playdough:
+ 
+```
  - 1 cup water
  - 1 1/2 cups flour
  - 1/4 cup salt
@@ -30,8 +36,9 @@ Ingredients for the conductive playdough:
  - Food coloring (optional)
  - large bowl for mixing ingredients
  - Large spoon to stir ingredients
-
+```
 Handouts and Other Media:
+
  - Instructions on making conductive playdough can be found [here](http://courseweb.stthomas.edu/apthomas/SquishyCircuits/conductiveDough.htm).  9 Dots has found that using warm or hot water works just as well as cooking the dough over the stove, and makes cleanup easier.
  
 Project Time: 1 hour 15 minutes

@@ -8,18 +8,19 @@ blurb: Students will earn about electricity by building circuits with conductive
 org: 9dots
 objective: "This project introduces the basic concepts of electricity and  conductivity.  By the end of the project, students will be able to to build simple functioning circuits and explain the difference between open and closed circuits."
 id: "9dots-OOQhbJP"
+image: "http://uploads.9dots.io/OOQuCwd_md.jpg"
 
 ---
 
 ## Setup
 Materials for entire class to share:
- - 1 energy ball
+ - 1 [energy ball](http://www.amazon.com/Energy-Ball-Scientific-your-fingertips/dp/B000OU9RMS) 
 Materials per group:
- - The following Squishy Circuit Components, which can be purchased as kits here or individually at electronics stores.
+ - The following Squishy Circuit Components, which can be purchased [as kits](http://squishycircuitsstore.com/kits.html) or individually at electronics stores.
  - 1 Motor (optional)  
  - Buzzers (optional)
  - 1 4AA battery pack
-  - different colored LEDs
+ - different colored LEDs
 Ingredients for the conductive playdough:
  - 1 cup water
  - 1 1/2 cups flour
@@ -31,7 +32,7 @@ Ingredients for the conductive playdough:
  - Large spoon to stir ingredients
 
 Handouts and Other Media:
- - Instructions on making conductive playdough can be found [here](http://courseweb.stthomas.edu/apthomas/SquishyCircuits/conductiveDough.htm) .  9 Dots has found that using warm or hot water works just as well as cooking the dough over the stove, and makes cleanup easier.
+ - Instructions on making conductive playdough can be found [here](http://courseweb.stthomas.edu/apthomas/SquishyCircuits/conductiveDough.htm).  9 Dots has found that using warm or hot water works just as well as cooking the dough over the stove, and makes cleanup easier.
  
 Project Time: 1 hour 15 minutes
 
@@ -50,13 +51,21 @@ In order for the electrical current to flow, it must form a closed path (or loop
 ```
 
 ## Explore
-Brief unguided exploration...
+To demonstrate open and closed circuits with the [energy ball](http://www.amazon.com/Energy-Ball-Scientific-your-fingertips/dp/B000OU9RMS):
+Using a pair of students:  Each student touches one of the sensors on the sides of the energy ball, and then hold hands.  What happens?
+
+With the whole class: Students line up, holding hands, with one student holding the energy ball in one hand.  Students figure out how to arrange themselves so that the ball lights up, showing that the circuit is closed.  When the ball does not light up, the circuit is open.
 
 ## Inquire
-Guided questions and research...
+Students make the conductive playdough for the squishy circuits in class.  There is also the option for making insulating playdough ([see recipe](http://courseweb.stthomas.edu/apthomas/SquishyCircuits/insulatingDough.htm)), but simply using air gaps also works as insulation. 
+After making their playdough, students figure out how to light a LED with their playdough and their battery.  
 
 ## Innovate
-New knowledge is used to create...
+If students finish this quickly, challenge them to make LEDs light up in parallel and in series.  Give the students time to play around with the concepts of circuits.
+![](http://uploads.9dots.io/OOQtpSi_md.jpg) 
+If students finish this quickly, challenge them to make LEDs light up in parallel and in series.  Give the students time to play around with the concepts of circuits.
 
+If students finish this quickly, challenge them to make LEDs light up in parallel and in series.  Give the students time to play around with the concepts of circuits.
 ## Discuss
-Discussion questions...
+1. How did students light up the LEDs with their Squishy Circuit kits?
+2. What happens if the circuit is not completed and connected back to the battery?

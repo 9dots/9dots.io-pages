@@ -44,7 +44,7 @@ Handouts and Other Media:
 Project Time: 1 hour 15 minutes
 
 ## Introduce
-Begin by discussing with students what they know about electricity.  Where does it come from? What do they use it for?
+Begin by discussing with students what they know about electricity.  Where does it come from? What is it used for?
 ```
 Electricity is a form of energy produced when electrons flow through atoms of matter.  Electricity can come from different sources such as solar power, burning coal, wind turbines, battery power, water power, etc.
 ```
@@ -70,9 +70,9 @@ After making their playdough, students figure out how to light a LED with their 
 ## Innovate
 If students finish this quickly, challenge them to make LEDs light up in parallel and in series.  Give the students time to play around with the concepts of circuits.
 ![](http://uploads.9dots.io/OOQtpSi_md.jpg) 
-If students finish this quickly, challenge them to make LEDs light up in parallel and in series.  Give the students time to play around with the concepts of circuits.
 
-If students finish this quickly, challenge them to make LEDs light up in parallel and in series.  Give the students time to play around with the concepts of circuits.
+Please note:  It is best to store the playdough in the refrigerator.  Metal squishy circuit components should be wiped off with a wet paper towel, since the conductive playdough is corrosive and can damage the metal components if not removed.
+
 ## Discuss
 1. How did students light up the LEDs with their Squishy Circuit kits?
 2. What happens if the circuit is not completed and connected back to the battery?

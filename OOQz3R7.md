@@ -13,15 +13,15 @@ id: "9dots-OOQz3R7"
 ## Setup
 ####Materials per group:
 
- - 1 Makey Makey Kit
- - 1 Squishy Circuit Kit (see previous lesson)
+ - 1 [Makey Makey kit](http://www.makeymakey.com/) 
+ - 1 [Squishy Circuit Kit](http://squishycircuitsstore.com/kits.html) (see previous lesson)
  - Conductive Materials (playdough, gummy candies, lemons, metals, bananas, etc)
  
 ####Handouts and Media:
 
- - Electricity Challenges worksheet
- - Scratch piano for Makey Makey or the Makey Makey Drum Machine (for the musical playdough challenges)
- - Tetris game compatible with Makey Makey
+ - [Electricity Challenges worksheet](http://9-dots.org/wp-uploads/2013/02/Electricity-Challenge.docx)
+ - [Scratch piano for Makey Makey](http://scratch.mit.edu/projects/2543877/) or the [Makey Makey Drum Machine[(http://www.makeymakey.com/howto.php) (for the musical playdough challenges)
+ - [Tetris game](http://www.freetetris.org/game.php) compatible with Makey Makey
 
 Project Time: 1 hour 30 minutes
 

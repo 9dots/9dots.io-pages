@@ -1,7 +1,7 @@
 ---
 author: melissachen
 views: 0
-published: false
+published: true
 type: lesson
 title: "It's Electric Part 1- Currents & Circuits"
 blurb: Students will earn about electricity by building circuits with conductive playdough.

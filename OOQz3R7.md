@@ -26,10 +26,11 @@ id: "9dots-OOQz3R7"
 Project Time: 1 hour 30 minutes
 
 ## Introduce
-Hook, goals, and proect introduction...
+1. Review the concepts of electric currents, conductivity, and circuits learned in the prior lesson. Students should remember that in order for circuits to work, they must make a complete loop that connects back to the power source (such as batteries.) 
+2. Give the students a brief introduction to the Makey Makey.  Explain how the electrical current leaves the computer through the USB cord, through the wires, through their bodies, and back through the wires to the ground in order to complete a circuit.  When the circuit is complete, the Makey Makey makes the corresponding button on the computer work.
 
 ## Explore
-Brief unguided exploration...
+Students plug in the Makey Makey following the instructions here.
 
 ## Inquire
 Guided questions and research...

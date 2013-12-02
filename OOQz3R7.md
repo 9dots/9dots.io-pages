@@ -20,7 +20,7 @@ id: "9dots-OOQz3R7"
 ####Handouts and Media:
 
  - [Electricity Challenges worksheet](http://9-dots.org/wp-uploads/2013/02/Electricity-Challenge.docx)
- - [Scratch piano for Makey Makey](http://scratch.mit.edu/projects/2543877/) or the [Makey Makey Drum Machine[(http://www.makeymakey.com/howto.php) (for the musical playdough challenges)
+ - [Scratch piano for Makey Makey](http://scratch.mit.edu/projects/2543877/) or the [Makey Makey Drum Machine](http://www.makeymakey.com/howto.php) (for the musical playdough challenges)
  - [Tetris game](http://www.freetetris.org/game.php) compatible with Makey Makey
 
 Project Time: 1 hour 30 minutes
@@ -39,6 +39,16 @@ Next, students attach conductive materials to the other end of the alligator cli
 
 ## Inquire
 Students work through the Electricity Challenges (see table below).  As students work with the Makey Makey, make sure to explain to them how their circuits are being completed. The team with the most points earns a prize at the end of the day!
+
+Light a light bulb at least 5 feet away from your battery | 1 pt 
+--- | --- 
+Light 2 light bulbs with one battery and 3 pieces of play dough | 1 pt 
+Make a play dough animal with 2 light bulb eyes | 2 pts 
+Use the Makey Makey to make your space bar work when one person touches another person | 3 pts 
+Use the Makey Makey to create a 4 piece musical play dough set where everyone can play using 5 pieces of playdough (hint: you will need 5 wires) | 3 pts 
+Use the Makey Makey to create a 4 piece musical play dough set in which you do not need to hold any ground wire or ground playdough (hint: you will need 8 pieces of playdough and 8 wires) | 4 pts 
+Play tetris, BUT your friends are the buttons! | 4 pts 
+Play tetris, BUT your friends are the buttons AND you do not hold any ground wire | 4 pts 
 
 ## Innovate
 New knowledge is used to create...

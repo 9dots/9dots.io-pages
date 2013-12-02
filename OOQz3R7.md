@@ -7,6 +7,7 @@ title: "It’s Electric: Makey Makey Circuit Challenges"
 objective: "Students will continue to explore circuits, using the Makey Makey and different conductive materials.  By the end of the lesson, students will be able to use use their creativity to make a variety of #circuits with the #MakeyMakey."
 org: 9dots
 id: "9dots-OOQz3R7"
+image: "http://uploads.9dots.io/OOtZKlF_md.jpg"
 
 ---
 
@@ -50,8 +51,7 @@ Use the Makey Makey to create a 4 piece musical play dough set in which you do n
 Play tetris, BUT your friends are the buttons! | 4 pts 
 Play tetris, BUT your friends are the buttons AND you do not hold any ground wire | 4 pts 
 
-## Innovate
-New knowledge is used to create...
+![](http://uploads.9dots.io/OOtYsw5_md.jpg) 
 
 ## Discuss
-Discussion questions...
+1. Which challenge was the most difficult, and why?

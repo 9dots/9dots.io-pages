@@ -1,7 +1,7 @@
 ---
 author: melissachen
 views: 0
-published: false
+published: true
 type: lesson
 title: "It’s Electric: Makey Makey Circuit Challenges"
 objective: "Students will continue to explore circuits, using the Makey Makey and different conductive materials.  By the end of the lesson, students will be able to use use their creativity to make a variety of #circuits with the #MakeyMakey."

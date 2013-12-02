@@ -16,7 +16,7 @@ id: "9dots-OOQz3R7"
  - 1 [Makey Makey kit](http://www.makeymakey.com/) 
  - 1 [Squishy Circuit Kit](http://squishycircuitsstore.com/kits.html) (see previous lesson)
  - Conductive Materials (playdough, gummy candies, lemons, metals, bananas, etc)
- 
+
 ####Handouts and Media:
 
  - [Electricity Challenges worksheet](http://9-dots.org/wp-uploads/2013/02/Electricity-Challenge.docx)

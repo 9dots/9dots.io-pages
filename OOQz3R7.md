@@ -8,6 +8,7 @@ objective: "Students will continue to explore circuits, using the Makey Makey an
 org: 9dots
 id: "9dots-OOQz3R7"
 image: "http://uploads.9dots.io/OOtZKlF_md.jpg"
+blurb: Students will work through a series of Makey Makey challenges to win points for their team.
 
 ---
 

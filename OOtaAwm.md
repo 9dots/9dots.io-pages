@@ -40,14 +40,16 @@ There is a tiny black dot in front of the Pacman’s mouth (see picture below.) 
 
 ## Innovate
 Students design their own mazes that can be navigated using the arrow keys or the MaKey MaKey.
+
 To make a maze, students create two sprites: the maze itself, and a sprite (character) that will be navigating the maze. Students try out the maze by navigating the sprite using the arrow keys. Students add code to make the sprite stop when it runs into walls (and can add a funny sound effect as well when that happens.)
+
 After figuring out how to build the maze in Scratch, students hook up the MaKey MaKey and make a game controller for more interactive fun!
 Some ideas for making a game controller include:
-Making playdough in the shape of the arrow keys
-![](http://uploads.9dots.io/OOtc8ko_md.jpg) 
-Making an aluminum foil and paper joystick
-Hooking up conductive materials to the ends of the alligator clips
 
+ - Making playdough in the shape of the arrow keys
+![](http://uploads.9dots.io/OOtc8ko_md.jpg) 
+ - Making an aluminum foil and paper joystick
+ - Hooking up conductive materials to the ends of the alligator clips
 
 ## Discuss
 Students have 5 minutes to look around at other students’ mazes.

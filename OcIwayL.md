@@ -52,7 +52,7 @@ How important is it to you that an application has a website that looks nice?
 ### EXPLORE:
 Distribute the brainstorming handout.  Students have 2 minutes to do a gallery walk around the room to all the computers with example websites open on them. Using their handout, students will record their favorite and least favorite websites.  When they return to their seats, the teacher will take a survey and chart out their 3 favorite sites and the 3 that they liked the least.  What do their favorites have in common with each other? Why were the 3 they liked the least not pleasant?
 
-#### INNOVATE:
+### INNOVATE:
 Students will now take 5 minutes to come up with 3 ideas for apps that they would like to make a website for. The ideas should have a name as well as reasons why people would use the app.
 
 ### GROUP UP:

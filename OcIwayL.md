@@ -23,11 +23,11 @@ Load examples of application web pages on as many computers as you have availabl
 
 ### Good Website Examples:
 - https://www.google.com/intl/en/chrome/browser/
-- www.angrybirds.com
-- www.instagram.com
-- www.lyft.com
-- www.twitter.com
-- www.youtube.com
+- www.angrybirds.com/
+- www.instagram.com/
+- www.lyft.com/
+- www.twitter.com/
+- www.youtube.com/
 - http://www.blackboard.com/
 - http://www.imangistudios.com/
 

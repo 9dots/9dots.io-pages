@@ -8,6 +8,7 @@ org: 9dots
 objective: "By the end of the lesson students will be able to define an application, generate 3 application ideas, and discuss the importance of a well designed website"
 id: "9dots-OcIwayL"
 title: "What is a Good Website?"
+image: "http://uploads.9dots.io/OcJ25Bl_md.jpg"
 
 ---
 

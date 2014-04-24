@@ -21,7 +21,7 @@ title: "What is a Good Website?"
 ## Preparation
 Load examples of application web pages on as many computers as you have available to you.
 
-### Good Website Examples:
+#### Good Website Examples:
 - https://www.google.com/intl/en/chrome/browser/
 - https://www.angrybirds.com/
 - http://www.instagram.com/
@@ -31,7 +31,7 @@ Load examples of application web pages on as many computers as you have availabl
 - http://www.blackboard.com/
 - http://www.imangistudios.com/
 
-### Bad Websites:
+#### Bad Websites:
 - http://www.jamilin.com/
 - http://www.pennyjuice.com/htmlversion/whoispj.htm
 - http://www.wrdaonline.org/

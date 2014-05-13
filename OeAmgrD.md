@@ -15,8 +15,11 @@ id: "9dots-OeAmgrD"
 - Computers with internet access
 - Inkscape software (download here)
 
-## Introduce
-Hook, goals, and project introduction...
+## Media and Handouts
+- 
+
+## Preparation
+Load examples of application web pages on as many computers as you have available to you.
 
 ## Explore
 Brief unguided exploration...

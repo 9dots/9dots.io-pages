@@ -19,16 +19,25 @@ id: "9dots-OeAmgrD"
 - [Example websites by category handout](https://docs.google.com/document/d/1WsjH33vKsem8s2MLmPfEEyxAVewjl6HmGWCaRGp9rkA/edit) 
 
 ## Preparation
-Load examples of application web pages on as many computers as you have available to you.
+- Print worksheet with example websites.
+- Sort app ideas from lesson 1 into categories (utilities, games, informative, ...)
 
-## Explore
-Brief unguided exploration...
+## Lesson
 
-## Inquire
-Guided questions and research...
+### DISCUSS:
+_How do web designers plan out their websites?_
+To create a successful website, designers will often start by looking at successful websites that have a similar purpose. Once the designer has an idea of what the website should look like they create a prototype.  A prototype is a first draft of the website that shows what the finished product will look like without having to do the programming.
 
-## Innovate
-New knowledge is used to create...
+### RESEARCH: 
+Students will now take 5 minutes to use their research worksheet and look at websites with similar applications to their own ideas. When they finish their worksheet, students should share their answers with their partner.
 
-## Discuss
-Discussion questions...
+
+### PROTOTYPE:
+Now that students have an idea of what their website should look like it is time to begin the process of prototyping. Each student should have their own computer. To start they will need to open the Inkscape application, which is a free graphics software.  An instructional tutorial can be found here (add link). Once the basic prototype is complete, students can either add images from the internet or attempt to create their own for their website.  They should also decide on fonts, color scheme, and any other piece of individualization that they would like. 
+
+### SAVE:
+Make sure students create a folder to save their prototype in. They will be using this prototype to help create their websites using HTML and CSS.
+
+```
+TIP: Push students to continue to develop their prototype beyond the basics. There are almost limitless ways to improve their designs. If their website has a navigation bar they can create the secondary pages that they their website can navigate too.
+```

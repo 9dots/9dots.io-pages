@@ -16,7 +16,7 @@ id: "9dots-OeAmgrD"
 - Inkscape software (download here)
 
 ## Media and Handouts
-- [https://docs.google.com/document/d/1WsjH33vKsem8s2MLmPfEEyxAVewjl6HmGWCaRGp9rkA/edit](https://docs.google.com/document/d/1WsjH33vKsem8s2MLmPfEEyxAVewjl6HmGWCaRGp9rkA/edit) 
+- [Example websites by category handout](https://docs.google.com/document/d/1WsjH33vKsem8s2MLmPfEEyxAVewjl6HmGWCaRGp9rkA/edit) 
 
 ## Preparation
 Load examples of application web pages on as many computers as you have available to you.

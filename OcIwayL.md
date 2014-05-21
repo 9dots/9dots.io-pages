@@ -47,7 +47,7 @@ When you turn a computer on there is a lot of software that runs behind the scen
 _How do people hear about new applications?_
 Sometimes there are applications to find out about new applications like on a smartphone in the app market.  A lot of times though you can use the internet to search for a new application.  For instance, when searching for a new game to play, it is common to search on Google and click on links to check out what the game is like.
 
-How important is it to you that an application has a website that looks nice?
+_How important is it to you that an application has a website that looks nice?_
 
 
 

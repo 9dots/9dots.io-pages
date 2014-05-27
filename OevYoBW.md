@@ -11,6 +11,8 @@ title: "What is HTML?"
 attachments: 
   - path: "http://uploads.9dots.io/OfUeM8G.pdf"
     name: PuppyPals.pdf
+  - path: "http://uploads.9dots.io/OfUfNJH.pdf"
+    name: Stickman.pdf
 
 ---
 

@@ -8,6 +8,9 @@ org: 9dots
 objective: "By the end of the lesson, students will be able to define an HTML tag, understand how to implement HTML tags in coding, and translate and example website into HTML tags."
 id: "9dots-OevYoBW"
 title: "What is HTML?"
+attachments: 
+  - path: "http://uploads.9dots.io/OfUZIat.pdf"
+    name: HTML Example Document.pdf
 
 ---
 

@@ -13,6 +13,10 @@ attachments:
     name: PuppyPals.pdf
   - path: "http://uploads.9dots.io/OfUfNJH.pdf"
     name: Stickman.pdf
+  - path: "http://uploads.9dots.io/OfUgdC8.pdf"
+    name: PuppyPals Answer Key.pdf
+  - path: "http://uploads.9dots.io/OfUhdj0.pdf"
+    name: Stickman Answer Key.pdf
 
 ---
 

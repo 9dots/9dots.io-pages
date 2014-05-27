@@ -11,11 +11,11 @@ title: "What is HTML?"
 attachments: 
   - path: "http://uploads.9dots.io/OfUeM8G.pdf"
     name: PuppyPals.pdf
-  - path: "http://uploads.9dots.io/OfUfNJH.pdf"
-    name: Stickman.pdf
   - path: "http://uploads.9dots.io/OfUgdC8.pdf"
     name: PuppyPals Answer Key.pdf
-  - path: "http://uploads.9dots.io/OfUhdj0.pdf"
+  - path: "http://uploads.9dots.io/OfUjOkE.pdf"
+    name: Stickman.pdf
+  - path: "http://uploads.9dots.io/OfUjQyr.pdf"
     name: Stickman Answer Key.pdf
 
 ---

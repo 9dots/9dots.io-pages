@@ -9,8 +9,8 @@ objective: "By the end of the lesson, students will be able to define an HTML ta
 id: "9dots-OevYoBW"
 title: "What is HTML?"
 attachments: 
-  - path: "http://uploads.9dots.io/OfUZIat.pdf"
-    name: HTML Example Document.pdf
+  - path: "http://uploads.9dots.io/OfUeM8G.pdf"
+    name: PuppyPals.pdf
 
 ---
 

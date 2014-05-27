@@ -50,6 +50,9 @@ Handout the HTML example worksheet. Together the class will translate the exampl
 <img src="stickman.png"></img>
 ```
 The green paragraph box comes up next. Ask students which tag they think they will use to write a paragraph. Explain that normally they would need to write the entire paragraph between the start and end tags but for today they can just write “words...” It should look like this:
+```
+<p> words... </p>
+```
 
 ### CHALLENGE:
 Challenge students to complete the page. The source for the second image should be the same as the first one. Once everyone has finished, review the answers. Next, show the students the ‘puppy pals’ worksheet. Together, label each section as header, image, or paragraph. Once that is done students will translate them to HTML.

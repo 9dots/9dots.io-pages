@@ -9,7 +9,7 @@ objective: "By the end of the lesson, students will be able to recognize grouped
 attachments: 
   - path: "http://uploads.9dots.io/OffsaEv.pdf"
     name: Musical Mayhem.pdf
-  - path: "http://uploads.9dots.io/OfftwS6.pdf"
+  - path: "http://uploads.9dots.io/OfgEv12.pdf"
     name: MusicalMayhem Answer Key.pdf
 id: "9dots-OfflsfX"
 

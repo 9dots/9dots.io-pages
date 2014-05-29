@@ -40,7 +40,7 @@ Today, students will be learn about two new types of tags: **body** and **div**.
 ```
 <body>
 	<p> this is a nested paragraph because it is inside the body </p>
-	<img src=“thesource.png”></img>
+	<img src=“thesource.png”>
 </body>
 ```
 Notice how in the example above, there are 2 HTML elements between the body start tag and end tag.

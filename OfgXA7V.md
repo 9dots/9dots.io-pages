@@ -55,7 +55,7 @@ Afterward, show students the ability to inspect the element. In Google Chrome, r
 Students will now open their computers to the same Batman Bowling example site. With the teacher, students will attempt to change the height, width, and margin of the images on their website.
 
 ### DISCUSS:
-Do you always want all of the images to be the same size?
+_Do you always want all of the images to be the same size?_
 No, sometimes we want to be able to set the size of an individual image without changing the rest of them. To do this we are going to give an HTML element an id.
 ```
 <img id=”logo” src=”batman”>

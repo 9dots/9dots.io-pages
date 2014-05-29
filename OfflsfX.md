@@ -11,6 +11,10 @@ attachments:
     name: Musical Mayhem.pdf
   - path: "http://uploads.9dots.io/OfgEv12.pdf"
     name: MusicalMayhem Answer Key.pdf
+  - path: "http://uploads.9dots.io/OfgFWEI.pdf"
+    name: PuppyPals2.pdf
+  - path: "http://uploads.9dots.io/OfgFXe6.pdf"
+    name: PuppyPals2 Answer Key.pdf
 id: "9dots-OfflsfX"
 
 ---

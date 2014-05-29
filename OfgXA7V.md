@@ -42,6 +42,13 @@ CSS uses the box model to organize elements. Using the Box Model poster, show st
 
 ### SHOW:
 Using the Batman Bowling example site input the following into the CSS box:
+```
+img {
+	width:300px;
+    height:400px;
+    margin:15px;
+}
+```
 Afterward, show students the ability to inspect the element. In Google Chrome, right click one of the images and the select ‘Inspect Element’. This will open a window in your browser that shows all of the HTML and CSS used on the element.  The section on the right is where the CSS is shown. Scroll to the bottom of that section and there is an interactive version of the box model. Hovering over each section will show where it is on the element.
 
 ### GUIDED:
@@ -50,9 +57,18 @@ Students will now open their computers to the same Batman Bowling example site. 
 ### DISCUSS:
 Do you always want all of the images to be the same size?
 No, sometimes we want to be able to set the size of an individual image without changing the rest of them. To do this we are going to give an HTML element an id.
+```
+<img id=”logo” src=”batman”>
+```
 
 ### EXPLAIN:
 Once the HTML has an id, instead of selecting all of the <img> tags, we can use a different kind of selector to edit just one. This is called an id selector. To tell the CSS to edit an id we need to put a ‘#’ followed by the id. For the example above that would be:
-
+```
+#logo { 
+width:600px;
+height:400px;
+margin:20px;
+}
+```
 ### EXPLORE:
 Using the new information student will have 10 minutes to attempt to edit the website and make it look as nice as possible.  The student who is working the hardest will have his/her website displayed on the projector for the entire class.

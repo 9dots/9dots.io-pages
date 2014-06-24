@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 blurb: This lesson will give students an understanding of the importance of a well designed website to attract an audience.
 org: 9dots

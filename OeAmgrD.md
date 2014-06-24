@@ -8,6 +8,9 @@ blurb: This lesson will teach students how to research design ideas and prototyp
 org: 9dots
 objective: By the end of the lesson students will be able to identify good elements of website design and use Inkscape to create a website prototype
 id: "9dots-OeAmgrD"
+attachments: 
+  - path: "http://uploads.9dots.io/Oi8mbte.pdf"
+    name: ResearchHandout.pdf
 
 ---
 
@@ -16,7 +19,7 @@ id: "9dots-OeAmgrD"
 - Inkscape software (download here)
 
 ## Media and Handouts
-- [Example websites by category handout](https://docs.google.com/document/d/1WsjH33vKsem8s2MLmPfEEyxAVewjl6HmGWCaRGp9rkA/edit) 
+- Example websites by category handout
 
 ## Preparation
 - Print worksheet with example websites.

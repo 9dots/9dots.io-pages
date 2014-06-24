@@ -9,6 +9,9 @@ objective: "By the end of the lesson students will be able to define an applicat
 id: "9dots-OcIwayL"
 title: "What is a Good Website?"
 image: "http://uploads.9dots.io/OcJ25Bl_md.jpg"
+attachments: 
+  - path: "http://uploads.9dots.io/Oi8d7pz.pdf"
+    name: BrainstormApp.pdf
 
 ---
 

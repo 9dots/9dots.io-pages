@@ -50,9 +50,8 @@ When you turn a computer on there is a lot of software that runs behind the scen
 _How do people hear about new applications?_
 Sometimes there are applications to find out about new applications like on a smartphone in the app market.  A lot of times though you can use the internet to search for a new application.  For instance, when searching for a new game to play, it is common to search on Google and click on links to check out what the game is like.
 
-_How important is it to you that an application has a website that looks nice?_
-
-
+###Think - Pair - Share:
+Together with a classmate discuss the question, "_How important is it to you that an application has a website that looks nice?_"
 
 ### EXPLORE:
 Distribute the brainstorming handout.  Students have 2 minutes to do a gallery walk around the room to all the computers with example websites open on them. Using their handout, students will record their favorite and least favorite websites.  When they return to their seats, the teacher will take a survey and chart out their 3 favorite sites and the 3 that they liked the least.  What do their favorites have in common with each other? Why were the 3 they liked the least not pleasant?

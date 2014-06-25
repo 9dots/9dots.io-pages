@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 blurb: This lesson will introduce students to the concept of nested tags by learning the div and body tags.
 org: 9dots

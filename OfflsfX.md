@@ -17,6 +17,7 @@ attachments:
     name: PuppyPals2 Answer Key.pdf
 id: "9dots-OfflsfX"
 title: Nested Tags
+image: "http://uploads.9dots.io/OiEbc6S_md.jpg"
 
 ---
 
@@ -79,6 +80,9 @@ The end tag is at the bottom because the contents of the body is the entire rest
 
 ### INDIVIDUALLY:
 Handout the Musical Mayhem worksheet. Using the knowledge gained from this lesson, students will complete this handout on their own. When they have finished they should check their answers with their neighbors. 
+
+### EXPLORE:
+Students will now type the translated HTML into codepen.io so that they can see how it builds a website.
 
 ### WRAP-UP:
 Inform the students that they now have the tools to turn their prototype into websites. Next lesson they will be translating their own prototypes into HTML.

@@ -10,6 +10,7 @@ attachments:
   - path: "http://uploads.9dots.io/OfgSn5Q.docx"
     name: CSS Practice Handout.docx
 id: "9dots-OfgN8vh"
+title: Web Design 7
 
 ---
 
@@ -74,5 +75,4 @@ Students will now get on the computer and go to the Batman Bowling example websi
 After practicing, student will now use the font properties to practice changing the text of the webpage. Students need to try all of the properties to see the effect that they have on the text. The most exciting web site will be projected for the class to see.
 
 ### GO BEYOND:
-If students complete the work early, they can try editing one of the featured pens on the codepen home site. When they are editing the website they should try to find the CSS relating to text and change it to see what happens to the website. 
-
+If students complete the work early, they can try editing one of the featured pens on the codepen home site. When they are editing the website they should try to find the CSS relating to text and change it to see what happens to the website.

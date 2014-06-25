@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 blurb: "In this lesson, students will gain a basic understanding of the image, paragraph, and heading HTML elements."
 org: 9dots

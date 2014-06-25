@@ -14,6 +14,7 @@ attachments:
   - path: "http://uploads.9dots.io/Og9AIaT.pdf"
     name: CSS cheat sheet.pdf
 id: "9dots-Og99Lsb"
+title: Web Design 10
 
 ---
 

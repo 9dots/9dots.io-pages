@@ -28,10 +28,9 @@ Remind students that if they are at the point in their website that they are rea
 
 ### CHECKLIST:
 
-To ensure that students are continuing to move along with their projects, use the final project checklist. For websites the list is:
+To ensure that students are continuing to move along with their projects, use the final project checklist:
 
 - My website has at least 6 HTML elements
 - I have typed the HTML on codepen.io
 - I have added CSS styling to all of my elements on codepen.io
 - I have added images to my website
-

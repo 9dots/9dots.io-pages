@@ -17,6 +17,7 @@ attachments:
     name: Stickman.pdf
   - path: "http://uploads.9dots.io/OfgEeVM.pdf"
     name: Stickman Answer Key (1).pdf
+image: "http://uploads.9dots.io/OiEZ2RO_md.jpg"
 
 ---
 

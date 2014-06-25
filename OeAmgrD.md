@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 title: Designer
 blurb: This lesson will teach students how to research design ideas and prototype their website using Inkscape.

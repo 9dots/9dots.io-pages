@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 blurb: "In this lesson, students will finish their prototype by learning how to import pictures and add labels."
 org: 9dots

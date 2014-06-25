@@ -13,7 +13,7 @@ title: Photo Finish
 
 ## Materials
 - Computers with internet access
-- Inkscape software (download here)
+- [Inkscape software](http://www.inkscape.org/en/download/)
 
 ## Lesson
 

@@ -37,7 +37,7 @@ Students will now take 5 minutes to use their research worksheet and look at web
 
 
 ### PROTOTYPE:
-Now that students have an idea of what their website should look like it is time to begin the process of prototyping. Each student should have their own computer. To start they will need to open the Inkscape application, which is a free graphics software.  An instructional tutorial can be found here (add link). Once the basic prototype is complete, students can either add images from the internet or attempt to create their own for their website.  They should also decide on fonts, color scheme, and any other piece of individualization that they would like. 
+Now that students have an idea of what their website should look like it is time to begin the process of prototyping. Each student should have their own computer. To start they will need to open the Inkscape application, which is a free graphics software.  An instructional tutorial can be found here (add link). Students should decide on fonts, color scheme, and any other piece of individualization that they would like. 
 
 ### SAVE:
 Make sure students create a folder to save their prototype in. They will be using this prototype to help create their websites using HTML and CSS.

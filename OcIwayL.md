@@ -7,7 +7,7 @@ blurb: This lesson will give students an understanding of the importance of a we
 org: 9dots
 objective: "By the end of the lesson students will be able to define an application, generate 3 application ideas, and discuss the importance of a well designed website"
 id: "9dots-OcIwayL"
-title: "What is a Good Website?"
+title: Making a Good Website
 image: "http://uploads.9dots.io/OcJ25Bl_md.jpg"
 attachments: 
   - path: "http://uploads.9dots.io/Oi8d7pz.pdf"
@@ -44,11 +44,17 @@ Load examples of application web pages on as many computers as you have availabl
 
 ### Explain: 
 _What is an app?_
-When you turn a computer on there is a lot of software that runs behind the scenes to make the computer person friendly. That software is called an operating system. Examples of popular operating systems include Windows, Mac OS X, Android, and iOS.  Unfortunately none of that software allows the user to do anything useful.  Thankfully, there is also software that is created to accomplish useful tasks beyond running the computer itself.  This software is called an application and it is what makes computers so useful and fun.  Everything you use to play or work on a computer is done through an application. There are camera application like Photobooth, web browsing applications such as Chrome, Safari, and Firefox, games such as Angry Birds or Minecraft, and millions of things beyond that.
+An app (or application) is a computer program that is designed to be used by the consumer.
+
+_What are some examples of applications?_
+There are camera application like Photobooth, web browsing applications such as Chrome, Safari, and Firefox, games such as Angry Birds or Minecraft, and millions of things beyond that.
 
 ### DISCUSS: 
 _How do people hear about new applications?_
-Sometimes there are applications to find out about new applications like on a smartphone in the app market.  A lot of times though you can use the internet to search for a new application.  For instance, when searching for a new game to play, it is common to search on Google and click on links to check out what the game is like.
+
+- Market applications (e.g. Google Play, Apple App Store)
+- Word of mouth
+- Internet searches
 
 ###Think - Pair - Share:
 Together with a classmate discuss the question, "_How important is it to you that an application has a website that looks nice?_"

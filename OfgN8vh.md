@@ -11,6 +11,7 @@ attachments:
     name: CSS Practice Handout.docx
 id: "9dots-OfgN8vh"
 title: Web Design 7
+image: "http://uploads.9dots.io/OiKLXs5_md.jpg"
 
 ---
 
@@ -30,10 +31,10 @@ _What is HTML?_
 HTML is the language that web developers use to create websites. Each HTML tag translates to an element on the page.
 
 ### SHOW:
-HTML on its own creates elements but has no style. An example of a website with just HTML can be found here. Ask students if this is a web page that they would like to make? Why not?
+Students will recognize from their own experience typing their HTML on codepen, that on its own, HTML creates elements but has no style. Ask students if this is a web page that they would like to make? Why not?
 
 ### EXPLAIN:
-To style the website Cascading Style Sheets or CSS needs to be added to the website.  CSS is written as a series of rules that define what the HTML tags look like.
+To style the website students will need a second language called  Cascading Style Sheets or CSS.  CSS is written as a series of rules that define what the HTML tags look like.
 
 ### EXAMPLE:
 Using the example website type the following into the CSS box:
@@ -69,10 +70,14 @@ Which CSS selector will set the rules for the paragraphs?
 The selector ‘p’ will set rules for all of the paragraphs.
 
 ### PRACTICE:
-Students will now get on the computer and go to the Batman Bowling example website and set CSS rules for the various selectors according to the handout. The selectors and properties should be already typed for the students, they only need to change the values to the specified answers.
+Students will now get on the computer and go to the Batman Bowling example website and set CSS rules for the various selectors according to the handout.
 
 ### EXPLORE:
-After practicing, student will now use the font properties to practice changing the text of the webpage. Students need to try all of the properties to see the effect that they have on the text. The most exciting web site will be projected for the class to see.
+After practicing, student will now use the font properties to practice changing the text of the webpage. Students need to try all of the properties to see the effect that they have on the text.
+
+```
+TIP: It can be fun to project student's projects for the class when they finish styling all of the elemnts on their website.
+```
 
 ### GO BEYOND:
 If students complete the work early, they can try editing one of the featured pens on the codepen home site. When they are editing the website they should try to find the CSS relating to text and change it to see what happens to the website.

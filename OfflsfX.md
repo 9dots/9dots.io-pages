@@ -33,17 +33,13 @@ image: "http://uploads.9dots.io/OiEbc6S_md.jpg"
 
 ### REVIEW: 
 _Which HTML tags have you learned about so far? What is each one used for?_
-So far, students have learned about the header, image, and paragraph tags. The header is for creating titles, the image is for adding pictures, and the paragraph is for adding text.
+Students have learned about the header, image, and paragraph tags. The header is for creating titles, the image is for adding pictures, and the paragraph is for adding text.
 
 _What are the 3 parts to an HTML tag?_
 Each HTML tag is composed of 3 parts: the start tag, content, and the end tag. 
 
-_What does content mean?_
-Content is whatever is between the start tag and end tag and is normally words.
-
-
 ### INTRODUCE:
-Today, students will be learn about two new types of tags: **body** and **div**.  These tags are written the same as the others with a start tag, content, and an end tag.  However, instead of the content being words, the content of these tags is one or multiple HTML tags.
+Today, students will be learn about two new types of tags: **body** and **div**.  These tags are written the same as the others with a start tag, content, and an end tag.  However, instead of the content being text, the content of these tags is one or multiple HTML tags.
 ```
 <body>
 	<p> this is a nested paragraph because it is inside the body </p>
@@ -52,7 +48,7 @@ Today, students will be learn about two new types of tags: **body** and **div**.
 ```
 Notice how in the example above, there are 2 HTML elements between the body start tag and end tag.
 
-This is what programmers call nested tags. It is similar to a set of russian dolls, with one big one on the outside, and several smaller ones that are kept within.  The **body** tag is used on every website and contains the entirety of the HTML nested within it. The **div** tag is used to create sections which make it easier to organize and style a webpage. 
+This is what web designers call nested tags. It is similar to a set of russian dolls, with one big one on the outside, and several smaller ones that are kept within.  The **body** tag is used on every website and contains the entirety of the HTML nested within it. The **div** tag is used to create sections which make it easier to organize and style a webpage. 
 
 ### SHOW:
 Using the puppy pals worksheet from the last lesson (a large poster version would be preferable) outline the body (around the entire website) and the divs (should contain one image and one paragraph). 
@@ -70,7 +66,7 @@ Blue | div
 Green | paragraph
 Red | image
 
-With the website labeled, the group should now start to write the HTML on the corresponding page. Make sure to point out to students that the start tag for the body is at the top but the end tag is at the very bottom of the page. Similarly for the divs the start tag should be at the top of the blue box and the end tag should be at the bottom with the paragraph and the image between them. An answer key is available here (link).
+With the website labeled, the group should now start to write the HTML on the corresponding page. Make sure to point out to students that the start tag for the body is at the top but the end tag is at the very bottom of the page. Similarly for the divs the start tag should be at the top of the blue box and the end tag should be at the bottom with the paragraph and the image between them.
 
 ### RECAP:
 _What makes the **div** and **body** tag different from the ones that we have learned previously?_
@@ -80,7 +76,7 @@ _Why does the end tag for the **body** at the bottom of the page?_
 The end tag is at the bottom because the contents of the body is the entire rest of the HTML.
 
 ### INDIVIDUALLY:
-Handout the Musical Mayhem worksheet. Using the knowledge gained from this lesson, students will complete this handout on their own. When they have finished they should check their answers with their neighbors. 
+Handout the Musical Mayhem worksheet. Students will work individually on translating this document into HTML. When they have finished they should check their answers with their neighbors. 
 
 ### EXPLORE:
 Students will now type the translated HTML into codepen.io so that they can see how it builds a website.

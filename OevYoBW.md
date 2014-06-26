@@ -7,7 +7,7 @@ blurb: "In this lesson, students will gain a basic understanding of the image, p
 org: 9dots
 objective: "By the end of the lesson, students will be able to define an HTML tag, understand how to implement HTML tags in coding, and translate and example website into HTML tags."
 id: "9dots-OevYoBW"
-title: "What is HTML?"
+title: Building a Website
 attachments: 
   - path: "http://uploads.9dots.io/OfUeM8G.pdf"
     name: PuppyPals.pdf

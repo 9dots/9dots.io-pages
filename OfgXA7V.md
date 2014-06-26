@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 blurb: "During this lesson, students will continue to explore CSS and learn how to resize elements and create margins create space between elements."
 org: 9dots

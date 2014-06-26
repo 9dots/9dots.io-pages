@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 blurb: Students will get an introduction to styling a website with CSS and learn about the properties and values for styling text.
 org: 9dots

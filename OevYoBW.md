@@ -29,6 +29,7 @@ image: "http://uploads.9dots.io/OiEZ2RO_md.jpg"
 ##Preparation
 
 - Print worksheets
+- On a whiteboard, write out a table of the three HTML elements like the one below
 
 ## Lesson
 
@@ -38,31 +39,59 @@ HTML is the code that programmers use to make websites. Each line of HTML repres
 
 ### INTRODUCE:
 _What does HTML look like?_
-HTML is a series of tags which describe the elements on the webpage. Tags are the building blocks of a website and usually come in pairs. Today we are going to focus on three specific tags:
-
-Element | HTML
--|-
-Heading | ```<h1>...</h1>```
-Paragraph | ```<p>...</p>```
-Image | ```<img src=”...”>```
-
-
-The first in the pair is the start tag and the second is the end tag.  The end tag is written the same as the start tag, but with a forward slash in front of the name. Any words written in between the tags will be displayed as text on the page. As you can see, the exception is for the image element, which only has a start tag. An example is:	
 
 ![](http://uploads.9dots.io/OfUXVZ7_md.jpg) 
 
+HTML is a series of tags which describe the elements on the webpage. Tags are the building blocks of a website and usually come in pairs. The first in the pair is the start tag and the second is the end tag.  The end tag is written the same as the start tag, but with a forward slash in front of the name. Any words written in between the tags will be displayed as text on the page. 
+
+Today we are going to focus on three specific tags:
+
+Element | HTML | Use
+-|-|-
+Heading | ```<h1>...</h1>``` | Titles
+Paragraph | ```<p>...</p>``` | Text
+Image | ```<img src=”...”>``` | Pictures
+
+### TRY IT:
+For their first HTML element, students will write a **heading** that says 'My First HTML Element'. To help facilitate the process, guide the students through the following steps:
+
+1. What kind of element is required?
+2. What is the tag for that element?
+3. What is the content?
+4. Don't forget the end tag!
+
+When they have finished writing, their paper should read: 
+
+```
+<h1> My First HTML Element </h1>
+```
+
+### IMAGES:
+There are two major differences between the **image** tag and the other elements that have been discussed:
+1. Images do not have content or an end tag
+2. Images have an attribute called **source** which is the path to the image's location
+
+For this unit, all of the images will have a source that is a link to a picture on the internet.
+
+### TRY IT:
+For their second element, students will create an **image** that has a source of "http://www.example.com/firstimage.png". Take students through the steps again but with an additional step for writing the source:
+
+1. What kind of element is required?
+2. What is the tag for that element?
+3. What is the source?
+4. Make sure there is a space between 'img' and 'src'
+
+When they have finished writing, their paper should read: 
+
+```
+<img src="http://www.example.com/firstimage.png">
+```
+
 ### EXPLAIN:
-In HTML we write the tags in order from the top of the page to the bottom of the page.
+HTML tags are written in order from the top of the page to the bottom of the page.
 
 ### WORK TOGETHER:
-Handout the HTML example worksheet. Together the class will translate the example document into HTML tags. The example document is color coded to match with the answer page. To begin, show students how a tag is constructed. The title at the beginning of the page would use the header tag like the example above. Ask students which tag they think will be used for the red image box. The correct answer is the image tag <img>. Make sure to explain that with the image tag it is necessary to add the source (‘src’) to the tag which tells the computer which image to display. For the source today they will write “stickman.png.” It should be written:
-```
-<img src="stickman.png">
-```
-The green paragraph box comes up next. Ask students which tag they think they will use to write a paragraph. To create this element, students will start with a start tag, then write out the all of the words and punctuation, and then finish with the end tag. It should look like this:
-```
-<p> Stickman is back in a whole new crazy adventure! </p>
-```
+Handout the HTML example worksheet. Together the class will translate the example document into HTML tags. The example document is color coded to match with the answer page. For each element on the example document guide students through the same steps as the examples above.
 
 ### CHALLENGE:
 Challenge students to complete the page. The source for the second image should be the same as the first one. Once everyone has finished, review the answers. Next, show the students the ‘puppy pals’ worksheet. Together, label each section as header, image, or paragraph. Once that is done students will translate them to HTML.

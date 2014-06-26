@@ -14,7 +14,8 @@ attachments:
   - path: "http://uploads.9dots.io/Og9AIaT.pdf"
     name: CSS cheat sheet.pdf
 id: "9dots-Og99Lsb"
-title: Web Design 10
+title: "Original Website: HTML"
+image: "http://uploads.9dots.io/OiKxLib_md.jpg"
 
 ---
 
@@ -38,3 +39,6 @@ Hand out the Publication Goals worksheet and the CSS cheat sheet. As web designe
 
 ### MOVING FORWARD:
 Show students the website publication workflow handout. Explain that with the 4 lessons that remain, students will move through the chart at their own pace. As they finish one step they should move on to the next one. It is important for students to continue working after they finish a step because they have entire website to design!
+
+### GOALS:
+By the end of today, students will have all of their HTML translated and type into codepen. When this is completed, student will begin styling their website with CSS.

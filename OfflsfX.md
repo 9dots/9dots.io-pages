@@ -28,6 +28,7 @@ image: "http://uploads.9dots.io/OiEbc6S_md.jpg"
 ## Preparation:
 
 - Print example websites
+- Create a login for codepen.io (one account can be used by all of the students)
 
 ##Lesson
 

@@ -10,7 +10,7 @@ attachments:
   - path: "http://uploads.9dots.io/OfgSn5Q.docx"
     name: CSS Practice Handout.docx
 id: "9dots-OfgN8vh"
-title: Web Design 7
+title: "Now, With Style"
 image: "http://uploads.9dots.io/OiKMx5l_md.jpg"
 
 ---

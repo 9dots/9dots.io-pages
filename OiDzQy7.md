@@ -7,7 +7,7 @@ blurb: This is the final lesson for the Web Design unit.  Students will wrap up 
 org: 9dots
 objective: "By the end of the lesson students will have completed typing out all of their HTML on codepen.io, styling all of the elements on their site, and adding images to their website."
 id: "9dots-OiDzQy7"
-image: "http://uploads.9dots.io/OiEFEsz_md.jpg"
+image: "http://uploads.9dots.io/OiL0HIC_md.jpg"
 
 ---
 

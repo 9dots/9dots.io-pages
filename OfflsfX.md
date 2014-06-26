@@ -38,7 +38,7 @@ So far, students have learned about the header, image, and paragraph tags. The h
 _What are the 3 parts to an HTML tag?_
 Each HTML tag is composed of 3 parts: the start tag, content, and the end tag. 
 
-_What does content means?_
+_What does content mean?_
 Content is whatever is between the start tag and end tag and is normally words.
 
 

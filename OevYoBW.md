@@ -13,10 +13,10 @@ attachments:
     name: PuppyPals.pdf
   - path: "http://uploads.9dots.io/Ofg7Jv6.pdf"
     name: PuppyPals Answer Key.pdf
-  - path: "http://uploads.9dots.io/Ofg7PJi.pdf"
-    name: Stickman.pdf
   - path: "http://uploads.9dots.io/OfgEeVM.pdf"
     name: Stickman Answer Key (1).pdf
+  - path: "http://uploads.9dots.io/OiK08rR.pdf"
+    name: Stickman.pdf
 image: "http://uploads.9dots.io/OiEZ2RO_md.jpg"
 
 ---
@@ -38,7 +38,7 @@ HTML is the code that programmers use to make websites. Each line of HTML repres
 
 ### INTRODUCE:
 _What does HTML look like?_
-HTML is a series of tags which describe the elements on the webpage. Tags are the building blocks of a website and usually come in pairs. The exception is for the image element which only has one. Today we are going to focus on three specific tags:
+HTML is a series of tags which describe the elements on the webpage. Tags are the building blocks of a website and usually come in pairs. Today we are going to focus on three specific tags:
 
 Element | HTML
 -|-
@@ -47,7 +47,7 @@ Paragraph | ```<p>...</p>```
 Image | ```<img src=”...”>```
 
 
-The first in the pair is the start tag and the second is the end tag.  The end tag is the same as the start tag, but with a forward slash in front of it. As you can see, the exception is for the image element, which only has a start tag. Any words written in between the tags will be displayed as text on the page. An example is:	
+The first in the pair is the start tag and the second is the end tag.  The end tag is written the same as the start tag, but with a forward slash in front of the name. Any words written in between the tags will be displayed as text on the page. As you can see, the exception is for the image element, which only has a start tag. An example is:	
 
 ![](http://uploads.9dots.io/OfUXVZ7_md.jpg) 
 
@@ -59,9 +59,9 @@ Handout the HTML example worksheet. Together the class will translate the exampl
 ```
 <img src="stickman.png">
 ```
-The green paragraph box comes up next. Ask students which tag they think they will use to write a paragraph. Explain that normally they would need to write the entire paragraph between the start and end tags but for today they can just write “words...” It should look like this:
+The green paragraph box comes up next. Ask students which tag they think they will use to write a paragraph. To create this element, students will start with a start tag, then write out the all of the words and punctuation, and then finish with the end tag. It should look like this:
 ```
-<p> words... </p>
+<p> Stickman is back in a whole new crazy adventure! </p>
 ```
 
 ### CHALLENGE:

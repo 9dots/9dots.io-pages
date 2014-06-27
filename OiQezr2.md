@@ -64,59 +64,60 @@ To accompish the first behavior the duration on the move block must be changed t
 
 ![](http://uploads.9dots.io/OiQhIX8_md.jpg) 
 
-### WAIT FOR TOUCH
+### WAIT FOR TOUCH:
 The Wait block means that we continue whatever comes before the block until the touch sensor gets pressed.
 
 ![](http://uploads.9dots.io/OiQj0Nu_md.jpg) 
 
-### REPEAT
+### TURNING:
+Students will remember from the previous lesson to use the Move Steering block to turn.
+
+### REPEAT:
 The Loop block means that any blocks within the loop are repeated forever.
 
+![](http://uploads.9dots.io/OiQjPzY_md.jpg) 
 
-
-
-
-PLAY: 
+### PLAY: 
 The game is Mindstorm Says. To play, draw the programming blocks onto pieces of paper. Tape the paper in different orders to review with the students what each programming block accomplishes. Sample rules are:
-Move block: Walk in place.
-For each rotation specified the students take 1 step.
-If the paper says unlimited the students continue to walk in place until told otherwise.
-Wait block with touch sensor: A tap on the head activates the student’s touch sensor. Students will now move on to the next step in the program.
-Loop: Any parts of the program that are between the start and end of loop pages should be repeated until the teacher says to stop.
 
-In the example above, students would take 2 steps, wait to be tapped on the head, and then repeat that process until they are told the program is finished.
+- **Move block:** Walk in place.
+	- For each rotation specified the students take 1 step.
+	- If the paper says unlimited the students continue to walk in place until told otherwise.
+- **Wait block with touch sensor:** A tap on the head activates the student’s touch sensor. Students will now move on to the next step in the program.
+- **Loop:** Any parts of the program that are between the start and end of loop pages should be repeated until the teacher says to stop.
 
-DISCUSS:
-How can using the wait block help them to achieve their goal?
+![](http://uploads.9dots.io/OiQkWO7_md.jpg) 
+
+**In the example above, students would take 2 steps, wait to be tapped on the head, and then repeat that process until they are told the program is finished.**
+
+### DISCUSS:
+_How can using the wait block help them to achieve their goal?_
 By combining the move block with the wait block, the students can program their robot to move forward indefinitely until the touch sensor is triggered.
 
+![](http://uploads.9dots.io/OiQnPLd_md.jpg) 
 
-
-
-How can the loop block be utilized?
+_How can the loop block be utilized?_
 The loop can ensure that their robot continues to bounce off walls continuously without having to restart the program. Anything inside of the loop will be repeated forever (or until the ‘stop’ button is pushed on the robot).
 
+![](http://uploads.9dots.io/OiQnT0b_md.jpg) 
 
-PROGRAM:
-Each group now has 35 minutes to finish building an attachment and program the robot to bounce off as many walls as possible in 1 minute. To bounce off the walls, student need to program their robot to:
-move unlimited
-wait until their robot touches a wall
-reverse to not be stuck against the wall
-turn to face the next wall
-loop 1-4
+### PROGRAM:
+Each group now has 35 minutes to finish building an attachment and program the robot to bounce off as many walls as possible in 1 minute. 
 
-CHANGELOG:
+### CHANGELOG:
 After each attempt, students should write down what worked and what they should change using this handout. 
 
-PLAY:
+### PLAY:
 At the end of the allotted time, students will test their robots by playing a game of Mindstorm Pinball.  To play, create a square playing area with walls on all four sides.  Place the robot in the center and set a timer for 1 minute. Points will be awarded for each wall that the robot can touch within that time limit.
-1st time bouncing off of a wall: 10 points
-2nd time bouncing off of the same wall:  5 points
-3rd + time bouncing off of the same wall: 1 point
 
-DISCUSS:
-How important was the placement of the touch sensor?
+- 1st time bouncing off of a wall: 10 points
+- 2nd time bouncing off of the same wall:  5 points
+- 3rd + time bouncing off of the same wall: 1 point
+- 50 bonus point each time all four walls are hit
+
+### DISCUSS:
+_How important was the placement of the touch sensor?_
 The placement of the the touch sensor is very important because if it is not in a place where it will get bumped, the robot will not be successful.
 
-WRAP-UP:
+### WRAP-UP:
 Have everyone finish their robotics wrap-up handout.

@@ -14,7 +14,7 @@ attachments:
   - path: "http://uploads.9dots.io/Og9AIaT.pdf"
     name: CSS cheat sheet.pdf
 id: "9dots-Og99Lsb"
-title: "Original Website:  HTML"
+title: "Original Website: HTML"
 image: "http://uploads.9dots.io/OiKxLib_md.jpg"
 
 ---

@@ -8,7 +8,7 @@ blurb: This lesson will provide students with a basic knowledge of the programmi
 org: 9dots
 objective: "By the end of the lesson, students will be able to write a program capable of navigating their robot through a simple maze"
 id: "9dots-OiQXe4e"
-image: "http://uploads.9dots.io/OiQZfgo_md.jpg"
+image: "http://uploads.9dots.io/OiQaXZD_md.jpg"
 
 ---
 
@@ -46,8 +46,8 @@ TIP: Make sure to start the robot in the exact same place each time. Placing an 
 ### EXPLAIN:
 A robot attachment is an additional part made out of legos that can easily be connected to the robot to help complete a specific goal. To push legos, students will need to build an attachment that keeps legos from getting trapped under the robot or lost while turning.
 
-
-Above: An attachment for pushing the legos.
+![](http://uploads.9dots.io/OiQb3yI_md.jpg) 
+**Above: An attachment for pushing the legos.**
 
 ### DISCUSS: 
 _The attachment will allow the robot to push the legos, but how will the robot know what to do?_
@@ -78,11 +78,15 @@ Students should write down their instructions on a piece of paper. After student
 
 ### EXPLAIN: 
 To program the Mindstorm Robot, students will use the same 3 simple behaviors; move straight, turn left, and turn right. In the Mindstorm EV3 software, to program the robot, drag blocks from the bottom bar and connect them to the start block that is on the screen. The three behaviors that have been discussed are all achievable using the Move Steering block.
-		
+
+![](http://uploads.9dots.io/OiQbdRA_md.jpg) 
+
 ### The 3 parts of the Move Steering block are:
-Turning: Positive numbers turn right, Negative numbers turn left, and 0 means straight.
-Power: How fast the motor will spin. 0 is the slowest; 100 is the fastest.
-Duration: How long the motor will turn on for in rotations. 1 rotation is one full spin of the motor.
+- *Turning:* Positive numbers turn right, Negative numbers turn left, and 0 means straight.
+- *Power:* How fast the motor will spin. 0 is the slowest; 100 is the fastest.
+- *Duration:* How long the motor will turn on for in rotations. 1 rotation is one full spin of the motor.
+
+![](http://uploads.9dots.io/OiQc16D_md.jpg) 
 
 To make a complex behavior, connect as many Move Steering blocks (simple behaviors) together as are required.
 Demonstrate how to download a program to the robot. A how to on downloading programs to the EV3 can be found here.

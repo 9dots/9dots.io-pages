@@ -81,15 +81,19 @@ To program the Mindstorm Robot, students will use the same 3 simple behaviors; m
 
 ![](http://uploads.9dots.io/OiQbdRA_md.jpg) 
 
-### The 3 parts of the Move Steering block are:
-- *Turning:* Positive numbers turn right, Negative numbers turn left, and 0 means straight.
-- *Power:* How fast the motor will spin. 0 is the slowest; 100 is the fastest.
-- *Duration:* How long the motor will turn on for in rotations. 1 rotation is one full spin of the motor.
+The 3 parts of the Move Steering block are:
+
+1. *Turning:* Positive numbers turn right, Negative numbers turn left, and 0 means straight.
+2. *Power:* How fast the motor will spin. 0 is the slowest; 100 is the fastest.
+3. *Duration:* How long the motor will turn on for in rotations. 1 rotation is one full spin of the motor.
 
 ![](http://uploads.9dots.io/OiQc16D_md.jpg) 
 
 To make a complex behavior, connect as many Move Steering blocks (simple behaviors) together as are required.
-Demonstrate how to download a program to the robot. A how to on downloading programs to the EV3 can be found here.
+
+![](http://uploads.9dots.io/OiQcewv_md.jpg) 
+
+Demonstrate how to download a program to the robot. A how to on downloading programs to the EV3 can be found in the Wiki section of 9dots.io.
 
 ### GROUP UP: 
 Groups should be as small as possible with one computer per group. 

@@ -11,7 +11,7 @@ attachments:
     name: CSS Practice Handout.docx
 id: "9dots-OfgN8vh"
 title: "Now, With Style"
-image: "http://uploads.9dots.io/OiKMx5l_md.jpg"
+image: "http://uploads.9dots.io/OiPa3Ab_md.jpg"
 
 ---
 

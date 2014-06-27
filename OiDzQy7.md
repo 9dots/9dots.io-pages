@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 blurb: This is the final lesson for the Web Design unit.  Students will wrap up their work on the website and share them with the class.
 org: 9dots

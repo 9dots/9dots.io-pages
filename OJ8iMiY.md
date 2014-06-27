@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 blurb: Learn the basic process of engineering as well as teaching them the different pieces that make up a Lego Mindstorm robot.
 title: Introduction to Robotics

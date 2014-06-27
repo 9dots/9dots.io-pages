@@ -14,6 +14,8 @@ attachments:
     name: IntroductiontoNXTParts.docx
   - path: "http://uploads.9dots.io/OJ8lcC3.pdf"
     name: rem.pdf
+  - path: "http://uploads.9dots.io/OiQX849.pdf"
+    name: ev3Basic.pdf
 image: "http://uploads.9dots.io/OJEbnI2_md.jpg"
 id: "9dots-OJ8iMiY"
 

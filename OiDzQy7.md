@@ -8,6 +8,7 @@ org: 9dots
 objective: "By the end of the lesson students will have completed typing out all of their HTML on codepen.io, styling all of the elements on their site, and adding images to their website."
 id: "9dots-OiDzQy7"
 image: "http://uploads.9dots.io/OiPYRnT_md.jpg"
+title: "Original Website: Wrap Up"
 
 ---
 

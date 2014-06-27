@@ -14,7 +14,7 @@ id: "9dots-OiKs1Bm"
 ## Setting up an account
 1. Navigate to [codepen.io](codepen.io) 
 2. Click on the **Sign Up** button in the top right corner
-![](http://uploads.9dots.io/OiKtc1N_md.jpg) 
+![](http://uploads.9dots.io/OiPgEdZ_md.jpg) 
 3. Scroll to the bottom to select the free account option
 4. Fill out the information and you are done
 

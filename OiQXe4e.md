@@ -93,6 +93,7 @@ To make a complex behavior, connect as many Move Steering blocks (simple behavio
 
 ![](http://uploads.9dots.io/OiQcewv_md.jpg) 
 
+### Downloading:
 Demonstrate how to download a program to the robot. A how to on downloading programs to the EV3 can be found in the Wiki section of 9dots.io.
 
 ### GROUP UP: 

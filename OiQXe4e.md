@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 title: Introduction to Programming and Basic Robot Features
 blurb: This lesson will provide students with a basic knowledge of the programming process and introduce them to the Lego Mindstorm software

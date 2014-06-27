@@ -13,8 +13,9 @@ id: "9dots-OiPzkBa"
 
 ## Getting Started
 
-1. Push the '5' key to center the page and make it take up the whole screen.
+1. Push the '5' key to center the page and make it take up the whole screen
 ```
 This is a handy trick in case you zoom or pan too far and can't find your page.
 ```
-2. 
+2. To add a background color, use the rectangle tool from the tool box on the left hand side
+![](http://uploads.9dots.io/OiQ0iR6_md.jpg) 

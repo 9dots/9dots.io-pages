@@ -31,6 +31,6 @@ id: "9dots-OiPkl5C"
 
 ## Running Inkscape on Mac
 
-1. The first time that you open Inkscape it will ask you about the location of X11
+1. The first time that you open Inkscape it will ask you about the location of X11. Point to the XQuartz application.
 2. The XQuartz application will be in the Utilities folder of the Applications folder
 ![](http://uploads.9dots.io/OiPtGYH_md.jpg) 

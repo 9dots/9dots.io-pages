@@ -19,3 +19,6 @@ This is a handy trick in case you zoom or pan too far and can't find your page.
 ```
 2. To add a background color, use the rectangle tool from the tool box on the left hand side
 ![](http://uploads.9dots.io/OiQ0iR6_md.jpg) 
+3. Click at the top left corner of the page and drag until the mouse pointer is in the bottom right
+4. After the rectangle is create you can change the color and opacity (how transparent the color is)
+![](http://uploads.9dots.io/OiQGipF_md.jpg) 

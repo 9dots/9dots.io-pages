@@ -20,6 +20,6 @@ id: "9dots-OiKs1Bm"
 
 ## Creating your first pen
 1. Click on the **New Pen** button in the top left corner
-![](http://uploads.9dots.io/OiKsmlX_md.jpg) 
+![](http://uploads.9dots.io/OiPgnDi_md.jpg) 
 2. The page will be split into four boxes like this:
 ![](http://uploads.9dots.io/OiKswVQ_md.jpg)

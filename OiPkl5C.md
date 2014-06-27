@@ -4,7 +4,7 @@ views: 0
 published: true
 type: wiki
 image: /bokeh.png
-title: Inkscape
+title: Inkscape Install
 blurb: "How to download, install, and get started with Inkscape"
 org: 9dots
 id: "9dots-OiPkl5C"

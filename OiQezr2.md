@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 title: Mindstorm Pinball
 blurb: This lesson will teach students about the Mindstorm touch sensor as well as the wait and loop programming blocks.

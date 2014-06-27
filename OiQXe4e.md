@@ -9,14 +9,21 @@ org: 9dots
 objective: "By the end of the lesson, students will be able to write a program capable of navigating their robot through a simple maze"
 id: "9dots-OiQXe4e"
 image: "http://uploads.9dots.io/OiQaXZD_md.jpg"
+attachments: 
+  - path: "http://uploads.9dots.io/OiQdggn.pdf"
+    name: Behaviors.pdf
+  - path: "http://uploads.9dots.io/OiQe2ix.pdf"
+    name: "Dailywrap-up.pdf"
+  - path: "http://uploads.9dots.io/OiQe49h.pdf"
+    name: IterationLog (1).pdf
 
 ---
 
 ## Materials:
-- Lego Mindstorm EV3 kit
-- Computer with EV3 software
+- Lego Mindstorm kit
+- Computer with [EV3 Software](http://www.lego.com/en-us/mindstorms/downloads/software/ddsoftwaredownload/download-software/) 
 - Teacher-created maze (black electrical tape on the floor works well)
-- Completed Mindstorm robot from lesson 1 (instructions)
+- Completed Mindstorm robot from lesson 1
 
 ## Media and Handouts:
 - Programming Introduction Video

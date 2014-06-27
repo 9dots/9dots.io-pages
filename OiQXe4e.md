@@ -46,7 +46,7 @@ TIP: Make sure to start the robot in the exact same place each time. Placing an 
 ### EXPLAIN:
 A robot attachment is an additional part made out of legos that can easily be connected to the robot to help complete a specific goal. To push legos, students will need to build an attachment that keeps legos from getting trapped under the robot or lost while turning.
 
-**Image**
+
 Above: An attachment for pushing the legos.
 
 ### DISCUSS: 

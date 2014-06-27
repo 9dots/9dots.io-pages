@@ -13,7 +13,7 @@ id: "9dots-OiQoYL1"
 
 1. Turn on the Mindstorm Brick by pressing the middle button
 2. Connect the cord to the USB port on the robot
-![](http://uploads.9dots.io/OiQplrY_md.jpg) 
+![](http://uploads.9dots.io/OiQqlFZ_md.jpg) 
 3. Connect the other end of the cord to the USB port on the computer
 4. Make sure that your computer recognizes the Mindstorm brick
 ![](http://uploads.9dots.io/OiQpz9d_md.jpg) 

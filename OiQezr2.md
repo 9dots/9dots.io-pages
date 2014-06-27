@@ -36,6 +36,8 @@ _Which of your senses do you use to know that you are touching the wall?_
 The sense of touch is how a person knows that they have run into a wall.
 
 The touch sensor can let the robot know when it has run into a wall.
+
+### GOAL:
 The goal of the day will be to make a robot that can run into as many walls as possible in 1 minute.
 
 ### BUILD:
@@ -50,15 +52,28 @@ Revisit the options associated with the move block that they learned previously,
 ![](http://uploads.9dots.io/OiQh9jS_md.jpg) 
 
 ### EXPLAIN:
-To make our robot move forward forever we need to change the duration to on. This makes the robot move for an unlimited amount of time like referenced in the image below.
+To accomplish the goal for today there are four necessary behaviors:
+
+1. Make the robot move forward forever
+2. Wait for the touch sensor to be activated
+3. Turn
+4. Repeat steps 1-3
+
+### FORWARD FOREVER:
+To accompish the first behavior the duration on the move block must be changed to **on**. This makes the robot move for an unlimited amount of time like referenced in the image below.
 
 ![](http://uploads.9dots.io/OiQhIX8_md.jpg) 
 
+### WAIT FOR TOUCH
+The Wait block means that we continue whatever comes before the block until the touch sensor gets pressed.
+
+![](http://uploads.9dots.io/OiQj0Nu_md.jpg) 
+
+### REPEAT
 The Loop block means that any blocks within the loop are repeated forever.
 
 
 
-The Wait block means that we continue whatever comes before the block until the touch sensor gets pressed.
 
 
 PLAY: 

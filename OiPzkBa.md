@@ -11,3 +11,10 @@ id: "9dots-OiPzkBa"
 
 ---
 
+## Getting Started
+
+1. Push the '5' key to center the page and make it take up the whole screen.
+```
+This is a handy trick in case you zoom or pan too far and can't find your page.
+```
+2. 

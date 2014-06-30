@@ -8,6 +8,9 @@ blurb: Students will use the programming and building skills gained over the wee
 org: 9dots
 objective: "By the end of the lesson, the student will be able to demonstrate learning by programming their robots to complete new challenges."
 id: "9dots-OiiP8t9"
+attachments: 
+  - path: "http://uploads.9dots.io/OiiSMQe.pdf"
+    name: RoboticsScoring.pdf
 
 ---
 
@@ -17,6 +20,7 @@ id: "9dots-OiiP8t9"
 
 ## Media and Handouts
 - Iteration and wrap-up handout
+- Robotics scoring handout
 
 ##Lesson Plan
 
@@ -29,15 +33,18 @@ The move block, the wait, the switch, and the loop.
 
 Today, students will have to use all of the skills that were just discussed, to compete in a series of robotics challenges.  They will have four possible challenges and can attempt as many as they would like in the project time.
 
+### Scoring:
+Each group will recieve a scoring handout for the instructor to fill out during tests.
+
 
 ## THE CHALLENGES:
 
-### 1) Bring all of the people to the red zone: 50 points
+### 1) Bring all of the people to the red zone
 For the first challenge, construct an arm for the robot that is capable of recovering the lego people and bringing them back to the base. Once they are returned, program the robot to travel across the field to the red zone without running into any of the cars or obstacles on the way. 
 
 ![](http://uploads.9dots.io/OiiQvep_md.jpg) 
 
-### 2) Follow the line: 50 points
+### 2) Follow the line
 
 Using the light sensor and a different course, students will attempt to follow a black line through a maze without touching any walls. The scoring will work as follows:
 

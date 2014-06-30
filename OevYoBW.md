@@ -79,7 +79,7 @@ For their second element, students will create an **image** that has a source of
 1. What kind of element is required?
 2. What is the tag for that element?
 3. What is the source?
-4. Make sure there is a space between 'img' and 'src'
+4. Make sure there is a space between **img** and **src**
 
 When they have finished writing, their paper should read: 
 

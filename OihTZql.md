@@ -80,7 +80,8 @@ Put that entire switch statement in a loop so that the process repeats forever. 
 ![](http://uploads.9dots.io/Oihyzmy_md.jpg) 
 
 ### PROGRAM:
-The setup for the competition: Each group has 30 minutes to create a robot capable of following the line accurately and as quickly as possible. The robot that completes the entire maze the quickest will be the winner. To change the speed of the robot the students need to alter the values of the turning and the power in the move blocks. At the end of the 30 minutes, each group tests their robot.
+**The setup for the competition: **
+Each group has 30 minutes to create a robot capable of following the line accurately and as quickly as possible. The robot that completes the entire maze the quickest will be the winner. To change the speed of the robot the students need to alter the values of the turning and the power in the move blocks. At the end of the 30 minutes, each group will test their robot.
 
 ### DISCUSS:
 Which numbers made for the fastest line following robot?

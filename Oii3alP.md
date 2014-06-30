@@ -8,6 +8,11 @@ blurb: students will compete by having their robot gather as many resources (leg
 org: 9dots
 objective: "By the end of the lesson, the student will be able to engineer a robotic arm attachment and create a robot capable of returning legos to a specified location."
 id: "9dots-Oii3alP"
+attachments: 
+  - path: "http://uploads.9dots.io/OiiHcB8.pdf"
+    name: IterationLog (1).pdf
+  - path: "http://uploads.9dots.io/OiiHdDi.pdf"
+    name: "Dailywrap-up.pdf"
 
 ---
 
@@ -38,20 +43,21 @@ Let the students know that we will be building a robot with a motorized arm capa
 ### BUILD:
 Using the medium motor, students now have 15 minutes to attempt to build a motorized arm for their robot that is capable of dragging legos.
 
-### EXAMPLE:
-An example of how to build a simple arm attachment can be found (here).
+```
+If you are using an NXT kit, use the normal motor in place of the medium of the motor.
+```
 
 ### EXPLAIN:
 To program their arm, students will need to use medium motor block.
 
+![](http://uploads.9dots.io/OiiHNyz_md.jpg) 
+
 ### THE GAME:
-The setup for the competition: Each group is a team sent from NASA to perform experiment on the moon. Unfortunately, as they were landing, some of their resources got scattered across the moon and they need them back quickly. The only solution is to build a robot capable of bringing the resources back to the base as quickly as possible. Show the students the mat and where the various pieces are set up. (picture)
+**The setup for the competition:** 
+Each group is a team sent from NASA to perform experiment on the moon. Unfortunately, as they were landing, some of their resources got scattered across the moon and they need them back quickly. The only solution is to build a robot capable of bringing the resources back to the base as quickly as possible. Show the students the mat and where the various pieces are set up.
 
 ### PROGRAM:
-Each group now has 35 minutes to finish building a motorized arm and program their robot to complete the goal. After each attempt, students should write down what worked and what they should change using this handout. At the end of the allotted time, there will be a competition to determine which robot collects the most resources in 1 minute.
-
-### DISCUSS:
-Which motorized arm was the best for lifting?
+Each group now has 35 minutes to finish building a motorized arm and program their robot to complete the goal. After each attempt, students should write down what worked and what they should change using the handout. At the end of the allotted time, there will be a competition to determine which robot collects the most resources in 1 minute.
 
 ### WRAP-UP:
 Students should now finish their robotics wrap-up handout.

@@ -44,7 +44,13 @@ _How do you change the duration of the move block?_
 Tell students that their goal is to create a robot that is capable of going through a maze by using the walls to direct itself. Bonus points will be awarded for each wall that the robot touches.
 
 ### PLAY:
-Start a game of mindstorm says to check for understanding.  The rules will be the same as in the previous lesson.
+Start a game of mindstorm says to check for understanding.  The rules will be the same as in the previous lesson. To recap:
+
+- **Move block:** Walk in place.
+	- For each rotation specified the students take 1 step.
+	- If the paper says unlimited the students continue to walk in place until told otherwise.
+- **Wait block with touch sensor:** A tap on the head activates the student’s touch sensor. Students will now move on to the next step in the program.
+- **Loop:** Any parts of the program that are between the start and end of loop pages should be repeated until the teacher says to stop.
 
 
 ### PROGRAM:

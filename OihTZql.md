@@ -50,11 +50,9 @@ The switch statement takes the readings from the sensor and breaks it into two p
 2. Click on compare
 3. Select reflected light intensity
 
-From the switch statement, select the color sensor, compare, and then reflected light intensity
-
 ![](http://uploads.9dots.io/Oiha8uX_md.jpg) 
 
-In this example the top part will be what to do if the light sensor is over the line and the bottom will be what to do if it has moved off of the line.
+In the example above, the top track will be triggered if the color sensor is over the line and the bottom will be what to do if it has moved off of the line.
 
 If the robot is on the line program it to turn left, if the robot is not on the line make it turn right. This way the robot drives back and forth always staying on the edge of the line.
 Put that entire switch statement in a loop so that the process repeats forever. If there is no loop it will move once and be done.

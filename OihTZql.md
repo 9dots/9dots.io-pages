@@ -71,14 +71,13 @@ In the example above, the top track will be triggered if the color sensor is ove
 ### APPLY:
 Using the previously discussed strategy as the guide, add the **move steering** blocks. The finished product should look like:
 
-![](http://uploads.9dots.io/Oihyzmy_md.jpg) 
+![](http://uploads.9dots.io/Oii19BC_md.jpg) 
 
 ### DISCUSS:
 _How can you make that process repeat indefinitely?_
 Put that entire switch statement in a loop so that the process repeats forever. If there is no loop it will move once and be done.
 
-
-
+![](http://uploads.9dots.io/Oihyzmy_md.jpg) 
 
 ### PROGRAM:
 The setup for the competition: Each group has 30 minutes to create a robot capable of following the line accurately and as quickly as possible. The robot that completes the entire maze the quickest will be the winner. To change the speed of the robot the students need to alter the values of the turning and the power in the move blocks. At the end of the 30 minutes, each group tests their robot.

@@ -48,7 +48,7 @@ Each rule consists of two parts: the selector and a series of declarations that 
 
 ![](http://uploads.9dots.io/OfgP3vE_md.jpg) 
 
-In this example, the selector **h1** will select any `<h1>` in the HTML. The declaration ‘text-align : center’ sets the text to align to the middle of the heading.
+In this example, the selector **h1** will select any `<h1>` elements in the HTML. The declaration ‘text-align : center’ sets the text to align to the middle of the heading.
 
 There are different types of selectors but today students will be introduced to only the element selector. The element selector will set the rule for all of the HTML elements with the tag. For example the selector ‘h1’ will set the rules for all of the `<h1>` elements. The ‘img’ selector will set the rules for any `<img>` elements on the page.
 

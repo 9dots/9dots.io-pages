@@ -44,11 +44,15 @@ Show a [video](http://www.youtube.com/watch?v=aJor5MXycoY) of a robot following 
 At this point, students will attempt to attach a light sensor (facing down so it can see the lines) to their robot.
 
 ### EXPLAIN:
-The switch statement takes the readings from the sensor and breaks it into two possible cases. For the color sensor, the two cases will be dark and light. 
+The switch statement takes the readings from the sensor and breaks it into two possible cases. For the color sensor, the two cases will be dark and light. To set up the switch:
+
+1. Select the color sensor
+2. Click on compare
+3. Select reflected light intensity
 
 From the switch statement, select the color sensor, compare, and then reflected light intensity
 
-![](http://uploads.9dots.io/OihZTEl_md.jpg) 
+![](http://uploads.9dots.io/Oiha8uX_md.jpg) 
 
 In this example the top part will be what to do if the light sensor is over the line and the bottom will be what to do if it has moved off of the line.
 

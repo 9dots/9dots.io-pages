@@ -20,8 +20,6 @@ image: "http://uploads.9dots.io/Oii1nM2_md.jpg"
 ## Materials:
 - Lego Mindstorm kit
 - Computer with EV3 software
-
-## Media and Handouts
 - Iteration and Wrap-Up Handouts
 
 ## Project time:

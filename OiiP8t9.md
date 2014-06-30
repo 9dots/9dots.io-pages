@@ -47,8 +47,13 @@ Using the light sensor and a different course, students will attempt to follow a
 
 ![](http://uploads.9dots.io/OiiR02o_md.jpg) 
 
-ABOVE: Example of what they line following maze can look like. A black line across the maze with walls (boxes) to make sure that the robot is sticking close to the line. Students will start at the green start zone and finish in the red zone.
+**ABOVE: Example of what they line following maze can look like. A black line across the maze with walls (boxes) to make sure that the robot is sticking close to the line. Students will start at the green start zone and finish in the red zone.**
 
-### 3) Make your robot run in to each of the four walls on the game board: 100 points
+### 3) Mindstorm Pinball
 
-The last goal will be to play a game of mindstorm pinball and collect as many points as possible.
+The last goal will be to play a game of mindstorm pinball and collect as many points as possible. The points will be awarded for: 
+
+- 1st time bouncing off of a wall: 10 points
+- 2nd time bouncing off of the same wall:  5 points
+- 3rd + time bouncing off of the same wall: 1 point
+- 50 bonus point each time all four walls are hit

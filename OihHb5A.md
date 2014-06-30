@@ -13,6 +13,7 @@ attachments:
   - path: "http://uploads.9dots.io/OihIq1N.pdf"
     name: "Dailywrap-up.pdf"
 id: "9dots-OihHb5A"
+image: "http://uploads.9dots.io/OihMWlD_md.jpg"
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 title: Line Follow
 blurb: This lesson will focus on using the color sensor to follow a line on the ground.

@@ -56,7 +56,7 @@ Student's first idea will be to go straight when the robot is on the line. Expla
 ```
 
 ### EXPLAIN:
-The switch statement takes the readings from the sensor and breaks it into two possible cases. For the color sensor, the two cases will be dark and light. To set up the switch:
+With the strategy figured out, students will learn about the the programming blocks required to execute this strategy. The **switch** statement takes the readings from the sensor and breaks it into two possible cases, just like the two rules in our strategy. For the color sensor, the two cases will be dark and light. To set up the switch:
 
 1. Select the color sensor
 2. Click on compare
@@ -68,14 +68,23 @@ In the example above, the top track will be triggered if the color sensor is ove
 
 ![](http://uploads.9dots.io/Oihrsws_md.jpg) 
 
-This way the robot drives back and forth always staying on the edge of the line.
+### APPLY:
+Using the previously discussed strategy as the guide, add the **move steering** blocks. The finished product should look like:
+
+![](http://uploads.9dots.io/Oihyzmy_md.jpg) 
+
+### DISCUSS:
+_How can you make that process repeat indefinitely?_
 Put that entire switch statement in a loop so that the process repeats forever. If there is no loop it will move once and be done.
 
-PROGRAM:
+
+
+
+### PROGRAM:
 The setup for the competition: Each group has 30 minutes to create a robot capable of following the line accurately and as quickly as possible. The robot that completes the entire maze the quickest will be the winner. To change the speed of the robot the students need to alter the values of the turning and the power in the move blocks. At the end of the 30 minutes, each group tests their robot.
 
-DISCUSS:
+### DISCUSS:
 Which numbers made for the fastest line following robot?
 
-WRAP-UP:
+### WRAP-UP:
 Students should now finish their robotics wrap-up handout.

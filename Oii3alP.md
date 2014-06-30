@@ -41,7 +41,7 @@ Show them the [video](http://www.youtube.com/watch?v=XfahK5UX6Lg) of a robot usi
 Let the students know that we will be building a robot with a motorized arm capable of dragging legos and bring them to a specified location.
 
 ### BUILD:
-Using the medium motor, students now have 15 minutes to attempt to build a motorized arm for their robot that is capable of dragging legos.
+Using the medium motor, students now have 15 minutes to attempt to build a motorized arm for their robot that is capable of [dragging](https://www.youtube.com/watch?v=Xs8mh3skPGw) legos.
 
 ```
 If you are using an NXT kit, use the normal motor in place of the medium of the motor.

@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 title: Review of Move and Wait
 blurb: This lesson will solidify the students understanding of the move block and challenged them to move the robot through a maze.

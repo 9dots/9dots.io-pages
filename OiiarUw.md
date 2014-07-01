@@ -3,7 +3,7 @@ author: danleavitt0
 views: 0
 published: true
 type: lesson
-title: Stop Motion 1
+title: Flipbooks
 blurb: This lesson will provide students with a short history of animation and produce a deliverable as students create an animated flip book.
 org: 9dots
 objective: "By the end of the lesson, students will be able to define animation, explain how the concept of afterimage makes animation possible, and demonstrate learning by creating a flipbook."

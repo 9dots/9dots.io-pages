@@ -15,8 +15,8 @@ id: "9dots-OiiarUw"
 ## Materials:
 
 - White paper
-- History of animation video
-- Pixar story video
+- [History of animation video](http://mit.tv/Ac9egn)
+- [Pixar story video](http://www.youtube.com/watch?v=oggMSPCHNtw)
 
 ##Preparation:
 
@@ -33,7 +33,7 @@ Show the students clips from 'Paranorman' as and example of movies made using st
 _What is animation?_
 Animation means to bring something to life. The art of animation has been around for a long time and originally was a way to make still images appear to be moving.
 
-Show the history of animation video and the intro to the pixar story video. After the videos gauge learning by asking these questions:
+Show the [history of animation video](http://mit.tv/Ac9egn) and the [Pixar story video](http://www.youtube.com/watch?v=oggMSPCHNtw). After the videos gauge learning by asking these questions:
 
 _What is the history of animation?_
 Animation started even before televisions or projectors were invented.  People have been using simple machines like **zoetropes** and **flip books** to make drawings come to life for thousands of years.

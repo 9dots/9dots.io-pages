@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 title: Stop Motion 1
 blurb: This lesson will provide students with a short history of animation and produce a deliverable as students create an animated flip book.

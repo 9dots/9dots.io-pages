@@ -46,7 +46,7 @@ Stop Motion animation is a process that is similar to the flipbook except that i
 Over the next six weeks students will be creating their own stop motion animation videos. They will learn how to storyboard, create, and edit their videos. To start watch some examples.
 
 ### WATCH:
-Show students the Box Trolls Trailer. When it is finished discuss the attention to detail and patience that goes into making a stop motion video. For further examples, any of the other video from the materials section above can be shown.
+Show students the [Box Trolls Trailer](http://www.youtube.com/watch?v=Vfm4uPESCoI). When it is finished discuss the attention to detail and patience that goes into making a stop motion video. For further examples, any of the other video from the stop motion examples section above can be shown.
 
 ### CHECK FOR UNDERSTANDING:
 Share with a partner how the process for making a stop motion animation is similar to making a flipbook. 

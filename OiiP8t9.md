@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 title: Robotics Competition
 blurb: Students will use the programming and building skills gained over the week to compete in a series of robotics challenges

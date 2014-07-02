@@ -8,6 +8,10 @@ org: 9dots
 title: Editing Stop Motion
 objective: "By the end of the lesson students will be able to edit their videos to include transitions, sound effects, and titles."
 id: "9dots-OitkjZk"
+attachments: 
+  - path: "http://uploads.9dots.io/OitnGQF.pdf"
+    name: EditingChecklist.pdf
+image: "http://uploads.9dots.io/OitoB75_md.jpg"
 
 ---
 

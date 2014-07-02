@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 title: iMovie Editing
 blurb: "Students will learn about video editing as they add transitions, titles, and sound effects to an example clip."

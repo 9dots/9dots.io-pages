@@ -15,6 +15,7 @@ attachments:
     name: STORY BOARDING HANDOUT.docx
   - path: "http://uploads.9dots.io/Oiu1c19.mp4"
     name: "Toy Story - Storyboarding.mp4"
+image: "http://uploads.9dots.io/Oiu4cJq_md.jpg"
 
 ---
 

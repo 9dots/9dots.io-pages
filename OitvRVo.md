@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 title: Brainstorming and Storyboarding
 blurb: Students will brainstorm ideas for their movies and learn how to organize those ideas by creating a storyboard

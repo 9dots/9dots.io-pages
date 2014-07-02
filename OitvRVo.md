@@ -40,7 +40,7 @@ Starting today, students will begin the process of making their own stop motion 
 A storyboard is a way of organizing a movie using illustrations of scenes to preview what the movie will look like.
 
 ### WATCH:
-Watch the [Toy Story storyboard video]() and discuss with the students the depth and accuracy with which they planned out the scenes from Toy Story.
+Watch the Toy Story storyboard video and discuss with the students the depth and accuracy with which they planned out the scenes from Toy Story.
 
 ### GUIDED PRACTICE:
 Handout the storyboarding worksheet to each student. With the teacher, students will create a storyboard for the example videos that the edited during lesson 3. Start with the written story. Students can take turns contributing sentences to explain the movie. The written story should tell the reader the over summary of what happens in the movie. Once a narrative has been decided on, students will write that story on the first page. When they have finished writing, students will move on to the illustration section. Discuss the first scene and what students can draw to depict it. Next, discuss what sounds are made during that section and if there is any dialogue (characters talking to each other). Students will write down sounds, which for the first scene should be similar to  a ’pop’ sound.

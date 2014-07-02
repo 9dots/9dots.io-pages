@@ -3,7 +3,7 @@ author: danleavitt0
 views: 0
 published: true
 type: lesson
-title: Brainstorming and Storyboarding
+title: Brainstorming
 blurb: Students will brainstorm ideas for their movies and learn how to organize those ideas by creating a storyboard
 org: 9dots
 objective: "By the end of the lesson, students will be able to use a storyboard to organize their ideas, brainstorm an idea for their movie, and complete a written story."

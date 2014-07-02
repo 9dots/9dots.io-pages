@@ -18,7 +18,7 @@ attachments:
 - Lego Mindstorm kit
 - Computer with EV3 software
 
-## Media and Handouts
+## Media and Handouts:
 - Robotics scoring handout
 
 ##Lesson Plan

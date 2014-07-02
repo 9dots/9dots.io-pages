@@ -19,7 +19,7 @@ image: "http://uploads.9dots.io/OitiiJn_md.jpg"
 
 - Computers with iMovie
 - Demo video
-- Coraline Trailer
+- [Coraline Trailer](https://www.youtube.com/watch?v=Js7wxoqeVK0)
 
 ## Preparation:
 
@@ -39,7 +39,7 @@ _What is video editing?_
 Video editing is the process of taking the raw footage from the camera (or computer) and changing it so that the story flows and looks better.
 
 ### WATCH:
-Show students the trailer for the movie Coraline. Discuss how video editing is used to make this video look and flow together better.
+Show students the trailer for the movie [Coraline](https://www.youtube.com/watch?v=Js7wxoqeVK0). Discuss how video editing is used to make this video look and flow together better.
 
 - Video editing is used to put scenes together to get audiences excited about the movie (A series of exciting or mysterious scenes)
 - Titles are added in the middle of the trailer to tell the audience more about the movie

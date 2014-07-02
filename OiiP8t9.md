@@ -19,7 +19,6 @@ attachments:
 - Computer with EV3 software
 
 ## Media and Handouts
-- Iteration and wrap-up handout
 - Robotics scoring handout
 
 ##Lesson Plan

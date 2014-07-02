@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 blurb: Students will continue learning about video editing by completing a mini project in which they will edit their stop motions from lesson 2.
 org: 9dots

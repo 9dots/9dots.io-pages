@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 blurb: "For the final day of the project, groups will make finish editing their videos by adding titles and touching up any additional sounds."
 org: 9dots

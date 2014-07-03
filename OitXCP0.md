@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 title: Stop Motion Legos
 blurb: Students will learn about how to create a stop motion animation with legos and their computers.

@@ -14,7 +14,7 @@ id: "9dots-OiyQnJf"
 
 ## Materials:
 
-- Stop Motion Inspiration
+- [Stop Motion Inspiration](https://www.youtube.com/watch?v=HvkF0oChnSA)
 - Computer with Photo Booth (or other picture taking application)
 - Legos
 - Playdough
@@ -36,7 +36,7 @@ As students enter the class, they have 3 minutes to write down what they think t
 - Editor
 
 ### WATCH:
-A little stop motion inspiration to get the students excited about creating their own videos.
+A little [stop motion inspiration](https://www.youtube.com/watch?v=HvkF0oChnSA) to get the students excited about creating their own videos.
 
 ### HOOK:
 This is the first day of capturing images for their stop motion videos! Before students start to create the movie, they need to understand the different jobs that go into creating a movie. This will enable them to work more quickly and efficiently as a group.

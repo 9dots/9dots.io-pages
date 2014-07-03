@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 title: "Pictures: Day 3"
 blurb: Student will learn when to use an establishing shot and continue to capture pictures for their stop motion videos.

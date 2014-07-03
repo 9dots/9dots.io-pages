@@ -8,6 +8,7 @@ org: 9dots
 objective: "By the end of the lesson, students will finish their stop motion videos, which will include at least 250 pictures, 1 scene with dialogue, and 1 establishing shot."
 image: "http://uploads.9dots.io/OiyeSd5_md.jpg"
 id: "9dots-Oiybdio"
+title: "Pictures: Last Day"
 
 ---
 

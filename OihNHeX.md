@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 title: Infrared Sensor
 blurb: This lesson will focus on using the infrared sensor to watch for obstacles in the path of the robot.

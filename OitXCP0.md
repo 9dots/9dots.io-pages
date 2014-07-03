@@ -8,6 +8,7 @@ blurb: Students will learn about how to create a stop motion animation with lego
 org: 9dots
 objective: "By the end of the lesson, students will be able to relate the process of creating a stop motion to the process of making the flipbook from lesson 1, and produce a stop motion animation of a lego tower that grows using a computer and legos"
 id: "9dots-OitXCP0"
+image: "http://uploads.9dots.io/Oiz4EH1_md.jpg"
 
 ---
 

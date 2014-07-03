@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 title: Space Engineers
 blurb: students will compete by having their robot gather as many resources (legos) as possible using a robotic arm.

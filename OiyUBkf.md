@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 blurb: Student will capture pictures for their stop motion videos as well as learn about techniques for showing dialogue between characters.
 org: 9dots
@@ -9,6 +9,9 @@ objective: "By the end of the lesson students will be able to use different came
 image: "http://uploads.9dots.io/OiyVcNg_md.jpg"
 title: "Pictures: Day 2"
 id: "9dots-OiyUBkf"
+attachments: 
+  - path: "http://uploads.9dots.io/OiyXBUL.mp4"
+    name: wallace and gromit cut.mp4
 
 ---
 

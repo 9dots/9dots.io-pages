@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 blurb: Students will continue to flesh out the idea for their movie by creating a written story and illustrated story board.
 title: Storyboarding
@@ -11,6 +11,7 @@ attachments:
   - path: "http://uploads.9dots.io/Oiu98Mi.docx"
     name: STORY BOARDING HANDOUT.docx
 id: "9dots-Oiu6DUU"
+image: "http://uploads.9dots.io/Oiz2inn_md.jpg"
 
 ---
 

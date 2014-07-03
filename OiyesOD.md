@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 title: "Editing: Day 1"
 org: 9dots
@@ -37,4 +37,4 @@ _Why are sound effects important for a stop motion movie?_
 Sound effects are particularly important for stop motion because there is no sound recorded while taking the pictures. This means that it can be a little boring to watch a stop motion without proper sound effects.
 
 ### GET CREATIVE:
-Using the editing checklist as a guide, groups will take the rest of the project time to edit their videos using any transitions or sound effects within iMovie. Their movie should have at least 2 transitions, sound effects for action, and background music by the end of the project time.  
+Using the editing checklist as a guide, groups will take the rest of the project time to edit their videos using any transitions or sound effects within iMovie. Their movie should have at least 2 transitions, sound effects for action, and background music by the end of the project time.

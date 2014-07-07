@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 title: "Giant Game Controllers: Building"
 blurb: "Using their designs from lesson 1 as a blueprint, students will build their game controllers using their proposed materials."

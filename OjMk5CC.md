@@ -29,13 +29,13 @@ image: "http://uploads.9dots.io/OjMoc0z_md.jpg"
 
 ### DISCUSS:
 _What is a video game controller?_
-A game controller is a device used with a game or entertainment system to control what happens in the game. Usually this means having the ability to move a character or respond to prompts.
+A game controller is a device used with a game or entertainment system to control what happens in the game. This means having the ability to move a character or respond to prompts.
 
 ### HOOK:
 This unit will be about creating GIANT cardboard video game controllers. Student will design and create these controllers themselves. But before they start designing, they will need to learn about how their controllers will work.
 
 ### WATCH:
-Show the students the history of video game controllers video. Discuss after the video if they noticed any pattern about shape and the number of buttons that the controllers had as they evolved.
+Show the students the [history of video game controllers video](https://www.youtube.com/watch?v=5-r9EH6R1k4). Discuss after the video if they noticed any pattern about shape and the number of buttons that the controllers had as they evolved.
 
 ### INQUIRE:
 _How do controllers work?_

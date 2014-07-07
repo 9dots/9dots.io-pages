@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 title: "Giant Game Controllers: Decorating"
 blurb: "Students will finish connecting their buttons and testing the response on the computer, and complete their controller by decorating it."

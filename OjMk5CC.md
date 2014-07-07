@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 title: "Giant Cardboard Controllers: Brainstorming"
 blurb: Students will learn about the history of video game controllers and then design their own super sized cardboard controller

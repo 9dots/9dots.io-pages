@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 title: Theme Song
 blurb: "In this final lesson, students will create a theme song for their favorite movie."

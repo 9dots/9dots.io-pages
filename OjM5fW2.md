@@ -24,6 +24,10 @@ id: "9dots-OjM5fW2"
 - Happy (instrumental version)
 - Say Something (instrumental version)
 
+## Preparations:
+
+- Download the songs (from the attachments area on the right)
+
 ## Lesson:
 
 ### DO NOW:

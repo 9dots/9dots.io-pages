@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 title: Film Score
 blurb: Students will learn about film scores and how music can set the tone for a scene.

@@ -8,6 +8,14 @@ blurb: Students will learn about film scores and how music can set the tone for 
 org: 9dots
 objective: "By the end of the lesson, students will be able to explain what a film score is, and use GarageBand to create a score for an example clip."
 id: "9dots-OjMBHvd"
+attachments: 
+  - path: "http://uploads.9dots.io/OjMCqI5.pdf"
+    name: FilmScoreInstructions.pdf
+  - path: "http://uploads.9dots.io/OjMEngx.mov"
+    name: Example Clip no Music.mov
+  - path: "http://uploads.9dots.io/OjMFH5f.mov"
+    name: Example Clip with Music.mov
+image: "http://uploads.9dots.io/OjMIWqD_md.jpg"
 
 ---
 

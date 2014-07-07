@@ -11,6 +11,7 @@ attachments:
   - path: "http://uploads.9dots.io/OjMNkIT.pdf"
     name: FinalGarageBandSongChecklist.pdf
 id: "9dots-OjMMbSp"
+image: "http://uploads.9dots.io/OjMOxI4_md.jpg"
 
 ---
 
@@ -40,4 +41,4 @@ Each student will need a computer and the theme song checklist. During the proje
 Using the GarageBand loops, students will produce a theme song that has a clear beginning, middle, and end. The song will be at least one minute long and have at least 3 different instrument loops.
 
 ### SHARE:
-When they are finished students will share the song to iTunes using the ‘Share’ menu at the top of the screen.
+When they are finished students will share the song to iTunes using the â€˜Shareâ€™ menu at the top of the screen.

@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 title: Create a Song
 org: 9dots
@@ -23,9 +23,6 @@ id: "9dots-OjM5fW2"
 - Happy and sad loops handout
 - Happy (instrumental version)
 - Say Something (instrumental version)
-
-## Preparation:
- 	n/a
 
 ## Lesson:
 

@@ -8,18 +8,22 @@ blurb: Students will learn about the history of video game controllers and then 
 org: 9dots
 objective: "By the end of the lesson, students will be able to identify a joystick, and develop a design for a video game controller that would use a makey makey."
 id: "9dots-OjMk5CC"
+attachments: 
+  - path: "http://uploads.9dots.io/OjMnNR0.pdf"
+    name: BrainstormSketch.docx.pdf
+image: "http://uploads.9dots.io/OjMoc0z_md.jpg"
 
 ---
 
 ## Materials:
 
-- History of video game controllers video
-- Makey Makey video
+- [History of video game controllers video](https://www.youtube.com/watch?v=5-r9EH6R1k4)
+- [Makey Makey video](http://www.youtube.com/watch?v=rfQqh7iCcOU)
 - Brainstorm worksheet
 
 ## Preparation:
 
-- Print out the brainstorm worksheet
+- Print out the brainstorm worksheet (in the attachments section)
 
 ## Lesson:
 

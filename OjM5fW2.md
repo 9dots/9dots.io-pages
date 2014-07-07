@@ -40,7 +40,7 @@ Listen to the instrumental versions of Happy and Say Something without telling t
 How did the first song make you feel? How did the second song make you feel? What aspects of the songs do you think made them feel that way? Create a chart on a whiteboard with happy and sad categories.
 
 ### EXPLAIN:
-There are several factors that can make a song happy or sad. A happy song tends to have a beat that is fast (similar to a heart beat) and are often played in the major scale. A sad song tends to be slower, with less percussion, and is often played in the minor scale. When you are selecting loops for your songs, you can choose to filter the loops shown to ones that are only in major or minor scale.
+There are several factors that can make a song happy or sad. A happy song has a beat that is fast (similar to a heart beat) and are often played in the major scale. A sad song tends to be slower, with less percussion, and is most often played in the minor scale. When you are selecting loops for your songs, you can choose to filter the loops shown to ones that are only in major or minor scale.
 
 To filter the loops by major or minor scale change the option like in the picture below:
 

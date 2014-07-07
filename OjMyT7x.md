@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 title: "Giant Game Controllers: Buttons"
 blurb: "Students will continue with the construction of the controllers and connect the #MakeyMakey to their buttons."

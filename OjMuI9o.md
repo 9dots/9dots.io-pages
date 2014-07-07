@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 title: "Giant Game Controllers: Circuits"
 blurb: "After a brief lesson on #circuits, students will continue to build their controllers and connect the #MakeyMakey to their buttons."
@@ -9,6 +9,9 @@ org: 9dots
 objective: "By the end of the lesson, students will be able to describe electrical circuits, and connect their buttons to a Makey Makey."
 image: "http://uploads.9dots.io/OjMw1en_md.jpg"
 id: "9dots-OjMuI9o"
+attachments: 
+  - path: "http://uploads.9dots.io/OjMwGTH.pptx"
+    name: Electrical Circuits.pptx
 
 ---
 

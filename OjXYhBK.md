@@ -36,8 +36,8 @@ A robot is a machine that resembles a human and does mechanical, routine tasks o
 ### EXPLAIN:
 Over the next 6 weeks in this unit, students will learn how to design and build their dream robot.
 
-### WATCH:
-The videos of robots from movies and real life to help give students some ideas for their own robots.
+### INTRODUCE:
+Watch a few videos of robots from movies and real life to help give students some ideas for their own robots.
 
 - [Wall E](http://www.youtube.com/watch?v=woEN_tUVlNI)
 - [Star Wars](http://www.youtube.com/watch?v=1rorneEGPso)
@@ -45,15 +45,22 @@ The videos of robots from movies and real life to help give students some ideas 
 
 ### EXPLORE:
 _What are robots useful for?_
-Doing things that humans don’t want to do – dangerous, boring, too hard, too heavy
+Robots can help by doing things that humans don’t want to do.  These behaviors can be dangerous, boring, too hard, or even dealing with objects that are too heavy.
 
-§  http://www.sciencekids.co.nz/videos/robots/bigdog.html
-§  http://www.youtube.com/watch?v=ulVUPEXVUKs
-§  http://www.youtube.com/watch?v=5FGVgMsiv1s
-§  http://www.youtube.com/watch?v=j9kNCnOWuO8
-·       Guided research – Brainstorming chores (7 min)
-o   As a class, students brainstorm
-§  What are things that I don’t like to do
-§  How could a robot help you do these things?
-·       Reiterate - If you could design any robot, what would it be? (10 min)
-o   Write small description of your dream robot, using items brainstormed in guided research
+### WATCH:
+More examples of real robots in action. After each one, discuss what makes each robot useful (is this task boring? dangerous?).
+
+- http://www.sciencekids.co.nz/videos/robots/bigdog.html
+- http://www.youtube.com/watch?v=ulVUPEXVUKs
+- http://www.youtube.com/watch?v=5FGVgMsiv1s
+- http://www.youtube.com/watch?v=j9kNCnOWuO8
+
+### GUIDED RESEARCH:
+As a class, students brainstorm:
+
+- What are things that I don’t like to do?
+- How could a robot help you do these things?
+
+### EXPLORE
+_If you could design any robot, what would it be?_
+Students will write a small description of your dream robot, using items brainstormed in guided research.

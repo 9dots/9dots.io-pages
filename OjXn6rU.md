@@ -32,20 +32,17 @@ id: "9dots-OjXn6rU"
 ### HOOK:
 Watch the [Making of Iron Man](https://www.youtube.com/watch?v=3O8Dhkt9VUo) video to show student an example of a cardboard robot. When it is finished discuss:
 
-_How do we figure out how to build a robot like this iron man one?_
-We need detailed plans before we start building!
+_How can you figure out how to build a robot like this iron man one?_
+To build something complex, it is important to have detailed plans before we start building!
 
 ### SHARE:
 Students will share their robot descriptions from the previous lessons with a partner. When they are finished, students  will make a drawing of what their own robot would look like.
 
 ### EXPLORE:
-Show students some [MakeDo Inspiration](https://mymakedo.com/blog/top-10-cardboard-robots). After, show the materials that students will have available to them.
-
-### DISCUSS:
-What would your dream robot look like if it was made out the materials we have in the classroom?
+Show students some [MakeDo Inspiration](https://mymakedo.com/blog/top-10-cardboard-robots). After, show the materials that students will have available to them. What would their dream robot look like if it was made out the materials we have in the classroom?
 
 ### EXPLAIN:
-Today, we are going to make a **blueprint** of our final robot.
+Today, to make sure it is possible to build their robot, students will learn how to make a **blueprint**.
 
 _What is a blueprint?_
 A **blueprint** is a technical drawing that shows exactly how to build something.
@@ -68,5 +65,5 @@ Students will brainstorm how to turn their robot into a realistic design made ou
 
 ### DISCUSS:
 
--_Is your blueprint realistic?_ 
--_Will you be able to build it?_
+- _Is your blueprint realistic?_ 
+- _Will you be able to build it?_

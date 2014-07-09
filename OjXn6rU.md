@@ -8,6 +8,9 @@ objective: "By the end of the lesson, students will be able to define a blueprin
 org: 9dots
 blurb: "Students will learn about the #MakeDo pieces they will be using to construct their robot, and create a detailed blueprint for their robot."
 id: "9dots-OjXn6rU"
+attachments: 
+  - path: "http://uploads.9dots.io/OjYBt73.pdf"
+    name: blueprintworksheet.pdf
 
 ---
 

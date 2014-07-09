@@ -11,8 +11,6 @@ id: "9dots-OjXn6rU"
 
 ---
 
-At the conclusion of the class, student will be able to turn their sketches into realistic blueprints of their self-imagined robot.
-
 ## Materials
 
 - Cardboard (for demonstration)
@@ -46,17 +44,18 @@ Show students some [MakeDo Inspiration](https://mymakedo.com/blog/top-10-cardboa
 ### DISCUSS:
 What would your dream robot look like if it was made out the materials we have in the classroom?
 
+### EXPLAIN:
+Today, we are going to make a blueprint of our final robot.
 
-•	Guided research – (5 min)
-o	Do an example on the board of changing a sketch into a blueprint
-•	Reiterate – (10 min)
-o	Today, we are going to make a blueprint of our final robot
-•	What is a blueprint?
-•	Technical drawing that shows exactly how to build something
-o	http://www.leeswoodprojects.com/images/built_in_desk.jpg
-o	http://www.khulsey.com/portfolioimages/car-dimension-drawings.jpg
-o	http://bioshock.wikia.com/wiki/Robotic_Little_Sisters?file=Blueprint_Little_Sister.jpg
-•	While looking at images, explain how blueprints need dimensions and labels
+_What is a blueprint?_
+A blueprint is a technical drawing that shows exactly how to build something.
+
+### EXAMPLES:
+While looking at following images, explain how **blueprints** need **dimensions** and **labels**.
+- http://www.leeswoodprojects.com/images/built_in_desk.jpg
+- http://www.khulsey.com/portfolioimages/car-dimension-drawings.jpg
+- http://bioshock.wikia.com/wiki/Robotic_Little_Sisters?file=Blueprint_Little_Sister.jpg
+
 o	Brainstorm how to turn your robot into a realistic design made out of cardboard, and sketch a blueprint of the robot using the blueprint worksheet 
 •	Discuss –  (2 min)
 o	Is your blueprint realistic?  Will you be able to build it?

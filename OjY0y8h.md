@@ -46,6 +46,7 @@ _What are the different parts of a robot?_
 #### EXPLAIN:
 In a robot, their are parts that move, and parts that hold the robot up. The parts that support or resist loads in the robot are called **fixed** parts. The **moving** parts allow for constrained movement.
 
+#### WATCH AND EVALUATE:
 As a class, brainstorm which parts are fixed and which parts are moving on Wall E (watch [clip](http://www.youtube.com/watch?v=7oVSaUWeKt0)).
 
 #### THINK PAIR SHARE:

@@ -6,10 +6,10 @@ type: lesson
 title: "Cardboard Robots: Moving Parts"
 org: 9dots
 id: "9dots-OjYrhPt"
+blurb: "Students will learn how to create moveable parts on their robots by adding #MakeDo hinges."
+objective: "By the end of the lesson, students will be able to define a hinge, identify hinges in everyday items, and demonstrate learning by adding hinges to their own robots."
 
 ---
-
-At the conclusion of the class, student will be able to demonstrate an understanding of hinges by constructing moveable limbs on their self-imagined robot.
 
 ## Materials
 
@@ -25,19 +25,33 @@ At the conclusion of the class, student will be able to demonstrate an understan
 
 - 40 min
 
-### Intro
-•	Hook –  (5 min)
-o	Who knows what a hinge is?
-•	A hinge is a type of bearing that connects two solid objects, typically allowing only a limited angle of rotation between them
-o	Where are the hinges in our body?
-o	How about in the room?
-•	As a class, chart out things that are “Hinges in the body” and “Not hinges in the body” as well as “Hinges in the room” and “Not hinges in the room”
-o	Today we are going to learn how to build hinges on our robots.
-•	Intro – (5 min)
-•	Discuss how hinges could they be useful for the robots we are designing?
-•	Explore – (5 min)
-o	Go back to students’ blueprints and highlight where all of the hinges will be in their designs
-•	Guided research – (5 min)
-o	Show students how the MakeDo hinges work
-•	Reiterate –(20 min)
-o	continue building cardboard robots by adding the moveable parts 
+### Introduction
+
+#### HOOK:
+_What is a hinge?_
+A **hinge** is a type of bearing that connects two solid objects, typically allowing only a limited angle of rotation between them.
+
+#### OBSERVE:
+As a class, chart out things that are “Hinges in the body” and “Not hinges in the body,” as well as “Hinges in the room” and “Not hinges in the room.”
+
+#### GOALS:
+Today, students will learn how to build hinges on their robots. By the end of the lesson, students will have moveable parts on their robot.
+
+### Guided Practice
+
+#### THINK PAIR SHARE:
+With a partner, students will discuss how hinges could be useful for the robot that they are designing.
+
+#### PLAN:
+Students will go back to their blueprints and highlight where all of the hinges will be used in their designs.
+
+#### SHOW:
+Show students an example of how to connect cardboard pieces using the MakeDo hinges.
+
+### Independent Practice
+
+#### PRACTICE:
+On some spare cardboard, students will practice putting together hinges.
+
+#### EXPLORE:
+Students will continue building their cardboard robots with a focus on adding the moveable parts. 

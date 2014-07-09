@@ -61,6 +61,6 @@ As a class, students brainstorm:
 - What are things that I don’t like to do?
 - How could a robot help you do these things?
 
-### EXPLORE
+### EXPLORE:
 _If you could design any robot, what would it be?_
-Students will write a small description of your dream robot, using items brainstormed in guided research.
+Students will write a small description of their dream robot, using items brainstormed in guided research.

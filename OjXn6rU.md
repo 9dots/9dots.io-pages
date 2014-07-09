@@ -45,18 +45,28 @@ Show students some [MakeDo Inspiration](https://mymakedo.com/blog/top-10-cardboa
 What would your dream robot look like if it was made out the materials we have in the classroom?
 
 ### EXPLAIN:
-Today, we are going to make a blueprint of our final robot.
+Today, we are going to make a **blueprint** of our final robot.
 
 _What is a blueprint?_
-A blueprint is a technical drawing that shows exactly how to build something.
+A **blueprint** is a technical drawing that shows exactly how to build something.
 
 ### EXAMPLES:
-While looking at following images, explain how **blueprints** need **dimensions** and **labels**.
+While looking at following images, explain why **blueprints** need **dimensions** and **labels**.
+
 - http://www.leeswoodprojects.com/images/built_in_desk.jpg
 - http://www.khulsey.com/portfolioimages/car-dimension-drawings.jpg
 - http://bioshock.wikia.com/wiki/Robotic_Little_Sisters?file=Blueprint_Little_Sister.jpg
 
-o	Brainstorm how to turn your robot into a realistic design made out of cardboard, and sketch a blueprint of the robot using the blueprint worksheet 
-•	Discuss –  (2 min)
-o	Is your blueprint realistic?  Will you be able to build it?
-Lesson Sources
+_What are dimensions?_
+**Dimensions** show the size of each piece of the blueprint.
+
+_Why are the labels important?_
+The **labels** make it so that each piece has a name and can be easily distinguished from other pieces.
+
+### EXPLORE:
+Students will brainstorm how to turn their robot into a realistic design made out of cardboard, and sketch a blueprint of the robot using the blueprint worksheet.
+
+### DISCUSS:
+
+-_Is your blueprint realistic?_ 
+-_Will you be able to build it?_

@@ -22,7 +22,8 @@ id: "9dots-OjY0y8h"
 - Projector
 
 ## Media and Handouts
-- Video
+- [MakeDo paper robot video](http://www.youtube.com/watch?v=b-kaBIdoVm0)
+- [Wall E clip](http://www.youtube.com/watch?v=7oVSaUWeKt0)
 
 ## Project Time
 

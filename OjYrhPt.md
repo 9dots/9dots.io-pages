@@ -48,10 +48,10 @@ Students will go back to their blueprints and highlight where all of the hinges 
 #### SHOW:
 Show students an example of how to connect cardboard pieces using the MakeDo hinges.
 
-### Independent Practice
+### Explore
 
 #### PRACTICE:
 On some spare cardboard, students will practice putting together hinges.
 
-#### EXPLORE:
-Students will continue building their cardboard robots with a focus on adding the moveable parts. 
+#### BUILD:
+Students will continue building their cardboard robots with a focus on adding the moveable parts.

@@ -65,7 +65,7 @@ _What are dimensions?_
 _Why are the labels important?_
 The **labels** make it so that each piece has a name and can be easily distinguished from other pieces.
 
-### EXPLORE:
+### Explore
 
 #### BRAINSTORM:
 Students will brainstorm how to turn their robot into a realistic design made out of cardboard, and sketch a blueprint of the robot using the blueprint worksheet.

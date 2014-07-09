@@ -38,12 +38,15 @@ Over the next 6 weeks in this unit, students will learn how to design and build 
 
 ### WATCH:
 The videos of robots from movies and real life to help give students some ideas for their own robots.
+
 - [Wall E](http://www.youtube.com/watch?v=woEN_tUVlNI)
 - [Star Wars](http://www.youtube.com/watch?v=1rorneEGPso)
 - [Real Robot](http://www.youtube.com/watch?v=N_m56irWKeI)
 
-Explore – What are robots useful for?  Open Brainstorming. (5 min)
-o   Doing things that humans don’t want to do – dangerous, boring, too hard, too heavy
+### EXPLORE:
+_What are robots useful for?_
+Doing things that humans don’t want to do – dangerous, boring, too hard, too heavy
+
 §  http://www.sciencekids.co.nz/videos/robots/bigdog.html
 §  http://www.youtube.com/watch?v=ulVUPEXVUKs
 §  http://www.youtube.com/watch?v=5FGVgMsiv1s

@@ -25,7 +25,7 @@ objective: "By the end of the lesson, students will be able to define a hinge, i
 
 - 40 min
 
-### Introduction
+### Introduce
 
 #### HOOK:
 _What is a hinge?_

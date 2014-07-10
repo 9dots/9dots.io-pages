@@ -8,6 +8,7 @@ org: 9dots
 id: "9dots-OjYrhPt"
 blurb: "Students will learn how to create moveable parts on their robots by adding #MakeDo hinges."
 objective: "By the end of the lesson, students will be able to define a hinge, identify hinges in everyday items, and demonstrate learning by adding hinges to their own robots."
+image: "http://uploads.9dots.io/OjZ6uqF_md.jpg"
 
 ---
 

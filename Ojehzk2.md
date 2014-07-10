@@ -1,0 +1,26 @@
+---
+author: danleavitt0
+views: 0
+published: false
+type: unit
+lessons: 
+  - "9dots-OjXYhBK"
+  - "9dots-OjXn6rU"
+  - "9dots-OjY0y8h"
+  - "danleavitt0-OjYdRxS"
+  - "9dots-OjYrhPt"
+  - "9dots-OjYzgAz"
+  - "9dots-OjdUuoF"
+  - "danleavitt0-OjdWbzL"
+  - "9dots-OjduqFl"
+  - "danleavitt0-OjeGPm4"
+  - "9dots-OjeSQsA"
+  - "9dots-OjeYvCL"
+org: 9dots
+title: Cardboard Robots
+blurb: "Students will learn about creating blueprints, fixed and moveable parts, circuits, and budgeting through a hands own engineering project."
+id: "9dots-Ojehzk2"
+
+---
+
+undefined

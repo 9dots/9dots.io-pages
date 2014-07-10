@@ -8,6 +8,7 @@ blurb: Students will be able to demonstrate an understanding of building from a 
 org: 9dots
 objective: "By the end of the lesson, students will be able to demonstrate learning by completing their robot according to their designs."
 id: "9dots-OjdUuoF"
+image: "http://uploads.9dots.io/OjdV5cP_md.jpg"
 
 ---
 

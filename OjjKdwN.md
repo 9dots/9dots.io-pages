@@ -3,7 +3,7 @@ author: danleavitt0
 views: 0
 published: false
 type: lesson
-title: "Interactive Art Wall: Theme"
+title: "Interactive Art Wall: Introduction"
 attachments: 
   - path: "http://uploads.9dots.io/OjjN3hb.pdf"
     name: BrainstormWS.pdf

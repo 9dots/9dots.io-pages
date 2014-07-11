@@ -3,7 +3,7 @@ author: danleavitt0
 views: 0
 published: false
 type: lesson
-title: "Interactive Art Wall:"
+title: "Interactive Art Wall: Theme"
 org: 9dots
 attachments: 
   - path: "http://uploads.9dots.io/OjjqhF0.pdf"

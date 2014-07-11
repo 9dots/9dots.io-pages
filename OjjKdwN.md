@@ -71,3 +71,6 @@ Distribute the Mural Review worksheet. Students will now get a chance to look at
 
 ### Show:
 Using a projector, show students the first ten results on a google image search for murals. Students will take notes about each one on the handout.
+
+### Brainstorm:
+Using the brainstorming handout, students will develop five ideas for a mural. Students will share their ideas with a partner, and then decide on one to sketch.

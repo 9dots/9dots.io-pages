@@ -6,69 +6,86 @@ type: lesson
 title: "Interactive Art Wall: Little Bits"
 org: 9dots
 id: "9dots-OjkKnOj"
+attachments: 
+  - path: "http://uploads.9dots.io/OjkT9Sg.pdf"
+    name: LITTLE BITS WORKSHEET.pdf
+blurb: "Students will use #LittleBits to learn about sensors and test input/output combinations to learn how it works."
+objective: "By the end of the lesson, students will be able to define a power source, identify a sensor, and describe how to connect the Little Bits to create a circuit."
 
 ---
 
-Lesson 3 – Little Bits
+## Materials
 
-ON THE BOARD
-Image of power (battery), sensor (thermometer) with arrow to output (lightbulb)
+- [Little Bits](http://littlebits.cc)
 
-example worksheet chart with little bits input, little bits output, and what happened
+## Media and Handouts
 
-little bits project website.  http://littlebits.cc/projects
+- Little Bits worksheet
 
+## Preparations
 
+- Draw and example of a power source, sensor, output. An example could be a battery, touch sensors, light.
 
-(5 MIN) 
-Today we are going to learn about electronic sensors.  We will be using sensors to help us to make our mural interactive. 
+## Project Time
 
-I am guessing you all know about the senses our bodies have.  What are the senses our body has?
-•	Sight
-•	Touch
-•	Taste
-•	Sound
+- 40 minutes
 
-What are the senses in our body used for?
-•	To respond to the outside environment
-o	if we feel something is too hot, we move our hand away
-o	it we see candy we want to have, we grab it
-o	if we hear our dog running away, we call their name
-o	if we taste something bad, we spit it out
+## Introduce
 
-(5 MIN)
+### Hook:
+Today, students are going to learn about electronic sensors.  They will be using sensors to help us to make their mural interactive. 
+
+_What are the senses that the human body has?_
+
+- Sight
+- Touch
+- Taste
+- Sound
+- Smell
+
+_What are the senses in the body used for?_
+The senses are used to respond to the outside environment, such as:
+
+- if we feel something is too hot, we move our hand away
+- it we see candy we want to have, we grab it
+- if we hear our dog running away, we call their name
+- if we taste something bad, we spit it out
+
+### Explain:
 Just like with the body, in electronic senses are called “sensors”.   A sensor is a device that receives and responds to a signal or stimulus. A sensor is used to measure a physical quantity such as temperature, pressure or loudness and convert it into an electronic signal of some kind (e.g a voltage).
 
-•	Examples of sensors from real life
-o	Fire alarm – sense smoke in the air and turn on noise
-o	light switch – sense motion and turn on light
-o	clap on clap off lights – sense sound and turn on light
+Some examples of sensors from real life include:
 
-(5 MIN)
-How to sensors work?
+- Fire alarm – sense smoke in the air and turn on noise
+- Light switch – sense motion and turn on light
+- Clap on clap off lights – sense sound and turn on light
 
-•	Power ie battery
-•	Sensor ie sound, motion, button
-•	Output ie buzzer, light
+## Guided Practice
 
-The sensors are like a gate: they allow or disallow current to flow through the circuit to the output.  The electricity can only flow through to power the output if the sensor senses what it is looking for.  give concrete example of pressing a button and turing on a light.
+### Discuss
+To use a sensor, there are components students will need to understand:
 
-(10 MIN)
-We are going to be able to put power, sensors, and outputs into our interactive mural!  We are going to do this using something called Little Bits.
+1. Power - Supplies electricity, such as a battery
+2. Sensor - Checks for a condition to be met
+3. Output - Action, such as a light or buzzer
 
+_How do sensors work?_
+The **sensors** are like a gate: they allow or disallow current to flow through the circuit to the output.  The electricity can only flow through to power the output if the sensor senses what it is looking for. 
+
+### Explain: 
+Students will be able to put power, sensors, and outputs into our interactive mural!  To accomplish this, they will be using something called Little Bits.
+
+### Watch:
 Watch little bits video:  
-
 http://littlebits.cc/about
 
-Pause video for students to identify power sensor output.
+### As a group:
+Hand out the Little Bits worksheet.  Go through an example of the worksheet with students, choosing an input and output, and filling out the fields on the board while students test it and write on their handout.
 
-Hand out the Little Bits worksheet.  Go through an example of the worksheet with students, choosing an input and output, and filling out the fields on the board.  
+## Explore
 
-Guided practice: Choose new input and output for everyone to do together on the sheet.  Have students name most of the things for this one.
+### Build:
+Using the worksheet, students will choose new input and output combinations and test them. Students will record the results on the worksheet.
 
-(15 MIN)
-Student go through worksheet.
-
-
-If extra time, have computers on hand for students to peruse little bits website.
-
+### Go beyond:
+If extra time, have computers on hand for students to peruse the [Little Bits](http://littlebits.cc) website.

@@ -41,32 +41,28 @@ Today, students will develop ideas to contribute to a collaborative mural. The i
 
 ## Guided Practice
 
-### Theme:
-The theme for the mural will be 'Our Community!' This way, students will be able to include a lot of different ideas of people, places, and things that are important to everyone.
-
 ### Brainstorm:
-For the local community consider the following:
+Students will take three minutes to write down possible themes for the group mural. 
 
-- What are the landmarks?
-- What places do you go to regularly?
-- What buildings do you recognize?
-- What places are important to you?
-
-## Explore
-
-
+### Discuss:
 After you have brainstormed what each idea would look like and consist of. Transition into discussing what would make the best mural idea. 
 
 - Which idea or combination of ideas would be the most interesting?
 - What would be not too easy but not too hard?
 - Which idea would give us a lot of options for everyone to participate in?
 
+### Theme:
+The theme for the mural will be 'Our Community!' This way, students will be able to include a lot of different ideas of people, places, and things that are important to everyone.
 
-presenting the final theme
-	Kids sketch an idea and post up on wall to see how they all fit together
-	Worksheet with questions to prompt them about what they are drawing
-	Surf online for inspiration
+## Explore
 
-Top Picks
+### Brainstorm:
+Using the community handout, students will write notes about their community:
 
-Kids vote?
+- What are the landmarks?
+- What places do you go to regularly?
+- What buildings do you recognize?
+- What places are important to you?
+
+### Sketch:
+Students will sketch out an idea for their part of the mural. When they are finished, tape all of the sketches to the wall to see what the collaborative mural would look like. 

@@ -9,18 +9,28 @@ attachments:
     name: BrainstormWS.pdf
   - path: "http://uploads.9dots.io/OjjZvIA.pdf"
     name: MuralReviewWS.pdf
+  - path: "http://uploads.9dots.io/OjjhAVn.pptx"
+    name: Interactive Mural PowerPoint (1).pptx
 org: 9dots
 id: "9dots-OjjKdwN"
+blurb: "To start the interactive art wall unit, students will learn about murals, and brainstorm themes for their own painting."
+objective: "By the end of the lesson, students will be able to describe a mural, list two reasons that murals are important, and brainstorm five ideas for their own mural."
 
 ---
 
 ## Materials
 
+- N/A
+
 ## Media and Handouts
 
-- 
+- Mural review worksheet
+- Brainstorm worksheet
+- Mural powerpoint
 
 ## Preparation
+
+- Set up projector
 
 ## Project Time
 
@@ -70,7 +80,12 @@ Before we can begin adding all sorts of cool sensors on our wall we first need t
 Distribute the Mural Review worksheet. Students will now get a chance to look at other murals and decide on what they like or dislike about each one.
 
 ### Show:
-Using a projector, show students the first ten results on a google image search for murals. Students will take notes about each one on the handout.
+Using a projector, show students the mural powerpoint (the murals chosen are mostly from Los Angeles). Students will take notes about each one on the handout.
+
+```
+TIP: 
+To help engange students, change the murals in the powerpoint to murals from your local community.
+```
 
 ### Brainstorm:
 Using the brainstorming handout, students will develop five ideas for a mural. Students will share their ideas with a partner, and then decide on one to sketch.

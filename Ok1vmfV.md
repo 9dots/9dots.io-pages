@@ -45,39 +45,22 @@ The answer are:
 
 ## Guided Practice
 
+### Discuss:
+_Why does the design proces take so long?_
+There are a lot of steps to designing a product. It is important to go through a lot of iterations (versions) and continue to make changes to design the best product possible.
+
+### Explain:
+Today, students will brainstorm products that are inspired by the animals that they chose last time in class.  They will then begin to refine their designs so we make the best product possible.
+
 ## Explore
 
-
-On the board:  vocab from worksheet
-
-
-
- 
-
-
-How long do you think it takes to design a product?
-
-Give each kid 3 index cards to write their guess for the following:
-
-How long do you think it takes to design a new car model?  3 years
-iphone?  5 years
-Velcro? 10 years
-
-Discuss why the design process takes so long.  
-
-Encourage students to take their time exploring iterations and making changes to their designs to make them the best they can be.
-
-
-Discuss:  Today we are going to brainstorm products that are inspired by the animals that we chose last time in class.  We are then going to refine our designs so we make the best product possible.
-
-Engage:
-
+### Written:
 Go through packet one page at a time as a group.  Explain each page and then have kids fill it out.
 
 As we reach new vocab words, define words as a class.
 
-•	Prototype:  an early version of a product design, meant to be replicated or learned from
+**Prototype:**  an early version of a product design, meant to be replicated or learned from
 
-•	Iterate: to repeat
+**Iterate:** to repeat
 
-•	Elaborate:  develop details
+**Elaborate:**  develop details

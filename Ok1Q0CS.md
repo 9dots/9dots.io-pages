@@ -32,12 +32,10 @@ id: "9dots-Ok1Q0CS"
 ## Introduce
 
 ### Hook:
-Watch clip from the show [Shark Tank](https://www.youtube.com/watch?v=Va_YvHaewOc).
-
-Briefly explain the show to the kids.
+Watch clip from the show [Shark Tank](https://www.youtube.com/watch?v=Va_YvHaewOc). Briefly explain the show to the students.
 
 ### Goal:
-Today, students beginning a brand new unit in which they will be designing their own products.  At the end, they will present their products to judges, just like the show Shark Tank, and the judges will choose which product they think should win.
+Today, students will be starting a brand new unit in which they will be designing their own products.  At the end, they will present their products to judges, just like the show Shark Tank, and the judges will choose which product they think should win.
 
 ## Guided Practice
 

@@ -9,20 +9,27 @@ title: "Shark Tank: Design Process"
 attachments: 
   - path: "http://uploads.9dots.io/Ok1xt7f.pdf"
     name: ProductDesignGuide.pdf
+blurb: "Students will take a more in-depth look at the process behind designing a product. They will then apply that methodology to their products."
+objective: "By the end of the lesson, students will be able to define prototype, explain the process of design, and discuss the importance of iteration to that process."
 
 ---
 
 ## Materials
 
+- Pencils
+- Index cards
+
 ## Media and Handouts
 
-- Worksheet
+- Product design guide
 
 ## Preparation
 
 - Print worksheets
 
 ## Project Time
+
+- 40 minutes
 
 ## Introduce
 

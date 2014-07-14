@@ -5,6 +5,7 @@ published: false
 type: lesson
 org: 9dots
 id: "9dots-Ok1vmfV"
+title: "Shark Tank: Design Process"
 
 ---
 
@@ -12,29 +13,42 @@ id: "9dots-Ok1vmfV"
 
 ## Media and Handouts
 
+- Worksheet
+
 ## Preparation
+
+- Print worksheets
 
 ## Project Time
 
 ## Introduce
 
+### Hook:
+_Do you think that engineers always design their products exactly how they want them on the first try? How long do you think it takes to design a product?_
+
+### Guess:
+Give each student three index card to write their guess for how long it took to design the following products:
+
+- a new car model
+- iPhone
+- Velcro
+
+### Reveal:
+The answer are:
+
+- new car model - 3 years
+- iPhone - 5 years
+- Velcro - 10 years
+
 ## Guided Practice
 
 ## Explore
 
-Shark Tank
-Lesson 2
-
-Summary: moving onto design process
-
-Materials:  worksheets
-
-Preparation:  print worksheets
 
 On the board:  vocab from worksheet
 
 
-Hook:  Do you think that engineers always design their products exactly how they want them on the first try?  
+
  
 
 
@@ -64,7 +78,3 @@ As we reach new vocab words, define words as a class.
 •	Iterate: to repeat
 
 •	Elaborate:  develop details
-
-
-
-

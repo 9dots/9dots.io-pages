@@ -45,7 +45,8 @@ Today, students will be starting a brand new unit in which they will be designin
 _What is a product?_
 A **product** is something that is sold to people to satisfy a need or a want.
 
-_What are ways that people can get ideas for designing new products?_ Brainstorm idea on the board.
+_What are ways that people can get ideas for designing new products?_
+Brainstorm idea on the board.
 
 ### Explain:
 For this unit, we will be getting ideas from nature.  Using examples from nature to solve human problems is called **biomimicry**.

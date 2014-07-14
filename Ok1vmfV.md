@@ -6,6 +6,9 @@ type: lesson
 org: 9dots
 id: "9dots-Ok1vmfV"
 title: "Shark Tank: Design Process"
+attachments: 
+  - path: "http://uploads.9dots.io/Ok1xt7f.pdf"
+    name: ProductDesignGuide.pdf
 
 ---
 

@@ -6,6 +6,8 @@ type: lesson
 org: 9dots
 title: "Interactive Art Wall: Creatures"
 id: "9dots-Ok0pUy5"
+blurb: "Students will practice connecting #LittleBits to their projects using wires and twist ties by creating a Little Bits creature."
+objective: "By the end of the lesson, students will be able to explain the importance of the Little Bits wires, and create a cardboard creature that incorporates hidden Little Bits pieces."
 
 ---
 
@@ -19,11 +21,15 @@ id: "9dots-Ok0pUy5"
 
 ## Media and Handouts
 
+- Creature planning handout
+
 ## Preparation
 
-
+- Cut out hands, ears, and heads for the creatures
 
 ## Project Time
+
+- 40 minutes
 
 ## Introduce
 
@@ -48,3 +54,6 @@ Before they start building, students will look at some examples of Little Bits [
 
 ### Plan:
 Show students the supplies that they will have to build their creature. Using the creature planning handout, students will decide on their input and output, as well as sketch what their creature will look like.
+
+### Build:
+Students will take the rest of the project time to create their Little Bits creature.

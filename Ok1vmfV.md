@@ -68,6 +68,6 @@ As we reach new vocab words, define words as a class.
 
 **Prototype:**  an early version of a product design, meant to be replicated or learned from
 
-**Iterate:** to repeat
+**Iterate:** To repeat
 
-**Elaborate:**  develop details
+**Elaborate:**  To develop details

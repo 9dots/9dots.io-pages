@@ -9,23 +9,34 @@ attachments:
 title: "Shark Tank: Presentations"
 org: 9dots
 id: "9dots-Ok76jzW"
+objective: "By the end of the lesson, students will have experience designing and selling an original product."
+blurb: Students will present the products that they have been designing this unit to a panel of judges.
 
 ---
 
 ## Setup
-Materials, prep, and time...
 
-## Introduce
-Hook, goals, and project introduction...
+### Materials:
 
-## Explore
-Brief unguided exploration...
+- Posters
 
-## Inquire
-Guided questions and research...
+### Media and Handouts:
 
-## Innovate
-New knowledge is used to create...
+- Judging rubric
 
-## Discuss
-Discussion questions...
+### Preparations:
+
+- Print out rubric and find a place to hang posters during presentations
+
+### Project Time:
+
+- 40 minutes
+
+
+## Presentation Day
+
+### Introduction:
+Today, students will be presenting their products to the judges. They will use their posters as visual aides, and attempt to convice the judges to invest in their product. Judges will use the rubric to score the presentations.
+
+### Presentations:
+Each group will have a turn to present their product. After each presentation, everyone in the class will snap their fingers to applaud their fellow shark tank contestant. When everyone has finished, judges will tally up their scores, and the Shark Tank winner will be announced.

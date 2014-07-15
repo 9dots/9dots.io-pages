@@ -56,8 +56,6 @@ Now that students know about Little Bits, they will look back at their sketch an
 Students will sign up for use of Little Bits alphabetically.
 
 ### Foreground and Background:
-Show the example and have students notice that it is 3D.  The sketch has a background and a foreground.
-
 _What is foreground?_
 The **foreground** is what looks like the closest thing to you. It's in front of everything else in the picture, and it has the most detail.  It will also be the piece that hides Little Bits pieces for the mural.
 

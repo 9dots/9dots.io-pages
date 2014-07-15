@@ -11,6 +11,7 @@ lessons:
 title: Shark Tank
 org: 9dots
 id: "9dots-Ok7BROE"
+blurb: "Through a hands-on, 4-lesson project, students will learn about biomimicry, the process of designing a product, and creating a sales pitch."
 
 ---
 

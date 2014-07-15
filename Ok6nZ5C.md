@@ -9,6 +9,8 @@ id: "9dots-Ok6nZ5C"
 attachments: 
   - path: "http://uploads.9dots.io/Ok6xYpc.pdf"
     name: SharkTankPresentaion.pdf
+blurb: "Students will learn about creating an effective sales pitch, and create a poster and presentation to sell their own products."
+objective: "By the end of the lesson, students will be able to describe what makes an effective sales pitch, and create a presentation for selling their own products."
 
 ---
 

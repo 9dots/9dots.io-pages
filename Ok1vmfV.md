@@ -62,9 +62,7 @@ Today, students will brainstorm products that are inspired by the animals that t
 ## Explore
 
 ### Written:
-Go through packet one page at a time as a group.  Explain each page and then have kids fill it out.
-
-As we reach new vocab words, define words as a class.
+Go through packet one page at a time as a group.  Explain each page, and then have kids fill it out. As the group reaches new vocab words, define the words as a class.
 
 **Prototype:**  an early version of a product design, meant to be replicated or learned from
 

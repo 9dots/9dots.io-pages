@@ -16,20 +16,22 @@ objective: "By the end of the lesson, students will be able to work collaborativ
 
 ---
 
-## Materials
+## Setup
+
+### Materials:
 
 - N/A
 
-## Media and Handouts
+### Media and Handouts:
 
 - Sketch handout
 - Community handout
 
-## Preparation
+### Preparation:
 
 - N/A
 
-## Project Time
+### Project Time:
 
 - 40 minutes
 
@@ -67,4 +69,4 @@ Using the community handout, students will write notes about their community:
 - What places are important to you?
 
 ### Sketch:
-Students will sketch out an idea for their part of the mural. When they are finished, tape all of the sketches to the wall to see what the collaborative mural would look like. 
+Students will sketch out an idea for their part of the mural. When they are finished, tape all of the sketches to the wall to see what the collaborative mural would look like.

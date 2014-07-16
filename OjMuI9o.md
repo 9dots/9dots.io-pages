@@ -15,7 +15,9 @@ attachments:
 
 ---
 
-## Materials:
+## Setup
+
+### Materials:
 
 - Circuits slideshow
 - Makey Makey (1 per group)
@@ -25,17 +27,17 @@ attachments:
 - Aluminum foil
 - Card stock paper
 
-## Preparation:
+### Preparation:
 
 - Gather the materials
 - Make an example button out of aluminum foil and card stock paper
 
-### Introduce
+## Introduce
 
-#### HOOK:
+### HOOK:
 Take students through the circuits slideshow (slide number 5 has a video). Explain that today they will learn how to turn their cardboard pieces into real game controllers. 
 
-### Guided Practice
+## Guided Practice
 
 ### HOW IT WORKS:
 Using the example button, show students how the button is connected. One piece of aluminum foil is connected to desired makey makey action (up, down, left, right, click, space) while the other is connected to the “ground” on the makey makey. When the button is pressed, the circuit is completed and the button is triggered. When the button is not being pushed, the circuit is open and therefore the button is not being pressed.
@@ -43,7 +45,7 @@ Using the example button, show students how the button is connected. One piece o
 ### OTHER OPTIONS:
 The other option students have is to make the player the ground and the button be a conductive material that is directly plugged into the desired makey makey action. Conductive materials include playdough, aluminum foil, pencil graphite, some fruit, or coins.
 
-### Explore
+## Explore
 
 ### BUILDING:
 Students will continue to construct their cardboard controllers. When they finish the building, the group will be given a makey makey and a computer. Students need to plug the makey makey into the usb port on the computer to power it. Once it is plugged in they will work on creating their functioning buttons on their controller.

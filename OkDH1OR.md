@@ -18,6 +18,7 @@ id: "9dots-OkDH1OR"
 - Little Bits
 - Hot glue gun
 - Hot glue
+- Twist ties
 
 ### Media and Handouts:
 
@@ -32,8 +33,12 @@ id: "9dots-OkDH1OR"
 
 - 40 minutes
 
-## Introduce
+## Work Day
 
-## Guided Practice
+### Layering:
+Show students the stacks of cardboard that are glued together. To help give their mural a 3D feel, and to make sure there is room to hide the Little Bits, students will use these stacks of cardboard to create separation between the foreground and background.
 
-## Explore
+### Little Bits:
+
+
+

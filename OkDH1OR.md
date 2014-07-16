@@ -5,25 +5,35 @@ published: false
 type: lesson
 org: 9dots
 title: "Interactive Art Wall: Adding Little Bits"
-blurb: "#LittleBits"
+blurb: "During this lesson, students will be attaching their foreground and background, as well as adding #LittleBits to their projects."
 id: "9dots-OkDH1OR"
 
 ---
 
 ## Setup
-Materials, prep, and time...
+
+### Materials:
+
+- Cardboard
+- Little Bits
+- Hot glue gun
+- Hot glue
+
+### Media and Handouts:
+
+- N/A
+
+### Preparations:
+
+- Cut out small (2" x 2") pieces of cardboard
+- Glue the cutouts together to make stacks of cardboard
+
+### Project Time:
+
+- 40 minutes
 
 ## Introduce
-Hook, goals, and project introduction...
+
+## Guided Practice
 
 ## Explore
-Brief unguided exploration...
-
-## Inquire
-Guided questions and research...
-
-## Innovate
-New knowledge is used to create...
-
-## Discuss
-Discussion questions...

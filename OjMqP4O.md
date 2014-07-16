@@ -12,7 +12,9 @@ id: "9dots-OjMqP4O"
 
 ---
 
-## Materials:
+## Setup
+
+### Materials:
 
 - [Giant game controller video](https://www.youtube.com/watch?v=simqlREvRH4)
 - Cardboard
@@ -21,11 +23,11 @@ id: "9dots-OjMqP4O"
 - Card stock paper
 - Scisscors
 
-## Preparation:
+### Preparation:
 
 - Bring controller designs from lesson 1
 
-## Lesson:
+## Work Day
 
 ### HOOK:
 To give the students some inspiration and information, show the [giant game controller video](https://www.youtube.com/watch?v=simqlREvRH4). Explain that the process they are using to make their controller is very similar to what they are working on.

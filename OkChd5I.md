@@ -10,19 +10,28 @@ id: "9dots-OkChd5I"
 ---
 
 ## Setup
-Materials, prep, and time...
+
+### Materials:
+
+- Cardboard
+- Paint
+- Paint brushes
+- Pencils
+
+### Media and Handouts:
+
+- N/A
+
+### Preparations:
+
+- Cut cardboard into squares
+
+### Project Time:
+
+- 40 minutes
 
 ## Introduce
 Hook, goals, and project introduction...
 
 ## Explore
 Brief unguided exploration...
-
-## Inquire
-Guided questions and research...
-
-## Innovate
-New knowledge is used to create...
-
-## Discuss
-Discussion questions...

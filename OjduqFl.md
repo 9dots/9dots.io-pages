@@ -12,7 +12,9 @@ image: "http://uploads.9dots.io/OjeEOhS_md.jpg"
 
 ---
 
-## Materials
+## Setup
+
+### Materials:
 
 - Cardboard
 - [Copper tape](https://www.sparkfun.com/products/10561)
@@ -21,11 +23,11 @@ image: "http://uploads.9dots.io/OjeEOhS_md.jpg"
 - [Batteries](https://www.sparkfun.com/products/338)
 - [Battery holder](https://www.sparkfun.com/products/8822)
 
-## Media and Handouts
+### Media and Handouts:
 
 - N/A
 
-## Project Time
+### Project Time:
 
 - 40 minutes
 

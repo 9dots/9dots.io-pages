@@ -50,7 +50,7 @@ Element | HTML | Use
 -|-|-
 Heading | ```<h1>...</h1>``` | Titles
 Paragraph | ```<p>...</p>``` | Text
-Image | ```<img src=”...”>``` | Pictures
+Image | ```<img src=”...” />``` | Pictures
 
 ### TRY IT:
 For their first HTML element, students will write a **heading** that says 'My First HTML Element'. To help facilitate the process, guide the students through the following steps:
@@ -84,7 +84,7 @@ For their second element, students will create an **image** that has a source of
 When they have finished writing, their paper should read: 
 
 ```
-<img src="http://www.example.com/firstimage.png">
+<img src="http://www.example.com/firstimage.png" />
 ```
 
 ### EXPLAIN:

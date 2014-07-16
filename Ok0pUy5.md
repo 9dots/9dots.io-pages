@@ -14,7 +14,9 @@ attachments:
 
 ---
 
-## Materials
+## Setup
+
+### Materials:
 
 - Tp roll
 - Pre-made ears, hands, heads
@@ -22,15 +24,15 @@ attachments:
 - Markers
 - Twist ties
 
-## Media and Handouts
+### Media and Handouts:
 
 - Creature planning handout
 
-## Preparation
+### Preparation:
 
 - Cut out hands, ears, and heads for the creatures
 
-## Project Time
+### Project Time:
 
 - 40 minutes
 

@@ -12,47 +12,49 @@ image: "http://uploads.9dots.io/OjZ6uqF_md.jpg"
 
 ---
 
-## Materials
+## Setup
+
+### Materials:
 
 - Cardboard
 - MakeDo pieces
 - Tape
 
-## Media and Handouts 
+### Media and Handouts:
 
 - N/A
 
-## Project Time 
+### Project Time:
 
 - 40 min
 
-### Introduce
+## Introduce
 
-#### HOOK:
+### HOOK:
 _What is a hinge?_
 A **hinge** is a type of bearing that connects two solid objects, typically allowing only a limited angle of rotation between them.
 
-#### OBSERVE:
+### OBSERVE:
 As a class, chart out things that are “Hinges in the body” and “Not hinges in the body,” as well as “Hinges in the room” and “Not hinges in the room.”
 
-#### GOALS:
+### GOALS:
 Today, students will learn how to build hinges on their robots. By the end of the lesson, students will have moveable parts on their robot.
 
-### Guided Practice
+## Guided Practice
 
-#### THINK PAIR SHARE:
+### THINK PAIR SHARE:
 With a partner, students will discuss how hinges could be useful for the robot that they are designing.
 
-#### PLAN:
+### PLAN:
 Students will go back to their blueprints and highlight where all of the hinges will be used in their designs.
 
-#### SHOW:
+### SHOW:
 Show students an example of how to connect cardboard pieces using the MakeDo hinges.
 
-### Explore
+## Explore
 
-#### PRACTICE:
+### PRACTICE:
 On some spare cardboard, students will practice putting together hinges.
 
-#### BUILD:
+### BUILD:
 Students will continue building their cardboard robots with a focus on adding the moveable parts.

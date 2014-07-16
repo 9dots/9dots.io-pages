@@ -15,17 +15,19 @@ image: "http://uploads.9dots.io/OjMOxI4_md.jpg"
 
 ---
 
-## Materials:
+## Setup
+
+### Materials:
 
 - Computer with GarageBand software
 - Example theme songs
 - Theme song checklist
 
-## Preparation:
+### Preparation:
 
 - Print theme song checklist 
 
-## Lesson:
+## Introduce
 
 ### DISCUSS:
 _What is a theme song?_
@@ -34,8 +36,12 @@ A theme song is music that is created to serve as an introduction into a movie, 
 ### LISTEN:
 As a group listen to a few famous theme songs. Discuss how each theme song relates to the movie that it is used for.
 
+## Guided Practice
+
 ### EXPLAIN:
 Each student will need a computer and the theme song checklist. During the project today, students will create a theme song for their stop motion movies from the previous unit. Students will write down the genre/mood of the their movie on the handout.
+
+## Explore
 
 ### CREATE:
 Using the GarageBand loops, students will produce a theme song that has a clear beginning, middle, and end. The song will be at least one minute long and have at least 3 different instrument loops.

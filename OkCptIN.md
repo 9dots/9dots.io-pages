@@ -34,7 +34,7 @@ id: "9dots-OkCptIN"
 ## Work Day
 
 ### Hook:
-Students will finish painting the foreground and the background of their murals.
+This is the last day for students to work on painting their murals. After today, they will focus on incorporating the little bits.
 
 ### Goals:
 For today, the students will finish:

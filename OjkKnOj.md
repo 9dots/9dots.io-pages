@@ -15,19 +15,21 @@ image: "http://uploads.9dots.io/OjkaeFQ_md.jpg"
 
 ---
 
-## Materials
+## Setup
+
+### Materials:
 
 - [Little Bits](http://littlebits.cc)
 
-## Media and Handouts
+### Media and Handouts:
 
 - Little Bits worksheet
 
-## Preparations
+### Preparations:
 
 - Draw and example of a power source, sensor, output. An example could be a battery, touch sensors, light.
 
-## Project Time
+### Project Time:
 
 - 40 minutes
 

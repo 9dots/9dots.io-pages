@@ -19,15 +19,17 @@ image: "http://uploads.9dots.io/OjMIWqD_md.jpg"
 
 ---
 
-## Materials:
+## Setup
+
+### Materials:
 
 - Computer with GarageBand software
 
-## Preparation:
+### Preparation:
 
 - Download the example clip onto the computers
 
-## Lesson:
+## Introduce
 
 ### DO NOW:
 Students will take a couple of minutes to write down their question to, “What is your favorite music from a movie?”
@@ -36,11 +38,15 @@ Students will take a couple of minutes to write down their question to, “What 
 _What does it mean to ‘score’ a movie?_
 A film score is original music create to accompany a film. The music is composed for each scene to help set the mood.
 
+## Guided Practice
+
 ### HOOK:
 Show the film score example video. After each example, discuss with the group how the music set the tone for the scene. 
 
 ### EXAMPLE:
 Show the example clip that the students will be working with. First show it with no music, and then show it with the example music. All of the music in the example was made using the GarageBand loops that the students have been working with.
+
+## Explore
 
 ### CREATE:
 Students have the rest of the project time to create their own score for the movie clip. If they finish early, students can add extra sound effects as well to the movie. To start, students will need to open up GarageBand on the computer. 

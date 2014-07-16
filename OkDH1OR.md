@@ -35,10 +35,8 @@ id: "9dots-OkDH1OR"
 
 ## Work Day
 
-### Layering:
-Show students the stacks of cardboard that are glued together. To help give their mural a 3D feel, and to make sure there is room to hide the Little Bits, students will use these stacks of cardboard to create separation between the foreground and background.
-
 ### Little Bits:
 
 
-
+### Layering:
+Show students the stacks of cardboard that are glued together. To help give their mural a 3D feel, and to make sure there is room to hide the Little Bits, students will use these stacks of cardboard to create separation between the foreground and background.

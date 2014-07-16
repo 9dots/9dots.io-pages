@@ -12,41 +12,41 @@ image: "http://uploads.9dots.io/OjZ79CY_md.jpg"
 
 ---
 
-Objective/Summary – At the conclusion of the class, student will be able to demonstrate an understanding of building from a design as they finish building their cardboard robots.
+## Setup
 
-## Materials 
+### Materials 
 
 - Cardboard
 - MakeDo pieces
 - Tape
 
-## Media and Handouts
+### Media and Handouts
 
 - N/A
 
-## Preparations
+### Preparations
 
 - Select a few of the student robots that stand out
 
-## Project Time 
+### Project Time 
 
 - 40 min
 
-### Introduce
+## Introduce
 
-#### HOOK:
+### HOOK:
 Looking at the example robots, discuss the positive aspects of the designs that the teacher has chosen. 
 
-#### DISCUSS:
+### DISCUSS:
 _How important is it to cut the cardboard into the proper size and shape before connecting pieces?_
 Note that the students who are succeeding are making the cardboard into the size or shape that they need for their particular design.
 
-### Guided Practice
+## Guided Practice
 
-#### PLAN:
+### PLAN:
 Students will check to make sure that their own robots are being built according to the plan that they created. After, they will select to parts of their design that they want to focus on incorporating into their design for today.
 
-### Explore
+## Explore
 
-#### BUILD:
+### BUILD:
 Students will continue building their robots according to their blueprints and building plan.

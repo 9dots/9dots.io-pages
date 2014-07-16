@@ -11,17 +11,19 @@ objective: "By the end of the lesson, students will be able to, through collabor
 
 ---
 
-## Materials
+## Setup
+
+### Materials:
 
 - Decorations
 - Cardboard
 - Circuits
 
-## Media and Handouts
+### Media and Handouts:
 
 - N/A
 
-## Project time
+### Project time:
 
 - 40 minutes
 

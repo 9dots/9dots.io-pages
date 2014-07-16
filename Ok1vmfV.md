@@ -15,20 +15,22 @@ image: "http://uploads.9dots.io/Ok7q1LJ_md.jpg"
 
 ---
 
-## Materials
+## Setup
+
+### Materials:
 
 - Pencils
 - Index cards
 
-## Media and Handouts
+### Media and Handouts:
 
 - Product design guide
 
-## Preparation
+### Preparation:
 
 - Print worksheets
 
-## Project Time
+### Project Time:
 
 - 40 minutes
 

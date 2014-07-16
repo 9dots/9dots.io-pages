@@ -9,7 +9,7 @@ id: "9dots-OjkKnOj"
 attachments: 
   - path: "http://uploads.9dots.io/OjkT9Sg.pdf"
     name: LITTLE BITS WORKSHEET.pdf
-blurb: "Students will use #LittleBits to learn about sensors and test input/output combinations to learn how it works."
+blurb: "Students will use #LittleBits to learn about sensors and #circuits,  and test input/output combinations to learn how it works."
 objective: "By the end of the lesson, students will be able to define a power source, identify a sensor, and describe how to connect the Little Bits to create a circuit."
 image: "http://uploads.9dots.io/OjkaeFQ_md.jpg"
 

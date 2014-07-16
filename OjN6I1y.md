@@ -12,7 +12,9 @@ image: "http://uploads.9dots.io/OjN7Jaf_md.jpg"
 
 ---
 
-## Materials:
+## Setup
+
+### Materials:
 
 - Makey Makey (1 per group)
 - Computer (1 per group)
@@ -21,11 +23,11 @@ image: "http://uploads.9dots.io/OjN7Jaf_md.jpg"
 - Aluminum foil
 - Card stock paper
 
-## Preparation:
+### Preparation:
 
 -  Gather the materials
 
-## Lesson:
+## Work Day
 
 ### INTRODUCTION:
 This is the last day for the giant game controller project. Students will test their buttons to make sure everything works, and the decorate the controller so that other people will want to use it.

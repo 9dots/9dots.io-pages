@@ -17,24 +17,28 @@ id: "9dots-OjM5fW2"
 
 ---
 
-## Materials:
+## Setup
+
+### Materials:
 
 - Computer with GarageBand software
 - Happy and sad loops handout
 - Happy (instrumental version)
 - Say Something (instrumental version)
 
-## Preparations:
+### Preparations:
 
 - Download the songs (from the attachments area on the right)
 
-## Lesson:
+## Introduce
 
 ### DO NOW:
 Students will have a couple of minutes at the beginning of class to write down their answer to the question, “What makes a song seem happy?”
 
 ### HOOK:
 Listen to the instrumental versions of Happy and Say Something without telling them the name of each song.
+
+## Guided Practice
 
 ### DISCUSS:
 How did the first song make you feel? How did the second song make you feel? What aspects of the songs do you think made them feel that way? Create a chart on a whiteboard with happy and sad categories.
@@ -45,6 +49,8 @@ There are several factors that can make a song happy or sad. A happy song has a 
 To filter the loops by major or minor scale change the option like in the picture below:
 
 ![](http://uploads.9dots.io/OjM81PS_md.jpg) 
+
+## Explore
 
 ### CREATE:
 Using the rest of the class time, students will create two songs, that each have loops from at least three different instruments. One will be a song that makes that listener feel happy, and the other one will attempt to be a slower, sadder song.

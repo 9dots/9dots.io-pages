@@ -12,7 +12,9 @@ id: "9dots-OjMyT7x"
 
 ---
 
-## Materials:
+## Setup
+
+### Materials:
 
 - Makey Makey (1 per group)
 - Computer (1 per group)
@@ -21,14 +23,16 @@ id: "9dots-OjMyT7x"
 - Aluminum foil
 - Card stock paper
 
-## Preparation:
+### Preparation:
 
 - Gather the materials
 
-## Lesson:
+## Introduce
 
 ### INTRODUCTION:
 Students will continue to add the buttons to their controllers. Using a Makey Makey, they will make sure to have at least four functional buttons by the end of the project day.
+
+## Guided Practice
 
 ### REVIEW:
 _What is a circuit?_
@@ -36,6 +40,8 @@ An electric circuit is a path for electrons to flow through. A power source, suc
 
 _How do we use circuits to create buttons using the Makey Makey?_
 When the button gets pushed, it completes the circuits, and MaKey MaKey sends the computer a keyboard message such as left, right, space, and click.
+
+## Explore
 
 ### BUILD TIME:
 Students will split into their groups and spend the rest of the project devising ways to connect their controller buttons to the MakeyMakey.

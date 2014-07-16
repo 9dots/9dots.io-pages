@@ -11,7 +11,7 @@ id: "9dots-OjY0y8h"
 
 ---
 
-## Materials
+### Materials:
 
 - Cardboard
 - MakeDo pieces
@@ -21,44 +21,44 @@ id: "9dots-OjY0y8h"
 - Construction paper
 - Projector
 
-## Media and Handouts
+### Media and Handouts:
 - [MakeDo paper robot video](http://www.youtube.com/watch?v=b-kaBIdoVm0)
 - [Wall E clip](http://www.youtube.com/watch?v=7oVSaUWeKt0)
 
-## Project Time
+### Project Time:
 
 - 40 minutes
 
-### Introduce
+## Introduce
 
-#### HOOK:
+### HOOK:
 Watch the [MakeDo paper robot video](http://www.youtube.com/watch?v=b-kaBIdoVm0) to show students some more examples of design posibilities.
 
-#### DISCUSS:
+### DISCUSS:
 _What are the different parts of a robot?_
 
 - Head
 - Body
 - Limbs
 
-### Guided Practice
+## Guided Practice
 
-#### EXPLAIN:
+### EXPLAIN:
 In a robot, their are parts that move, and parts that hold the robot up. The parts that support or resist loads in the robot are called **fixed** parts. The **moving** parts allow for constrained movement.
 
-#### WATCH AND EVALUATE:
+### WATCH AND EVALUATE:
 As a class, brainstorm which parts are fixed and which parts are moving on Wall E (watch [clip](http://www.youtube.com/watch?v=7oVSaUWeKt0)).
 
-#### THINK PAIR SHARE:
+### THINK PAIR SHARE:
 For their own robots, students will write which parts will need to be fixed, and which will need to be moving. After, they will share with their partner what they have chosen and how they think they will be able to accomplish that.
 
-### Explore
+## Explore
 
-#### REVISE BLUEPRINTS:
+### REVISE BLUEPRINTS:
 Today, students will be revising their plans to make sure that they are **feasible** and to label which parts will be **fixed** and which parts will be **moving**. Students should highlight the parts of their robot that will move. Students should then chose the base of their robot that they will start building today.
 
-#### MATERIALS:
+### MATERIALS:
 Show the materials we have to work with (saw and connector only, no hinges) and show students how the MakeDo pieces work. After, students will practice sawing and connecting small practice pieces with the MakeDo.
 
-#### PLAN:
+### PLAN:
 With the last 5 minutes of the lesson, students will look through the available boxes and their blue prints and decide which piece to build first.

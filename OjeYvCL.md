@@ -11,17 +11,19 @@ objective: "By the end of the lesson, the students will have completed a cardboa
 
 ---
 
-## Materials
+## Setup
+
+### Materials:
 
 - Cardboard
 - Decorations
 - Circuits
 
-## Media and Handouts
+### Media and Handouts:
 
 - N/A
 
-## Project time
+### Project time:
 
 - 40 minutes
 

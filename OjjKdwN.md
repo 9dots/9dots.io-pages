@@ -18,21 +18,23 @@ objective: "By the end of the lesson, students will be able to describe a mural,
 
 ---
 
-## Materials
+## Setup
+
+### Materials:
 
 - N/A
 
-## Media and Handouts
+### Media and Handouts:
 
 - Mural review worksheet
 - Brainstorm worksheet
 - Mural powerpoint
 
-## Preparation
+### Preparation:
 
 - Set up projector
 
-## Project Time
+### Project Time:
 
 - 40 minutes
 

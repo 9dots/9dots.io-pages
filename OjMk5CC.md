@@ -15,17 +15,19 @@ image: "http://uploads.9dots.io/OjMoc0z_md.jpg"
 
 ---
 
-## Materials:
+## Setup
+
+### Materials:
 
 - [History of video game controllers video](https://www.youtube.com/watch?v=5-r9EH6R1k4)
 - [Makey Makey video](http://www.youtube.com/watch?v=rfQqh7iCcOU)
 - Brainstorm worksheet
 
-## Preparation:
+### Preparation:
 
 - Print out the brainstorm worksheet (in the attachments section)
 
-## Lesson:
+## Introduce
 
 ### DISCUSS:
 _What is a video game controller?_
@@ -36,6 +38,8 @@ This unit will be about creating GIANT cardboard video game controllers. Student
 
 ### WATCH:
 Show the students the [history of video game controllers video](https://www.youtube.com/watch?v=5-r9EH6R1k4). Discuss after the video if they noticed any pattern about shape and the number of buttons that the controllers had as they evolved.
+
+## Guided Practice
 
 ### INQUIRE:
 _How do controllers work?_
@@ -56,6 +60,8 @@ Student may come up with many ideas for this but if they need help three good ba
 - A giant joystick
 
 ![](http://uploads.9dots.io/OjMlX21_md.jpg) 
+
+## Explore
 
 ### INDIVIDUALLY:
 Students will be split into groups for each kind of proposed controller. Students will then be handed the design brainstorm handout. Each student will complete a design for their proposed controller. Remind students that at most they can use four buttons and four directions on their controller because of the Makey Makey.

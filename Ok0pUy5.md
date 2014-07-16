@@ -53,7 +53,7 @@ Using hte Little Bits wires, students can attach their inputs and output without
 ## Explore
 
 ### Examples:
-Before they start building, students will look at some examples of Little Bits [creatures](https://lb-community.s3.amazonaws.com/uploads/lesson/image/40/large_IMG_1511.JPG). Remind students that they will need to be creative to hide alll of the Little Bits pieces.
+Before they start building, students will look at some examples of Little Bits [creatures](https://lb-community.s3.amazonaws.com/uploads/lesson/image/40/large_IMG_1511.JPG). Remind students that they will need to be creative to hide all of the Little Bits pieces.
 
 ### Plan:
 Show students the supplies that they will have to build their creature. Using the creature planning handout, students will decide on their input and output, as well as sketch what their creature will look like.

@@ -14,20 +14,22 @@ objective: "By the end of the lesson, students will be able to define biomimicry
 
 ---
 
-## Materials
+## Setup
+
+### Materials:
 
 - Animal names to draw
 
-## Media and Handouts
+### Media and Handouts:
 
 - Powerpoint presentation
 - Biomimicry worksheet
 
-## Preparation
+### Preparation:
 
 - print worksheets
 
-## Project Time
+### Project Time:
 
 - 40 minutes
 

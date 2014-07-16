@@ -25,7 +25,7 @@ id: "9dots-OkCptIN"
 
 ### Preparations:
 
-- N/A
+- Pass out murals to students
 
 ### Project time:
 

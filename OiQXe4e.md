@@ -53,10 +53,10 @@ Tell students that their goal is to create a robot that is capable of pushing a 
 TIP: Make sure to start the robot in the exact same place each time. Placing an extra piece of tape in the starting area to mark the correct position can help ensure consistency.
 ```
 
-## Guided Practice
-
 ![](http://uploads.9dots.io/OiQa9tW_md.jpg) 
 **Above: An example of what the maze could look like. The robot will have to push the lego from the green ‘Start’ zone to the red ‘Finish’  zone without crossing the lines.**
+
+## Guided Practice
 
 ### EXPLAIN:
 A robot attachment is an additional part made out of legos that can easily be connected to the robot to help complete a specific goal. To push legos, students will need to build an attachment that keeps legos from getting trapped under the robot or lost while turning.

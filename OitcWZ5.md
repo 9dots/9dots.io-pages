@@ -28,6 +28,8 @@ image: "http://uploads.9dots.io/OitiiJn_md.jpg"
 - Download video clips
 - Download music files
 
+## Introduce
+
 ### REVIEW:
 _What is stop motion animation?_
 Stop motion animation is using a computer to play a series of pictures very quickly to bring stationary objects to life.
@@ -37,8 +39,6 @@ In the last lesson, students learned the basics of making a stop motion animatio
 
 _What is video editing?_
 Video editing is the process of taking the raw footage from the camera (or computer) and changing it so that the story flows and looks better.
-
-## Guided Practice
 
 ### WATCH:
 Show students the trailer for the movie [Coraline](https://www.youtube.com/watch?v=Js7wxoqeVK0). Discuss how video editing is used to make this video look and flow together better.

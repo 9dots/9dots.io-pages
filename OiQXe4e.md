@@ -19,21 +19,27 @@ attachments:
 
 ---
 
-## Materials:
+## Setup
+
+### Materials:
+
 - Lego Mindstorm kit
 - Computer with [EV3 Software](http://www.lego.com/en-us/mindstorms/downloads/software/ddsoftwaredownload/download-software/) 
 - Teacher-created maze (black electrical tape on the floor works well)
 - Completed Mindstorm robot from lesson 1
 
-## Media and Handouts:
+### Media and Handouts:
+
 - Programming Introduction Video
 - Handout for robotic behaviors  
 - Iteration and wrap-up handout
 
-## Project time:
-1 hr 15 min
+### Project time:
+
+- 1 hr 15 min
     
-## Lesson
+## Introduce
+
 ### DISCUSS: 
 _What do programmers do?_
 Programmers give detailed instructions to computers to solve problems and accomplish tasks.  
@@ -46,6 +52,8 @@ Tell students that their goal is to create a robot that is capable of pushing a 
 ```
 TIP: Make sure to start the robot in the exact same place each time. Placing an extra piece of tape in the starting area to mark the correct position can help ensure consistency.
 ```
+
+## Guided Practice
 
 ![](http://uploads.9dots.io/OiQa9tW_md.jpg) 
 **Above: An example of what the maze could look like. The robot will have to push the lego from the green ‘Start’ zone to the red ‘Finish’  zone without crossing the lines.**
@@ -99,6 +107,8 @@ The 3 parts of the Move Steering block are:
 To make a complex behavior, connect as many Move Steering blocks (simple behaviors) together as are required.
 
 ![](http://uploads.9dots.io/OiQcewv_md.jpg) 
+
+## Explore
 
 ### Downloading:
 Demonstrate how to download a program to the robot. A how to on downloading programs to the EV3 can be found in the Wiki section of 9dots.io.

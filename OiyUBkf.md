@@ -15,7 +15,9 @@ attachments:
 
 ---
 
-## Materials:
+## Setup
+
+### Materials:
 
 - Wallace and Gromit
 - Computer with Photo Booth (or other picture taking application)
@@ -26,11 +28,11 @@ attachments:
 - Paper
 - Whiteboards
 
-## Preparation:
+### Preparation:
 
 - Bring completed storyboards
 
-## Lesson:
+## Work Day
 
 ### DO NOW:
 When students enter the class they will answer the question, “What is dialogue?”

@@ -12,7 +12,9 @@ id: "9dots-OiyQnJf"
 
 ---
 
-## Materials:
+## Setup
+
+### Materials:
 
 - [Stop Motion Inspiration](https://www.youtube.com/watch?v=HvkF0oChnSA)
 - Computer with Photo Booth (or other picture taking application)
@@ -23,11 +25,11 @@ id: "9dots-OiyQnJf"
 - Paper
 - Whiteboards
 
-## Preparation:
+### Preparation:
 
 - Bring completed storyboards
 
-## Lesson:
+## Work Day
 
 ### DO NOW:
 As students enter the class, they have 3 minutes to write down what they think the roles are for the following jobs:

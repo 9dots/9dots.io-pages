@@ -15,15 +15,17 @@ attachments:
 
 ---
 
-## Materials
+## Setup
+
+### Materials:
 - Computers with internet access
 
-## Media and Handouts
+### Media and Handouts:
 - Application development video
 - Brainstorming handout
 
-## Preparation
-Load examples of application web pages on as many computers as you have available to you.
+### Preparation:
+- Load examples of application web pages on as many computers as you have available to you.
 
 #### Good Website Examples:
 - https://www.google.com/intl/en/chrome/browser/
@@ -40,7 +42,7 @@ Load examples of application web pages on as many computers as you have availabl
 - http://www.pennyjuice.com/htmlversion/whoispj.htm
 - http://www.wrdaonline.org/
 
-##	Lesson
+## Introduce
 
 ### Explain: 
 _What is an app?_
@@ -49,6 +51,8 @@ An app (or application) is a computer program that is designed to be used by the
 _What are some examples of applications?_
 There are camera application like Photobooth, web browsing applications such as Chrome, Safari, and Firefox, games such as Angry Birds or Minecraft, and millions of things beyond that.
 
+## Guided Practice:
+
 ### DISCUSS: 
 _How do people hear about new applications?_
 
@@ -56,10 +60,12 @@ _How do people hear about new applications?_
 - Word of mouth
 - Internet searches
 
-###Think - Pair - Share:
+### Think - Pair - Share:
 Together with a classmate discuss the question, "_How important is it to you that an application has a website that looks nice?_"
 
-### EXPLORE:
+## Explore
+
+### Brainstorm:
 Distribute the brainstorming handout.  Students have 2 minutes to do a gallery walk around the room to all the computers with example websites open on them. Using their handout, students will record their favorite and least favorite websites.  When they return to their seats, the teacher will take a survey and chart out their 3 favorite sites and the 3 that they liked the least.  What do their favorites have in common with each other? Why were the 3 they liked the least not pleasant?
 
 ### INNOVATE:

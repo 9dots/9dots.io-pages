@@ -12,11 +12,13 @@ image: "http://uploads.9dots.io/OiKT6VD_md.jpg"
 
 ---
 
-## Materials:
+## Setup
+
+### Materials:
 
 - Computers with internet access and Chrome browser
 
-## Preparation:
+### Preparation:
 
 - Create a poster with the box model to help explain margins
 - Create a poster with a list of CSS properties and the possible values for:
@@ -24,7 +26,8 @@ image: "http://uploads.9dots.io/OiKT6VD_md.jpg"
 	- Height
 	- Margin
 
-## Lesson
+## Introduce
+
 ### REVIEW:
 _What is CSS?_
 Cascading Style Sheets or CSS is a language that adds styles and formatting to a website. The HTML creates the elements and the CSS defines what they look like with a series of rules.
@@ -37,7 +40,9 @@ A CSS rule is broken into two parts: the selector and the declaration. The decla
 ### DISCUSS:
 Show students one of the styled Batman Bowling sites from the previous class. What can we do to improve the style of the website? Guide them to the answer that many of the elements are the wrong size and are too close to each other. To change that we are need to learn about some new CSS properties.
 
-### INTRODUCE:
+## Guided Practice
+
+### Explain:
 CSS uses the box model to organize elements. Using the Box Model poster, show students that every element has a width and a height property for the content.  The elements also have a margin. The margin is a box that surrounds the element to add spacing between the element and other elements on the page.
 
 ![](http://uploads.9dots.io/OfgYlPa_md.jpg) 
@@ -87,5 +92,8 @@ height:400px;
 margin:20px;
 }
 ```
-### EXPLORE:
+
+## Explore
+
+### Try it:
 Using the new information student will have 10 minutes to attempt to edit the website and make it look as nice as possible.  The student who is working the hardest will have his/her website displayed on the projector for the entire class.

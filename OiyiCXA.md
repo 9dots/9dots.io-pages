@@ -12,16 +12,18 @@ id: "9dots-OiyiCXA"
 
 ---
 
-## Materials:
+## Setup
+
+### Materials:
 
 - [Stop Motion Inspiration](http://vimeo.com/1105462)
 - Computer with Photo Booth and iMovie (or other picture taking application)
 - Editing checklist
 
-## Preparation:
+### Preparation:
 - Bring checklists from Editing: Day 1
 
-## Lesson:
+## Work Day
 
 ### DO NOW:
 Students will take 3 minutes at the beginning of the project to make a list of edits that they would like to add for their last day.

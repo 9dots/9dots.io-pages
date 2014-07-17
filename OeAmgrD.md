@@ -15,32 +15,40 @@ image: "http://uploads.9dots.io/Oi9IqZd_md.jpg"
 
 ---
 
-## Materials
+## Setup
+
+### Materials:
 - Computers with internet access
 - Inkscape software (download here)
 
-## Media and Handouts
+### Media and Handouts:
 - Example websites by category handout
 
-## Preparation
+### Preparation:
 - Print worksheet with example websites.
 - Sort app ideas from lesson 1 into categories (utilities, games, informative, ...)
 
-## Lesson
+## Introduce
 
 ### DISCUSS:
 _How do web designers plan out their websites?_
 To create a successful website, designers will often start by looking at successful websites that have a similar purpose. Once the designer has an idea of what the website should look like they create a prototype.  A prototype is a first draft of the website that shows what the finished product will look like without having to do the programming.
 
+## Guided Practice
+
 ### RESEARCH: 
 Students will now take 5 minutes to use their research worksheet and look at websites with similar applications to their own ideas. When they finish their worksheet, students should share their answers with their partner.
 
-
 ### PROTOTYPE:
-Now that students have an idea of what their website should look like it is time to begin the process of prototyping. Each student should have their own computer. To start they will need to open the Inkscape application, which is a free graphics software.  An instructional tutorial can be found in the Wiki section of the 9dots.io website. Students should decide on fonts, color scheme, and any other piece of individualization that they would like. 
+Now that students have an idea of what their website should look like it is time to begin the process of prototyping. Each student should have their own computer. To start they will need to open the Inkscape application, which is a free graphics software.  An instructional tutorial can be found in the Wiki section of the 9dots.io website. 
+
+## Explore
 
 ### SAVE:
 Make sure students create a folder to save their prototype in. They will be using this prototype to help create their websites using HTML and CSS.
+
+### Create:
+Students will continue working on their website design. Students should decide on fonts, color scheme, and any other piece of individualization that they would like. 
 
 ```
 TIP: Push students to continue to develop their prototype beyond the basics. There are almost limitless ways to improve their designs. If their website has a navigation bar they can create the secondary pages that they their website can navigate too.

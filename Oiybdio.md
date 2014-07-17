@@ -12,7 +12,9 @@ title: "Pictures: Last Day"
 
 ---
 
-## Materials:
+## Setup
+
+### Materials:
 
 - [Stop Motion Inspiration](http://vimeo.com/1105462)
 - Computer with Photo Booth (or other picture taking application)
@@ -23,11 +25,11 @@ title: "Pictures: Last Day"
 - Paper
 - Whiteboards
 
-## Preparation:
+### Preparation:
 
 - Bring completed storyboards
 
-## Lesson:
+## Work Day
 
 ### DO NOW:
 Students will have 3 minutes to write a description of the final scene of their movie.

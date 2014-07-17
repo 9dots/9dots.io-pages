@@ -15,28 +15,30 @@ image: "http://uploads.9dots.io/OitiiJn_md.jpg"
 
 ---
 
-## Materials:
+## Setup
+
+### Materials:
 
 - Computers with iMovie
 - Demo video
 - [Coraline Trailer](https://www.youtube.com/watch?v=Js7wxoqeVK0)
 
-## Preparation:
+### Preparation:
 
 - Download video clips
 - Download music files
-
-## Lesson:
 
 ### REVIEW:
 _What is stop motion animation?_
 Stop motion animation is using a computer to play a series of pictures very quickly to bring stationary objects to life.
 
-### INTRODUCE:
+### Explain:
 In the last lesson, students learned the basics of making a stop motion animation using the computer to capture images and play them back. Today they will learn about how to turn those pictures into a real video using iMovie to edit the video.
 
 _What is video editing?_
 Video editing is the process of taking the raw footage from the camera (or computer) and changing it so that the story flows and looks better.
+
+## Guided Practice
 
 ### WATCH:
 Show students the trailer for the movie [Coraline](https://www.youtube.com/watch?v=Js7wxoqeVK0). Discuss how video editing is used to make this video look and flow together better.
@@ -55,6 +57,8 @@ A transition is a way to combine two scenes without just a hard cut from one cli
 
 ### What is a sound effect?
 A sound effect is a way to add sounds to the action in a video. For instance if there is a car in your movie you can add a sound of the engine revving up to make the animation feel more real.
+
+## Guided Practice
 
 ### TOGETHER:
 Put the students into groups of two and hand out the editing instructions. With the teacher as their guide, students will edit a demo video to learn how to edit their videos. 

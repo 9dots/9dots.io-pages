@@ -17,19 +17,24 @@ image: "http://uploads.9dots.io/OizankF_md.jpg"
 
 ---
 
-## Materials:
+## Setup
+
+### Materials:
+
 - Lego Mindstorm kit
 - Computer with EV3 software
 
-## Media and Handouts
+### Media and Handouts
+
 - Iteration and wrap-up handout
 
-##Project time:
-1 hr 15 min
+### Project time:
 
-## Lesson Plan
+- 1 hr 15 min
 
-###DISCUSS:
+## Introduce
+
+### DISCUSS:
 _How do you pick things up off the ground?_
 
 _How could a robot accomplish this task?_
@@ -48,6 +53,8 @@ Using the medium motor, students now have 15 minutes to attempt to build a motor
 If you are using an NXT kit, use the normal motor in place of the medium of the motor.
 ```
 
+## Guided Practice
+
 ### EXPLAIN:
 To program their arm, students will need to use medium motor block.
 
@@ -56,6 +63,8 @@ To program their arm, students will need to use medium motor block.
 ### THE GAME:
 **The setup for the competition:** 
 Each group is a team sent from NASA to perform experiment on the moon. Unfortunately, as they were landing, some of their resources got scattered across the moon and they need them back quickly. The only solution is to build a robot capable of bringing the resources back to the base as quickly as possible. Show the students the mat and where the various pieces are set up.
+
+## Explore
 
 ### PROGRAM:
 Each group now has 35 minutes to finish building a motorized arm and program their robot to complete the goal. After each attempt, students should write down what worked and what they should change using the handout. At the end of the allotted time, there will be a competition to determine which robot collects the most resources in 1 minute.

@@ -12,14 +12,16 @@ image: "http://uploads.9dots.io/OitjQpa_md.jpg"
 
 ---
 
-## Materials:
+## Setup
+
+### Materials:
 - Computers with internet access
 
-## Preparation:
+### Preparation:
 - Bring students publication goals handout
 - Have students website publication flowcharts
 
-## Lesson
+## Work Day
 
 ### MOTIVATE:
 Hand out the flow charts and ask students how far along they are.  Today they will be attempting to style their website. By then end of the lesson they should have at least two element on their page completely styled. Today will also be the first day for students to add images to their websites. When they want to add an image they will need to have an instructor help them perform an image search on google. 

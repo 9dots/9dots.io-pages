@@ -15,23 +15,28 @@ image: "http://uploads.9dots.io/OiPa3Ab_md.jpg"
 
 ---
 
-## Materials:
+## Setup
+
+### Materials:
 
 - Computers with internet access
 
-## Preparation:
+### Preparation:
 
 - Create a poster with the example CSS rule
 - Create a poster with a list of CSS properties and the possible values for the properties
 - Print the CSS checklist worksheet
 
-## Lesson
+## Introduce
+
 ### REVIEW:
 _What is HTML?_
 HTML is the language that web developers use to create websites. Each HTML tag translates to an element on the page.
 
 ### SHOW:
 Students will recognize from their own experience typing their HTML on codepen, that on its own, HTML creates elements but has no style. Ask students if this is a web page that they would like to make? Why not?
+
+## Guided Practice
 
 ### EXPLAIN:
 To style the website students will need a second language called  Cascading Style Sheets or CSS.  CSS is written as a series of rules that define what the HTML tags look like.
@@ -72,7 +77,9 @@ The selector ‘p’ will set rules for all of the paragraphs.
 ### PRACTICE:
 Students will now get on the computer and go to the Batman Bowling example website and set CSS rules for the various selectors according to the handout.
 
-### EXPLORE:
+## Explore
+
+### Try it:
 After practicing, student will now use the font properties to practice changing the text of the webpage. Students need to try all of the properties to see the effect that they have on the text.
 
 ```

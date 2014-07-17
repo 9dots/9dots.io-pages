@@ -17,17 +17,22 @@ image: "http://uploads.9dots.io/OizcBX6_md.jpg"
 
 ---
 
-## Materials:
+## Setup
+
+### Materials:
+
 - Lego Mindstorm kit
 - Computer with EV3 software
 
-## Media and Handouts:
+### Media and Handouts:
+
 - Iteration and wrap-up handout
 
-## Project time:
-1 hr 15 min
+### Project time:
 
-##Lesson Plan
+- 1 hr 15 min
+
+## Introduce
 
 ### DISCUSS:
 
@@ -43,6 +48,7 @@ Watch the [video](https://www.youtube.com/watch?v=LEwIFIOoZPU)  of a robot avoid
 ### BUILD:
 Students now have 15 minutes to attempt to build an infrared attachment for the robot. It is important for the sensor to be located on the front of the robot so that it can get an accurate reading as to how far away obstacles are.
 
+## Guided Practice
 
 ### DISCUSS:
 _What knowledge from previous lessons can help complete the goal?_
@@ -51,6 +57,8 @@ By using a combination of the move, wait, and loop block, the robot can be progr
 _What will need to be change to make the wait block work for the infrared sensor?_
 
 ![](http://uploads.9dots.io/OihQice_md.jpg) 
+
+## Explore
 
 ### PROGRAM:
 **The setup for the competition:** 

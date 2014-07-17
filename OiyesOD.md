@@ -15,16 +15,18 @@ id: "9dots-OiyesOD"
 
 ---
 
-## Materials:
+## Setup
+
+### Materials:
 
 - Stop motion inspiration
 - Computer with Photo Booth and iMovie (or other picture taking application)
 - Editing checklist
 
-## Preparation:
+### Preparation:
 - Print editing checklist
     
-## Lesson:
+## Work Day
 
 ### DO NOW:
 Students will take 3 minutes to write down what they can be add to their movies using iMovie.

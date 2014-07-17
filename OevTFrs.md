@@ -12,20 +12,31 @@ image: "http://uploads.9dots.io/OiEX8Np_md.jpg"
 
 ---
 
-## Materials
+## Setup
+
+### Materials:
+
 - Computers with internet access
 - [Inkscape software](http://www.inkscape.org/en/download/)
 
-## Lesson
+### Preparations:
+
+- N/A
+
+## Introduce
 
 ### DO NOW:
 Student will take a couple of minutes to write down on a piece of paper the answer to the question, 'What is a prototype? What is the advantage to creating one before making a website?'
+
+## Guided Practice
 
 ### DISCUSS:
 _What is missing from their prototype?_
 Students will recognize that there are no images yet. To add images they will use the clipart from inkscape. To access it they will go to File > Import From Open Clipart Library. Once the image is imported, students will use the select tool to resize the image.
 
-### EXPLORE:
+## Explore:
+
+### Create:
 Once the students have imported their images, students will continue to customize their prototype in Inkscape. Students should add captions to their images and write small blurbs describing their application. Encourage students to rearrange their website to make them their own.
 
 ### EXPAND:

@@ -19,15 +19,17 @@ image: "http://uploads.9dots.io/OiQnuOq_md.jpg"
 
 ---
 
-## Materials:
+## Setup
+
+### Materials:
 - Lego Mindstorm kit (with Touch Sensor)
 - Computer with EV3 software
 
-## Media and Handouts:
+### Media and Handouts:
 - Example touch sensor attachment
 - Iteration and wrap-up handout
 
-## Lesson Plan	
+## Introduce
 
 ### HOOK:
 _What do people do if they bump into a wall?_
@@ -40,6 +42,8 @@ The touch sensor can let the robot know when it has run into a wall.
 
 ### GOAL:
 The goal of the day will be to make a robot that can run into as many walls as possible in 1 minute.
+
+## Guided Practice
 
 ### BUILD:
 Students have ten minutes to attempt to attach the touch sensor to their robot. The touch sensor should be connected to the front of their robot so that when it runs into a wall it will get pressed.
@@ -101,6 +105,8 @@ _How can the loop block be utilized?_
 The loop can ensure that their robot continues to bounce off walls continuously without having to restart the program. Anything inside of the loop will be repeated forever (or until the ‘stop’ button is pushed on the robot).
 
 ![](http://uploads.9dots.io/OiQnT0b_md.jpg) 
+
+## Explore
 
 ### PROGRAM:
 Each group now has 35 minutes to finish building an attachment and program the robot to bounce off as many walls as possible in 1 minute. 

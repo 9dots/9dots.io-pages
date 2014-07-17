@@ -20,14 +20,17 @@ image: "http://uploads.9dots.io/OihMWlD_md.jpg"
 ## Setup
 
 ### Materials:
+
 - Lego Mindstorm NXT kit
 - Computer with NXT software
 - Teacher-created maze
 
 ### Media and Handouts:
+
 - Iteration and wrap-up handout
 
 ### Project time:
+
 - 1 hr 15 min
 
 ## Introduce

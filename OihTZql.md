@@ -17,15 +17,19 @@ image: "http://uploads.9dots.io/Oii1nM2_md.jpg"
 
 ---
 
-## Materials:
+## Setup
+
+### Materials:
+
 - Lego Mindstorm kit
 - Computer with EV3 software
 - Iteration and Wrap-Up Handouts
 
-## Project time:
-1 hr 15 min
+### Project time:
 
-## Lesson Plan
+- 1 hr 15 min
+
+## Introduce
 
 ### DISCUSS:
 Students will have 3 minutes to answer the following questions on a piece of paper:
@@ -41,6 +45,8 @@ Show a [video](http://www.youtube.com/watch?v=aJor5MXycoY) of a robot following 
 
 ### BUILD:
 At this point, students will attempt to attach a light sensor (facing down so it can see the lines) to their robot.
+
+## Guided Practice
 
 ### STRATEGY:
 Show students the black line they will be programming their robot to follow. With a turned off robot, demonstrate the situations the robot will face and what students think the robot should do in those situations. Those situations are:
@@ -77,6 +83,8 @@ _How can you make that process repeat indefinitely?_
 Put that entire switch statement in a loop so that the process repeats forever. If there is no loop it will move once and be done.
 
 ![](http://uploads.9dots.io/Oihyzmy_md.jpg) 
+
+## Explore
 
 ### PROGRAM:
 **The setup for the competition: **

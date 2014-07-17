@@ -12,16 +12,19 @@ title: "Original Website: Wrap Up"
 
 ---
 
-## Materials:
+## Setup
+
+### Materials:
 - Computers with internet access
 
-## Preparation:
+### Preparation:
 - Bring students publication goals handout
 - Have students website publication flowcharts
 - Bring HTML info handout
 - Bring CSS info handout
 
-## Lesson:
+## Work Day
+
 ### CHECKLIST:
 
 For the final day of the project, o ensure that students are continuing to move along with their projects, use the final project checklist:

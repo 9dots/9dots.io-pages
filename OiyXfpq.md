@@ -15,7 +15,9 @@ id: "9dots-OiyXfpq"
 
 ---
 
-## Materials:
+## Setup
+
+### Materials:
 
 - [Stop Motion Inspiration](http://vimeo.com/1105462)
 - [Example of establishing shot](https://www.youtube.com/watch?v=rmF-PBPLlcA)
@@ -28,11 +30,11 @@ id: "9dots-OiyXfpq"
 - Paper
 - Whiteboards
 
-## Preparation:
+### Preparation:
 
 - Bring completed storyboards
 
-## Lesson:
+## Work Day
 
 ### DO NOW:
 Students will take a couple of minutes to write down at least three scenes that they want to complete by the end of the lesson.

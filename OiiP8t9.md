@@ -14,14 +14,16 @@ attachments:
 
 ---
 
-## Materials:
+## Setup
+
+### Materials:
 - Lego Mindstorm kit
 - Computer with EV3 software
 
-## Media and Handouts:
+### Media and Handouts:
 - Robotics scoring handout
 
-##Lesson Plan
+## Introduce
 
 ### HOOK:
 _Which Mindstorm attachments have you learned to use?_
@@ -36,7 +38,7 @@ Today, students will have to use all of the skills that were just discussed, to 
 Each group will recieve a scoring handout for the instructor to fill out during tests.
 
 
-## THE CHALLENGES:
+## The Challenges:
 
 ### 1) Bring all of the people to the red zone
 For the first challenge, construct an arm for the robot that is capable of recovering the lego people and bringing them back to the base. Once they are returned, program the robot to travel across the field to the red zone without running into any of the cars or obstacles on the way. 

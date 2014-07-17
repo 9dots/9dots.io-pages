@@ -17,18 +17,20 @@ image: "http://uploads.9dots.io/OihMWlD_md.jpg"
 
 ---
 
-## Materials:
+## Setup
+
+### Materials:
 - Lego Mindstorm NXT kit
 - Computer with NXT software
 - Teacher-created maze
 
-## Media and Handouts:
+### Media and Handouts:
 - Iteration and wrap-up handout
 
-## Project time:
-1 hr 15 min
+### Project time:
+- 1 hr 15 min
 
-## Lesson Plan
+## Introduce
 
 ### DO NOW:
 Students will answer the following questions on a piece of paper at the beginning of the lesson:
@@ -43,6 +45,8 @@ _How do you change the duration of the move block?_
 ### EXPLAIN:
 Tell students that their goal is to create a robot that is capable of going through a maze by using the walls to direct itself. Bonus points will be awarded for each wall that the robot touches.
 
+## Guided Practice
+
 ### PLAY:
 Start a game of mindstorm says to check for understanding.  The rules will be the same as in the previous lesson. To recap:
 
@@ -52,6 +56,7 @@ Start a game of mindstorm says to check for understanding.  The rules will be th
 - **Wait block with touch sensor:** A tap on the head activates the student’s touch sensor. Students will now move on to the next step in the program.
 - **Loop:** Any parts of the program that are between the start and end of loop pages should be repeated until the teacher says to stop.
 
+## Explore
 
 ### PROGRAM:
 Each group has 35 minutes to program the robot to complete the maze. Points for the robots will be rewarded for:

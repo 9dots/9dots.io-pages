@@ -19,17 +19,19 @@ image: "http://uploads.9dots.io/OiPZWWg_md.jpg"
 
 ---
 
-## Materials:
+## Setup
+
+### Materials:
 
 - Computers with internet access
 
-## Preparation:
+### Preparation:
 
 - Print publication goals
 - Print the website publication flowchart
 - Print the CSS cheat sheet
 
-## Lesson
+## Work Day
 
 ### CONNECT:
 Over the course of the unit students have learned all of the skills you need to create your website. With the translated prototypes, students will see their websites become a reality when they input their code into codepen. 

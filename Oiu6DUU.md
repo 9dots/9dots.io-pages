@@ -15,17 +15,19 @@ image: "http://uploads.9dots.io/Oiz2inn_md.jpg"
 
 ---
 
-## Materials:
+## Setup
+
+### Materials:
 
 - Storyboarding handout
 - [Stop motion inspiration](https://www.youtube.com/watch?v=qBjLW5_dGAM)
 
-## Preparation:
+### Preparation:
 
 - Print storyboarding handout
 - Review brainstormed ideas from lesson 5
 
-## Lesson:
+## Introduce
 
 ### DO NOW:
 As students enter the class, they have 3 minutes to write down what it means to have a reasonable idea for their movies.
@@ -35,6 +37,8 @@ A video for a little [stop motion inspiration](https://www.youtube.com/watch?v=q
 
 ### HOOK:
 Tell students that starting today will be the final day of planning before they begin creating their movies. They will be receiving their approved brainstorming ideas and will then have to create a written story and illustrated storyboard for their approved idea. This is a time for the groups to really consider all of the scenes of their movie. A more refined storyboard will make for a better movie.
+
+## Explore
 
 ### REASONABLE:
 Remind students that even with their ideas approved, it is important to come up with scenes for their movies that are reasonable. This includes the fact that the pictures will be taken in the classroom setting with limited time and resources.

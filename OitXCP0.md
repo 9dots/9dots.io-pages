@@ -12,12 +12,14 @@ image: "http://uploads.9dots.io/Oiz4EH1_md.jpg"
 
 ---
 
-## Materials:
+## Setup
+
+### Materials:
 
 - Legos
 - Computers with iMovie and Photobooth
 
-## Stop Motion Examples:
+### Stop Motion Examples:
 - [Deadline Stop Motion Video](http://www.youtube.com/watch?v=BpWM0FNPZSs)
 - [Summer Nights Stop Motion Video](http://www.youtube.com/watch?v=_whyjdt5Qso)
 - [In Your Arms Video](http://www.youtube.com/watch?v=IOu0DuxFAT0)
@@ -26,11 +28,11 @@ image: "http://uploads.9dots.io/Oiz4EH1_md.jpg"
 - [Wallace and Gromit Video](http://www.youtube.com/watch?v=CJDhmlMQT60)
 - [Box Trolls Trailer](http://www.youtube.com/watch?v=Vfm4uPESCoI)
 
-## Preparation:
+### Preparation:
 - Ensure all of the computers have iMovie installed
 - Separate legos into separate boxes for the groups
 
-## Lesson:
+## Introduce
 
 ### REVIEW:
 _What is animation?_
@@ -40,7 +42,9 @@ _Why did the flipbook animation make it look like the characters were moving?_
 Afterimage makes it so that our eyes remember the previous picture for about 1/32 second after it is shown. That, combined with the new image, makes it appear as if it moving.
 
 
-### INTRODUCE:
+## Guided Practice
+
+### Explain:
 _What is stop motion animation?_
 Stop Motion animation is a process that is similar to the flipbook except that instead of flipping a page, the computer will be playing a series of pictures very quickly. An example of an upcoming movie that utilizes stop motion animation is the film Boxtrolls.
 
@@ -51,6 +55,8 @@ Show students the [Box Trolls Trailer](http://www.youtube.com/watch?v=Vfm4uPESCo
 
 ### CHECK FOR UNDERSTANDING:
 Share with a partner how the process for making a stop motion animation is similar to making a flipbook. 
+
+## Explore
 
 ### CREATE:
 Distribute the Stop Motion Challenge handout to students. The instructions for creating the first stop motion are:
@@ -68,5 +74,5 @@ To watch the stop motion:
 1. Select the first picture in Photobooth
 2. Hold the arrow keys on the keyboard to make the pictures animate just like the flipbook.
 
-### EXPLORE:
+### Go Beyond:
 If you finish, create a second animation of the tower falling apart or shrinking using the same process.

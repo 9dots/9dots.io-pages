@@ -21,16 +21,19 @@ id: "9dots-OJ8iMiY"
 
 ---
 
-## Materials:
+## Setup
+
+### Materials:
 - Lego Mindstorm kit
 
-## Media and Handouts:
+### Media and Handouts:
 - [Introduction to Engineering](http://www.education.rec.ri.cmu.edu/previews/robot_c_products/teaching_rc_lego_v2_preview/fundamentals/projectmanagement/videos/engineeringprocess.html) 
 - Introduction to parts
 - EV3 Educator Model Building Instructions
 - NXT REM Building Instructions 
 
-## Lesson Plan
+## Introduce
+
 ### HOOK:
 _What do engineers do?_
 Engineers use science and math to solve problems and make everyday life easier. 
@@ -38,8 +41,12 @@ Engineers use science and math to solve problems and make everyday life easier.
 _What kind of process do students think engineers use to solve problems?_
 Show the [introduction to engineering](http://www.education.rec.ri.cmu.edu/previews/robot_c_products/teaching_rc_lego_v2_preview/fundamentals/projectmanagement/videos/engineeringprocess.html) video.  When it is over tell students that their goal for the afternoon is to build a robot capable of driving in a straight line.
 
+## Guided Practice
+
 ### EXPLAIN:
 Show students the building plans for the EV3 Educator Model. Explain that this robot is helpful for learning how to program the robot, and that students will be coming up with their own designs later in the unit.
+
+## Explore
 
 ### BUILD:
 Students should now begin building using the plans.  When students are finished, they will run the simple straight line program and see their robot move. Students who finish early can explore further by attaching various sensors to their robot.

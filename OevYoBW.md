@@ -21,27 +21,32 @@ image: "http://uploads.9dots.io/OiEZ2RO_md.jpg"
 
 ---
 
-## Materials
+## Setup
+
+### Materials:
 
 - Stickman worksheet
 - Puppy pals worksheet
 
-##Preparation
+### Preparation:
 
 - Print worksheets
 - On a whiteboard, write out a table of the three HTML elements like the one below
 
-## Lesson
+## Introduce
 
 ### REVIEW:
 _What is HTML?_
 HTML is the code that programmers use to make websites. Each line of HTML represents an element on the page. 
 
-### INTRODUCE:
+### Show:
 _What does HTML look like?_
 
 ![](http://uploads.9dots.io/OfUXVZ7_md.jpg) 
 
+## Guided practice
+
+### Explain:
 HTML is a series of tags which describe the elements on the webpage. Tags are the building blocks of a website and usually come in pairs. The first in the pair is the start tag and the second is the end tag.  The end tag is written the same as the start tag, but with a forward slash in front of the name. Any words written in between the tags will be displayed as text on the page. 
 
 Today we are going to focus on three specific tags:
@@ -89,6 +94,8 @@ When they have finished writing, their paper should read:
 
 ### EXPLAIN:
 HTML tags are written in order from the top of the page to the bottom of the page.
+
+## Explore
 
 ### WORK TOGETHER:
 Handout the Stickman example worksheet. Together the class will translate the example document into HTML tags. First, students will label their document so that each element is catagorized as either a heading, paragraph, or an image. The example document is color coded to match with the answer page. To write the HTML for each element on the example document, guide students through the same steps as the examples above.

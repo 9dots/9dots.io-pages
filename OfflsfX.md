@@ -21,16 +21,18 @@ image: "http://uploads.9dots.io/OiEbc6S_md.jpg"
 
 ---
 
-## Materials:
+## Setup
+
+### Materials:
 
 - Computers with internet access
 
-## Preparation:
+### Preparation:
 
 - Print example websites
 - Create a login for codepen.io (one account can be used by all of the students)
 
-##Lesson
+## Introduce
 
 ### REVIEW: 
 _Which HTML tags have you learned about so far? What is each one used for?_
@@ -39,8 +41,12 @@ Students have learned about the header, image, and paragraph tags. The header is
 _What are the 3 parts to an HTML tag?_
 Each HTML tag is composed of 3 parts: the start tag, content, and the end tag. 
 
-### INTRODUCE:
+### Explain:
 Today, students will be learn about two new types of tags: **body** and **div**.  These tags are written the same as the others with a start tag, content, and an end tag.  However, instead of the content being text, the content of these tags is one or multiple HTML tags.
+
+## Guided Practice
+
+### Nested Tags:
 ```
 <body>
 	<p> this is a nested paragraph because it is inside the body </p>
@@ -76,10 +82,12 @@ The content of the new tags is more HTML instead of text.
 _Why does the end tag for the **body** at the bottom of the page?_
 The end tag is at the bottom because the contents of the body is the entire rest of the HTML.
 
+## Explore
+
 ### INDIVIDUALLY:
 Handout the Musical Mayhem worksheet. Students will work individually on translating this document into HTML. When they have finished they should check their answers with their neighbors. 
 
-### EXPLORE:
+### Try it:
 Students will now type the translated HTML into codepen.io so that they can see how it builds a website.
 
 ### WRAP-UP:

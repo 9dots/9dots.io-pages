@@ -17,7 +17,8 @@ attachments:
     name: PuppyPals2 Answer Key.pdf
 id: "9dots-OfflsfX"
 title: Nested Tags
-image: "http://uploads.9dots.io/OiEbc6S_md.jpg"
+image: "http://uploads.9dots.io/Okh8Q6y_md.jpg"
+fullImage: "http://uploads.9dots.io/Okh8Q6y_lrg.jpg"
 
 ---
 

@@ -8,10 +8,11 @@ org: 9dots
 objective: "By the end of the lesson students will be able to define an application, generate 3 application ideas, and discuss the importance of a well designed website"
 id: "9dots-OcIwayL"
 title: Making a Good Website
-image: "http://uploads.9dots.io/OcJ25Bl_md.jpg"
+image: "http://uploads.9dots.io/Okh1wp1_md.jpg"
 attachments: 
   - path: "http://uploads.9dots.io/Oi8d7pz.pdf"
     name: BrainstormApp.pdf
+fullImage: "http://uploads.9dots.io/Okh1wp1_lrg.jpg"
 
 ---
 

@@ -16,8 +16,9 @@ attachments:
     name: rem.pdf
   - path: "http://uploads.9dots.io/OiQX849.pdf"
     name: ev3Basic.pdf
-image: "http://uploads.9dots.io/OiQXSeh_md.jpg"
+image: "http://uploads.9dots.io/OkgzStc_md.jpg"
 id: "9dots-OJ8iMiY"
+fullImage: "http://uploads.9dots.io/OkgzStc_lrg.jpg"
 
 ---
 

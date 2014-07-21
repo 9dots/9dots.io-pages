@@ -11,7 +11,8 @@ id: "9dots-OeAmgrD"
 attachments: 
   - path: "http://uploads.9dots.io/Oi8mbte.pdf"
     name: ResearchHandout.pdf
-image: "http://uploads.9dots.io/Oi9IqZd_md.jpg"
+image: "http://uploads.9dots.io/Okh3ulc_md.jpg"
+fullImage: "http://uploads.9dots.io/Okh3ulc_lrg.jpg"
 
 ---
 

@@ -8,7 +8,8 @@ org: 9dots
 objective: "By the end of the lesson, students will be able to import images into Inkscape and recognize each section of their layout at separate html elements."
 id: "9dots-OevTFrs"
 title: Photo Finish
-image: "http://uploads.9dots.io/OiEX8Np_md.jpg"
+image: "http://uploads.9dots.io/Okh4Bf6_md.jpg"
+fullImage: "http://uploads.9dots.io/Okh4Bf6_lrg.jpg"
 
 ---
 

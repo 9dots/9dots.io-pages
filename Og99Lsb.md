@@ -15,7 +15,8 @@ attachments:
     name: CSS cheat sheet.pdf
 id: "9dots-Og99Lsb"
 title: "Original Website:  HTML"
-image: "http://uploads.9dots.io/OiPZWWg_md.jpg"
+image: "http://uploads.9dots.io/OkhAVoO_md.jpg"
+fullImage: "http://uploads.9dots.io/OkhAVoO_lrg.jpg"
 
 ---
 

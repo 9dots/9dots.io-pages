@@ -6,9 +6,10 @@ type: lesson
 org: 9dots
 title: Spaghetti Marshmallow Tower
 blurb: Students will experiment with different building shapes to determine which are the most stable for building vertically.
-image: "http://uploads.9dots.io/OLy7L4m_md.jpg"
+image: "http://uploads.9dots.io/OkgwweW_md.jpg"
 id: "9dots-OIf82aa"
 objective: "By the end of the project, students will be able to identify the best shapes for building a tower."
+fullImage: "http://uploads.9dots.io/OkgwweW_lrg.jpg"
 
 ---
 

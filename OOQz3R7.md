@@ -7,8 +7,9 @@ title: "It’s Electric Part 2: Makey Makey Circuit Challenges"
 objective: "Students will continue to explore circuits, using the Makey Makey and different conductive materials.  By the end of the lesson, students will be able to use use their creativity to make a variety of #circuits with the #MakeyMakey."
 org: 9dots
 id: "9dots-OOQz3R7"
-image: "http://uploads.9dots.io/OOtZKlF_md.jpg"
+image: "http://uploads.9dots.io/Okh1cq9_md.jpg"
 blurb: Students will work through a series of Makey Makey challenges to win points for their team.
+fullImage: "http://uploads.9dots.io/Okh1cq9_lrg.jpg"
 
 ---
 

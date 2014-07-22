@@ -4,7 +4,7 @@ views: 0
 published: true
 type: lesson
 title: Film Score
-blurb: Students will learn about film scores and how music can set the tone for a scene.
+blurb: "Students will learn about how to make a film score using an example clip, and how music can set the tone for a scene."
 org: 9dots
 objective: "By the end of the lesson, students will be able to explain what a film score is, and use GarageBand to create a score for an example clip."
 id: "9dots-OjMBHvd"

@@ -4,7 +4,7 @@ views: 0
 published: true
 type: lesson
 title: Theme Song
-blurb: "In this final lesson, students will create a theme song for their favorite movie."
+blurb: "In this final lesson, students will create a theme song for their favorite movie and publish the song in iTunes."
 org: 9dots
 objective: "By the end of the lesson, students will be able to create a theme song that has at least three different instrument tacks, is at least one minute in length, and is saved and shared on iTunes."
 attachments: 

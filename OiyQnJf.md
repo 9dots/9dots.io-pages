@@ -7,8 +7,9 @@ blurb: Student will learn about the different roles (director and animator) for 
 org: 9dots
 objective: "By the end of the lesson, students will be able to define the roles of director and animator, as well as complete taking at least 60 pictures for their movie."
 title: "Pictures: Day 1"
-image: "http://uploads.9dots.io/OiySAOf_md.jpg"
+image: "http://uploads.9dots.io/Oki1cnn_md.jpg"
 id: "9dots-OiyQnJf"
+fullImage: "http://uploads.9dots.io/Oki1cnn_lrg.jpg"
 
 ---
 

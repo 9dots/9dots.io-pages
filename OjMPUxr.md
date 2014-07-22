@@ -11,8 +11,9 @@ lessons:
 title: GarageBand
 org: 9dots
 blurb: "A four lesson unit on creating music using the pre-recorded loops in the GarageBand application."
-image: "http://uploads.9dots.io/OjMYEfy_md.jpg"
+image: "http://uploads.9dots.io/OkiJQn5_md.jpg"
 id: "9dots-OjMPUxr"
+fullImage: "http://uploads.9dots.io/OkiJQn5_lrg.jpg"
 
 ---
 

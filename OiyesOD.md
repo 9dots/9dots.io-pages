@@ -7,11 +7,12 @@ title: "Editing: Day 1"
 org: 9dots
 blurb: "Students will use iMovie to add transitions, sound effects, and background music to make their movies come to life."
 objective: "By the end of the lesson, students will be able to demonstrate learning by using iMovie to set the picture duration and add transitions, sound effects, and background music."
-image: "http://uploads.9dots.io/OiyhIiK_md.jpg"
+image: "http://uploads.9dots.io/OkijuOS_md.jpg"
 attachments: 
   - path: "http://uploads.9dots.io/OiyhygK.pdf"
     name: EditingChecklistFinalProject.pdf
 id: "9dots-OiyesOD"
+fullImage: "http://uploads.9dots.io/OkijuOS_lrg.jpg"
 
 ---
 

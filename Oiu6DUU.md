@@ -11,7 +11,8 @@ attachments:
   - path: "http://uploads.9dots.io/Oiu98Mi.docx"
     name: STORY BOARDING HANDOUT.docx
 id: "9dots-Oiu6DUU"
-image: "http://uploads.9dots.io/Oiz2inn_md.jpg"
+image: "http://uploads.9dots.io/Oki12DH_md.jpg"
+fullImage: "http://uploads.9dots.io/Oki12DH_lrg.jpg"
 
 ---
 

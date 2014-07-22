@@ -5,7 +5,7 @@ published: true
 type: lesson
 blurb: "During this lesson, students will continue to explore CSS and learn how to resize elements and create margins create space between elements."
 org: 9dots
-objective: "By the end of the lesson, students will be able to use the height and width properties to resize elements, explain how the margin property is used to create space between elements, and inspect websites to look at the HTML and CSS rules for an element"
+objective: "By the end of the lesson, students will be able to use the height and width properties to resize elements, explain how the margin property is used to create space between elements, and inspect websites to look at the HTML and CSS rules for an element."
 id: "9dots-OfgXA7V"
 title: Selectors and Size
 image: "http://uploads.9dots.io/Okh7UNa_md.jpg"

@@ -4,7 +4,7 @@ views: 0
 published: true
 type: lesson
 title: Line Follow
-blurb: This lesson will focus on using the color sensor to follow a line on the ground.
+blurb: "This lesson will focus on using the color sensor to follow a line on the ground, as well as an introduction to the switch statement."
 org: 9dots
 objective: "By the end of the lesson, the student will be able to identify a programming switch statement and discuss the strategy for programming a robot to follow a black line."
 attachments: 
@@ -13,7 +13,8 @@ attachments:
   - path: "http://uploads.9dots.io/OihVy5K.pdf"
     name: "Dailywrap-up.pdf"
 id: "9dots-OihTZql"
-image: "http://uploads.9dots.io/Oii1nM2_md.jpg"
+image: "http://uploads.9dots.io/OkhyI13_md.jpg"
+fullImage: "http://uploads.9dots.io/OkhyI13_lrg.jpg"
 
 ---
 

@@ -15,7 +15,8 @@ attachments:
   - path: "http://uploads.9dots.io/OiQgHq5.pdf"
     name: "Dailywrap-up.pdf"
 id: "9dots-OiQezr2"
-image: "http://uploads.9dots.io/OiQnuOq_md.jpg"
+image: "http://uploads.9dots.io/OkhmnjK_md.jpg"
+fullImage: "http://uploads.9dots.io/OkhmnjK_lrg.jpg"
 
 ---
 

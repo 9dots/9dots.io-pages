@@ -5,7 +5,7 @@ type: lesson
 org: 9dots
 objective: "Students will learn basic computer programming through Scratch and the Makey Makey.  By the end of the lesson, students will be able to build a simple computer program in Scratch and control it with the MaKey MaKey."
 blurb: Students will learn how to use Scratch and the Makey Makey to add interactivity to their zines.
-title: "Interactive Zine Part 2: Adding Scratch & the Makey Makey"
+title: "Interactive Zine: Adding Scratch & the Makey Makey"
 id: "9dots-ONl9uCt"
 image: "http://uploads.9dots.io/Okh0Non_md.jpg"
 fullImage: "http://uploads.9dots.io/Okh0Non_lrg.jpg"

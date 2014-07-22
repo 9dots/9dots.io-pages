@@ -10,8 +10,9 @@ attachments:
   - path: "http://uploads.9dots.io/OiyZEJr.mp4"
     name: wallace and gromit establishing.mp4
 org: 9dots
-image: "http://uploads.9dots.io/OiyZMrT_md.jpg"
+image: "http://uploads.9dots.io/Oki359o_md.jpg"
 id: "9dots-OiyXfpq"
+fullImage: "http://uploads.9dots.io/Oki359o_lrg.jpg"
 
 ---
 

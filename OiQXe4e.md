@@ -3,7 +3,7 @@ author: danleavitt0
 views: 0
 published: true
 type: lesson
-title: Introduction to Programming and Basic Robot Features
+title: Introduction to EV3 Programming
 blurb: This lesson will provide students with a basic knowledge of the programming process and introduce them to the Lego Mindstorm software
 org: 9dots
 objective: "By the end of the lesson, students will be able to explain what a programmer is, define a simple behavior, and write a program capable of navigating their robot through a simple maze"

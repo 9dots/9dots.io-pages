@@ -19,8 +19,9 @@ lessons:
 title: Stop Motion Animation
 org: 9dots
 blurb: "Through a 6 week project, students will learn the skills of creating and editing a stop motion animation."
-image: "http://uploads.9dots.io/Oiz59hZ_md.jpg"
+image: "http://uploads.9dots.io/OkiJsQQ_md.jpg"
 id: "9dots-Oiz4KnI"
+fullImage: "http://uploads.9dots.io/OkiJsQQ_lrg.jpg"
 
 ---
 

@@ -30,7 +30,7 @@ fullImage: "http://uploads.9dots.io/OkiEV1I_lrg.jpg"
 
 ## Introduce
 
-### INTRODUCTION:
+### Goals:
 Students will continue to add the buttons to their controllers. Using a Makey Makey, they will make sure to have at least four functional buttons by the end of the project day.
 
 ## Guided Practice

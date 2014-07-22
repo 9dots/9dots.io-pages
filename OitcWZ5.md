@@ -96,5 +96,4 @@ Put the students into groups of two and hand out the editing instructions. With 
 27. Type ‘The End’ at the top followed by the credits for your team
 
 Your finished video should look like this:
-
 ![](http://uploads.9dots.io/Oith6gD_md.jpg)

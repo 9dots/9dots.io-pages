@@ -11,8 +11,8 @@ id: "9dots-OjXn6rU"
 attachments: 
   - path: "http://uploads.9dots.io/OjYBt73.pdf"
     name: blueprintworksheet.pdf
-image: "http://uploads.9dots.io/Oksc3zz_md.jpg"
-fullImage: "http://uploads.9dots.io/Oksc3zz_lrg.jpg"
+image: "http://uploads.9dots.io/OksegWr_md.jpg"
+fullImage: "http://uploads.9dots.io/OksegWr_lrg.jpg"
 
 ---
 

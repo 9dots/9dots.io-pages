@@ -8,6 +8,8 @@ org: 9dots
 blurb: Students will learn what a robot is and brainstorm ideas for their own personal robot assistants.
 objective: "By the end of the lesson, student will be able to define the term robot by creating a description and drawing of a self-imagined robot."
 id: "9dots-OjXYhBK"
+image: "http://uploads.9dots.io/Oksa5f8_md.jpg"
+fullImage: "http://uploads.9dots.io/Oksa5f8_lrg.jpg"
 
 ---
 

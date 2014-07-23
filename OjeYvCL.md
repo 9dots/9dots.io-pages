@@ -8,6 +8,8 @@ org: 9dots
 id: "9dots-OjeYvCL"
 blurb: "The last day of the Cardboard Robots project! Students will finish up anything they are working on and show their creation to the group."
 objective: "By the end of the lesson, the students will have completed a cardboard robot with fixed parts, moveable parts, and at least one circuit."
+image: "http://uploads.9dots.io/OksiXHH_md.jpg"
+fullImage: "http://uploads.9dots.io/OksiXHH_lrg.jpg"
 
 ---
 

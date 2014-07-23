@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: unit
 lessons: 
   - "9dots-OjXYhBK"
@@ -20,6 +20,8 @@ org: 9dots
 title: Cardboard Robots
 blurb: "Students will learn about creating blueprints, fixed and moveable parts, circuits, and budgeting through a hands on engineering project."
 id: "9dots-Ojehzk2"
+image: "http://uploads.9dots.io/Oksq77G_md.jpg"
+fullImage: "http://uploads.9dots.io/Oksq77G_lrg.jpg"
 
 ---
 

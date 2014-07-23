@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 title: "Cardboard Robots: Blueprint"
 objective: "By the end of the lesson, students will be able to define a blueprint, explain why dimensions and labels are important, and turn their sketches into realistic blueprints of their self-imagined robot."

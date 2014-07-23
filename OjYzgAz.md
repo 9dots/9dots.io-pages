@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 title: "Cardboard Robots: Building"
 blurb: "Using student projects as an example, students will discuss strategies for successfully building their robot and put them into practice."

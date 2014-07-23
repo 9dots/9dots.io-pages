@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 title: "Cardboard Robots: Finish Building"
 blurb: Students will be able to demonstrate an understanding of building from a design as they finish building their cardboard robots

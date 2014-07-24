@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 attachments: 
   - path: "http://uploads.9dots.io/Ok76kyo.pdf"

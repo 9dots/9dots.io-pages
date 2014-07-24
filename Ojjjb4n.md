@@ -13,6 +13,8 @@ attachments:
 id: "9dots-Ojjjb4n"
 blurb: "Students will collaborate to decide upon a theme fro their mural, and begin the process of designing their contribution to the piece."
 objective: "By the end of the lesson, students will be able to work collaboratively to develop a theme for the mural."
+image: "http://uploads.9dots.io/Okxo8x3_md.jpg"
+fullImage: "http://uploads.9dots.io/Okxo8x3_lrg.jpg"
 
 ---
 

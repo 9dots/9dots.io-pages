@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 title: "Shark Tank: Sales"
 org: 9dots

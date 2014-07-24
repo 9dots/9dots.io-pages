@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 org: 9dots
 id: "9dots-Ok1vmfV"

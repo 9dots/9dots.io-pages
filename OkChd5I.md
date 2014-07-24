@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 org: 9dots
 title: "Interactive Art Wall: Painting"

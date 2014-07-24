@@ -15,6 +15,8 @@ org: 9dots
 id: "9dots-OjjKdwN"
 blurb: "To start the interactive art wall unit, students will learn about murals, and brainstorm themes for their own painting."
 objective: "By the end of the lesson, students will be able to describe a mural, list two reasons that murals are important, and brainstorm five ideas for their own mural."
+image: "http://uploads.9dots.io/OkxhiWo_md.jpg"
+fullImage: "http://uploads.9dots.io/OkxhiWo_lrg.jpg"
 
 ---
 

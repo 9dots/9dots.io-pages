@@ -8,8 +8,8 @@ org: 9dots
 id: "9dots-OjeSQsA"
 blurb: "Students will go back to their initial goals for their robot, and devise a strategy to make their robot match their original ideas."
 objective: "By the end of the lesson, students will be able to, through collaboration,  develop a strategy to complete their robot."
-image: "http://uploads.9dots.io/OksiGVl_md.jpg"
-fullImage: "http://uploads.9dots.io/OksiGVl_lrg.jpg"
+image: "http://uploads.9dots.io/Ol488Aa_md.jpg"
+fullImage: "http://uploads.9dots.io/Ol488Aa_lrg.jpg"
 
 ---
 

@@ -15,8 +15,8 @@ attachments:
     name: Example Clip no Music.mov
   - path: "http://uploads.9dots.io/OjMFH5f.mov"
     name: Example Clip with Music.mov
-image: "http://uploads.9dots.io/Oki5wqM_md.jpg"
-fullImage: "http://uploads.9dots.io/Oki5wqM_lrg.jpg"
+image: "http://uploads.9dots.io/Ol3x1li_md.jpg"
+fullImage: "http://uploads.9dots.io/Ol3x1li_lrg.jpg"
 
 ---
 

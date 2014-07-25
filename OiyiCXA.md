@@ -7,9 +7,9 @@ blurb: "For the final day of the project, groups will make finish editing their 
 org: 9dots
 title: "Editing: Finish Project"
 objective: "By the end of the lesson, students will be able to finish editing their videos by completing the editing checklist, and use a title to show the ending credits for their movie."
-image: "http://uploads.9dots.io/Oki4wG5_md.jpg"
+image: "http://uploads.9dots.io/Ol3wjnh_md.jpg"
 id: "9dots-OiyiCXA"
-fullImage: "http://uploads.9dots.io/Oki4wG5_lrg.jpg"
+fullImage: "http://uploads.9dots.io/Ol3wjnh_lrg.jpg"
 
 ---
 

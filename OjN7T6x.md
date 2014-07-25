@@ -12,9 +12,9 @@ lessons:
 org: 9dots
 title: Giant Game Controllers
 blurb: "This unit will give students an introduction into circuits by using the #MakeyMakey to create a giant game controller."
-image: "http://uploads.9dots.io/OkiIzfb_md.jpg"
+image: "http://uploads.9dots.io/Ol4DPb6_md.jpg"
 id: "9dots-OjN7T6x"
-fullImage: "http://uploads.9dots.io/OkiIzfb_lrg.jpg"
+fullImage: "http://uploads.9dots.io/Ol4DPb6_lrg.jpg"
 
 ---
 

@@ -11,8 +11,8 @@ attachments:
     name: ProductDesignGuide.pdf
 blurb: "Students will take a more in-depth look at the process behind designing a product. They will then apply that methodology to their products."
 objective: "By the end of the lesson, students will be able to define prototype, explain the process of design, and discuss the importance of iteration to that process."
-image: "http://uploads.9dots.io/Ol3nsZq_md.jpg"
-fullImage: "http://uploads.9dots.io/Ol3nsZq_lrg.jpg"
+image: "http://uploads.9dots.io/Ol4A8Wj_md.jpg"
+fullImage: "http://uploads.9dots.io/Ol4A8Wj_lrg.jpg"
 
 ---
 

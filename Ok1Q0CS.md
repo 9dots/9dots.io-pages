@@ -11,8 +11,8 @@ attachments:
 id: "9dots-Ok1Q0CS"
 blurb: Students will learn about product design inspired by nature as they create a product for a Shark Tank style competition.
 objective: "By the end of the lesson, students will be able to define biomimicry, explain what a product is, and analyze useful characteristics about their assigned animal."
-image: "http://uploads.9dots.io/OkyUwAe_md.jpg"
-fullImage: "http://uploads.9dots.io/OkyUwAe_lrg.jpg"
+image: "http://uploads.9dots.io/Ol49qcj_md.jpg"
+fullImage: "http://uploads.9dots.io/Ol49qcj_lrg.jpg"
 
 ---
 

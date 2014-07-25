@@ -8,7 +8,8 @@ org: 9dots
 id: "9dots-OjduqFl"
 blurb: "Students will review their knowledge of circuits, and create light up elements on their robots."
 objective: "By the end of the lesson, students will be able to design their own circuits, and add them to their robot according to their plans."
-image: "http://uploads.9dots.io/OjeEOhS_md.jpg"
+image: "http://uploads.9dots.io/Ol47pAw_md.jpg"
+fullImage: "http://uploads.9dots.io/Ol47pAw_lrg.jpg"
 
 ---
 

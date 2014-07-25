@@ -8,8 +8,8 @@ title: "Interactive Art Wall: Painting"
 id: "9dots-OkChd5I"
 blurb: "In this lesson, students will start working on their piece of the interactive art wall by sketching out their ideas with pencil."
 objective: "By the end of the lesson, students will have sketched their mural on the cardboard provided to them."
-image: "http://uploads.9dots.io/Oky5ACu_md.jpg"
-fullImage: "http://uploads.9dots.io/Oky5ACu_lrg.jpg"
+image: "http://uploads.9dots.io/Ol4AsIh_md.jpg"
+fullImage: "http://uploads.9dots.io/Ol4AsIh_lrg.jpg"
 
 ---
 

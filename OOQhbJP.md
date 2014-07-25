@@ -8,8 +8,8 @@ blurb: Students will earn about electricity by building circuits with conductive
 org: 9dots
 objective: "This project introduces the basic concepts of electricity and  conductivity.  By the end of the project, students will be able to to build simple functioning circuits and explain the difference between open and closed circuits."
 id: "9dots-OOQhbJP"
-image: "http://uploads.9dots.io/Okh1Cmv_md.jpg"
-fullImage: "http://uploads.9dots.io/Okh1Cmv_lrg.jpg"
+image: "http://uploads.9dots.io/Ol3q2Gu_md.jpg"
+fullImage: "http://uploads.9dots.io/Ol3q2Gu_lrg.jpg"
 
 ---
 

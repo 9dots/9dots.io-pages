@@ -11,8 +11,8 @@ id: "9dots-OjMk5CC"
 attachments: 
   - path: "http://uploads.9dots.io/OjMnNR0.pdf"
     name: BrainstormSketch.docx.pdf
-image: "http://uploads.9dots.io/Oki7IHh_md.jpg"
-fullImage: "http://uploads.9dots.io/Oki7IHh_lrg.jpg"
+image: "http://uploads.9dots.io/Ol44m5U_md.jpg"
+fullImage: "http://uploads.9dots.io/Ol44m5U_lrg.jpg"
 
 ---
 

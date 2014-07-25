@@ -7,9 +7,9 @@ title: Flipbooks
 blurb: This lesson will provide students with a short history of animation and produce a deliverable as students create an animated flip book.
 org: 9dots
 objective: "By the end of the lesson, students will be able to define animation, explain how the concept of afterimage makes animation possible, and demonstrate learning by creating a flipbook."
-image: "http://uploads.9dots.io/OkhypAw_md.jpg"
+image: "http://uploads.9dots.io/Ol3uh22_md.jpg"
 id: "9dots-OiiarUw"
-fullImage: "http://uploads.9dots.io/OkhypAw_lrg.jpg"
+fullImage: "http://uploads.9dots.io/Ol3uh22_lrg.jpg"
 
 ---
 

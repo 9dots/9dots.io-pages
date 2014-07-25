@@ -11,8 +11,8 @@ id: "9dots-OiiP8t9"
 attachments: 
   - path: "http://uploads.9dots.io/OiiSMQe.pdf"
     name: RoboticsScoring.pdf
-image: "http://uploads.9dots.io/OkhxqeY_md.jpg"
-fullImage: "http://uploads.9dots.io/OkhxqeY_lrg.jpg"
+image: "http://uploads.9dots.io/Ol3uZXn_md.jpg"
+fullImage: "http://uploads.9dots.io/Ol3uZXn_lrg.jpg"
 
 ---
 

@@ -8,7 +8,8 @@ blurb: "Using student projects as an example, students will discuss strategies f
 org: 9dots
 objective: "By the end of the lesson, students will be able to discuss strategies for building with cardboard, and select two important pieces to finish building."
 id: "9dots-OjYzgAz"
-image: "http://uploads.9dots.io/OjZ79CY_md.jpg"
+image: "http://uploads.9dots.io/Ol46Uh7_md.jpg"
+fullImage: "http://uploads.9dots.io/Ol46Uh7_lrg.jpg"
 
 ---
 

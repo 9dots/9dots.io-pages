@@ -8,8 +8,8 @@ title: "Interactive Art Wall: Adding Little Bits"
 blurb: "During this lesson, students will be attaching their foreground and background, as well as adding #LittleBits to their projects."
 id: "9dots-OkDH1OR"
 objective: "By the end of the lesson, students will complete a mural with a foreground and background, and have a plan for attaching the Little Bits."
-image: "http://uploads.9dots.io/Okymsfu_md.jpg"
-fullImage: "http://uploads.9dots.io/Okymsfu_lrg.jpg"
+image: "http://uploads.9dots.io/Ol4BD9v_md.jpg"
+fullImage: "http://uploads.9dots.io/Ol4BD9v_lrg.jpg"
 
 ---
 

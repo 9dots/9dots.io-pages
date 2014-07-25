@@ -11,8 +11,8 @@ objective: "By the end of the lesson, students will be able to explain the impor
 attachments: 
   - path: "http://uploads.9dots.io/Ok13bji.pdf"
     name: Creatureplanning.pdf
-image: "http://uploads.9dots.io/Okxp5rC_md.jpg"
-fullImage: "http://uploads.9dots.io/Okxp5rC_lrg.jpg"
+image: "http://uploads.9dots.io/Ol48to4_md.jpg"
+fullImage: "http://uploads.9dots.io/Ol48to4_lrg.jpg"
 
 ---
 

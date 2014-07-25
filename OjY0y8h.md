@@ -8,8 +8,8 @@ org: 9dots
 blurb: "Students will learn about fixed and moving parts, use that information to revise their blueprints, and get hands-on experience with #MakeDo."
 objective: "By the end of the lesson, student will be able to identify fixed parts of a robot, complete a feasibly blueprint for their robot, and construct basic cardboard structures using MakeDo pieces."
 id: "9dots-OjY0y8h"
-image: "http://uploads.9dots.io/OksfHkM_md.jpg"
-fullImage: "http://uploads.9dots.io/OksfHkM_lrg.jpg"
+image: "http://uploads.9dots.io/Ol45uoC_md.jpg"
+fullImage: "http://uploads.9dots.io/Ol45uoC_lrg.jpg"
 
 ---
 

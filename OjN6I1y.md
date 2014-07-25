@@ -8,8 +8,8 @@ blurb: "Students will finish connecting their buttons and testing the response o
 org: 9dots
 objective: "By the end of the lesson, students will be able to use their controller to play games, and explain what how their controller completes a circuit."
 id: "9dots-OjN6I1y"
-image: "http://uploads.9dots.io/OkiG6CY_md.jpg"
-fullImage: "http://uploads.9dots.io/OkiG6CY_lrg.jpg"
+image: "http://uploads.9dots.io/Ol45Qfx_md.jpg"
+fullImage: "http://uploads.9dots.io/Ol45Qfx_lrg.jpg"
 
 ---
 

@@ -11,8 +11,8 @@ id: "9dots-OitkjZk"
 attachments: 
   - path: "http://uploads.9dots.io/OitnGQF.pdf"
     name: EditingChecklist.pdf
-image: "http://uploads.9dots.io/Oki03vC_md.jpg"
-fullImage: "http://uploads.9dots.io/Oki03vC_lrg.jpg"
+image: "http://uploads.9dots.io/Ol3vDW7_md.jpg"
+fullImage: "http://uploads.9dots.io/Ol3vDW7_lrg.jpg"
 
 ---
 

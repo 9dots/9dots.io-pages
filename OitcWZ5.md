@@ -11,8 +11,8 @@ id: "9dots-OitcWZ5"
 attachments: 
   - path: "http://uploads.9dots.io/OitiZTX.pdf"
     name: EditingInstructions.pdf
-image: "http://uploads.9dots.io/Oki0CMO_md.jpg"
-fullImage: "http://uploads.9dots.io/Oki0CMO_lrg.jpg"
+image: "http://uploads.9dots.io/Ol3v1yB_md.jpg"
+fullImage: "http://uploads.9dots.io/Ol3v1yB_lrg.jpg"
 
 ---
 

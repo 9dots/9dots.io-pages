@@ -11,8 +11,8 @@ org: 9dots
 id: "9dots-Ok76jzW"
 objective: "By the end of the lesson, students will have experience designing and selling an original product."
 blurb: Students will present the products that they have been designing this unit to a panel of judges.
-image: "http://uploads.9dots.io/OkyWL28_md.jpg"
-fullImage: "http://uploads.9dots.io/OkyWL28_lrg.jpg"
+image: "http://uploads.9dots.io/Ol4Aj1P_md.jpg"
+fullImage: "http://uploads.9dots.io/Ol4Aj1P_lrg.jpg"
 
 ---
 

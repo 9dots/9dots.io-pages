@@ -11,8 +11,8 @@ attachments:
   - path: "http://uploads.9dots.io/OjMNkIT.pdf"
     name: FinalGarageBandSongChecklist.pdf
 id: "9dots-OjMMbSp"
-image: "http://uploads.9dots.io/Oki6ZI1_md.jpg"
-fullImage: "http://uploads.9dots.io/Oki6ZI1_lrg.jpg"
+image: "http://uploads.9dots.io/Ol3xFsb_md.jpg"
+fullImage: "http://uploads.9dots.io/Ol3xFsb_lrg.jpg"
 
 ---
 

@@ -8,7 +8,7 @@ blurb: This lesson will provide students with a basic knowledge of the programmi
 org: 9dots
 objective: "By the end of the lesson, students will be able to explain what a programmer is, define a simple behavior, and write a program capable of navigating their robot through a simple maze"
 id: "9dots-OiQXe4e"
-image: "http://uploads.9dots.io/OkhkLGj_md.jpg"
+image: "http://uploads.9dots.io/Ol3tbrJ_md.jpg"
 attachments: 
   - path: "http://uploads.9dots.io/OiQdggn.pdf"
     name: Behaviors.pdf
@@ -16,7 +16,7 @@ attachments:
     name: "Dailywrap-up.pdf"
   - path: "http://uploads.9dots.io/OiQe49h.pdf"
     name: IterationLog (1).pdf
-fullImage: "http://uploads.9dots.io/OkhkLGj_lrg.jpg"
+fullImage: "http://uploads.9dots.io/Ol3tbrJ_lrg.jpg"
 
 ---
 

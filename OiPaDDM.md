@@ -20,8 +20,8 @@ title: Web Design
 blurb: "A 12 lesson introduction into the world of web design. By the end of the unit, students will be able to create a website using HTML and CSS."
 org: 9dots
 id: "9dots-OiPaDDM"
-image: "http://uploads.9dots.io/OkiNABI_md.jpg"
-fullImage: "http://uploads.9dots.io/OkiNABI_lrg.jpg"
+image: "http://uploads.9dots.io/Ol4ESyz_md.jpg"
+fullImage: "http://uploads.9dots.io/Ol4ESyz_lrg.jpg"
 
 ---
 

@@ -15,7 +15,8 @@ attachments:
 id: "9dots-Ok18puU"
 blurb: Students will learn how to make their murals three dimensional by using the concepts of foreground and background.
 objective: "By the end of the lesson, students will be able to explain the difference between background and foreground, and use those concepts to plan their mural to be three dimensional."
-image: "http://uploads.9dots.io/Ok6k6jo_md.jpg"
+image: "http://uploads.9dots.io/Ol4C46f_md.jpg"
+fullImage: "http://uploads.9dots.io/Ol4C46f_lrg.jpg"
 
 ---
 

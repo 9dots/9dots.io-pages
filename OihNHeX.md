@@ -13,8 +13,8 @@ attachments:
     name: IterationLog (1).pdf
   - path: "http://uploads.9dots.io/OihTWZw.pdf"
     name: "Dailywrap-up.pdf"
-image: "http://uploads.9dots.io/OkhowC2_md.jpg"
-fullImage: "http://uploads.9dots.io/OkhowC2_lrg.jpg"
+image: "http://uploads.9dots.io/Ol3u9XW_md.jpg"
+fullImage: "http://uploads.9dots.io/Ol3u9XW_lrg.jpg"
 
 ---
 

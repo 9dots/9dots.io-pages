@@ -3,9 +3,9 @@ author: danleavitt0
 views: 0
 published: true
 type: lesson
-blurb: "In this lesson, students will gain a basic understanding of the image, paragraph, and heading HTML elements."
+blurb: "In this lesson, students will gain a basic understanding of the image, paragraph, and heading #HTML elements."
 org: 9dots
-objective: "By the end of the lesson, students will be able to define an #HTML tag, understand how to implement HTML tags in #coding, and translate and example #website into HTML tags."
+objective: "By the end of the lesson, students will be able to define an HTML tag, understand how to implement HTML tags in coding, and translate and example website into HTML tags."
 id: "9dots-OevYoBW"
 title: Building a Website
 attachments: 

@@ -3,7 +3,7 @@ author: danleavitt0
 views: 0
 published: true
 type: lesson
-blurb: Students will put to use their knowledge from the unit to begin the process of creating their website.
+blurb: "Students will put to use their knowledge from the unit to begin the process of creating their #website."
 objective: By the end of the lesson students will have completed inputting all of their HTML code on codepen.
 org: 9dots
 attachments: 

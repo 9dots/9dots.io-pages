@@ -4,7 +4,7 @@ views: 0
 published: true
 type: lesson
 title: "It's Electric Part 1: Currents & Circuits"
-blurb: Students will earn about electricity by building circuits with conductive playdough.
+blurb: "Students will earn about #electricity by building #circuits with conductive #playdough."
 org: 9dots
 objective: "This project introduces the basic concepts of electricity and  conductivity.  By the end of the project, students will be able to to build simple functioning circuits and explain the difference between open and closed circuits."
 id: "9dots-OOQhbJP"

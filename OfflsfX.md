@@ -3,7 +3,7 @@ author: danleavitt0
 views: 0
 published: true
 type: lesson
-blurb: This lesson will introduce students to the concept of nested tags by learning the div and body tags.
+blurb: "This lesson will introduce students to the concept of nested tags, by learning the div and body #HTML  tags."
 org: 9dots
 objective: "By the end of the lesson, students will be able to recognize grouped tags as belonging to the same div, translate an example website to HTML tags including divs, and know how to log in to and create websites using codepen."
 attachments: 

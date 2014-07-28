@@ -4,7 +4,7 @@ views: 0
 published: true
 type: lesson
 title: Designer
-blurb: This lesson will teach students how to research design ideas and prototype their website using Inkscape.
+blurb: "This lesson will teach students how to research design ideas and #prototype their website using #Inkscape."
 org: 9dots
 objective: By the end of the lesson students will be able to identify good elements of website design and use Inkscape to create a website prototype
 id: "9dots-OeAmgrD"

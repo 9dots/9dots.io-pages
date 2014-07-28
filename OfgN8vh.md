@@ -3,7 +3,7 @@ author: danleavitt0
 views: 0
 published: true
 type: lesson
-blurb: Students will get an introduction to styling a website with CSS and learn about the properties and values for styling text.
+blurb: "Students will get an introduction to styling a #website with #CSS and learn about the #properties and values for styling text."
 org: 9dots
 objective: "By the end of the lesson students will be able to explain why a website needs CSS, define a CSS selector, and recognize all of the parts of a CSS rule"
 attachments: 

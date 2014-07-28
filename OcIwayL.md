@@ -3,7 +3,7 @@ author: danleavitt0
 views: 0
 published: true
 type: lesson
-blurb: This lesson will give students an understanding of the importance of a well designed website to attract an audience.
+blurb: "This lesson will give students an understanding of the importance of a well designed #website to attract an audience."
 org: 9dots
 objective: "By the end of the lesson students will be able to define an application, generate 3 application ideas, and discuss the importance of a well designed website"
 id: "9dots-OcIwayL"

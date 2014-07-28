@@ -15,6 +15,8 @@ lessons:
 title: Interactive Art Wall
 org: 9dots
 id: "9dots-OlKg0kq"
+image: "http://uploads.9dots.io/OlKhUah_md.jpg"
+fullImage: "http://uploads.9dots.io/OlKhUah_lrg.jpg"
 
 ---
 

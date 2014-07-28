@@ -4,7 +4,7 @@ views: 0
 published: true
 type: lesson
 title: Review of Move and Wait
-blurb: This lesson will solidify the students understanding of the move block and challenged them to move the robot through a maze.
+blurb: "This lesson will solidify the students understanding of the move block and challenged them to move the #robot through a maze."
 org: 9dots
 objective: "By the end of the class, students will be able to demonstrate learning by using the move and wait blocks to move a robot through the maze."
 attachments: 

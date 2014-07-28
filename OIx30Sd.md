@@ -3,7 +3,7 @@ author: danleavitt0
 views: 0
 published: true
 type: lesson
-blurb: Students will create a car that is propelled using the wind generate through blowing air at it.
+blurb: "Students will create a #car that is propelled using the wind generate through blowing air at it."
 title: Puff Mobiles
 org: 9dots
 objective: "By the end of the lesson, students will be able to define energy, list three types of fuel, and demonstrate learning by making a puff mobile."

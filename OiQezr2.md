@@ -4,7 +4,7 @@ views: 0
 published: true
 type: lesson
 title: Mindstorm Pinball
-blurb: This lesson will teach students about the Mindstorm touch sensor as well as the wait and loop programming blocks.
+blurb: "This lesson will teach students about the #Mindstorm touch sensor as well as the wait and loop #programming blocks."
 org: 9dots
 objective: "By the end of the lesson, the student will be able to define a programming loop, explain the importance of sensors to programming a robot, and create a robot capable of running indefinitely and turning whenever it runs into a wall."
 attachments: 

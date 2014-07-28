@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: unit
 lessons: 
   - "9dots-OjjKdwN"

@@ -3,7 +3,7 @@ author: danleavitt0
 views: 0
 published: true
 type: lesson
-blurb: "In this lesson, students will finish their prototype by learning how to import pictures and add labels."
+blurb: "In this lesson, students will finish their #prototype by learning how to import pictures and add labels."
 org: 9dots
 objective: "By the end of the lesson, students will be able to import images into Inkscape and recognize each section of their layout at separate html elements."
 id: "9dots-OevTFrs"

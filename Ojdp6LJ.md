@@ -24,5 +24,4 @@ id: "9dots-Ojdp6LJ"
 5. (Optional) Use a small amount of Bare Conductive paint to secure the connections of the battery and light to the copper tape.
 6. Cut the card stock to make the switch and you have a working circuit!
 
-![](http://uploads.9dots.io/OjdqHUH_md.jpg) 
-￼￼￼￼￼
+![](http://uploads.9dots.io/OjdqHUH_md.jpg)￼￼￼

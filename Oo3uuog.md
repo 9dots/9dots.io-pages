@@ -26,9 +26,9 @@ Materials (per group)
 ## Engage
 Video of Felix Baumgartner stratosphere jump
 
-Ask, why did Felix need a parachute? What else are parachutes used for? What would happen if we didn’t use parachutes for those instances?
+Ask, _why did Felix need a parachute? What else are parachutes used for? What would happen if we didn’t use parachutes for those instances?_
 
-Say, today we are going to design, build, and test contraptions that can hold and protect an egg when dropped from different heights! Each group is going to be given the same amount of time and materials so its important to think about your science and engineering knowledge to design the most durable “egg-chute” possible!
+Say, _today we are going to design, build, and test contraptions that can hold and protect an egg when dropped from different heights! Each group is going to be given the same amount of time and materials so its important to think about your science and engineering knowledge to design the most durable “egg-chute” possible!_
 ## Explore
 Question: What design will allow for the egg to survive when dropped from various heights?
 
@@ -44,8 +44,8 @@ Strict ‘no yolk’ policy (a crack is okay, but yolk will be disqualified)
 
 ## Explain
 Energy (gravitational potential energy, kinetic energy)
-Forces (heavier and faster yields higher force)
-Newton’s 2nd Law (F=ma heavier and faster means more force)
+Forces (gravitational, air resistance)
+Newton’s 2nd Law (F=ma)
 
 ## Elaborate
 Open discussion to hear/provide tips after 15 minutes of building
@@ -54,7 +54,7 @@ Tips:
 
 More air resistance (what is air resistance?)
 
-Distribution of force of impact (push down on egg with pen vs. palm of hand more area to absorb energy)
+Distribution of force of impact (push down on egg with pen vs. palm of hand; more area to absorb energy)
 
 ## Evaluate
 Time for testing!

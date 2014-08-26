@@ -6,7 +6,7 @@ type: lesson
 title: Egg Drop
 blurb: Students will design a device from a list of materials that will keep an egg from cracking when dropped.
 org: 9dots
-objective: SWBAT design and construct a device to prevent an egg from cracking when dropped from various heights
+objective: ""
 id: "9dots-Oo3uuog"
 
 ---

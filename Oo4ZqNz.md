@@ -16,29 +16,28 @@ id: "9dots-Oo4ZqNz"
 •Pennies for testing
  
 ## Engage
-Show a closed mousetrap. Ask,  _does this mousetrap have energy?_  (most will say no)
-Then ask,  _what are mousetraps used for? (to kill mice) If this mousetrap has no energy, how can it kill a mouse? _
-Show how the mouse trap works.
+Tear two piece of similar size aluminum foil to show students.
+Keep one piece flat and crumple the second piece as tightly as possible.
+Ask, _which, if either, will float and which, if either, will sink? Why?_
+Demonstrate the flat piece floats while the crumpled piece sinks, though they are the same mass.
  
-Show a wind up car before winding it up. Ask,  _does this toy car have energy?_ 
-Wind up car and release, show its motion. Ask, _how does it move on it’s own?_
+Ask, _why?_ (shape, size, density are possible answers)
  
 ## Explore
-Question: How can we produce a design that will harness the potential energy from the mouse trap to power the car?
- 
-10 minutes to design their car on paper
-30 minutes to build and test*
-10 minutes to race 
- 
-*Project may only include provided materials
+Question: How can a single sheet of foil be folded in such a way to float and hold as many pennies as possible?
+
+Design on paper 10 minutes
+Fold and test for 20 minutes
  
 ## Explain
-Gravitational Potential energy
-Kinetic energy
+Density is the amount of stuff (liquid, gas, solid) that's jam packed into a given space (provide visual example)
+
+Anyone who has ever tried to lift something out of water knows it is harder than lifting that object outside in regular air. Why?
+•Liquid applies a force that goes upward, this is called buoyancy
+•In other words, an objects ability to float depends on multiple factors, including how many surface area is touching the water in comparison to it’s overall weight
  
 ## Elaborate
-Ask for unique designs (wheel size, frame size, axle length, etc.)
-Ask how students think different designs might affect speed (i.e. bigger wheels = less rolling friction)
+Students get 1 new piece of foil to start from scratch, this time only given 10 minutes to apply new knowlege
  
 ## Evaluate
-Time to race!
+Test using pennies! Who has the safest, most buoyant boat?

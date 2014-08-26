@@ -44,7 +44,7 @@ Tells us how well a material will allow electricity to travel through it.
 
 **Metals** have electrons that can flow freely, making them the best conductors.
 
-**Nonmetals** have electrons that are stuffed close together, so they are POOR conductors.
+**Nonmetals** have electrons that are stuffed close together, so they are poor conductors.
 
 Show students the periodic table. Using the handout, students will determine whether or not a material is conductive by looking at it's elements in the table. 
 

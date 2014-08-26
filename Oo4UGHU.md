@@ -10,6 +10,8 @@ blurb: "Students will use the #MakeyMakey to learn about #circuits and #conducti
 attachments: 
   - path: "http://uploads.9dots.io/Oo4VuH6.pptx"
     name: Makey Makey Controllers.pptx
+  - path: "http://uploads.9dots.io/Oo4aN0L.docx"
+    name: MakeyMakeyCircuitsday1.docx
 id: "9dots-Oo4UGHU"
 
 ---
@@ -22,22 +24,32 @@ id: "9dots-Oo4UGHU"
 - Computers (1 per Makey Makey)
 
 ## Engage
+### Watch:
 Watch the [Makey Makey video](https://www.youtube.com/watch?v=rfQqh7iCcOU) to get students excited and thinking about possible designs for their controllers.
 
 ## Explain
-### Circuits
-**What is a circuit?**
+### Circuits:
 A circuit is a pathway made out of wires that allows electrons (electricity) to flow through it.
-
 A circuit has to be complete (or closed) for the electrons to flow.
+![](http://uploads.9dots.io/Oo4Yl1S_md.jpg) 
 
+A circuit has 3 important parts:
 
+1. Power Source
+2. Load (What to power such as a light bulb)
+3. Conductive Wire
+
+### Conductivity:
+Tells us how well a material will allow electricity to travel through it.
+
+**Metals** have electrons that can flow freely, making them the best conductors.
+
+**Nonmetals** have electrons that are stuffed close together, so they are POOR conductors.
+
+Show students the periodic table. Using the handout, students will determine whether or not a material is conductive by looking at it's elements in the table. 
 
 ## Explore
-How does it work?...
+Using the Makey Makey and it's alligator clips, students will test the conductivity of different materials provided to them. Check the wiki on how to use the Makey Makey.
 
 ## Elaborate
-Continue with new information...
-
-## Evaluate
-Check for understanding... 
+Students will design and connect their own controllers using the Makey Makey. To test the functionality of their controller, students whould navigate to this [website](http://scratch.mit.edu/projects/2543877/) and use it to play the piano.

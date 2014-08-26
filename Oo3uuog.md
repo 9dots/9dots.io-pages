@@ -4,7 +4,7 @@ views: 0
 published: false
 type: lesson
 title: Egg Drop
-blurb: Keep an egg from cracking when dropped from the second floor
+blurb: Keep an egg safe when dropped from the second floor
 org: 9dots
 objective: SWBAT design and construct a device to prevent an egg from cracking when dropped from various heights
 id: "9dots-Oo3uuog"

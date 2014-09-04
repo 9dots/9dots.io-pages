@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 org: 9dots
 objective: "SWBAT explain basic circuitry, explore what materials can carry a current through a MaKey MaKey controller, and design a unique MaKey MaKey controller using materials of their choice"

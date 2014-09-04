@@ -13,6 +13,8 @@ attachments:
   - path: "http://uploads.9dots.io/Oo4aN0L.docx"
     name: MakeyMakeyCircuitsday1.docx
 id: "9dots-Oo4UGHU"
+image: "http://uploads.9dots.io/OoupIy3_md.jpg"
+fullImage: "http://uploads.9dots.io/OoupIy3_lrg.jpg"
 
 ---
 

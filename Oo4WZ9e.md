@@ -7,6 +7,9 @@ title: Mouse Trap Cars
 blurb: Students will design a car powered by the elastic potential energy of a mouse trap
 org: 9dots
 id: "9dots-Oo4WZ9e"
+attachments: 
+  - path: "http://uploads.9dots.io/Ook8Lcb.gslides"
+    name: Mousetrap Cars.gslides
 
 ---
 
@@ -20,7 +23,7 @@ id: "9dots-Oo4WZ9e"
 •rubber bands to secure wheels
 •cups of various diameters to use as wheel outlines
 
-*Safety: disalarm mouse trap by removing arm from lever
+*Safety: disarm mouse trap by removing arm from lever
 
 ## Engage
 Show a closed mousetrap. Ask,  _does this mousetrap have energy?_  (most will say no)
@@ -40,8 +43,13 @@ Question: How can we produce a design that will harness the potential energy fro
 *Project may only include provided materials
 
 ## Explain
-Gravitational Potential energy
-Kinetic energy
+**Elastic Potential Energy**: The energy stored in elastic materials as the result of their stretching or compression.
+
+**Application** The energy will be stored in the mousetrap. As the spring is further compressed (deformed from original position), the energy will build as it is compressed to its maximum point. Releasing the latch will release the stored energy as the spring returns to its original position.
+
+**Kinetic Energy**: The energy of motion.
+
+**Application** Energy is transformed from Elastic potential energy to kinetic energy. As the mousetrap car stops moving, the energy transformation is from kinetic to elastic potential energy. 
 
 ## Elaborate
 Ask for unique designs (wheel size, frame size, axle length, etc.)

@@ -11,6 +11,8 @@ objective: SWBAT create an interactive animation using the scratch coding blocks
 attachments: 
   - path: "http://uploads.9dots.io/OoAHNhe.pptx"
     name: Scratch.pptx
+image: "http://uploads.9dots.io/OouqeNr_md.jpg"
+fullImage: "http://uploads.9dots.io/OouqeNr_lrg.jpg"
 
 ---
 

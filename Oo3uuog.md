@@ -8,6 +8,11 @@ blurb: Students will design a device from a list of materials that will keep an 
 org: 9dots
 objective: ""
 id: "9dots-Oo3uuog"
+attachments: 
+  - path: "http://uploads.9dots.io/OokKRSE.gslides"
+    name: Egg Drop.gslides
+  - path: "http://uploads.9dots.io/OokKUyc.docx"
+    name: EggDropHandout.docx
 
 ---
 
@@ -43,16 +48,24 @@ Egg must be visible (even if only very slightly)
 Strict ‘no yolk’ policy (a crack is okay, but yolk will be disqualified)
 
 ## Explain
-Energy (gravitational potential energy, kinetic energy)
-Forces (gravitational, air resistance)
-Newton’s 2nd Law (F=ma)
+**Gravitational Potential Energy**: The energy stored in an object as a result of its vertical position, or height.
+**Application** G.P.E.=m*g*h. This means that each student's project's mass will be the deciding factor for the overall initial amount of G.P.E. 
+
+**Kinetic Energy**: The energy of motion.
+**Application** Energy is transformed from gravitational potential energy to kinetic energy. Ask students where energy transformations are occurring as the egg parachute is released and falls.
+
+**Force#1: Gravitation**: The attraction between any two objects, in this case the Earth and the egg parachute; a non-contact force
+**Application** This is Newton's 2nd Law, which states force is the relationship between mass and acceleration (F=ma). Ask students what is the variable that ranges from project to project, and how that variable affects the force pulling their parachutes down.
+
+**Force#2: Air resistance**: Also known as drag, this is the force opposing the free fall through the air by the fluid or gas particles.
+**Application** Ask students if all the parachutes will fall at exactly the same speed, considering gravity does not change. Ask why or why not? Encourage students to consider the amount of contact between their parachute and the air surrounding it and how that will affect the rate at which their parachute falls when they design their project. 
 
 ## Elaborate
 Open discussion to hear/provide tips after 15 minutes of building
 
 Tips:
 
-More air resistance (what is air resistance?)
+More air resistance (Quickly review air resistance with 2 cold calls)
 
 Distribution of force of impact (push down on egg with pen vs. palm of hand; more area to absorb energy)
 

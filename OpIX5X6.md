@@ -37,6 +37,7 @@ Students should ask each other what they see as the biggest problem they are fac
 What are some possible solutions to solving the problem that students identified? Are there some solutions that would be more sustainable than others? How would you apply these ideas in Minecraft?
 
 Create a wheat farm. Students will be provided with the materials required to get their farm started. Here are the things they will need:
+
 - Water
 - Hoe (to till the dirt)
 - Seeds

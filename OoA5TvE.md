@@ -55,4 +55,4 @@ Students are encouraged to help other students by explaining what they discover 
 
 Standard | Text | Connection
 --- | --- | ---
-CCSS.MATH.CONTENT.6.NS.C.5 | Apply and extend previous understandings of numbers to the system of rational numbers. | Guided Practice 
+CCSS.MATH.CONTENT.6.NS.C.5 | Apply and extend previous understandings of numbers to the system of rational numbers. | Guided Practice

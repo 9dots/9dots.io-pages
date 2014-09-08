@@ -51,3 +51,11 @@ Using the handout, students will draw a diagram of their proposed farm, includin
 
 ## Prototype
 Time to go into Minecraft and try out the solutions that students have developed. As students will be working in groups of two, it is a good idea for them to try multiple solutions instead of just one. Then, if one solution turns out to be more successful, students can pivot their resources into the better idea.
+
+## Standards
+
+Standard | Description | Connection
+--- | --- | ---
+3-5-ETS1-1 | Define a simple design problem reflecting a need or a want that includes specified criteria for success and constraints on materials, time, or cost. | Define
+3-5-ETS1-2 | Generate and compare multiple possible solutions to a problem based on how well each is likely to meet the criteria and constraints of the problem. | Ideate
+MS-ETS1-2 | Evaluate competing design solutions using a systematic process to determine how well they meet the criteria and constraints of the problem. | Prototype

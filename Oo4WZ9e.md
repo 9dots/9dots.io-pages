@@ -47,11 +47,11 @@ Question: How can we produce a design that will harness the potential energy fro
 ## Explain
 **Elastic Potential Energy**: The energy stored in elastic materials as the result of their stretching or compression.
 
--**Application** The energy will be stored in the mousetrap. As the spring is further compressed (deformed from original position), the energy will build as it is compressed to its maximum point. Releasing the latch will release the stored energy as the spring returns to its original position.
+- Application: The energy will be stored in the mousetrap. As the spring is further compressed (deformed from original position), the energy will build as it is compressed to its maximum point. Releasing the latch will release the stored energy as the spring returns to its original position.
 
 **Kinetic Energy**: The energy of motion.
 
--**Application** Energy is transformed from Elastic potential energy to kinetic energy. As the mousetrap car stops moving, the energy transformation is from kinetic to elastic potential energy. 
+- Application: Energy is transformed from Elastic potential energy to kinetic energy. As the mousetrap car stops moving, the energy transformation is from kinetic to elastic potential energy. 
 
 ## Elaborate
 Ask for unique designs (wheel size, frame size, axle length, etc.)

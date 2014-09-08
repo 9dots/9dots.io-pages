@@ -12,6 +12,8 @@ attachments:
     name: TinBoatsHandout.docx
   - path: "http://uploads.9dots.io/Ooorlqc.gslides"
     name: Tin Foil Boats.gslides
+image: "http://uploads.9dots.io/OpJNj3o_md.jpg"
+fullImage: "http://uploads.9dots.io/OpJNj3o_lrg.jpg"
 
 ---
 

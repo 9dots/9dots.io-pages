@@ -78,7 +78,7 @@ Each group will give a short presentation about their tower.
 
 ## Standards
 
-Standard | Text | Connection
+Standard | Description | Connection
 --- | --- | ---
 3-5-ETS1-1 | Define a simple design problem reflecting a need or a want that includes specified criteria for success and constraints on materials, time, or cost. | Engage
 3-5-ETS1-2 | Generate and compare multiple possible solutions to a problem based on how well each is likely to meet the criteria and constraints of the problem. | Explain

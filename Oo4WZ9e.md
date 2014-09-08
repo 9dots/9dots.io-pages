@@ -63,7 +63,7 @@ Time to race!
 ## Standards
 | Standard      | Description   | Connection  |
 | ------------- |---------------| ------|
-| MS-PS2-2      | Plan an investigation to provide evidence that the change in an object’s motion depends on the sum of the forces on the object and the mass of the object. | Explain |
+| MS-PS2-2      | Plan an investigation to provide evidence that the change in an object’s motion depends on the sum of the forces on the object and the mass of the object | Explain |
 | MS-PS3-5      | Construct, use, and present arguments to support the claim that when the kinetic energy of an object changes, 
-energy is transferred to or from the object. |   Explore |
-| MS-ETS1-2 | Plan an investigation to provide evidence that the chance in an object’s motion depends on the sum of forces on the object and the mass of the object   |   Explore |
+energy is transferred to or from the object |   Explore |
+| MS-ETS1-2 	| Plan an investigation to provide evidence that the chance in an object’s motion depends on the sum of forces on the object and the mass of the object   |   Explore |

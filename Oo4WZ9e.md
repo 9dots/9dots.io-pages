@@ -10,6 +10,8 @@ id: "9dots-Oo4WZ9e"
 attachments: 
   - path: "http://uploads.9dots.io/Ook8Lcb.gslides"
     name: Mousetrap Cars.gslides
+image: "http://uploads.9dots.io/OpIsDzL_md.jpg"
+fullImage: "http://uploads.9dots.io/OpIsDzL_lrg.jpg"
 
 ---
 

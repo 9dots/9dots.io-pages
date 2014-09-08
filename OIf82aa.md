@@ -75,3 +75,11 @@ Each group will give a short presentation about their tower.
 - How tall was your structure? 
 - What shape did your group use? 
 - What would you do differently if you could try to build the tower again?
+
+## Standards
+
+Standard | Text | Connection
+--- | --- | ---
+3-5-ETS1-1 | Define a simple design problem reflecting a need or a want that includes specified criteria for success and constraints on materials, time, or cost. | Engage
+3-5-ETS1-2 | Generate and compare multiple possible solutions to a problem based on how well each is likely to meet the criteria and constraints of the problem. | Explain
+MS-ETS1-2 | Evaluate competing design solutions using a systematic process to determine how well they meet the criteria and constraints of the problem. | Evaluate

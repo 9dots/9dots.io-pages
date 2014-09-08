@@ -38,10 +38,11 @@ Fold and test for 20 minutes
 Density is the amount of stuff (liquid, gas, solid) that's jam packed into a given space (provide visual example)
 
 - Application: Anyone who has ever tried to lift something out of water knows it is harder than lifting that object outside in regular air. Why?
-- Liquid applies a force that goes upward, this is called **buoyancy**
+- The force of gravity pulls the boat downward, while there is a liquid applies a force that goes upward, this is called **buoyancy**
 - In other words, an objects ability to float depends on multiple factors, including how much surface area is touching the water in comparison to it’s overall weight
 
 **Density = mass/volume** 
+
 - Show students 2 sheets of foil that are the same size again. Ask, _is the density for these two sheets the same? Why or why not?_
 Fold one into a very loose sphere and one into a very tight sphere. Ask, _is the density for these two sheets the same? Why or why not?_
 
@@ -50,3 +51,13 @@ Students get 1 new piece of foil to start from scratch, this time only given 10 
  
 ## Evaluate
 Test using pennies! Who has the safest, most buoyant boat?
+
+## Standards
+| Standard      | Description   | Connection  |
+| ------------- |---------------| ------|
+| 5-PS2-1      | Support an argument that the gravitational force exerted by Earth on objects is directed down |   Evaluate |
+| MS-ETS1-1 	| Define the criteria and constraints of a design problem with sufficient precision to ensure a successful solution, 
+taking into account relevant scientific principles and potential impacts on people and the natural environment 
+that may limit possible solutions   |   Engage, Explore |
+| MS-ETS1-3     | Analyze data from tests to determine similarities and differences among several design solutions to identify 
+the best characteristics of each that can be combined into a new solution to better meet the criteria for success | Elaborate |

@@ -1,0 +1,16 @@
+---
+author: danleavitt0
+views: 0
+published: false
+type: unit
+lessons: []
+title: Minecraft
+org: 9dots
+blurb: Students will be introduced to design thinking and use that process to create a sustainable community in Minecraft.
+image: "http://uploads.9dots.io/OpIcvhm_md.jpg"
+fullImage: "http://uploads.9dots.io/OpIcvhm_lrg.jpg"
+id: "9dots-OpIcreS"
+
+---
+
+undefined

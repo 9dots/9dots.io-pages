@@ -50,3 +50,9 @@ When they have finished creating their program, students will add comments to th
 Students have 10 minutes to explore scratch. Use the prompt, _make something surprising happen when you click on the sprite._
 
 Students are encouraged to help other students by explaining what they discover and work together.
+
+## Standards 
+
+Standard | Text | Connection
+--- | --- | ---
+CCSS.MATH.CONTENT.6.NS.C.5 | Apply and extend previous understandings of numbers to the system of rational numbers. | Guided Practice 

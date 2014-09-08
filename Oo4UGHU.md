@@ -55,3 +55,10 @@ Using the Makey Makey and it's alligator clips, students will test the conductiv
 
 ## Elaborate
 Students will design and connect their own controllers using the Makey Makey. To test the functionality of their controller, students whould navigate to this [website](http://scratch.mit.edu/projects/2543877/) and use it to play the piano.
+
+## Standards
+
+Standard | Description | Connection
+--- | --- | ---
+5-PS1-3 | Make observations and measurements to identify materials based on their properties. | Explore
+3-5-ETS1-1 | Define a simple design problem reflecting a need or a want that includes specified criteria for success and constraints on materials, time, or cost. | Elaborate

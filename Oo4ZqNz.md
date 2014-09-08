@@ -37,10 +37,12 @@ Fold and test for 20 minutes
 ## Explain
 Density is the amount of stuff (liquid, gas, solid) that's jam packed into a given space (provide visual example)
 
-Anyone who has ever tried to lift something out of water knows it is harder than lifting that object outside in regular air. Why?
-•Liquid applies a force that goes upward, this is called **buoyancy**
-•In other words, an objects ability to float depends on multiple factors, including how much surface area is touching the water in comparison to it’s overall weight
-**Density = mass/volume** Show students 2 sheets of foil that are the same size again. Ask, _is the density for these two sheets the same? Why or why not?_
+- Application: Anyone who has ever tried to lift something out of water knows it is harder than lifting that object outside in regular air. Why?
+- Liquid applies a force that goes upward, this is called **buoyancy**
+- In other words, an objects ability to float depends on multiple factors, including how much surface area is touching the water in comparison to it’s overall weight
+
+**Density = mass/volume** 
+- Show students 2 sheets of foil that are the same size again. Ask, _is the density for these two sheets the same? Why or why not?_
 Fold one into a very loose sphere and one into a very tight sphere. Ask, _is the density for these two sheets the same? Why or why not?_
 
 ## Elaborate

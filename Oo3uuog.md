@@ -13,6 +13,8 @@ attachments:
     name: Egg Drop.gslides
   - path: "http://uploads.9dots.io/OokKUyc.docx"
     name: EggDropHandout.docx
+image: "http://uploads.9dots.io/OpJDxea_md.jpg"
+fullImage: "http://uploads.9dots.io/OpJDxea_lrg.jpg"
 
 ---
 
@@ -49,16 +51,20 @@ Strict ‘no yolk’ policy (a crack is okay, but yolk will be disqualified)
 
 ## Explain
 **Gravitational Potential Energy**: The energy stored in an object as a result of its vertical position, or height.
-**Application** G.P.E.=m*g*h. This means that each student's project's mass will be the deciding factor for the overall initial amount of G.P.E. 
+
+-**Application** G.P.E.=m*g*h. This means that each student's project's mass will be the deciding factor for the overall initial amount of G.P.E. 
 
 **Kinetic Energy**: The energy of motion.
-**Application** Energy is transformed from gravitational potential energy to kinetic energy. Ask students where energy transformations are occurring as the egg parachute is released and falls.
+
+-**Application** Energy is transformed from gravitational potential energy to kinetic energy. Ask students where energy transformations are occurring as the egg parachute is released and falls.
 
 **Force#1: Gravitation**: The attraction between any two objects, in this case the Earth and the egg parachute; a non-contact force
-**Application** This is Newton's 2nd Law, which states force is the relationship between mass and acceleration (F=ma). Ask students what is the variable that ranges from project to project, and how that variable affects the force pulling their parachutes down.
+
+-**Application** This is Newton's 2nd Law, which states force is the relationship between mass and acceleration (F=ma). Ask students what is the variable that ranges from project to project, and how that variable affects the force pulling their parachutes down.
 
 **Force#2: Air resistance**: Also known as drag, this is the force opposing the free fall through the air by the fluid or gas particles.
-**Application** Ask students if all the parachutes will fall at exactly the same speed, considering gravity does not change. Ask why or why not? Encourage students to consider the amount of contact between their parachute and the air surrounding it and how that will affect the rate at which their parachute falls when they design their project. 
+
+-**Application** Ask students if all the parachutes will fall at exactly the same speed, considering gravity does not change. Ask why or why not? Encourage students to consider the amount of contact between their parachute and the air surrounding it and how that will affect the rate at which their parachute falls when they design their project. 
 
 ## Elaborate
 Open discussion to hear/provide tips after 15 minutes of building
@@ -72,4 +78,11 @@ Distribution of force of impact (push down on egg with pen vs. palm of hand; mor
 ## Evaluate
 Time for testing!
 
-Drop from 2 meters, 4 meters, 6 meters, 8 meters,
+Drop from 2 meters, 4 meters, 6 meters, 8 meters
+
+## Standards
+| Standard      | Description   | Connection  |
+| ------------- |---------------| ------|
+| MS-PS2-2      | Plan an investigation to provide evidence that the change in an object’s motion depends on the sum of the forces on the object and the mass of the object | Explain |
+| MS-PS3-5      | Construct, use, and present arguments to support the claim that when the kinetic energy of an object changes, energy is transferred to or from the object |   Explore |
+| MS-ETS1-2 	| Plan an investigation to provide evidence that the chance in an object’s motion depends on the sum of forces on the object and the mass of the object   |   Explore |

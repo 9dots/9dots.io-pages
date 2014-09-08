@@ -59,7 +59,5 @@ Test using pennies! Who has the safest, most buoyant boat?
 | ------------- |---------------| ------|
 | 5-PS2-1      | Support an argument that the gravitational force exerted by Earth on objects is directed down |   Evaluate |
 | MS-ETS1-1 	| Define the criteria and constraints of a design problem with sufficient precision to ensure a successful solution, 
-taking into account relevant scientific principles and potential impacts on people and the natural environment 
-that may limit possible solutions   |   Engage, Explore |
-| MS-ETS1-3     | Analyze data from tests to determine similarities and differences among several design solutions to identify 
-the best characteristics of each that can be combined into a new solution to better meet the criteria for success | Elaborate |
+taking into account relevant scientific principles and potential impacts on people and the natural environment that may limit possible solutions   |   Engage, Explore |
+| MS-ETS1-3     | Analyze data from tests to determine similarities and differences among several design solutions to identify the best characteristics of each that can be combined into a new solution to better meet the criteria for success | Elaborate |

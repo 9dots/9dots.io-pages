@@ -1,7 +1,7 @@
 ---
 author: miketeja
 views: 0
-published: false
+published: true
 type: lesson
 title: Marble Roller Coasters
 blurb: Students will construct a marble roller coaster using only tape and cardstock paper to demonstrate potential and kinetic energy transfer

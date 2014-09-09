@@ -1,7 +1,7 @@
 ---
 author: miketeja
 views: 0
-published: false
+published: true
 type: lesson
 title: Mouse Trap Cars
 blurb: Students will design a car powered by the elastic potential energy of a mouse trap

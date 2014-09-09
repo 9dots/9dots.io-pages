@@ -1,7 +1,7 @@
 ---
 author: miketeja
 views: 0
-published: false
+published: true
 type: lesson
 title: Aluminum Foil Boats
 blurb: Student will design and construct a boat using only foil that holds as many pennies as possible without sinking

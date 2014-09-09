@@ -7,6 +7,8 @@ title: Marble Roller Coasters
 blurb: Students will construct a marble roller coaster using only tape and cardstock paper to demonstrate potential and kinetic energy transfer
 org: 9dots
 id: "9dots-Oo4T7e8"
+image: "http://uploads.9dots.io/OpOQlTP_md.jpg"
+fullImage: "http://uploads.9dots.io/OpOQlTP_lrg.jpg"
 
 ---
 
@@ -36,3 +38,10 @@ Students combine their tracks and their base to produce a structure that has the
 
 ## Evaluate
 Test the designs for safety, design, and innovation
+
+## Standards
+| Standard      | Description   | Connection  |
+| ------------- |---------------| ------|
+| MS-PS2-2      | Plan an investigation to provide evidence that the change in an object’s motion depends on the sum of the forces on the object and the mass of the object | Explain |
+| MS-PS3-5      | Construct, use, and present arguments to support the claim that when the kinetic energy of an object changes, energy is transferred to or from the object |   Explore |
+| MS-ETS1-2 	| Plan an investigation to provide evidence that the chance in an object’s motion depends on the sum of forces on the object and the mass of the object   |   Explore |

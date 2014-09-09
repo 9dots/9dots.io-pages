@@ -29,9 +29,17 @@ Ask, _what types of energy are present in this video? At what points on the roll
 Students design and test out various methods of constructing the track and base of the roller coaster
 
 ## Explain
-Gravitational potential energy
-Kinetic energy
-Law of conservation of energy
+**Gravitational Potential Energy**: The energy stored in an object as a result of its vertical position, or height.
+
+- Application: G.P.E.=m*g*h. This means that the taller the roller coaster, the more G.P.E. the marble will have, as the marble mass and the gravitational force are constants. 
+
+**Kinetic Energy**: The energy of motion.
+
+- Application: Energy is transformed from gravitational potential energy to kinetic energy and back to gravitational potential energy. Ask students where the energy conversions occur.
+
+**Law of conservation of energy**: Energy cannot be created or destroyed, but can be transformed from one form to another
+
+- Application: The marble will never be able to exceed the height of the starting point of the roller coaster (implement this concept in the design of the roller coaster)
 
 ## Elaborate
 Students combine their tracks and their base to produce a structure that has the greatest gravitational potential energy 

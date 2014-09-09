@@ -42,6 +42,9 @@ Test the designs for safety, design, and innovation
 ## Standards
 | Standard      | Description   | Connection  |
 | ------------- |---------------| ------|
-| MS-PS2-2      | Plan an investigation to provide evidence that the change in an object’s motion depends on the sum of the forces on the object and the mass of the object | Explain |
-| MS-PS3-5      | Construct, use, and present arguments to support the claim that when the kinetic energy of an object changes, energy is transferred to or from the object |   Explore |
+| MS-PS2-2      | Plan an investigation to provide evidence that the change in an object’s motion depends on the sum of the forces on the object and the mass of the object | Explore |
+| MS-PS3-2      | Develop a model to describe that when the arrangement of objects interacting at a distance changes, different 
+amounts of potential energy are stored in the system |   Explore, Explain |
+| MS-PS3-5      | Construct, use, and present arguments to support the claim that when the kinetic energy of an object changes, 
+energy is transferred to or from the object |   Explore, Explain |
 | MS-ETS1-2 	| Plan an investigation to provide evidence that the chance in an object’s motion depends on the sum of forces on the object and the mass of the object   |   Explore |

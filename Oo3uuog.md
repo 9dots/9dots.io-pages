@@ -1,7 +1,7 @@
 ---
 author: miketeja
 views: 0
-published: false
+published: true
 type: lesson
 title: Egg Drop
 blurb: Students will design a device from a list of materials that will keep an egg from cracking when dropped.

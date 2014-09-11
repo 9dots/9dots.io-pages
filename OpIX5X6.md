@@ -11,7 +11,7 @@ attachments:
     name: Day2Handout.docx
   - path: "http://uploads.9dots.io/OpIXzSy.pptx"
     name: Minecraft Day 2.pptx
-blurb: Students will use design process thinking to develop a solution to address the problem of gathering food in Minecraft.
+blurb: "Students will use #design process thinking to develop a solution to address the problem of gathering food in #Minecraft."
 image: "http://uploads.9dots.io/OpIYkEw_md.jpg"
 fullImage: "http://uploads.9dots.io/OpIYkEw_lrg.jpg"
 id: "9dots-OpIX5X6"

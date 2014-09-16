@@ -3,7 +3,8 @@ author: danleavitt0
 views: 0
 published: false
 type: unit
-lessons: []
+lessons: 
+  - "9dots-OpIX5X6"
 title: Minecraft
 org: 9dots
 blurb: Students will be introduced to design thinking and use that process to create a sustainable community in Minecraft.

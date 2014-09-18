@@ -4,7 +4,7 @@ views: 0
 published: true
 type: lesson
 title: Mouse Trap Cars
-blurb: Students will design a car powered by the elastic potential energy of a mouse trap
+blurb: "Students will design a car powered by the elastic potential energy of a mouse trap #NGSS-MS-PS2-2 #NGSS-MS-PS3-5 #NGSS-MS-ETS1-2"
 org: 9dots
 id: "9dots-Oo4WZ9e"
 attachments: 
@@ -12,7 +12,7 @@ attachments:
     name: Mousetrap Cars.gslides
 image: "http://uploads.9dots.io/OpIsDzL_md.jpg"
 fullImage: "http://uploads.9dots.io/OpIsDzL_lrg.jpg"
-objective: "#NGSS-MS-PS2-2 #NGSS-MS-PS3-5 #NGSS-MS-ETS1-2"
+objective: ""
 
 ---
 

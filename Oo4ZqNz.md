@@ -4,7 +4,7 @@ views: 0
 published: true
 type: lesson
 title: Aluminum Foil Boats
-blurb: Student will design and construct a boat using only foil that holds as many pennies as possible without sinking
+blurb: "Student will design and construct a boat using only aluminum foil #NGSS-5-PS2-1 #NGSS-MS-ETS1-1 #NGSS-MS-ETS1-3"
 org: 9dots
 id: "9dots-Oo4ZqNz"
 attachments: 
@@ -14,7 +14,7 @@ attachments:
     name: Tin Foil Boats.gslides
 image: "http://uploads.9dots.io/OpJNj3o_md.jpg"
 fullImage: "http://uploads.9dots.io/OpJNj3o_lrg.jpg"
-objective: "#NGSS-5-PS2-1 #NGSS-MS-ETS1-1 #NGSS-MS-ETS1-3"
+objective: ""
 
 ---
 

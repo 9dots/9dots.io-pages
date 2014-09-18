@@ -9,6 +9,7 @@ org: 9dots
 id: "9dots-Oo4T7e8"
 image: "http://uploads.9dots.io/OpOQlTP_md.jpg"
 fullImage: "http://uploads.9dots.io/OpOQlTP_lrg.jpg"
+objective: "#NGSS-MS-PS2-2 #NGSS-MS-PS3-2 #NGSS-MS-PS3-5 #NGSS-MS-ETS1-2"
 
 ---
 

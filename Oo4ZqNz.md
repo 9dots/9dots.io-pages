@@ -14,6 +14,7 @@ attachments:
     name: Tin Foil Boats.gslides
 image: "http://uploads.9dots.io/OpJNj3o_md.jpg"
 fullImage: "http://uploads.9dots.io/OpJNj3o_lrg.jpg"
+objective: "#NGSS-5-PS2-1 #NGSS-MS-ETS1-1 #NGSS-MS-ETS1-3"
 
 ---
 

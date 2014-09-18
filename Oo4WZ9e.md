@@ -12,6 +12,7 @@ attachments:
     name: Mousetrap Cars.gslides
 image: "http://uploads.9dots.io/OpIsDzL_md.jpg"
 fullImage: "http://uploads.9dots.io/OpIsDzL_lrg.jpg"
+objective: "#NGSS-MS-PS2-2 #NGSS-MS-PS3-5 #NGSS-MS-ETS1-2"
 
 ---
 

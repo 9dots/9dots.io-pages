@@ -6,7 +6,7 @@ type: lesson
 org: 9dots
 objective: "SWBAT explain basic circuitry, explore what materials can carry a current through a MaKey MaKey controller, and design a unique MaKey MaKey controller using materials of their choice"
 title: Makey Makey Controllers
-blurb: "Students will use the #MakeyMakey to learn about #circuits and #conductivity, and design a video game controller using conductive materials."
+blurb: "Students will use the #MakeyMakey to learn about #circuits and #conductivity. #NGSS-5-PS1-3 #NGSS-3-5-ETS1-1"
 attachments: 
   - path: "http://uploads.9dots.io/Oo4VuH6.pptx"
     name: Makey Makey Controllers.pptx

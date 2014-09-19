@@ -27,7 +27,9 @@ objective: ""
 - rubber bands to secure wheels
 - cups of various diameters to use as wheel outlines
 
-*Safety: disarm mouse trap by removing arm from lever
+```
+SAFETY: disarm mouse trap by removing arm from lever
+```
 
 ## Engage
 Show a closed mousetrap. Ask,  _does this mousetrap have energy?_  (most will say no)

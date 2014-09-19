@@ -14,13 +14,15 @@ objective: ""
 ---
 
 ## Setup
-**Materials** 
-•Cardstock paper
-•Masking tape
-•Scissors
-•Marbles
-**Preparation** 
-•Cut cardstock paper into ~1.5" wide strips
+### Materials 
+
+- Cardstock paper
+- Masking tape
+- Scissors
+- Marbles
+
+### Preparation
+- Cut cardstock paper into ~1.5" wide strips
 
 ## Engage
 Watch roller coaster video

@@ -17,14 +17,15 @@ objective: ""
 ---
 
 ## Setup
-**Materials** 
-•1 mouse trap
-•Cardboard (base and wheels)
-•1' fishing line
-•4 screw eye hooks
-•2 skewers (axles)
-•rubber bands to secure wheels
-•cups of various diameters to use as wheel outlines
+### Materials 
+
+- 1 mouse trap
+- Cardboard (base and wheels)
+- 1' fishing line
+- 4 screw eye hooks
+- 2 skewers (axles)
+- rubber bands to secure wheels
+- cups of various diameters to use as wheel outlines
 
 *Safety: disarm mouse trap by removing arm from lever
 
@@ -46,6 +47,7 @@ Question: How can we produce a design that will harness the potential energy fro
 *Project may only include provided materials
 
 ## Explain
+
 **Elastic Potential Energy**: The energy stored in elastic materials as the result of their stretching or compression.
 
 - Application: The energy will be stored in the mousetrap. As the spring is further compressed (deformed from original position), the energy will build as it is compressed to its maximum point. Releasing the latch will release the stored energy as the spring returns to its original position.

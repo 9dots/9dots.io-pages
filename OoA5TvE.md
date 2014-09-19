@@ -6,8 +6,8 @@ type: lesson
 title: Introduction to Scratch
 org: 9dots
 id: "9dots-OoA5TvE"
-blurb: "Students will get an introduction to #programming with #Scratch and create an interactive animation."
-objective: SWBAT create an interactive animation using the scratch coding blocks
+blurb: "Students will get an introduction to #programming with #Scratch and create an interactive animation. #CCSS.MATH.CONTENT.6.NS.C.5"
+objective: SWBAT create an interactive animation using the scratch coding blocks.
 attachments: 
   - path: "http://uploads.9dots.io/OoAHNhe.pptx"
     name: Scratch.pptx

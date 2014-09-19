@@ -46,8 +46,9 @@ Question: How can we produce a design that will harness the potential energy fro
 30 minutes to build and test*
 10 minutes to race 
 
-*Project may only include provided materials
-
+```
+Project may only include provided materials
+```
 ## Explain
 
 **Elastic Potential Energy**: The energy stored in elastic materials as the result of their stretching or compression.

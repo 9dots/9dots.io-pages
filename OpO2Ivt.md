@@ -56,3 +56,9 @@ Some examples of sensors from real life include:
 ## Elaborate
 
 Using the handout, students will build circuits using different input and output combinations, and write down the result on the handout.
+
+## Standards
+
+| Standard      | Description   | Connection  |
+| ------------- |---------------| ------|
+| 3-5-ETS1-2 | Generate and compare multiple possible solutions to a problem based on how well each is likely to meet the criteria and constraints of the problem | Elaborate |

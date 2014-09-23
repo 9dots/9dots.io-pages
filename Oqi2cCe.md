@@ -48,6 +48,7 @@ Examples include systems for keeping plants watered, a system for traveling from
 
 In the game, students will create infrastructure to make their society run smoothly.
 
+
 ## Standards
 
 Standard | Description | Connection

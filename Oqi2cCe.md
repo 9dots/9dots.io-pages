@@ -12,6 +12,7 @@ attachments:
     name: Minecraft Day 4.pptx
   - path: "http://uploads.9dots.io/Oqi5hsR.docx"
     name: MinecraftDay4.docx
+blurb: "Students will solidify their communities in #Minecraft by designing infrastructure #NGSS-3-5-ETS1-1 #NGSS-3-5-ETS1-2  #NGSS-MS-ETS1-2"
 
 ---
 
@@ -24,7 +25,8 @@ attachments:
 ## Scenario
 
 Now that students have established shelters, have learned the skills for harvesting food and making goods, it is time to design a network. A community can only exist through collaboration and communication. Students will design infrastructure systems to allow for easier collaboration and communication.
-Empathize
+
+## Empathize
 
 ### Ask students:
 How do you feel with only one partner? What do you think a community in the real world would be like if there was only 1 or 2 people trying to make it last? 

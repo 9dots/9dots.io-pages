@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 title: Minecraft Infrastructure
 org: 9dots
@@ -13,6 +13,8 @@ attachments:
   - path: "http://uploads.9dots.io/Oqi5hsR.docx"
     name: MinecraftDay4.docx
 blurb: "Students will solidify their communities in #Minecraft by designing infrastructure #NGSS-3-5-ETS1-1 #NGSS-3-5-ETS1-2  #NGSS-MS-ETS1-2"
+image: "http://uploads.9dots.io/OqiGTuQ_md.jpg"
+fullImage: "http://uploads.9dots.io/OqiGTuQ_lrg.jpg"
 
 ---
 

@@ -7,6 +7,11 @@ title: Minecraft Infrastructure
 org: 9dots
 objective: SWBAT collaborate to build a transportation infrastructure to connect their houses.
 id: "9dots-Oqi2cCe"
+attachments: 
+  - path: "http://uploads.9dots.io/Oqi5fg5.pptx"
+    name: Minecraft Day 4.pptx
+  - path: "http://uploads.9dots.io/Oqi5hsR.docx"
+    name: MinecraftDay4.docx
 
 ---
 

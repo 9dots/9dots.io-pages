@@ -29,7 +29,9 @@ statement; brings clarity and focus to the design space
 - Test: show don’t tell and always get feedback.
 
 ## Define
+Survival has been turned on in our server, meaning shelter is required. 
 
+Students should discuss what potential dangers lie ahead, and how best to protect themselves.
 
 ## Ideate
 

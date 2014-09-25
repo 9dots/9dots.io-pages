@@ -4,7 +4,7 @@ views: 0
 published: false
 type: lesson
 title: "Minecraft: Shelters"
-blurb: "Students will collaborate to build shelter within a community in #Minecraft"
+blurb: "Students will collaborate to build shelter within a community in #Minecraft #NGSS-3-5-ETS1-1 #NGSS-3-5-ETS1-2 #NGSS-MS-ETS1-2"
 org: 9dots
 objective: SWBAT design and construct a shelter in order to set up a community in Minecraft
 id: "9dots-OqtrDDl"

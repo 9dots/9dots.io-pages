@@ -55,9 +55,7 @@ Survival has been turned on in our server, meaning shelter is required.
 
 ## Ideate
 1. Students will use the dedicated space in the worksheet to begin to design their shelters. Students should draw in squares, since they will be using only cubes in the Minecraft world.
-
 2. Students will think about how big their house should be, where to place their windows and door, how large their shelter will be, etc. 
-
 3. Discuss which partner will construct what when gameplay begins (collaboration is critical).
 
 ## Prototype

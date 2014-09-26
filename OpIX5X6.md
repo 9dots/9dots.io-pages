@@ -26,10 +26,10 @@ id: "9dots-OpIX5X6"
 - Sustainable food handout
 
 ## Empathize
-Day 2 of your Minecraft adventure. To recap, you have been shipwrecked on an island and discovered that there are monsters there. To help survive, your first task was to build shelter to protect yourself through the night and set up a home base for your crew.
+Day 2 of your Minecraft adventure. To recap, you have been shipwrecked on an island and discovered that there are monsters there. To help survive, your first task was to build shelter to protect yourself through the night and set up a home base for your crew. Unfortunately, supplies are starting to run low, especially food.
 
 ## Define
-Unfortunately, supplies are starting to run low, especially food. What should your next priority be?
+What should your next priority be?
 
 Students should ask each other what they see as the biggest problem they are facing.
 

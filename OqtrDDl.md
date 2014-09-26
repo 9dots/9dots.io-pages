@@ -39,12 +39,14 @@ Day 1 of your Minecraft adventure. Review design thinking as a process to identi
 	- Ideate: concentrate on idea generation; design many diverse solutions to develop and test
 	- Prototype: Begin building; gives confidence that your solution meets the need you uncovered
 	- Test: show don’t tell and always get feedback.
+
 2. Introduce scenario: You’ve crashed! You and your crew are shipwrecked on a mysterious island with limited supplies. You only know one thing about this island: it is covered with MONSTERS! Though this is scary, they only come out at night. Today you must work together to build a shelter before nightfall. Your shelter must include:
 	- A threshold to enter and exit the shelter
 	- 4 walls (at least)
 	- Space for windows and looking outside 
 	- Roof
 	- Light (lanterns)
+
 3. Discussion question: How do you think it would feel to be in this situation?
 
 ## Define
@@ -61,6 +63,7 @@ Survival has been turned on in our server, meaning shelter is required.
 
 ## Prototype
 1. Students will login to Minecraft as a Student.
+
 2. Students will work together to build their structures using the resources supplied by the instructor. It is important students build efficiently as danger approaches during the night. 
 
 ## Test/Feedback

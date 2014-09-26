@@ -13,6 +13,8 @@ attachments:
     name: "Day 1: Shelter Handout.gdoc"
   - path: "http://uploads.9dots.io/Or0Dfel.gslides"
     name: "Day 1: Shelter.gslides"
+image: "http://uploads.9dots.io/Or0ECNR_md.jpg"
+fullImage: "http://uploads.9dots.io/Or0ECNR_lrg.jpg"
 
 ---
 

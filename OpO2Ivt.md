@@ -23,7 +23,8 @@ In this unit, students will be designing and prototyping their own product that 
 
 ## Engage
 
-1. Show the Little Bits video found at the beginning of the powerpoint. On their handouts, students will fill in at least three examples of devices they saw in the video.
+1. Show the Little Bits video found at the beginning of the powerpoint. 
+	- On their handouts, students will fill in at least three examples of devices they saw in the video.
 2. Little Bits are a way to learn and prototype with electronics. They are magnetic circuits that can perform actions. 
 
 ## Explain

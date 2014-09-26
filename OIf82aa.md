@@ -14,9 +14,6 @@ fullImage: "http://uploads.9dots.io/Ol3oIOG_lrg.jpg"
 ---
 
 ## Setup
-### Each Group Needs
-
-- 20 pieces of uncooked sp## Setup
 
 ### Each Group Needs
 - 20 pieces of uncooked spaghetti

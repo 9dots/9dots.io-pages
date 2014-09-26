@@ -19,7 +19,8 @@ fullImage: "http://uploads.9dots.io/Or0ECNR_lrg.jpg"
 ---
 
 ## Lesson Overview
-Students will use Minecraft to engage in daily challenges and work as a collaborate community to achieve various challenges. Minecraft is an online interactive role playing game. The instructor will set up Minecraft in a server and turn on Survival Mode. Use this link for a useful wiki on how to [play Minecraft](http://www.wikihow.com/Play-Minecraft).
+Students will use Minecraft to engage in daily challenges and work as a collaborate community to achieve various challenges. Minecraft is an online interactive role playing game. The instructor will set up Minecraft in a server and turn on Survival Mode. Link for gameplay instructions are listed below. 
+[Minecraft Guide](http://www.wikihow.com/Play-Minecraft) 
 
 ## Setup
 
@@ -34,8 +35,7 @@ Day 1 of your Minecraft adventure. Review design thinking as a process to identi
 
 1. Go through each term and ask for a student defintions. After have students write down each definition in their handout. 
 	- Empathize: The work you do to understand people, within the context of your design challenge; gives confidence you are working on a meaningful problem
-	- Define: Based on what you know, craft a meaningful problem 
-statement; brings clarity and focus to the design space
+	- Define: Based on what you know, craft a meaningful problem statement; brings clarity and focus to the design space
 	- Ideate: concentrate on idea generation; design many diverse solutions to develop and test
 	- Prototype: Begin building; gives confidence that your solution meets the need you uncovered
 	- Test: show don’t tell and always get feedback.
@@ -54,7 +54,9 @@ Survival has been turned on in our server, meaning shelter is required.
 
 ## Ideate
 1. Students will use the dedicated space in the worksheet to begin to design their shelters. Students should draw in squares, since they will be using only cubes in the Minecraft world.
+
 2. Students will think about how big their house should be, where to place their windows and door, how large their shelter will be, etc. 
+
 3. Discuss which partner will construct what when gameplay begins (collaboration is critical).
 
 ## Prototype

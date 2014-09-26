@@ -19,7 +19,7 @@ fullImage: "http://uploads.9dots.io/Or0ECNR_lrg.jpg"
 ---
 
 ## Lesson Overview
-Students will use Minecraft to engage in daily challenges and work as a collaborate community to achieve various challenges. Minecraft is an online interactive role playing game. The instructor will set up Minecraft in a server and turn on Survival Mode. Use this link for [gameplay instructions](http://www.wikihow.com/Play-Minecraft) are listed below. 
+Students will use Minecraft to engage in daily challenges and work as a collaborate community to achieve various challenges. Minecraft is an online interactive role playing game. The instructor will set up Minecraft in a server and turn on Survival Mode. Use this link for a useful wiki on how to [play Minecraft](http://www.wikihow.com/Play-Minecraft)
 
 ## Setup
 

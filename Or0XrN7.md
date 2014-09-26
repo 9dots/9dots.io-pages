@@ -8,6 +8,11 @@ org: 9dots
 blurb: "Students will mine and build essential items in #Minecraft #NGSS-3-5-ETS1-1 #NGSS-3-5-ETS1-2 #NGSS-MS-ETS1-2"
 objective: "SWBAT mine for and construct essential items for survival in #Minecraft"
 id: "9dots-Or0XrN7"
+attachments: 
+  - path: "http://uploads.9dots.io/Or0vuHE.gdoc"
+    name: "Day 3: Mining Handout.gdoc"
+  - path: "http://uploads.9dots.io/Or0vw18.gslides"
+    name: "Day 3: Mining.gslides"
 
 ---
 
@@ -24,47 +29,42 @@ In their [Minecraft Day 1](http://www.9dots.io/9dots/OqtrDDl) students built she
 - Minecraft Mining powerpoint
 
 ## Empathize
-Day 1 of your Minecraft adventure. Review design thinking as a process to identify and solve problems in one's community. 
+Day 2 of your Minecraft adventure. Students will engage in design thinking to solve their problem of limited resources. As the instructor, supply students with a pick axe to allow them to quickly mine for materials.
 
-1. Go through each term and ask for a student defintions. After have students write down each definition in their handout. 
-	- Empathize: The work you do to understand people, within the context of your design challenge; gives confidence you are working on a meaningful problem
-	- Define: Based on what you know, craft a meaningful problem statement; brings clarity and focus to the design space
-	- Ideate: concentrate on idea generation; design many diverse solutions to develop and test
-	- Prototype: Begin building; gives confidence that your solution meets the need you uncovered
-	- Test: show don’t tell and always get feedback.
+1. You’ve survived 2 days! You have managed to make shelter, harvest food, and now your task is even greater. You’re resources are running low and your shelters are bare and unsustainable. It is time you begin mining and gathering your own materials to begin crafting goods. 
 
-2. Introduce scenario: You’ve crashed! You and your crew are shipwrecked on a mysterious island with limited supplies. You only know one thing about this island: it is covered with MONSTERS! Though this is scary, they only come out at night. Today you must work together to build a shelter before nightfall. Your shelter must include:
-	- A threshold to enter and exit the shelter
-	- 4 walls (at least)
-	- Space for windows and looking outside 
-	- Roof
-	- Light (lanterns)
-
-3. Discussion question: How do you think it would feel to be in this situation?
+2. Discussion question: Why is this day important? What real-world scenarios can this relate to?
 
 ## Define
-Survival has been turned on in our server, meaning shelter is required. 
+Though we have shelter, resources are limited, so we must rely on our environment and crafting resources. 
 
 1. Students discuss with partners what the problem is and they should write a problem statement on their worksheet. 
 
 ## Ideate
-1. Students will use the dedicated space in the worksheet to begin to design their shelters. Students should draw in squares, since they will be using only cubes in the Minecraft world.
+1. Students will use the dedicated space in the worksheet to begin to write down items they think will be necessary.
 
-2. Students will think about how big their house should be, where to place their windows and door, how large their shelter will be, etc. 
+2. After initial input, students will open the [Crafting Resource Guide](http://www.minecraft-crafting.net/). Instruct students they must craft the following:
+	- Crafting table
+	- Bed
+	- Boat 
+	- Stone slabs
+	- Wooden slabs
+    - Compass
 
-3. Discuss which partner will construct what when gameplay begins (collaboration is critical).
+3. Using the [Crafting Resource Guide](http://www.minecraft-crafting.net/), students will write down the "ingredients" required for each item to be constructed on their worksheet.
 
 ## Prototype
 1. Students will login to Minecraft as a Student.
 
-2. Students will work together to build their structures using the resources supplied by the instructor. It is important students build efficiently as danger approaches during the night. 
+2. Students will work together to find the materials needed and begin crafting their required list of materials. 
 
 ## Test/Feedback
 Discussion questions:
 
-- Were you successful in building your shelter? Why or why not? 
-- What challenges did you run into during gameplay? 
-- What would you change about your shelter in the future? 
+- Were you successful in mining? 
+- What challenges did you run into as you were playing? 
+- Why was this a necessary skill to learn? 
+- How did you work together to make this process easier?
 
 ## Standards
 Standard | Description | Connection

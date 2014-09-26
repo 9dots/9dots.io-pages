@@ -9,10 +9,10 @@ org: 9dots
 objective: SWBAT design and construct a shelter in order to set up a community in Minecraft
 id: "9dots-OqtrDDl"
 attachments: 
-  - path: "http://uploads.9dots.io/Or0D8RG.gslides"
-    name: 9dp + minecraft challenge.gslides
-  - path: "http://uploads.9dots.io/Or0DUOU.gdoc"
-    name: Day 1 handout.gdoc
+  - path: "http://uploads.9dots.io/Or0DeLh.gdoc"
+    name: "Day 1: Shelter Handout.gdoc"
+  - path: "http://uploads.9dots.io/Or0Dfel.gslides"
+    name: "Day 1: Shelter.gslides"
 
 ---
 

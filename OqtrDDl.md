@@ -11,6 +11,8 @@ id: "9dots-OqtrDDl"
 attachments: 
   - path: "http://uploads.9dots.io/Or0D8RG.gslides"
     name: 9dp + minecraft challenge.gslides
+  - path: "http://uploads.9dots.io/Or0DUOU.gdoc"
+    name: Day 1 handout.gdoc
 
 ---
 

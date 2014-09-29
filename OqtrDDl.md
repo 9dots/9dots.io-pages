@@ -33,7 +33,7 @@ Students will use Minecraft to engage in daily challenges and work as a collabor
 ## Empathize
 Day 1 of your Minecraft adventure. Review design thinking as a process to identify and solve problems in one's community. 
 
-1. Go through each term and ask for a student defintions. After have students write down each definition in their handout. 
+1. Go through each term and ask for a student defintions. After, have students write down each definition in their handout. 
 	- Empathize: The work you do to understand people, within the context of your design challenge; gives confidence you are working on a meaningful problem
 	- Define: Based on what you know, craft a meaningful problem statement; brings clarity and focus to the design space
 	- Ideate: concentrate on idea generation; design many diverse solutions to develop and test
@@ -52,7 +52,8 @@ Day 1 of your Minecraft adventure. Review design thinking as a process to identi
 ## Define
 Survival has been turned on in our server, meaning shelter is required. 
 
-1. Students discuss with partners what the problem is and they should write a problem statement on their worksheet. 
+1. Turn[Survival Mode](http://www.wikihow.com/Play-Minecraft) on (directions listed under #2 of the wikilink).
+2. Students discuss with partners what the problem is and they should write a problem statement on their worksheet. 
 
 ## Ideate
 1. Students will use the dedicated space in the worksheet to begin to design their shelters. Students should draw in squares, since they will be using only cubes in the Minecraft world.

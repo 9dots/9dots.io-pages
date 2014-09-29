@@ -17,7 +17,7 @@ attachments:
 ---
 
 ## Lesson Overview
-In their [Minecraft Day 1](http://www.9dots.io/9dots/OqtrDDl) students built shelters for survival. In this lesson, students will gain the skills needed to mine and construct basic essentials including minerals, household items, wood, etc. A link for the crafting guide is listed below. 
+In their [Minecraft Day 1](http://www.9dots.io/9dots/OqtrDDl) students built shelters for survival. Now that shelters are built, students will now gain the skills required to build tools and various survival resources. A link for the crafting guide is listed below. 
 [Crafting Guide](http://www.minecraft-crafting.net/) 
 
 ## Setup

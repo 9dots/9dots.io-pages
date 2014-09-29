@@ -53,9 +53,11 @@ Though we have shelter, resources are limited, so we must rely on our environmen
 	- Wooden slabs
     - Compass
 
-3. Using the [Crafting Resource Guide](http://www.minecraft-crafting.net/), students will write down the "ingredients" required for each item to be constructed on their [Day 3: Shelter Handout](http://uploads.9dots.io/Or0vuHE.gdoc) .
+3. Using the [Crafting Resource Guide](http://www.minecraft-crafting.net/), students will write down the "ingredients" required for each item to be constructed on their [Day 3: Shelter Handout](http://uploads.9dots.io/Or0vuHE.gdoc).
 
 ## Prototype
+After having learned how to define their inputs for various tools and resources, students will begin to mine for materials in Minecraft and construct their tools.
+
 1. Students will login to Minecraft as a Student.
 
 2. Students will work together to find the materials needed and begin crafting their required list of materials. 

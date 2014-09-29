@@ -51,7 +51,7 @@ Today, students will work on the sales pitch that they will give to the judges d
 ## Guided Practice
 
 ### Sales:
-There are six steps to creating a succesful sales pitch. Students will use these steps to craft a sales pitch for their product which they will be presenting in the following lesson.
+There are six steps to creating a successful sales pitch. Students will use these steps to craft a sales pitch for their product which they will be presenting in the following lesson.
 
 1. Research your client
 2. Know your product

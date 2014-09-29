@@ -56,13 +56,15 @@ Survival has been turned on in our server, meaning shelter is required.
 2. Students discuss with partners what the problem is and they should write a problem statement on their worksheet. 
 
 ## Ideate
-1. Students will use the dedicated space in the worksheet to begin to design their shelters. Students should draw in squares, since they will be using only cubes in the Minecraft world.
+1. Students will use the dedicated space in the [Day 1: Shelter Handout](9dots.io/Or0eLh.gdoc) to begin to design their shelters. Students should draw in squares, since they will be using only cubes in the Minecraft world.
 
 2. Students will think about how big their house should be, where to place their windows and door, how large their shelter will be, etc. 
 
 3. Discuss which partner will construct what when gameplay begins (collaboration is critical).
 
 ## Prototype
+After having developed their ideas and designs, students will construct their shelters in Minecraft.
+
 1. Students will login to Minecraft as a Student.
 
 2. Students will work together to build their structures using the resources supplied by the instructor. It is important students build efficiently as danger approaches during the night. 

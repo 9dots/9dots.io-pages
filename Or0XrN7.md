@@ -43,7 +43,7 @@ Though we have shelter, resources are limited, so we must rely on our environmen
 1. Students discuss with partners what the problem is and they should write a problem statement on their worksheet. 
 
 ## Ideate
-1. Students will use the dedicated space in the [Day 3 Handout](http://uploads.9dots.io/Or0vuHE.gdoc) to begin to write down items they think will be necessary.
+1. Students will use the dedicated space in the [Day 3: Shelter Handout](http://uploads.9dots.io/Or0vuHE.gdoc) to begin to write down items they think will be necessary.
 
 2. After initial input, students will open the [Crafting Resource Guide](http://www.minecraft-crafting.net/). Instruct students they must craft the following:
 	- Crafting table
@@ -53,7 +53,7 @@ Though we have shelter, resources are limited, so we must rely on our environmen
 	- Wooden slabs
     - Compass
 
-3. Using the [Crafting Resource Guide](http://www.minecraft-crafting.net/), students will write down the "ingredients" required for each item to be constructed on their [Day 3 Handout](http://uploads.9dots.io/Or0vuHE.gdoc) .
+3. Using the [Crafting Resource Guide](http://www.minecraft-crafting.net/), students will write down the "ingredients" required for each item to be constructed on their [Day 3: Shelter Handout](http://uploads.9dots.io/Or0vuHE.gdoc) .
 
 ## Prototype
 1. Students will login to Minecraft as a Student.

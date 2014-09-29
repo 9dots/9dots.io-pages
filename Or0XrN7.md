@@ -13,11 +13,13 @@ attachments:
     name: "Day 3: Mining Handout.gdoc"
   - path: "http://uploads.9dots.io/Or0vw18.gslides"
     name: "Day 3: Mining.gslides"
+image: "http://uploads.9dots.io/OrHCosH_md.jpg"
+fullImage: "http://uploads.9dots.io/OrHCosH_lrg.jpg"
 
 ---
 
 ## Lesson Overview
-In their [Minecraft Day 1](http://www.9dots.io/9dots/OqtrDDl) students built shelters for survival. Now that shelters are built, students will now gain the skills required to build tools and various survival resources. A link for the crafting guide is listed below. 
+In [Minecraft Day 1](http://www.9dots.io/9dots/OqtrDDl) students built shelters for survival. In [Minecraft Day 2](http://www.9dots.io/9dots/OpIX5X6, students learned how to farm their own food. Now, students will gain the skills required to build tools and various survival resources. A link for the crafting guide is listed below. 
 [Crafting Guide](http://www.minecraft-crafting.net/) 
 
 ## Setup
@@ -41,7 +43,7 @@ Though we have shelter, resources are limited, so we must rely on our environmen
 1. Students discuss with partners what the problem is and they should write a problem statement on their worksheet. 
 
 ## Ideate
-1. Students will use the dedicated space in the worksheet to begin to write down items they think will be necessary.
+1. Students will use the dedicated space in the [Day 3 Handout](http://uploads.9dots.io/Or0vuHE.gdoc) to begin to write down items they think will be necessary.
 
 2. After initial input, students will open the [Crafting Resource Guide](http://www.minecraft-crafting.net/). Instruct students they must craft the following:
 	- Crafting table
@@ -51,7 +53,7 @@ Though we have shelter, resources are limited, so we must rely on our environmen
 	- Wooden slabs
     - Compass
 
-3. Using the [Crafting Resource Guide](http://www.minecraft-crafting.net/), students will write down the "ingredients" required for each item to be constructed on their worksheet.
+3. Using the [Crafting Resource Guide](http://www.minecraft-crafting.net/), students will write down the "ingredients" required for each item to be constructed on their [Day 3 Handout](http://uploads.9dots.io/Or0vuHE.gdoc) .
 
 ## Prototype
 1. Students will login to Minecraft as a Student.

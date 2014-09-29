@@ -56,7 +56,7 @@ Survival has been turned on in our server, meaning shelter is required.
 2. Students discuss with partners what the problem is and they should write a problem statement on their worksheet. 
 
 ## Ideate
-1. Students will use the dedicated space in the [Day 1: Shelter Handout](9dots.io/Or0eLh.gdoc) to begin to design their shelters. Students should draw in squares, since they will be using only cubes in the Minecraft world.
+1. Students will use the dedicated space in the [Day 1: Shelter Handout](www.9dots.io/Or0DeLh.gdoc) to begin to design their shelters. Students should draw in squares, since they will be using only cubes in the Minecraft world.
 
 2. Students will think about how big their house should be, where to place their windows and door, how large their shelter will be, etc. 
 

@@ -52,7 +52,7 @@ Day 1 of your Minecraft adventure. Review design thinking as a process to identi
 ## Define
 Survival has been turned on in our server, meaning shelter is required. 
 
-1. Turn[Survival Mode](http://www.wikihow.com/Play-Minecraft) on (directions listed under #2 of the wikilink).
+1. Turn [Survival Mode](http://www.wikihow.com/Play-Minecraft) on (directions listed under #2 of the wikilink).
 2. Students discuss with partners what the problem is and they should write a problem statement on their worksheet. 
 
 ## Ideate

@@ -29,6 +29,7 @@ This project is a continuation of the Minecraft adventure from the [Minecraft Sh
 - Sustainable food handout
 
 ## Introduction
+Hand out materials and set the scene for the upcoming lesson.
 
 1. Project the [minecraft day 2 powerpoint](http://uploads.9dots.io/OpIXzSy.pptx)
 2. Distribute the [design thinking handout](http://uploads.9dots.io/OpIXxyC.docx)
@@ -70,7 +71,17 @@ Students will develop a design solution to the problem they have just defined.
 ![](http://uploads.9dots.io/OpIZwgm_md.jpg) 
 
 ## Prototype
-Time to go into Minecraft and try out the solutions that students have developed. As students will be working in groups of two, it is a good idea for them to try multiple solutions instead of just one. 
+Time to go into Minecraft and try out the solutions that students have developed. 
+
+1. Everyone will log in to Minecraft
+2. With a teacher account, provide everyone with materials
+	- 10 seeds
+    - 2 buckets of water
+    - 10 bonemeal
+    - 4 torches
+    - 1 hoe
+    - 30 fences
+3. Students should work to create their farm and expand it as necessary
 
 ## Standards
 

@@ -39,10 +39,12 @@ Hand out materials and set the scene for the upcoming lesson.
 ## Empathize
 Discuss with students the current scenario their characters are in. On their handout, students will write how they feel and what they would be wanting.
 
-1. Supplies are starting to run low, especially food
-2. Students have a small supply of seed and materials to build a hoe
-3. There are still monsters roaming around on the island
-4. Students will write how their characters are feeling in this situation
+1. Explain the situation
+	- Supplies are starting to run low, especially food
+	- Students have a small supply of seed and materials to build a hoe
+	- There are still monsters roaming around on the island
+    
+2. Students will write how their characters are feeling in this situation
 
 ## Define
 Time do define the problem that students will solve during this session of the game.
@@ -62,7 +64,7 @@ Students will develop a design solution to the problem they have just defined.
 
 2. With the supplies that they have, a wheat farm is the best choice for the students
 	- To create a wheat farm, you will first need to dig an irrigation ditch for water 
-    - The wheat will only grow within 4 blocks of a water source.
+    - The wheat will only grow within 4 blocks of a water source and the dirt has to be tilled using a hoe.
     - Put a fence around your farm to make sure your crops don’t get trampled
 	- Torches will allow your crops to grow better at night
     

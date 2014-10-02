@@ -42,9 +42,12 @@ For the ev3 robot download the [ev3 building plans](http://uploads.9dots.io/OiQX
 ## Engage
 Give students an introduction to robotics by explaining the fields associated with it and watching a video about the process of engineering. 
 
-1. Robotics is a field that combines engineering and programming to create machines that are capable of performing tasks autonomously.
+1. Show a video of MIT's [robotic cheetah](https://www.youtube.com/watch?v=XMKQbqnXXhQ]
 
-1. Discuss with students what they know about being an engineer
+2. Ask students, "What is robotics?"
+	- Robotics is a field that combines engineering and programming to create machines that are capable of performing tasks autonomously.
+
+3. Discuss with students what they know about being an engineer
 	- Engineers use science and math to solve problems and make everyday life easier. 
 
 2. What kind of process do engineers use to solve problems?

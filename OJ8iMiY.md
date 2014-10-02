@@ -74,12 +74,16 @@ For students that finish early, a brief explain about the importance of repeatab
     - Bumps in the surface of the table can force the robot off course
     
 2. Explain things that you can do to account for those inconsistencies
-	- Add pieces to the back of the robot so that when the robot reverses into a barrier, the robot is perpidicular to that wall
+	- Add pieces to the back of the robot so that when the robot reverses into a barrier, the robot is perpendicular to that wall
     - Use sensors to keep track of where the robot is on the map
+    - Start moving at low power so that the wheels do not slip at all
 
 ## Discuss
 _What can servo motors be used for besides moving the robot?_
 They are rigid pieces that can help form the frame of your robot.
+
+_What does an engineer do?_
+An engineer uses science and math to solve problem.
 
 _Why is it important to clean up Lego pieces properly?_
 Future building can be more efficient and more fun if it is not necessary to hunt for every little piece.

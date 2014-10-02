@@ -30,8 +30,8 @@ So far, students have learned to [create shelters](), [designed a sustainable fo
 
 ### Preparations:
 
-1. Distribute the [Minecraft Day 4 handout](http://uploads.9dots.io/Oqi5hsR.docx)
-2. Set up the [Minecraft Day 4 powerpoint](http://uploads.9dots.io/Oqi5fg5.pptx) to lead the discussion
+- Distribute the [Minecraft Day 4 handout](http://uploads.9dots.io/Oqi5hsR.docx)
+- Set up the [Minecraft Day 4 powerpoint](http://uploads.9dots.io/Oqi5fg5.pptx) to lead the discussion
 
 ## Empathize
 Provide the students with the current scenario for their characters and get them thinking about how those characters would be feeling.

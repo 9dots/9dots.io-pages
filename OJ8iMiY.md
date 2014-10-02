@@ -78,6 +78,8 @@ For students that finish early, a brief explain about the importance of repeatab
     - Use sensors to keep track of where the robot is on the map
     - Start moving at low power so that the wheels do not slip at all
 
+3. Students will work on adding legos to their robot to address the issue of aligning their robot perpendicularly to a wall when reversing
+
 ## Discuss
 _What can servo motors be used for besides moving the robot?_
 They are rigid pieces that can help form the frame of your robot.

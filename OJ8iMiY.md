@@ -26,8 +26,8 @@ fullImage: "http://uploads.9dots.io/Ol3pKtW_lrg.jpg"
 This lesson provides an introduction to robotics and specifically the engineering side of building a robot. To start, students will learn about engineers and watch a brief video about the process of engineering. Students will then build a robot using the instructions provided in the attachments. If there is time at the end, students will attach the touch sensor to their robots.
 
 
-For the nxt robot download the [NXT building plans](http://uploads.9dots.io/OJ8lcC3.pdf)
-For the ev3 robot download the [ev3 building plans](http://uploads.9dots.io/OiQX849.pdf)
+**For the nxt robot download the [NXT building plans](http://uploads.9dots.io/OJ8lcC3.pdf)
+For the ev3 robot download the [ev3 building plans](http://uploads.9dots.io/OiQX849.pdf)**
 
 ## Setup
 
@@ -42,7 +42,7 @@ For the ev3 robot download the [ev3 building plans](http://uploads.9dots.io/OiQX
 ## Engage
 Give students an introduction to robotics by explaining the fields associated with it and watching a video about the process of engineering. 
 
-1. Show a video of MIT's [robotic cheetah](https://www.youtube.com/watch?v=XMKQbqnXXhQ]
+1. Show a video of MIT's [robotic cheetah](https://www.youtube.com/watch?v=XMKQbqnXXhQ)
 
 2. Ask students, "What is robotics?"
 	- Robotics is a field that combines engineering and programming to create machines that are capable of performing tasks autonomously.

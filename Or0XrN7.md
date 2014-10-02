@@ -31,7 +31,7 @@ In [Minecraft Day 1](http://www.9dots.io/9dots/OqtrDDl) students built shelters 
 - Minecraft Mining powerpoint
 
 ## Empathize
-Day 2 of your Minecraft adventure. Students will engage in design thinking to solve their problem of limited resources. As the instructor, supply students with a pick axe to allow them to quickly mine for materials.
+Day 3 of your Minecraft adventure. Students will engage in design thinking to solve their problem of limited resources. As the instructor, supply students with a pick axe to allow them to quickly mine for materials.
 
 1. You’ve survived 2 days! You have managed to make shelter, harvest food, and now your task is even greater. You’re resources are running low and your shelters are bare and unsustainable. It is time you begin mining and gathering your own materials to begin crafting goods. 
 

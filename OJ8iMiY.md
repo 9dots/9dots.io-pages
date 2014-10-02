@@ -48,7 +48,7 @@ Give students an introduction to robotics by explaining the fields associated wi
 	- Engineers use science and math to solve problems and make everyday life easier. 
 
 2. What kind of process do engineers use to solve problems?
-	- Show the [introduction to engineering](http://www.education.rec.ri.cmu.edu/previews/robot_c_products/teaching_rc_lego_v2_preview/fundamentals/projectmanagement/videos/engineeringprocess.html) video.  
+	- After a quick discussion, show the [introduction to engineering](http://www.education.rec.ri.cmu.edu/previews/robot_c_products/teaching_rc_lego_v2_preview/fundamentals/projectmanagement/videos/engineeringprocess.html) video.  
 
 3. Tell students that their goal for this lesson is to build a robot capable of driving in a straight line.
 

@@ -78,6 +78,13 @@ Time for students to test the designs from their handouts by building them in th
 1. In the game, students will create infrastructure to make their society run smoothly.
 2. As students finish building their systems, they will test their own as well as the systems created by their classmates.
 
+## Test/Feedback
+
+### Discussion Questions
+
+- What is the goal of the define part of the design thinking process?
+- What are the advantages to having your entire settlement connected?
+
 ## Standards
 
 

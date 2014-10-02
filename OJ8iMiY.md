@@ -63,7 +63,7 @@ Show students the building plans for their robot and explain the importance of b
 1. Students will work on creating their robot according to the plans provided to them. 
 	- Students should work in groups of four or less
 2. When they have finished, students will use the [straight line program](http://uploads.9dots.io/OJ8kmj2.rbt) to test their robot.
-	- For instructions on how to download programs to the robot check out this wiki
+	- For instructions on how to download programs to the robot check out this [wiki](http://www.9dots.io/9dots/OiQoYL1)
 
 ## Extension
 For students that finish early, a brief explain about the importance of repeatability for robotics.

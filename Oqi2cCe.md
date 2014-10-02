@@ -58,12 +58,11 @@ Come up with ideas of how to design a solution for the problem that they have ju
 	- Students will draw and diagram their plans for connecting their settlement
 	- Examples include a system for traveling from one shelter to another using the rail system, creating a mail system, and using the Minecraft chat to communicate
 
-** For mor information on the rail system check out this [Minecraft rail tutorial](http://minecraft.gamepedia.com/Tutorials/Train_station)
+** For more information on the rail system check out this [Minecraft rail tutorial](http://minecraft.gamepedia.com/Tutorials/Train_station)**
 
 ## Prototype
 
 In the game, students will create infrastructure to make their society run smoothly.
-
 
 ## Standards
 

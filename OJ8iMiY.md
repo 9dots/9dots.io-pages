@@ -42,7 +42,7 @@ For the ev3 robot download the [ev3 building plans](http://uploads.9dots.io/OiQX
 ## Engage
 Give students an introduction to robotics by explaining the fields associated with it and watching a video about the process of engineering. 
 
-1. Show a video of MIT's [robotic cheetah](https://www.youtube.com/watch?v=XMKQbqnXXhQ)
+1. Show a video of MIT's [robotic cheetah](https://www.youtube.com/watch?v=XMKQbqnXXhQ).
 
 2. Ask students, "What is robotics?"
 	- Robotics is a field that combines engineering and programming to create machines that are capable of performing tasks autonomously.
@@ -59,27 +59,29 @@ Give students an introduction to robotics by explaining the fields associated wi
 Show students the building plans for their robot and explain the importance of building this example robot to help them learn.
 
 1. Show students the building plans for their robot. 
-2. Explain that this robot is helpful for learning how to program the robot, and that students will be coming up with their own robot designs later in the unit.## Explore
+2. Explain that this robot is helpful for learning how to program the robot, and that students will be coming up with their own robot designs later in the unit.
+
+## Explore
 
 1. Students will work on creating their robot according to the plans provided to them. 
-	- Students should work in groups of four or less
+	- Students should work in groups of four or less.
 2. When they have finished, students will use the [straight line program](http://uploads.9dots.io/OJ8kmj2.rbt) to test their robot.
-	- For instructions on how to download programs to the robot check out this [wiki](http://www.9dots.io/9dots/OiQoYL1)
+	- For instructions on how to download programs to the robot check out this [wiki](http://www.9dots.io/9dots/OiQoYL1).
 
 ## Extension
 For students that finish early, a brief explain about the importance of repeatability for robotics.
 
-1. Discuss why the Mindstorm robots can be inconsistent
+1. Discuss reasons why the Mindstorm robots can be inconsistent.
 	- Battery life can change the angles of turns
     - Gears can slip and cause a slight turn
     - Bumps in the surface of the table can force the robot off course
     
-2. Explain things that you can do to account for those inconsistencies
+2. Explain things that you can do to account for those inconsistencies.
 	- Add pieces to the back of the robot so that when the robot reverses into a barrier, the robot is perpendicular to that wall
     - Use sensors to keep track of where the robot is on the map
     - Start moving at low power so that the wheels do not slip at all
 
-3. Students will work on adding legos to their robot to address the issue of aligning their robot perpendicularly to a wall when reversing
+3. Students will work on adding legos to their robot to address the issue of aligning their robot perpendicularly to a wall when reversing.
 
 ## Discuss
 _What can servo motors be used for besides moving the robot?_

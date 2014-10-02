@@ -3,7 +3,7 @@ author: danleavitt0
 views: 0
 published: true
 type: lesson
-title: Minecraft Farming
+title: "Minecraft: Farming"
 org: 9dots
 objective: SWBAT design and develop a system for sustainable food growth in Minecraft to keep the community going
 attachments: 

@@ -19,7 +19,7 @@ fullImage: "http://uploads.9dots.io/OqiGTuQ_lrg.jpg"
 ---
 
 ## Lesson Overview
-So far, students have learned to [create shelters](), [designed a sustainable food source](), and [crafted essentials for survival](). To complete their settlement students will develop infrastructure to connect their houses, and create more efficient farms.
+So far, students have learned to [create shelters](http://www.9dots.io/9dots/OqtrDDl), [designed a sustainable food source](http://www.9dots.io/9dots/OpIX5X6), and [crafted essentials for survival](http://www.9dots.io/9dots/Or0XrN7). To complete their settlement students will develop infrastructure to connect their houses, and create more efficient farms.
 
 ## Setup
 ### Materials:

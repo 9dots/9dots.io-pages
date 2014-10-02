@@ -54,7 +54,9 @@ Come up with ideas of how to design a solution for the problem that they have ju
         - The internet to send and recieve data and messages
         - Roads and trains to travel to keep people connected physically
 
-2. What could students add to the server to make this possible? 	- Give students five minutes to discuss with their partner
+2. What could students add to the server to make this possible?
+
+	- Give students five minutes to discuss with their partner
 	- Students will draw and diagram their plans for connecting their settlement
 	- Examples include a system for traveling from one shelter to another using the rail system, creating a mail system, and using the Minecraft chat to communicate
 

@@ -23,7 +23,7 @@ fullImage: "http://uploads.9dots.io/Ol3pKtW_lrg.jpg"
 ---
 
 ## Lesson Overview
-This lesson provides an introduction in to robotics and specifically the engineering side of building a robot. To start, students will learn about engineers and watch a brief video about the process of engineering. Students will then build a robot using the instructions provided in the attachments. If there is time at the end, students will attach the touch sensor to their robots.
+This lesson provides an introduction to robotics and specifically the engineering side of building a robot. To start, students will learn about engineers and watch a brief video about the process of engineering. Students will then build a robot using the instructions provided in the attachments. If there is time at the end, students will attach the touch sensor to their robots.
 
 
 For the nxt robot download the [NXT building plans](http://uploads.9dots.io/OJ8lcC3.pdf)
@@ -60,7 +60,7 @@ Show students the building plans for their robot and explain the importance of b
 
 ## Explore
 
-1. Students will work on creating their robot according to their plans. 
+1. Students will work on creating their robot according to the plans provided to them. 
 	- Students should work in groups of four or less
 2. When they have finished, students will use the [straight line program](http://uploads.9dots.io/OJ8kmj2.rbt) to test their robot.
 	- For instructions on how to download programs to the robot check out this wiki

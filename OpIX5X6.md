@@ -30,44 +30,45 @@ This project is a continuation of the Minecraft adventure from the [Minecraft Sh
 
 ### Preparations
 1. Project the [minecraft day 2 powerpoint](http://uploads.9dots.io/OpIXzSy.pptx)
-2. Distribute the [design thinking handout](http://uploads.9dots.io/OpIXxyC.docx)
+2. Distribute the [day 2 handout](http://uploads.9dots.io/OpIXxyC.docx)
 
 
 
 ## Empathize
 Discuss with students the current scenario their characters are in. On their handout, students will write how they feel and what they would be wanting.
 
-1. Review with students what has happened in their Minecraft adventure
-	- You have been shipwrecked on an island and discovered that there are monsters there. To help survive, your first task was to build shelter to protect yourself through the night and set up a home base for your crew.
+1. Review with students what has happened in their Minecraft adventure.
+	- You have been shipwrecked on an island and discovered that there are monsters there. 
+    - To help survive, your first task was to build shelter to protect yourself through the night and set up a home base for your crew.
     
-2. Explain the situation
-	- Supplies are starting to run low, especially food
-	- Students have a small supply of seed and materials to build a hoe
-	- There are still monsters roaming around on the island
+2. Explain the situation that students are currently facing.
+	- Supplies are starting to run low, especially food.
+	- Students have a small supply of seed and materials to build a hoe.
+	- There are still monsters roaming around on the island.
     
-2. Students will write how their characters are feeling in this situation
+2. Students will write how their characters are feeling in this situation on the day 2 handout.
 
 ## Define
 Time do define the problem that students will solve during this session of the game.
 
-1. Students will discuss with a partner what they feel is the biggest problem that they are facing right now
-2. Guide students to the idea that creating a sustainable food source should be their first priority
-3. Students will write their problem definition on the handout
+1. Students will discuss with a partner what they feel is the biggest problem that they are facing right now.
+2. Guide students to the idea that creating a sustainable food source should be their first priority.
+3. Students will write their problem definition on the handout.
 	- An example problem statement could be, "There is no system in place for gathering food safely."
 
 ## Ideate
 Students will develop a design solution to the problem they have just defined.
 
-1. Discuss with students possible solutions to their problem
+1. Discuss with students possible solutions to their problem.
 	- What are some possible solutions to solving the problem that students identified?
     - Are there some solutions that would be more sustainable than others? 
     - How would you apply these ideas in Minecraft?
 
-2. With the supplies that they have, a wheat farm is the best choice for the students
-	- To create a wheat farm, you will first need to dig an irrigation ditch for water 
+2. With the supplies that they have, a wheat farm is the best choice for the students.
+	- To create a wheat farm, you will first need to dig an irrigation ditch for water .
     - The wheat will only grow within 4 blocks of a water source and the dirt has to be tilled using a hoe.
-    - Put a fence around your farm to make sure your crops don’t get trampled
-	- Torches will allow your crops to grow better at night
+    - Put a fence around your farm to make sure your crops do not get trampled.
+	- Torches will allow your crops to grow better at night.
     
 3. Using the handout, students will draw a diagram of their proposed farm, including labels for the wheat, water, and fences.
 
@@ -76,15 +77,15 @@ Students will develop a design solution to the problem they have just defined.
 ## Prototype
 Time to go into Minecraft and try out the solutions that students have developed. 
 
-1. Everyone will log in to Minecraft
-2. With a teacher account, provide everyone with materials
+1. Everyone will sign in to Minecraft.
+2. With a teacher account, provide everyone with these materials:
 	- 10 seeds
     - 2 buckets of water
     - 10 bonemeal
     - 4 torches
     - 1 hoe
     - 30 fences
-3. Students should work to create their farm and expand it as necessary
+3. Students should work to create their farm and expand it as necessary.
 
 ## Standards
 

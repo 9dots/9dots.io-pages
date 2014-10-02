@@ -18,31 +18,47 @@ fullImage: "http://uploads.9dots.io/OqiGTuQ_lrg.jpg"
 
 ---
 
+## Lesson Overview
+So far, students have learned to [create shelters](), [designed a sustainable food source](), and [crafted essentials for survival](). To complete their settlement students will develop infrastructure to connect their houses, and create more efficient farms.
+
 ## Setup
 ### Materials:
 
 - Computers with Minecraft
 - Minecraft Day 4 handout
 
-## Scenario
-
-Now that students have established shelters, have learned the skills for harvesting food and making goods, it is time to design a network. A community can only exist through collaboration and communication. Students will design infrastructure systems to allow for easier collaboration and communication.
+## Introduction
 
 ## Empathize
+Provide the students with the current scenario for their characters and get them thinking about how those characters would be feeling.
 
-### Ask students:
-How do you feel with only one partner? What do you think a community in the real world would be like if there was only 1 or 2 people trying to make it last? 
+1. Ask students, "What have you accomplished so far in Minecraft?"
+	- Created shelters to protect from monsters
+    - Designed farms for sustainable food growth
+    - Used mining and crafting to create 
+
+2. Discuss how the situation would feel for thier character
+	- How do you feel with only one partner? 
+    - What do you think a community in the real world would be like if there was only 1 or 2 people trying to make it last? 
 
 ## Define
 
 Students will define the problem that they are trying to solve. The problem should be along the lines of “It is hard to be a community without proper systems in place.”
 
 ## Ideate
+Come up with ideas of how to design a solution for the problem that they have just written down.
 
-How do villages, cities, and even countries communicate? What systems are in place?
+1. Discuss how do villages, cities, and even countries communicate?
+	- Communities have systems in place to help communicate. Some examples are:
+    	- The postal service delivering mail
+        - The internet to send and recieve data and messages
+        - Roads and trains to travel to keep people connected physically
 
-What can you add to our server to make this possible? Draw and discuss with your partners.
-Examples include systems for keeping plants watered, a system for traveling from one shelter to another, a system for keeping livestock close to your shelter, etc...
+2. What could students add to the server to make this possible? 	- Give students five minutes to discuss with their partner
+	- Students will draw and diagram their plans for connecting their settlement
+	- Examples include a system for traveling from one shelter to another using the rail system, creating a mail system, and using the Minecraft chat to communicate
+
+** For mor information on the rail system check out this [Minecraft rail tutorial](http://minecraft.gamepedia.com/Tutorials/Train_station)
 
 ## Prototype
 

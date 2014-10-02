@@ -25,9 +25,13 @@ So far, students have learned to [create shelters](), [designed a sustainable fo
 ### Materials:
 
 - Computers with Minecraft
-- Minecraft Day 4 handout
+- [Minecraft Day 4 handout](http://uploads.9dots.io/Oqi5hsR.docx)
+- [Minecraft Day 4 powerpoint](http://uploads.9dots.io/Oqi5fg5.pptx)
 
-## Introduction
+### Preparations:
+
+1. Distribute the [Minecraft Day 4 handout](http://uploads.9dots.io/Oqi5hsR.docx)
+2. Set up the [Minecraft Day 4 powerpoint](http://uploads.9dots.io/Oqi5fg5.pptx) to lead the discussion
 
 ## Empathize
 Provide the students with the current scenario for their characters and get them thinking about how those characters would be feeling.
@@ -36,7 +40,6 @@ Provide the students with the current scenario for their characters and get them
 	- Created shelters to protect from monsters
     - Designed farms for sustainable food growth
     - Used mining and crafting to create 
-
 2. Discuss how the situation would feel for thier character
 	- How do you feel with only one partner? 
     - What do you think a community in the real world would be like if there was only 1 or 2 people trying to make it last? 
@@ -66,7 +69,7 @@ Come up with ideas of how to design a solution for the problem that they have ju
 ** For more information on the rail system check out this [Minecraft rail tutorial](http://minecraft.gamepedia.com/Tutorials/Train_station)**
 
 ## Prototype
-Time to test their design by building them in the game
+Time for students to test their design by building them in the game.
 
 1. In the game, students will create infrastructure to make their society run smoothly.
 

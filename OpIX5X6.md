@@ -87,6 +87,14 @@ Time to go into Minecraft and try out the solutions that students have developed
     - 30 fences
 3. Students should work to create their farm and expand it as necessary.
 
+## Test/Feedback
+
+### Discussion Questions:
+
+1. What was the best design for growing the maximum amount of wheat?
+2. What are the pros and cons of creating a farm versus going out to look for food?
+3. What is the advantage of putting a fence around your farm?
+
 ## Standards
 
 Standard | Description | Connection

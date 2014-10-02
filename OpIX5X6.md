@@ -28,18 +28,19 @@ This project is a continuation of the Minecraft adventure from the [Minecraft Sh
 - Computers with Minecraft installed
 - Sustainable food handout
 
-## Introduction
-Hand out materials and set the scene for the upcoming lesson.
-
+### Preparations
 1. Project the [minecraft day 2 powerpoint](http://uploads.9dots.io/OpIXzSy.pptx)
 2. Distribute the [design thinking handout](http://uploads.9dots.io/OpIXxyC.docx)
-3. Review with students what has happened in their Minecraft adventure
-	- You have been shipwrecked on an island and discovered that there are monsters there. To help survive, your first task was to build shelter to protect yourself through the night and set up a home base for your crew.
+
+
 
 ## Empathize
 Discuss with students the current scenario their characters are in. On their handout, students will write how they feel and what they would be wanting.
 
-1. Explain the situation
+1. Review with students what has happened in their Minecraft adventure
+	- You have been shipwrecked on an island and discovered that there are monsters there. To help survive, your first task was to build shelter to protect yourself through the night and set up a home base for your crew.
+    
+2. Explain the situation
 	- Supplies are starting to run low, especially food
 	- Students have a small supply of seed and materials to build a hoe
 	- There are still monsters roaming around on the island

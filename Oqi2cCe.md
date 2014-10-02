@@ -42,8 +42,11 @@ Provide the students with the current scenario for their characters and get them
     - What do you think a community in the real world would be like if there was only 1 or 2 people trying to make it last? 
 
 ## Define
+Students will discuss and decide what their problem statement will be for this lesson.
 
-Students will define the problem that they are trying to solve. The problem should be along the lines of “It is hard to be a community without proper systems in place.”
+1. Give students five minutes to discuss the situation with their partner
+2. Have one to two groups share their problem statement with the group
+	- The problem should be along the lines of “It is hard to be a community without proper systems in place.”
 
 ## Ideate
 Come up with ideas of how to design a solution for the problem that they have just written down.
@@ -58,7 +61,7 @@ Come up with ideas of how to design a solution for the problem that they have ju
 
 	- Give students five minutes to discuss with their partner
 	- Students will draw and diagram their plans for connecting their settlement
-	- Examples include a system for traveling from one shelter to another using the rail system, creating a mail system, and using the Minecraft chat to communicate
+	- Examples include a system for traveling from one shelter to another using the rail system, creating a mail system (place a chest on a post to create a mailbox), and using the Minecraft chat to communicate
 
 ** For more information on the rail system check out this [Minecraft rail tutorial](http://minecraft.gamepedia.com/Tutorials/Train_station)**
 

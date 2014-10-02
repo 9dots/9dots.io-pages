@@ -56,7 +56,7 @@ Give students an introduction to robotics by explaining the fields associated wi
 Show students the building plans for their robot and explain the importance of building this example robot to help them learn.
 
 1. Show students the building plans for their robot. 
-2. Explain that this robot is helpful for learning how to program the robot, and that students will be coming up with their own designs later in the unit.
+2. Explain that this robot is helpful for learning how to program the robot, and that students will be coming up with their own robot designs later in the unit.
 
 ## Explore
 

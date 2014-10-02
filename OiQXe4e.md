@@ -31,13 +31,13 @@ fullImage: "http://uploads.9dots.io/Ol3tbrJ_lrg.jpg"
 
 ### Media and Handouts:
 
-- Programming Introduction Video
-- Handout for robotic behaviors  
-- Iteration and wrap-up handout
+- [Programming Introduction Video](http://www.education.rec.ri.cmu.edu/previews/robot_c_products/teaching_rc_lego_v2_preview/fundamentals/introtoprogramming/videos/fundamentals1.html)
+- [Handout for robotic behaviors](http://uploads.9dots.io/OiQdggn.pdf) 
+- [Iteration log](http://uploads.9dots.io/OiQe49h.pdf)
 
 ### Project time:
 
-- 1 hr 15 min
+- 45 min
     
 ## Introduce
 

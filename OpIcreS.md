@@ -6,6 +6,7 @@ type: unit
 lessons: 
   - "9dots-OqtrDDl"
   - "9dots-OpIX5X6"
+  - "9dots-Or0XrN7"
   - "9dots-Oqi2cCe"
 title: Minecraft
 org: 9dots

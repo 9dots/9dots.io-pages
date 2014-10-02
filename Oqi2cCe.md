@@ -66,8 +66,9 @@ Come up with ideas of how to design a solution for the problem that they have ju
 ** For more information on the rail system check out this [Minecraft rail tutorial](http://minecraft.gamepedia.com/Tutorials/Train_station)**
 
 ## Prototype
+Time to test their design by building them in the game
 
-In the game, students will create infrastructure to make their society run smoothly.
+1. In the game, students will create infrastructure to make their society run smoothly.
 
 ## Standards
 

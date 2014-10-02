@@ -3,7 +3,7 @@ author: danleavitt0
 views: 0
 published: true
 type: lesson
-title: Minecraft Infrastructure
+title: "Minecraft: Infrastructure"
 org: 9dots
 objective: SWBAT collaborate to build a transportation infrastructure to connect their houses.
 id: "9dots-Oqi2cCe"

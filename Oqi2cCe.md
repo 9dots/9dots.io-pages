@@ -65,8 +65,8 @@ Come up with ideas of how to design a solution for the problem that they have ju
 2. What could students add to the server to make this possible?
 
 	- Give students five minutes to discuss with their partner.
+    - Examples include a system for traveling from one shelter to another using the rail system, creating a mail system (place a chest on a post to create a mailbox), and using the Minecraft chat to communicate.
 	- Students will draw and diagram their plans for connecting their settlement.
-	- Examples include a system for traveling from one shelter to another using the rail system, creating a mail system (place a chest on a post to create a mailbox), and using the Minecraft chat to communicate.
 
 3. Each group will decide on one of these systems that they would like to implement, and draw a diagram of their design in the space provided on the handout.
 

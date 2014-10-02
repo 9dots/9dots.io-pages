@@ -6,7 +6,7 @@ type: lesson
 blurb: "Learn the basic process of #engineering as well as teaching them the different pieces that make up a #Lego #Mindstorm robot."
 title: Robotic Engineering
 org: 9dots
-objective: "By the end of the lesson, the student will be able to demonstrate learning by producing a robot capable of driving."
+objective: "SWBAT to explain what an engineer does, define robotics, and demonstrate learning by producing a robot capable of driving."
 attachments: 
   - path: "http://uploads.9dots.io/OJ8kmj2.rbt"
     name: straightLine.rbt

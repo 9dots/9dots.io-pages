@@ -80,7 +80,7 @@ Time for students to test the designs from their handouts by building them in th
 
 ## Test/Feedback
 
-### Discussion Questions
+### Discussion Questions:
 
 - What is the goal of the define part of the design thinking process?
 - What are the advantages to having your entire settlement connected?

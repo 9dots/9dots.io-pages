@@ -22,6 +22,9 @@ fullImage: "http://uploads.9dots.io/Ol3pKtW_lrg.jpg"
 
 ---
 
+## Lesson Overview
+Provide an introduction in to robotics and specifically the engineering side of building a robot. To start, students will learn about engineers and watch a brief video about the process of engineering. Students will then build a robot using the instructions provided in the attachments. If there is time at the end, students will attach the touch sensor to their robots.
+
 ## Setup
 
 ### Materials:
@@ -33,18 +36,20 @@ fullImage: "http://uploads.9dots.io/Ol3pKtW_lrg.jpg"
 - EV3 Educator Model Building Instructions
 - NXT REM Building Instructions 
 
-## Introduce
+## Engage
+Give students an introduction to robotics by explaining the fields associated with it. 
 
-### HOOK:
-_What do engineers do?_
-Engineers use science and math to solve problems and make everyday life easier. 
+1. Robotics is a field that combines engineering and programming to create machines that are capable of performing tasks autonomously.
 
-_What kind of process do students think engineers use to solve problems?_
-Show the [introduction to engineering](http://www.education.rec.ri.cmu.edu/previews/robot_c_products/teaching_rc_lego_v2_preview/fundamentals/projectmanagement/videos/engineeringprocess.html) video.  When it is over tell students that their goal for the afternoon is to build a robot capable of driving in a straight line.
+1. Discuss with students what they know about being an engineer
+	- Engineers use science and math to solve problems and make everyday life easier. 
 
-## Guided Practice
+2. What kind of process do engineers use to solve problems?
+	- Show the [introduction to engineering](http://www.education.rec.ri.cmu.edu/previews/robot_c_products/teaching_rc_lego_v2_preview/fundamentals/projectmanagement/videos/engineeringprocess.html) video.  
 
-### EXPLAIN:
+3. Tell students that their goal for this lesson is to build a robot capable of driving in a straight line.
+
+## Explain
 Show students the building plans for the EV3 Educator Model. Explain that this robot is helpful for learning how to program the robot, and that students will be coming up with their own designs later in the unit.
 
 ## Explore
@@ -52,7 +57,7 @@ Show students the building plans for the EV3 Educator Model. Explain that this r
 ### BUILD:
 Students should now begin building using the plans.  When students are finished, they will run the simple straight line program and see their robot move. Students who finish early can explore further by attaching various sensors to their robot.
 
-### DISCUSS:
+## Discuss
 _What can servo motors be used for besides moving the robot?_
 They are rigid pieces that can help form the frame of your robot.
 

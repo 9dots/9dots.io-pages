@@ -23,7 +23,11 @@ fullImage: "http://uploads.9dots.io/Ol3pKtW_lrg.jpg"
 ---
 
 ## Lesson Overview
-Provide an introduction in to robotics and specifically the engineering side of building a robot. To start, students will learn about engineers and watch a brief video about the process of engineering. Students will then build a robot using the instructions provided in the attachments. If there is time at the end, students will attach the touch sensor to their robots.
+This lesson provides an introduction in to robotics and specifically the engineering side of building a robot. To start, students will learn about engineers and watch a brief video about the process of engineering. Students will then build a robot using the instructions provided in the attachments. If there is time at the end, students will attach the touch sensor to their robots.
+
+
+For the nxt robot download the [NXT building plans](http://uploads.9dots.io/OJ8lcC3.pdf)
+For the ev3 robot download the [ev3 building plans](http://uploads.9dots.io/OiQX849.pdf)
 
 ## Setup
 
@@ -32,12 +36,11 @@ Provide an introduction in to robotics and specifically the engineering side of 
 
 ### Media and Handouts:
 - [Introduction to Engineering](http://www.education.rec.ri.cmu.edu/previews/robot_c_products/teaching_rc_lego_v2_preview/fundamentals/projectmanagement/videos/engineeringprocess.html) 
-- Introduction to parts
-- EV3 Educator Model Building Instructions
-- NXT REM Building Instructions 
+- [EV3 Educator Model Building Instructions](http://uploads.9dots.io/OiQX849.pdf)
+- [NXT REM Building Instructions](http://uploads.9dots.io/OJ8lcC3.pdf)
 
 ## Engage
-Give students an introduction to robotics by explaining the fields associated with it. 
+Give students an introduction to robotics by explaining the fields associated with it and watching a video about the process of engineering. 
 
 1. Robotics is a field that combines engineering and programming to create machines that are capable of performing tasks autonomously.
 
@@ -50,12 +53,29 @@ Give students an introduction to robotics by explaining the fields associated wi
 3. Tell students that their goal for this lesson is to build a robot capable of driving in a straight line.
 
 ## Explain
-Show students the building plans for the EV3 Educator Model. Explain that this robot is helpful for learning how to program the robot, and that students will be coming up with their own designs later in the unit.
+Show students the building plans for their robot and explain the importance of building this example robot to help them learn.
+
+1. Show students the building plans for their robot. 
+2. Explain that this robot is helpful for learning how to program the robot, and that students will be coming up with their own designs later in the unit.
 
 ## Explore
 
-### BUILD:
-Students should now begin building using the plans.  When students are finished, they will run the simple straight line program and see their robot move. Students who finish early can explore further by attaching various sensors to their robot.
+1. Students will work on creating their robot according to their plans. 
+	- Students should work in groups of four or less
+2. When they have finished, students will use the [straight line program](http://uploads.9dots.io/OJ8kmj2.rbt) to test their robot.
+	- For instructions on how to download programs to the robot check out this wiki
+
+## Extension
+For students that finish early, a brief explain about the importance of repeatability for robotics.
+
+1. Discuss why the Mindstorm robots can be inconsistent
+	- Battery life can change the angles of turns
+    - Gears can slip and cause a slight turn
+    - Bumps in the surface of the table can force the robot off course
+    
+2. Explain things that you can do to account for those inconsistencies
+	- Add pieces to the back of the robot so that when the robot reverses into a barrier, the robot is perpidicular to that wall
+    - Use sensors to keep track of where the robot is on the map
 
 ## Discuss
 _What can servo motors be used for besides moving the robot?_

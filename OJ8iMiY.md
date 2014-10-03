@@ -33,11 +33,12 @@ For the ev3 robot download the [ev3 building plans](http://uploads.9dots.io/OiQX
 
 ### Materials:
 - Lego Mindstorm kit
-
-### Media and Handouts:
 - [Introduction to Engineering](http://www.education.rec.ri.cmu.edu/previews/robot_c_products/teaching_rc_lego_v2_preview/fundamentals/projectmanagement/videos/engineeringprocess.html) 
 - [EV3 Educator Model Building Instructions](http://uploads.9dots.io/OiQX849.pdf)
 - [NXT REM Building Instructions](http://uploads.9dots.io/OJ8lcC3.pdf)
+
+### Project Time:
+- 45 minutes
 
 ## Engage
 Give students an introduction to robotics by explaining the fields associated with it and watching a video about the process of engineering. 

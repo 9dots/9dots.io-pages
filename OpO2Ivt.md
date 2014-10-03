@@ -8,6 +8,11 @@ org: 9dots
 objective: "SWBAT explain the difference between input and output, and create circuits using littleBits"
 blurb: "Students will learn about sensors, and try different input/output combinations to gain a familiarity with #littleBits. #NGSS-3-5-ETS1-2"
 id: "9dots-OpO2Ivt"
+attachments: 
+  - path: "http://uploads.9dots.io/OreA5Fy.pdf"
+    name: LITTLE BITS WORKSHEET.pdf
+  - path: "http://uploads.9dots.io/OreAoGn.pptx"
+    name: LBPD 1.pptx
 
 ---
 
@@ -18,14 +23,21 @@ In this unit, students will be designing and prototyping their own product that 
 
 ### Materials:
 
-- Little Bits (separated by input / output / power)
-- Little Bits input output handout
+- littleBits (separated by input / output / power)
+- [littleBits handout](http://uploads.9dots.io/OreA5Fy.pdf)
+- [Product Design Day 1 powerpoint](http://uploads.9dots.io/OreAoGn.pptx)
+
+### Preparations:
+
+- Distribute the littleBits handout
+- Project the Product Design Day 1 powerpoint
 
 ## Engage
 
-1. Show the Little Bits video found at the beginning of the powerpoint. 
-	- On their handouts, students will fill in at least three examples of devices they saw in the video.
-2. Little Bits are a way to learn and prototype with electronics. They are magnetic circuits that can perform actions. 
+1. Distribute the littleBits handout.
+1. Show the littleBits video found at the beginning of the powerpoint. 
+	- On their littleBits handouts, students will fill in at least three examples of devices they saw in the video.
+2. littleBits are a way to learn and prototype with electronics. They are magnetic circuits that can perform actions. 
 
 ## Explain
 
@@ -52,8 +64,20 @@ In this unit, students will be designing and prototyping their own product that 
 
 ## Explore
 
-1. Using the handout, students will build circuits using different input and output combinations
+1. Using the handout, students will build circuits using different input and output combinations.
 	- After creating a circuit, students will write down the result on the handout.
+
+2. Give some specific goals such as:
+	- Make a light turn on when I push a button
+    - Turn on a motor when motion is detected
+    - 
+
+## Test/Feedback
+
+### Discussion Questions:
+
+1. What is a sensor?
+2. What is an output?
 
 ## Standards
 

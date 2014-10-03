@@ -83,12 +83,15 @@ For students that finish early, a brief explain about the importance of repeatab
 
 3. Students will work on adding legos to their robot to address the issue of aligning their robot perpendicularly to a wall when reversing.
 
-## Discuss
-_What can servo motors be used for besides moving the robot?_
-They are rigid pieces that can help form the frame of your robot.
+## Test/Feedback
 
-_What does an engineer do?_
-An engineer uses science and math to solve problem.
+### Discussion Questions
 
-_Why is it important to clean up Lego pieces properly?_
-Future building can be more efficient and more fun if it is not necessary to hunt for every little piece.
+- What can servo motors be used for besides moving the robot?
+	- They are rigid pieces that can help form the frame of your robot.
+
+- What does an engineer do?
+	- An engineer uses science and math to solve problem.
+
+- Why is it important to clean up Lego pieces properly?
+	- Future building can be more efficient and more fun if it is not necessary to hunt for every little piece.

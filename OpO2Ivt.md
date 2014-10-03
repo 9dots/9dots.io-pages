@@ -94,7 +94,9 @@ A hands on exploration of littleBits using the littleBits handout to organize wh
 ### Discussion Questions:
 
 1. What is a sensor?
+
 2. How is a sensor similar to human senses?
+
 3. What is an output?
 
 ## Standards

@@ -33,13 +33,14 @@ In this unit, students will be designing and prototyping their own product that 
 - Project the Product Design Day 1 powerpoint
 
 ## Engage
+Give the students an introduction to the littleBits that they will be using during this unit and get them excited by watching a video that showcases the power of littleBits.
 
-1. Distribute the littleBits handout.
 1. Show the littleBits video found at the beginning of the powerpoint. 
 	- On their littleBits handouts, students will fill in at least three examples of devices they saw in the video.
 2. littleBits are a way to learn and prototype with electronics. They are magnetic circuits that can perform actions. 
 
 ## Explain
+Teach students about how the littleBits sensors mimic human senses and give examples of sensors used in everyday life.
 
 1. Discuss with students the five senses that humans have.
 	- Smell

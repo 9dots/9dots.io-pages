@@ -67,8 +67,12 @@ Teach students about how the littleBits sensors mimic human senses and give exam
 	- Clap on clap off lights – sense sound and turn on light
     
 5. The sensors for littleBits are called **inputs** and have pink edges.
+
 6. The littleBits that do an action are called **outputs** and have green edges.
-7. 
+
+7. To power a littleBits circuit you need a blue **power supply**.
+
+8. The order of the littleBits circuit should be power supply -> input -> output
 
 ![](http://uploads.9dots.io/OreJARZ_md.jpg)
 

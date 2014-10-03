@@ -6,7 +6,7 @@ type: lesson
 title: littleBits Exploration
 org: 9dots
 objective: "SWBAT explain the difference between input and output, and create circuits using littleBits"
-blurb: "Students will learn about sensors, and try different input/output combinations to gain a familiarity with #littleBits."
+blurb: "Students will learn about sensors, and try different input/output combinations to gain a familiarity with #littleBits. #NGSS-3-5-ETS1-2"
 id: "9dots-OpO2Ivt"
 
 ---
@@ -41,13 +41,11 @@ In this unit, students will be designing and prototyping their own product that 
 	- if we hear our dog running away, we call their name
 	- if we taste something bad, we spit it out
 
-## Explain
-
-1. Just like with the body, in electronic senses are called “sensors”.
+3. Just like with the body, in electronic senses are called “sensors”.
 	- A sensor is a device that receives and responds to a signal or stimulus. 
     - A sensor is used to measure a physical quantity such as temperature, pressure or loudness and convert it into an electronic signal of some kind (e.g a voltage).
     
-2. Some examples of sensors from real life include:
+4. Some examples of sensors from real life include:
 	- Fire alarm – sense smoke in the air and turn on noise
 	- Light switch – sense motion and turn on light
 	- Clap on clap off lights – sense sound and turn on light

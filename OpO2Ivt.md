@@ -31,6 +31,10 @@ In this unit, students will be designing and prototyping their own product that 
 
 - Project the Product Design Day 1 powerpoint
 
+### Project Time:
+
+- 45 minutes
+
 ## Engage
 Give the students an introduction to the littleBits that they will be using during this unit and get them excited by watching a video that showcases the power of littleBits.
 
@@ -61,6 +65,8 @@ Teach students about how the littleBits sensors mimic human senses and give exam
 	- Fire alarm – sense smoke in the air and turn on noise
 	- Light switch – sense motion and turn on light
 	- Clap on clap off lights – sense sound and turn on light
+    
+5. The sensors for littleBits
 
 ## Explore
 A hands on exploration of littleBits using the littleBits handout to organize what students discover.

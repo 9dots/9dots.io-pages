@@ -29,7 +29,6 @@ In this unit, students will be designing and prototyping their own product that 
 
 ### Preparations:
 
-- Distribute the littleBits handout
 - Project the Product Design Day 1 powerpoint
 
 ## Engage
@@ -64,21 +63,25 @@ Teach students about how the littleBits sensors mimic human senses and give exam
 	- Clap on clap off lights – sense sound and turn on light
 
 ## Explore
+A hands on exploration of littleBits using the littleBits handout to organize what students discover.
 
-1. Using the handout, students will build circuits using different input and output combinations.
-	- After creating a circuit, students will write down the result on the handout.
+1. Distribute the littleBits handout.
 
-2. Give some specific goals such as:
+2. Using the handout, students will build circuits using different input and output combinations.
+	- After creating a circuit, students will write down the result on the handout. This includes writing the name of the input, the name of the output, and a sentence explaining what happens when the input is triggered.
+
+3. Give some specific goals such as:
 	- Make a light turn on when I push a button
     - Turn on a motor when motion is detected
-    - 
+    - Make a noise when sound it hears a sound
 
 ## Test/Feedback
 
 ### Discussion Questions:
 
 1. What is a sensor?
-2. What is an output?
+2. How is a sensor similar to human senses?
+3. What is an output?
 
 ## Standards
 

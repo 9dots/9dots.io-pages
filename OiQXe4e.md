@@ -28,9 +28,6 @@ fullImage: "http://uploads.9dots.io/Ol3tbrJ_lrg.jpg"
 - Computer with [EV3 Software](http://www.lego.com/en-us/mindstorms/downloads/software/ddsoftwaredownload/download-software/) 
 - Teacher-created maze (black electrical tape on the floor works well)
 - Completed Mindstorm robot from lesson 1
-
-### Media and Handouts:
-
 - [Programming Introduction Video](http://www.education.rec.ri.cmu.edu/previews/robot_c_products/teaching_rc_lego_v2_preview/fundamentals/introtoprogramming/videos/fundamentals1.html)
 - [Handout for robotic behaviors](http://uploads.9dots.io/OiQdggn.pdf) 
 - [Iteration log](http://uploads.9dots.io/OiQe49h.pdf)
@@ -39,17 +36,15 @@ fullImage: "http://uploads.9dots.io/Ol3tbrJ_lrg.jpg"
 
 - 45 min
     
-## Introduce
+## Engage
 
-### DISCUSS: 
-_What do programmers do?_
-Programmers give detailed instructions to computers to solve problems and accomplish tasks.  
+1. Start a discussion with students by asking, _"What do programmers do?"_
+	- Programmers give detailed instructions to computers to solve problems and accomplish tasks.  
 
-### WATCH:
-Show the Programming Introduction Video.
+2. Show the Programming Introduction Video.
 
-### GOAL: 
-Tell students that their goal is to create a robot that is capable of pushing a lego through a maze without crossing any of the lines. 
+3. Tell students that their goal is to create a robot that is capable of pushing a lego through a maze without crossing any of the lines. 
+
 ```
 TIP: Make sure to start the robot in the exact same place each time. Placing an extra piece of tape in the starting area to mark the correct position can help ensure consistency.
 ```

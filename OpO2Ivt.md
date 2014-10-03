@@ -66,7 +66,11 @@ Teach students about how the littleBits sensors mimic human senses and give exam
 	- Light switch – sense motion and turn on light
 	- Clap on clap off lights – sense sound and turn on light
     
-5. The sensors for littleBits
+5. The sensors for littleBits are called **inputs** and have pink edges.
+6. The littleBits that do an action are called **outputs** and have green edges.
+7. 
+
+![](http://uploads.9dots.io/OreJARZ_md.jpg)
 
 ## Explore
 A hands on exploration of littleBits using the littleBits handout to organize what students discover.

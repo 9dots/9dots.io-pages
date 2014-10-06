@@ -30,7 +30,7 @@ This lesson will serve as an introduction to programming using the EV3 software 
 - Lego Mindstorm kit
 - Computer with [EV3 Software](http://www.lego.com/en-us/mindstorms/downloads/software/ddsoftwaredownload/download-software/) 
 - Teacher-created maze (black electrical tape on the floor works well)
-- Completed Mindstorm robot from lesson 1
+- Completed Mindstorm [robot from lesson 1](http://www.9dots.io/9dots/OJ8iMiY)
 - [Programming Introduction Video](http://www.education.rec.ri.cmu.edu/previews/robot_c_products/teaching_rc_lego_v2_preview/fundamentals/introtoprogramming/videos/fundamentals1.html)
 - [Handout for robotic behaviors](http://uploads.9dots.io/OiQdggn.pdf) 
 - [Iteration log](http://uploads.9dots.io/OiQe49h.pdf)

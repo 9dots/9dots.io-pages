@@ -16,7 +16,7 @@ Students will continue learning about programming by building on [EV3 Programmin
 
 ### Materials:
 
-- Finished Robot from Lesson 1
+- Finished robot and lego attachment from Lesson 1
 - Hand written program from Lesson 2
 - Computers with EV3 software
 

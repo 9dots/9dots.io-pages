@@ -8,6 +8,8 @@ org: 9dots
 objective: SWBAT create a motorized circuit to lift objects using littleBits and design an original solution to create a crane using limited supplies.
 id: "9dots-Orf0usp"
 blurb: "Students will practice the design process thinking to develop a solution for lifting legos off the ground using #littleBits."
+image: "http://uploads.9dots.io/OrwCi5T_md.jpg"
+fullImage: "http://uploads.9dots.io/OrwCi5T_lrg.jpg"
 
 ---
 

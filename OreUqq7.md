@@ -13,12 +13,17 @@ id: "9dots-OreUqq7"
 
 ## Setup
 
-### Materials
+### Materials:
 
-### Preparations
+- Finished Robot from Lesson 1
+- Hand written program from Lesson 2
+- Computers with EV3 software
 
-### Project Time
+### Preparations:
 
+### Project Time:
+
+- 45 minutes
 
 ## Engage
 

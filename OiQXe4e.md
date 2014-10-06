@@ -4,9 +4,9 @@ views: 0
 published: true
 type: lesson
 title: Introduction to EV3 Programming
-blurb: "This lesson will provide students with a basic knowledge of the #programming process and introduce them to the #Lego #Mindstorm software"
+blurb: "This lesson will provide students with a basic knowledge of the #programming process and introduce them to the #Lego #Mindstorm software."
 org: 9dots
-objective: "By the end of the lesson, students will be able to explain what a programmer is, define a simple behavior, and write a program capable of navigating their robot through a simple maze"
+objective: "By the end of the lesson, students will be able to explain what a programmer is, define a simple behavior, and write a program capable of navigating their robot through a simple maze."
 id: "9dots-OiQXe4e"
 image: "http://uploads.9dots.io/Ol3tbrJ_md.jpg"
 attachments: 
@@ -19,6 +19,9 @@ attachments:
 fullImage: "http://uploads.9dots.io/Ol3tbrJ_lrg.jpg"
 
 ---
+
+## Lesson Overview
+This lesson will serve as an introduction to programming using the EV3 software (this is useable with the older NXT bricks as well). To start, students will learn about what it means to be a programmer. Next, students learn about their goal for the day, and construct a lego attachment to help achieve it. After, students will learn about simple and complex robot behaviors. To finish the lesson, students will have their first programming challenge to guide their teacher through a maze using programming instructions.
 
 ## Setup
 
@@ -36,7 +39,6 @@ fullImage: "http://uploads.9dots.io/Ol3tbrJ_lrg.jpg"
 
 - 45 min
     
-
     
 ## Engage
 Give students an introduction to what it means to program robots and discuss the goal for this lesson.

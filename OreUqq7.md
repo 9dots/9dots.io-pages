@@ -43,7 +43,6 @@ Teach students how to use the move steering block to accomplish a simple behavio
 ![](http://uploads.9dots.io/OiQc16D_md.jpg) 
 
 3. To make a complex behavior, connect as many Move Steering blocks (simple behaviors) together as are required.
-
 ![](http://uploads.9dots.io/OiQcewv_md.jpg) 
 
 ## Explore

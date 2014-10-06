@@ -69,7 +69,7 @@ Show students the building plans for their robot and explain the importance of b
 	- For instructions on how to download programs to the robot check out this [wiki](http://www.9dots.io/9dots/OiQoYL1).
 
 ## Extension
-For students that finish early, a brief explain about the importance of repeatability for robotics.
+For students that finish early, explain about the importance of repeatability for robotics.
 
 1. Discuss reasons why the Mindstorm robots can be inconsistent.
 	- Battery life can change the angles of turns

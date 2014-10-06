@@ -16,8 +16,8 @@ Students will continue learning about programming by building on the [Introducti
 
 ### Materials:
 
-- Finished robot and lego attachment from Lesson 1
-- Hand written program from Lesson 2
+- Finished robot from [Robotic Engineering](http://www.9dots.io/9dots/OJ8iMiY)
+- Hand written program and lego attachment from [Introduction to EV3 Programming](http://www.9dots.io/9dots/OiQXe4e)
 - Computers with EV3 software
 
 ### Preparations:

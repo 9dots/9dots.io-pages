@@ -10,7 +10,7 @@ id: "9dots-OreUqq7"
 ---
 
 ## Lesson Overview
-Students will continue learning about programming by building on [EV3 Programming Part 1](). Students will start by learning about how to program in the EV3 environment and download their programs to the robot for testing. Finally, they will test their robots on the maze and keep a log of their tests. 
+Students will continue learning about programming by building on the [Introduction to EV3 Programming](http://www.9dots.io/9dots/OiQXe4e) lesson. Students will start by learning about how to program in the EV3 environment and download their programs to the robot for testing. Finally, they will test their robots on the maze and keep a log of their tests. 
 
 ## Setup
 

@@ -70,7 +70,7 @@ After seeing the materials that they have available to them, students will devel
 		- Build a structure with the cardboard to keep the littleBits from sliding because of the weight.
 
 ## Prototype
-Students will try to build their design using the provided materials.
+Students will try to build their design using the provided materials. 
 
 ## Test
 Students will attach a weight to their crane and attempt to lift it from the floor up to the table.

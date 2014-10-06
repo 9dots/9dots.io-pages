@@ -10,8 +10,6 @@ objective: "SWBAT to explain what an engineer does, define robotics, and demonst
 attachments: 
   - path: "http://uploads.9dots.io/OJ8kmj2.rbt"
     name: straightLine.rbt
-  - path: "http://uploads.9dots.io/OJ8lEKm.docx"
-    name: IntroductiontoNXTParts.docx
   - path: "http://uploads.9dots.io/OJ8lcC3.pdf"
     name: rem.pdf
   - path: "http://uploads.9dots.io/OiQX849.pdf"

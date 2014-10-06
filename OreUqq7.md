@@ -31,21 +31,18 @@ Students will continue learning about programming by building on the [Introducti
 ## Explain 
 Teach students how to use the move steering block to accomplish a simple behavior. 
 
-1. To program the Mindstorm Robot, students will use the same 3 simple behaviors; move straight, turn left, and turn right. 
-2. In the Mindstorm EV3 software, to program the robot, drag blocks from the bottom bar and connect them to the start block that is on the screen. 
-3. The three behaviors that have been discussed are all achievable using the Move Steering block.
-
+1. In the Mindstorm EV3 software, to program the robot, drag blocks from the bottom bar and connect them to the start block that is on the screen. 
+	- To program the Mindstorm Robot, students will use the same 3 simple behaviors; move straight, turn left, and turn right. 
+	- The three behaviors that have been discussed are all achievable using the Move Steering block.
 ![](http://uploads.9dots.io/OiQbdRA_md.jpg) 
 
-4. The 3 parts of the Move Steering block are:
-
+2. The 3 parts of the Move Steering block are:
 	- *Turning:* Positive numbers turn right, Negative numbers turn left, and 0 means straight.
 	- *Power:* How fast the motor will spin. 0 is the slowest; 100 is the fastest.
 	- *Duration:* How long the motor will turn on for in rotations. 1 rotation is one full spin of the motor.
-
 ![](http://uploads.9dots.io/OiQc16D_md.jpg) 
 
-5. To make a complex behavior, connect as many Move Steering blocks (simple behaviors) together as are required.
+3. To make a complex behavior, connect as many Move Steering blocks (simple behaviors) together as are required.
 
 ![](http://uploads.9dots.io/OiQcewv_md.jpg) 
 

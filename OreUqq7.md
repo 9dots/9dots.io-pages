@@ -57,4 +57,7 @@ Students will go begin programming their robot to complete the tasks.
 	- Students should use their program (the written down instructions) from the ‘teacher robot’ activity to help with organizing the behaviors for the actual maze challenge.
 
 ## Evaluate
-Students may test their robot at any point. After each attempt, students should write down what worked and what they should change using this handout.
+Students will test their programs and keep a log of where each attempt could be improved.
+
+1. Students may test their robot at any point. 
+2. After each attempt, students should write down what worked and what they should change using the [iteration log handout]().

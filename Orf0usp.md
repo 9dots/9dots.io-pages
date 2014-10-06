@@ -47,7 +47,7 @@ Explain to students the scenario that they are going to find a solution for.
 After students discuss how they feel about the situation, they will define the problem in simple terms.
 
 1. Discuss with students what the problem is.
-
+	- An example of the problem statement could read, "There is no way to lift the heavy pieces to the top of the building."
 2. Students will write their problem statement on their handouts.
 
 ## Ideate

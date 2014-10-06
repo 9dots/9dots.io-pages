@@ -29,8 +29,9 @@ This project is a continuation of the Minecraft adventure from the [Minecraft Sh
 - Sustainable food handout
 
 ### Preparations
-1. Project the [minecraft day 2 powerpoint](http://uploads.9dots.io/OpIXzSy.pptx)
-2. Distribute the [day 2 handout](http://uploads.9dots.io/OpIXxyC.docx)
+
+- Project the [minecraft day 2 powerpoint](http://uploads.9dots.io/OpIXzSy.pptx)
+- Distribute the [day 2 handout](http://uploads.9dots.io/OpIXxyC.docx)
 
 
 

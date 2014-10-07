@@ -59,7 +59,7 @@ Teach students how to use the move steering block to accomplish a simple behavio
 ![](http://uploads.9dots.io/OiQcewv_md.jpg) 
 
 ## Explore
-Students will go begin programming their robot to complete the tasks.
+Show students the maze from the previous lesson to remind them of what their robot will need to navvigate. Students will go begin programming their robot to complete the maze.
 
 1. Demonstrate how to download a program to the robot. 
 	- A how to on downloading programs to the EV3 can be found in the Wiki section of 9dots.io.

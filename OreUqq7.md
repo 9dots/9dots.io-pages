@@ -33,6 +33,11 @@ Students will continue learning about programming by building on the [Introducti
 - 45 minutes
 
 ## Engage
+To get the students interested, show them a video of a very well designed and programmed EV3 robot.
+
+1. Show the [video](https://www.youtube.com/watch?v=wzDjg595AiU) of the world champion robot from 2013-14 First Lego League challenge.
+
+2. Discuss with students the importance of combining good engineering and good programming.
 
 ## Explain 
 Teach students how to use the move steering block to accomplish a simple behavior. Students will follow along on the Move Steering handout.

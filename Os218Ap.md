@@ -46,14 +46,14 @@ Start the day off by discussing the importance of prototyping and testing to cre
 	- Yes! It is important to not get too attached to one design because testing may reveal that it does not work well as planned.
     
 ## Prototype
-Students will continue to create their original design for their cranes.
+Students will continue to create their original design for their cranes. Remind students that this is important to get their first prototype done quickly so that they can move on to testing and then  revising their design.
 
 ## Test
 When students have complete their prototypes, they will test their cranes by attaching weights to the end of the strings.
 
 1. Students who have finished their prototype will attach weights (any object that can be tied up with a string) and test their design.
 
-2. After testing, students will use the iteration log to keep track of what could have worked better.
+2. After testing, students will use the [iteration log]() to keep track of what could have worked better.
 
 3. Students will modify their prototypes to reflect the design problems found during testing.
 

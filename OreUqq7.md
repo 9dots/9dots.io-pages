@@ -6,6 +6,9 @@ type: lesson
 org: 9dots
 title: EV3 Programming Part 2
 id: "9dots-OreUqq7"
+attachments: 
+  - path: "http://uploads.9dots.io/Os1oGrk.docx"
+    name: MoveSteeringHandout.docx
 
 ---
 
@@ -19,8 +22,11 @@ Students will continue learning about programming by building on the [Introducti
 - Finished robot from [Robotic Engineering](http://www.9dots.io/9dots/OJ8iMiY)
 - Hand written program and lego attachment from [Introduction to EV3 Programming](http://www.9dots.io/9dots/OiQXe4e)
 - Computers with EV3 software
+- [Move Steering Handout](http://uploads.9dots.io/Os1oGrk.docx)
 
 ### Preparations:
+
+- Distribute the [Move Steering Handout](http://uploads.9dots.io/Os1oGrk.docx)
 
 ### Project Time:
 
@@ -29,20 +35,22 @@ Students will continue learning about programming by building on the [Introducti
 ## Engage
 
 ## Explain 
-Teach students how to use the move steering block to accomplish a simple behavior. 
+Teach students how to use the move steering block to accomplish a simple behavior. Students will follow along on the Move Steering handout.
 
 1. In the Mindstorm EV3 software, to program the robot, drag blocks from the bottom bar and connect them to the start block that is on the screen. 
 	- To program the Mindstorm Robot, students will use the same 3 simple behaviors; move straight, turn left, and turn right. 
 	- The three behaviors that have been discussed are all achievable using the Move Steering block.
 ![](http://uploads.9dots.io/OiQbdRA_md.jpg) 
 
-2. The 3 parts of the Move Steering block are:
+2. Students will fill in the 3 parts of the Move Steering block on their handout:
 	- *Turning:* Positive numbers turn right, Negative numbers turn left, and 0 means straight.
 	- *Power:* How fast the motor will spin. 0 is the slowest; 100 is the fastest.
 	- *Duration:* How long the motor will turn on for in rotations. 1 rotation is one full spin of the motor.
 ![](http://uploads.9dots.io/OiQc16D_md.jpg) 
 
 3. To make a complex behavior, connect as many Move Steering blocks (simple behaviors) together as are required.
+
+4. On the handout, students will describe the behaviors for each move steering block. The finished answer should look like this:
 ![](http://uploads.9dots.io/OiQcewv_md.jpg) 
 
 ## Explore

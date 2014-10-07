@@ -7,6 +7,9 @@ title: "Cardboard Cranes: Finish"
 org: 9dots
 id: "9dots-Os218Ap"
 blurb: Students will complete their cranes from the previous lesson by testing and making modifications to their designs.
+objective: SWBAT complete their cardboard crane and refine their design through prototyping and testing.
+image: "http://uploads.9dots.io/Os2GGNe_md.jpg"
+fullImage: "http://uploads.9dots.io/Os2GGNe_lrg.jpg"
 
 ---
 

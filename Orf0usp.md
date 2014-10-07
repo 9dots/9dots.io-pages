@@ -7,7 +7,7 @@ title: Cardboard Cranes
 org: 9dots
 objective: SWBAT create a motorized circuit to lift objects using littleBits and design an original solution to create a crane using limited supplies.
 id: "9dots-Orf0usp"
-blurb: "Students will practice the design process thinking to develop a solution for lifting legos off the ground using #littleBits."
+blurb: "Students will practice the design process thinking to develop a solution for lifting legos off the ground using #littleBits #NGSS-MS-ETS1-2"
 image: "http://uploads.9dots.io/OrwCi5T_md.jpg"
 fullImage: "http://uploads.9dots.io/OrwCi5T_lrg.jpg"
 
@@ -73,3 +73,11 @@ After seeing the materials that they have available to them, students will devel
 
 ## Prototype
 Students will start to build their design using the provided materials. This project will be finished as part of the next lesson.
+
+## Standards
+
+| Standard      | Description   | Connection  |
+| ------------- |---------------| ------|
+| 3-5-ETS1-1 | Define a simple design problem reflecting a need or a want that includes specified criteria for success and constraints on materials, time, or cost | Define |
+| 3-5-ETS1-2 | Generate and compare multiple possible solutions to a problem based on how well each is likely to meet the criteria and constraints of the problem | Ideate |
+| MS-ETS1-2 | Evaluate competing design solutions using a systematic process to determine how well they meet the criteria and constraints of the problem | Prototype |

@@ -9,6 +9,7 @@ id: "9dots-OreUqq7"
 attachments: 
   - path: "http://uploads.9dots.io/Os1oGrk.docx"
     name: MoveSteeringHandout.docx
+objective: SWBAT use the EV3 programming environment to develop a program for their robot that can guide it through a maze.
 
 ---
 

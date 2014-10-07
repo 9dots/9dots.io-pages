@@ -29,17 +29,33 @@ Students will complete the cardboard cranes that they started in the previous le
 - Paper Clip
 - Straw
 
-### preparations:
-
 ### project time:
 
 - 45 minutes
 
 ## Engage
+Start the day off by discussing the importance of prototyping and testing to creating a great product.
 
+1. What does it mean to prototype?
+	- A prototype is a first version of a product used for testing.
+ 
+2. Why is it important to test your prototype?
+	- No matter how long you work on your prototype, your first design can always be improved upon. Testing your product allows the  design team to discover issues that they did not know existed.
+    
+3. Can you change your prototype once you have made it?
+	- Yes! It is important to not get too attached to one design because testing may reveal that it does not work well as planned.
+    
 ## Prototype
+Students will continue to create their original design for their cranes.
 
 ## Test
+When students have complete their prototypes, they will test their cranes by attaching weights to the end of the strings.
+
+1. Students who have finished their prototype will attach weights (any object that can be tied up with a string) and test their design.
+
+2. After testing, students will use the iteration log to keep track of what could have worked better.
+
+3. Students will modify their prototypes to reflect the design problems found during testing.
 
 ## Standards
 

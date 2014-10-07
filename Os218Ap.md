@@ -6,6 +6,7 @@ type: lesson
 title: "Cardboard Cranes: Finish"
 org: 9dots
 id: "9dots-Os218Ap"
+blurb: Students will complete their cranes from the previous lesson by testing and making modifications to their designs.
 
 ---
 

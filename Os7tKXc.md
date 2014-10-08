@@ -45,7 +45,7 @@ Students will discuss with their partner different problems that they have throu
 
 ## Define
 
-Students will answer the question, “What is the problem that you are trying to solve in your community?”
+Students will generate a problem definition based on an issue that they think can be solved by creating a product using littleBits.
 
 ## Ideate
 

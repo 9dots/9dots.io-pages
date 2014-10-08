@@ -125,3 +125,10 @@ Students will test their programs by competing in a game of Mindstorm Pinball (t
 	The placement of the the touch sensor is very important because if it is not in a place where it will get bumped, the robot will not be successful.
 
 3. Students will fill in the robotics wrap-up handout.
+
+## Standards
+
+| Standard      | Description   | Connection  |
+| ------------- |---------------| ------|
+| NGSS-MS-ETS1-2 | Evaluate competing design solutions using a systematic process to determine how well they meet the criteria and constraints of the problem.| Explore |
+| CCSS.MATH.PRACTICE.MP2 | Reason abstractly and quantitatively. | Explain, Elaborate |

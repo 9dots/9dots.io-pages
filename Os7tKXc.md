@@ -7,6 +7,9 @@ title: Product Design Brainstorming
 objective: SWBAT generate ideas for a product to creating using the Little Bits
 org: 9dots
 id: "9dots-Os7tKXc"
+attachments: 
+  - path: "http://uploads.9dots.io/Os7wlJA.pdf"
+    name: BrainstormingHandout.pdf
 
 ---
 
@@ -16,11 +19,16 @@ id: "9dots-Os7tKXc"
 
 ### Materials:
 
-- Brainstorming products handout
+- [Brainstorming products handout](http://uploads.9dots.io/Os7wlJA.pdf)
+
+### Preparations:
+
+- Distribute the [brainstorming products handout](http://uploads.9dots.io/Os7wlJA.pdf)
 
 ### Project Time:
 
 - 45 minutes
+
 
 ## Introduction
 

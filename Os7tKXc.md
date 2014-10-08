@@ -37,8 +37,11 @@ id: "9dots-Os7tKXc"
 3. To help generate ideas for their products, students will take five minutes to browse the littlebits.cc website and look at the projects section.
 
 ## Empathize
+Students will discuss with their partner different problems that they have throughout a normal day for themselves. 
 
-While thinking about the Little Bits available to them, students will discuss with a partner what kind of products they would like to create. What sort of product do you need? What would be a helpful product for your community?
+1. Students will discuss with a partner what kind of products they would like to create. 
+
+2. What sort of product do you need? What would be a helpful product for your community?
 
 ## Define
 
@@ -46,4 +49,10 @@ Students will answer the question, “What is the problem that you are trying to
 
 ## Ideate
 
-Using the Little Bits website as a guide, students will generate 3 idea for a product that they could create to help out their community. Then, students will refine their choices down to just one product that you want to work on. Once they have chosen, students will sketch a diagram for the product and come up with ideas for a name for that product.
+1. Using the Little Bits website as a guide, students will generate 3 idea for a product that they could create to help out their community. 
+
+2. Students will refine their choices down to just one product that you want to work on. 
+
+3. Once they have chosen, students will sketch a diagram for the product and come up with ideas for a name for that product.
+
+## Standards

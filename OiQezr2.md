@@ -131,4 +131,5 @@ Students will test their programs by competing in a game of Mindstorm Pinball (t
 | Standard      | Description   | Connection  |
 | ------------- |---------------| ------|
 | NGSS-MS-ETS1-2 | Evaluate competing design solutions using a systematic process to determine how well they meet the criteria and constraints of the problem.| Explore |
+| NGSS-MS-ETS1-3 | Analyze data from tests to determine similarities and differences among several design solutions to identify the best characteristics of each that can be combined into a new solution to better meet the criteria for success. | Evaluate |
 | CCSS.MATH.PRACTICE.MP2 | Reason abstractly and quantitatively. | Explain, Elaborate |

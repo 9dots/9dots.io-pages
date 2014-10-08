@@ -24,6 +24,7 @@ attachments:
 ### Preparations:
 
 - Distribute the [brainstorming products handout](http://uploads.9dots.io/Os7wlJA.pdf)
+- Project the powerpoint to lead the discussion
 
 ### Project Time:
 

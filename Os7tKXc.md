@@ -4,7 +4,7 @@ views: 0
 published: false
 type: lesson
 title: Product Design Brainstorming
-objective: SWBAT generate ideas for a product to creating using the Little Bits
+objective: SWBAT explain the step of the design thinking process and generate ideas for a product to creating using the Little Bits
 org: 9dots
 id: "9dots-Os7tKXc"
 attachments: 

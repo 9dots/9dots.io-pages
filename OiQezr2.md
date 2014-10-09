@@ -21,7 +21,7 @@ fullImage: "http://uploads.9dots.io/Ol3tnfD_lrg.jpg"
 ---
 
 ## Lesson Overview
-This lesson will teach students about programming loops and event handlers for their robots. It will start by discussing senses and how they help humans and robots react to their environment. Then, students will work on building a touch sensor attachment for their robots. Next, students will figure out the behaviors required to accomplish their goals and learn about how to program those behaviors. The lesson will end by testing out the student created programs in a competition called Mindstorm Pinball.
+This lesson will teach students about programming loops and event handlers for their robots. It will start by discussing senses and how they help humans and robots react to their environment. Then, students will work on building a touch sensor attachment for their robots. Next, students will figure out the behaviors required to accomplish their goals and learn about how to program those behaviors. Students will demonstrate learning by testing their created programs in a competition called Mindstorm Pinball.
 
 ## Setup
 

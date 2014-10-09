@@ -116,7 +116,7 @@ Play a game in which students program the instructor to move through a maze like
 # Day 2
 
 ## Lesson Overview
-Students will continue learning about programming by building on the [Introduction to EV3 Programming](http://www.9dots.io/9dots/OiQXe4e) lesson. Students will start by learning about how to program in the EV3 environment and download their programs to the robot for testing. Finally, they will test their robots on the maze and keep a log of their tests. 
+Students will continue learning about simple and complex behaviors by programming their mindstorm robots. Start by teaching how to program in the EV3 environment and download programs to the robot for testing. Students will demonstrate learning by giving their robots commands to navigate a maze.
 
 ## Setup
 
@@ -168,7 +168,7 @@ Teach students how to use the move steering block to accomplish a simple behavio
 4. On the handout, students will describe the behaviors for each move steering block. The finished answer should look like this:
 ![](http://uploads.9dots.io/OiQcewv_md.jpg) 
 
-## Explore
+## Elaborate
 Show students the maze from the previous lesson to remind them of what their robot will need to navvigate. Students will go begin programming their robot to complete the maze.
 
 1. Demonstrate how to download a program to the robot. 

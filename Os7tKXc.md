@@ -28,7 +28,7 @@ This lesson will be about generating ideas for a product to build using the litt
 ### Preparations:
 
 - Distribute the [brainstorming products handout](http://uploads.9dots.io/Os7wlJA.pdf)
-- Project the powerpoint to lead the discussion
+- Project the [powerpoint](http://uploads.9dots.io/OsEMLFt.pptx) to lead the discussion
 
 ### Project Time:
 
@@ -56,9 +56,11 @@ Students will discuss with their partner different problems that they have throu
 
 2. What sort of product do you need? What would be a helpful product for your community?
 
+3. Students will write down potential problems on their handout as they discuss these questions.
+
 ## Define
 
-Students will generate a problem definition based on an issue that they think can be solved by creating a product using littleBits.
+Students will generate a problem definition based on an issue that they think can be solved by creating a product using littleBits and write it on the handout.
 
 ## Ideate
 Using the problem statement that they have just definded, students will generate ideas for products that they could create using littleBits.

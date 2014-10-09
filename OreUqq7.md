@@ -40,10 +40,17 @@ To get the students interested, show them a video of a very well designed and pr
 
 2. Discuss with students the importance of combining good engineering and good programming.
 
+3. Review what students know about robotic behaviors.
+	- What is a simple behavior?
+    	- A simple behavior is a single programmable step.
+    - What is the relationship between simple and complex behaviors?
+    	- Complex behaviors are made up of several simple behaviors.
+
 ## Explain 
 Teach students how to use the move steering block to accomplish a simple behavior. Students will follow along on the Move Steering handout.
 
 1. In the Mindstorm EV3 software, to program the robot, drag blocks from the bottom bar and connect them to the start block that is on the screen. 
+	- When using the EV3 software, a simple behavior is a single programming block.
 	- To program the Mindstorm Robot, students will use the same 3 simple behaviors; move straight, turn left, and turn right. 
 	- The three behaviors that have been discussed are all achievable using the Move Steering block.
 ![](http://uploads.9dots.io/OiQbdRA_md.jpg) 

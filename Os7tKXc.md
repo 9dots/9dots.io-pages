@@ -67,3 +67,9 @@ Using the problem statement that they have just definded, students will generate
 3. Once they have chosen, students will sketch a diagram for the product and come up with ideas for a name for that product.
 
 ## Standards
+
+| Standard      | Description   | Connection  |
+| ------------- |---------------| ------|
+| NGSS-3-5-ETS1-2 | Generate and compare multiple possible solutions to a problem based on how well each is likely to meet the criteria and constraints of the problem. | Ideate |
+| NGSS-MS-ETS1-1 | Define the criteria and constraints of a design problem with sufficient precision to ensure a successful solution, taking into account relevant scientific principles and potential impacts on people and the natural environment that may limit possible solutions. | Define |
+| NGSS-MS-ETS1-2 | Evaluate competing design solutions using a systematic process to determine how well they meet the criteria and constraints of the problem. | Ideate |

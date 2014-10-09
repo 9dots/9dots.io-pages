@@ -32,6 +32,11 @@ This lesson will teach students about programming loops and event handlers for t
 - Example touch sensor attachment
 - Iteration and wrap-up handout
 
+### Preparations:
+
+- [Create Mindstorm Says images](http://uploads.9dots.io/OiQkWO7_md.jpg)
+- Set up projector
+
 ### Project Time:
 
 - 45 minutes

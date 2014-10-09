@@ -59,7 +59,9 @@ Relate human senses to robotic sensors and discuss how those senses can be used 
 ## Explore
 Review the definition of an attachment for a robot and then give students time to create a touch sensor attachment.
 
-1. This attachment will not be used at the same time as their push attachments. Different attachments are used to solve different problems.
+1. An attachment is a lego structure added to the robot that gives it the ability to complete more tasks.
+	- This attachment will not be used at the same time as their push attachments. 
+    - Different attachments are used to solve different problems.
 
 2. Students have ten minutes to attempt to attach the touch sensor to their robot. The touch sensor should be connected to the front of their robot so that when it runs into a wall it will get pressed.
 
@@ -77,9 +79,12 @@ Start out by reviewing what they already know about programming the robot. Then,
     4. Repeat steps 1-3
 
 3. To accompish the first behavior the duration on the move block must be changed to **on**. This makes the robot move for an unlimited amount of time like referenced in the image below.
+	- If there is no programming block after this it will stop instantly.
+    - If there is a wait block after this move block, the robot will continue to move until the wait block condition is met.
 ![](http://uploads.9dots.io/OiQhIX8_md.jpg) 
 
-4. The Wait block means that we continue whatever comes before the block until the touch sensor gets pressed.
+4. This is called an **event handler** and reacts only when the event has happened. The wait block means that we continue whatever comes before the block until the condition is met.
+	- In this case the condition the robot should wait for is when the touch sensor is activated.
 ![](http://uploads.9dots.io/OiQj0Nu_md.jpg) 
 
 5. Students will remember from the previous lesson to use the Move Steering block to turn.

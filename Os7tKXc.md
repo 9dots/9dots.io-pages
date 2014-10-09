@@ -10,6 +10,8 @@ id: "9dots-Os7tKXc"
 attachments: 
   - path: "http://uploads.9dots.io/Os7wlJA.pdf"
     name: BrainstormingHandout.pdf
+  - path: "http://uploads.9dots.io/OsEMLFt.pptx"
+    name: Product Design Day 5.pptx
 blurb: "In this lesson, students will utilize design thinking to develop ideas for a product #NGSS-3-5-ETS1-2 #NGSS-MS-ETS1-1 #NGSS-MS-ETS1-2"
 
 ---

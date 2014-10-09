@@ -74,4 +74,5 @@ Show students the maze from the previous lesson to remind them of what their rob
 Students will test their programs and keep a log of where each attempt could be improved.
 
 1. Students may test their robot at any point. 
+
 2. After each attempt, students should write down what worked and what they should change using the [iteration log handout]().

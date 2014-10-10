@@ -21,13 +21,13 @@ Students will learn about the concept of a minimum viable product and its import
 
 ### Materials:
 
-- Little Bits
+- [Brainstorming handout](http://uploads.9dots.io/OsJQoTy.docx)
+- littleBits
 - Cardboard
 - Tape
 - String
 - Rubber Bands
 - Cups
-- [Brainstorming handout](http://uploads.9dots.io/OsJQoTy.docx)
 
 ### Preparations:
 

@@ -27,8 +27,12 @@ Students will learn about the concept of a minimum viable product and its import
 - String
 - Rubber Bands
 - Cups
+- [Brainstorming handout](http://uploads.9dots.io/OsJQoTy.docx)
 
 ### Preparations:
+
+- Give each group their brainstorming handout from the previous lesson
+- Set up a projector with the powerpoint
 
 ### Project Time:
 

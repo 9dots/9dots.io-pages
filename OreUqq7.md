@@ -6,9 +6,7 @@ type: lesson
 org: 9dots
 title: Product Design Prototyping
 id: "9dots-OreUqq7"
-attachments: 
-  - path: "http://uploads.9dots.io/Os1oGrk.docx"
-    name: MoveSteeringHandout.docx
+attachments: []
 objective: "SWBAT define a minimum viable product, and create their first prototype based on their designs."
 
 ---
@@ -26,6 +24,12 @@ Students will learn about the concept of a minimum viable product and its import
 - String
 - Rubber Bands
 - Cups
+
+### Preparations:
+
+### Project Time:
+
+- 45 minutes
 
 ## Introduction
 

@@ -6,7 +6,9 @@ type: lesson
 org: 9dots
 title: Product Design Prototyping
 id: "9dots-OreUqq7"
-attachments: []
+attachments: 
+  - path: "http://uploads.9dots.io/OsJQoTy.docx"
+    name: BrainstormingHandout.docx
 objective: "SWBAT define a minimum viable product, and create their first prototype based on their designs."
 
 ---
@@ -78,4 +80,4 @@ If a group has finished building their prototype, they should test it by letting
 3. After testing, students will start the design process again by defining the problem that the tester found with their product.
 	- Use the brainstorming handout again to help students organize their thoughts on their second run through the design thinking process.
 
-![](http://uploads.9dots.io/OsJO25x_md.jpg) 
+![](http://uploads.9dots.io/OsJO25x_md.jpg)

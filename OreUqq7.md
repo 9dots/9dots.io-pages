@@ -81,3 +81,11 @@ If a group has finished building their prototype, they should test it by letting
 	- Use the brainstorming handout again to help students organize their thoughts on their second run through the design thinking process.
 
 ![](http://uploads.9dots.io/OsJO25x_md.jpg)
+
+## Standards
+
+| Standard      | Description   | Connection  |
+| ------------- |---------------| ------|
+| NGSS-3-5-ETS1-2 | Generate and compare multiple possible solutions to a problem based on how well each is likely to meet the criteria and constraints of the problem. | Ideate |
+| NGSS-MS-ETS1-2 | Evaluate competing design solutions using a systematic process to determine how well they meet the criteria and constraints of the problem. | Test |
+| NGSS-MS-ETS1-4 | Develop a model to generate data for iterative testing and modification of a proposed object, tool, or process such that an optimal design can be achieved. | Test |

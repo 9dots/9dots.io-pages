@@ -37,7 +37,7 @@ Students will start making a prototype using the design that they created during
 
 1. Discuss with students the importance of prototyping and iterating. 
 	- Prototyping allows designers to test their products in a basic form before going into a major production.
-    - Iteration is the act of 
+    - Iteration is the process of prototyping, testing, and then fixing any problems that were discovered in a new version of the product to create the best possible version of the product.
 
 2. Students should not get too attached to their first design, and should restart with a new design if the first one can be improved. 
 
@@ -55,10 +55,10 @@ Students should take time to review their designs from the previous lesson, and 
 
 ## Prototype
 
-Students will start prototyping their product using cardboard, littleBits, and other materials that you woud like to provide for them. 
+1. Students will start prototyping their product using cardboard, littleBits, and other materials that you woud like to provide for them. 
+	- Students should not be afraid to throw away a design and start over if does not work out the first time. 
 
-- Students should not be afraid to throw away a design and start over if does not work out the first time. 
-- The process of trying many design is called iteration and is important to creating a good product.
+2. Check for understanding by asking, "What does iteration mean?"
 
 ```
 TIP: Students should only be allowed to use the littleBits from their diagrams because it is easy for them to be distracted by just playing with the littleBits.

@@ -74,3 +74,7 @@ If a group has finished building their prototype, they should test it by letting
 	- Is the product intuitive (does the tester know how to use it without instructions)?
     - Does the product function as expected?
     - Ask the tester for additional feedback.
+
+3. After testing, students will start the design process again by defining the problem that the tester found with their product.
+
+![](http://uploads.9dots.io/OsJO25x_md.jpg) 

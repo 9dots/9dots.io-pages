@@ -45,6 +45,10 @@ Students will start making a prototype using the design that they created during
 
 Students should take time to review their designs from the previous lesson, and make sure to have a finished diagram of their proposed prototype. 
 
+1. Students should ensure that their diagrams are accurate and precise.
+
+2. The littleBits that the group will need should be clearly stated in the brainstorming document.
+
 ## Prototype
 
 Students will start prototyping their product using cardboard, littleBits, and other materials that you woud like to provide for them. 

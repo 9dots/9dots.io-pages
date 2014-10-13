@@ -41,7 +41,7 @@ This lesson will teach students about programming loops and event handlers for t
 
 - 45 minutes
 
-## Engage
+## Engage - 5 minutes
 Relate human senses to robotic sensors and discuss how those senses can be used to react to external stimuli. Then, explain the goal for this lesson.
 
 1. Discuss with students how people use their senses to react to their environment.
@@ -56,16 +56,16 @@ Relate human senses to robotic sensors and discuss how those senses can be used 
 
 2. The goal of the day will be to make a robot that can run into as many walls as possible in 1 minute.
 
-## Explore
+## Explore - 5 minutes
 Review the definition of an attachment for a robot and then give students time to create a touch sensor attachment.
 
 1. An attachment is a lego structure added to the robot that gives it the ability to complete more tasks.
 	- This attachment will not be used at the same time as their push attachments. 
     - Different attachments are used to solve different problems.
 
-2. Students have ten minutes to attempt to attach the touch sensor to their robot. The touch sensor should be connected to the front of their robot so that when it runs into a wall it will get pressed.
+2. Students have five minutes to attempt to attach the touch sensor to their robot. The touch sensor should be connected to the front of their robot so that when it runs into a wall it will get pressed.
 
-## Explain
+## Explain - 15 minutes
 Start out by reviewing what they already know about programming the robot. Then, discuss what behaviors are necessary to accomplish the goal for today. Finally, show them how to program those behaviors and play a game to reinforce learning.
 
 1. Revisit the options associated with the move block that they learned previously, specifically the steering and the duration.
@@ -114,15 +114,15 @@ Start out by reviewing what they already know about programming the robot. Then,
     The loop can ensure that their robot continues to bounce off walls continuously without having to restart the program. Anything inside of the loop will be repeated forever (or until the ‘stop’ button is pushed on the robot).
 ![](http://uploads.9dots.io/OiQnT0b_md.jpg) 
 
-## Elaborate
+## Elaborate - 15 minutes
 This time will be used to program the robot and add final touches to the touch sensor attachment that is connected to the robot.
 
-1. Each group now has 35 minutes to finish building an attachment and program the robot to bounce off as many walls as possible in 1 minute. 
+1. Each group now has 15 minutes to finish building an attachment and program the robot to bounce off as many walls as possible in 1 minute. 
 
 2. Students can test their robots at any point during the building time.
 	- After each attempt, students should write down what worked and what they should change using the iteration log handout. 
 
-## Evaluate
+## Evaluate - 5 minutes
 Students will test their programs by competing in a game of Mindstorm Pinball (the rules are listed below). When they have finished, students will discuss their engineering designs and fill out the robotics wrap-up handout.
 
 1. At the end of the allotted time, students will test their robots by playing a game of Mindstorm Pinball.  To play, create a square playing area with walls on all four sides.  Place the robot in the center and set a timer for 1 minute. Points will be awarded for each wall that the robot can touch within that time limit.

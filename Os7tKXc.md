@@ -34,7 +34,7 @@ This lesson will be about generating ideas for a product to build using the litt
 
 - 45 minutes
 
-## Introduction
+## Introduction - 15 minutes
 Review the design thinking process and get students thinking about possible products by browsing the littleBits project website.
 
 1. Today marks the first day of students work on their original littleBits product. Review the steps of design thinking process with the students.
@@ -49,7 +49,7 @@ Review the design thinking process and get students thinking about possible prod
 
 3. To help generate ideas for their products, students will take five minutes to browse the [littlebits.cc](http://littlebits.cc) website and look at the projects section.
 
-## Empathize
+## Empathize - 5 minutes
 Students will discuss with their partner different problems that they have throughout a normal day for themselves. 
 
 1. Students will discuss with a partner what kind of products they would like to create. 
@@ -58,11 +58,11 @@ Students will discuss with their partner different problems that they have throu
 
 3. Students will write down potential problems on their handout as they discuss these questions.
 
-## Define
+## Define - 5 minutes
 
 Students will generate a problem definition based on an issue that they think can be solved by creating a product using littleBits and write it on the handout.
 
-## Ideate
+## Ideate - 20 minutes
 Using the problem statement that they have just definded, students will generate ideas for products that they could create using littleBits.
 
 1. Students will generate 3 idea for a product that they could create to help out their community. 

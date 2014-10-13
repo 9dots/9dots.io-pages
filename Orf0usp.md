@@ -19,7 +19,7 @@ attachments:
 ---
 
 ## Lesson Overview
-Using the design thinking process, students will create a cardboard crane powered by littleBits. 
+Using the design thinking process, students will create a cardboard crane powered by littleBits. The lesson will begin by establishing that the goal for students is to lift weights from the floor up to their desks using limited supplies. Students will define the problem and then begin to generate solution ideas. Students will begin to prototype their ideas using littleBits, cardboard, string, tape, paper clips, and a straw.
 
 ## Setup 
 
@@ -36,11 +36,11 @@ Using the design thinking process, students will create a cardboard crane powere
 - Paper Clip
 - Straw
 - [littleBits Day 2 handout](http://uploads.9dots.io/Os2Hrwh.pdf)
-- [littleBits Day 2 handout](http://uploads.9dots.io/Os2Hrwh.pdf)
+- [littleBits Day 2 powerpoint](http://uploads.9dots.io/Os2HfpH.pptx)
 
 ### Preparations:
 - Distribute the [littleBits Day 2 handout](http://uploads.9dots.io/Os2Hrwh.pdf)
-- Project the [littleBits Day 2 handout](http://uploads.9dots.io/Os2Hrwh.pdf)
+- Project the [littleBits Day 2 powerpoint](http://uploads.9dots.io/Os2HfpH.pptx)
 
 ### Project Time:
 - 45 minutes

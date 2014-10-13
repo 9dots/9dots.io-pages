@@ -54,14 +54,14 @@ Give students an introduction to robotics by explaining the fields associated wi
 
 3. Tell students that their goal for this lesson is to build a robot capable of driving in a straight line.
 
-## Explain (5 minutes)
+## Explain - 5 minutes
 Show students the building plans for their robot and explain the importance of building this example robot to help them learn.
 
 1. Show students the building plans for their robot. 
 
 2. Explain that this robot is helpful for learning how to program the robot, and that students will be coming up with their own robot designs later in the unit.
 
-## Explore (30 minutes)
+## Explore - 30 minutes
 
 1. Students will work on creating their robot according to the plans provided to them. 
 	- Students should work in groups of four or less.
@@ -83,7 +83,7 @@ For students that finish early, explain about the importance of repeatability fo
 
 3. Students will work on adding legos to their robot to address the issue of aligning their robot perpendicularly to a wall when reversing.
 
-## Evaluate (5 minutes)
+## Evaluate - 5 minutes
 
 - What can servo motors be used for besides moving the robot?
 	- They are rigid pieces that can help form the frame of your robot.
@@ -93,3 +93,5 @@ For students that finish early, explain about the importance of repeatability fo
 
 - Why is it important to clean up Lego pieces properly?
 	- Future building can be more efficient and more fun if it is not necessary to hunt for every little piece.
+    
+## Standards

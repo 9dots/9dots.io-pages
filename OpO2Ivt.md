@@ -13,6 +13,8 @@ attachments:
     name: LITTLE BITS WORKSHEET.pdf
   - path: "http://uploads.9dots.io/OreAoGn.pptx"
     name: LBPD 1.pptx
+image: "http://uploads.9dots.io/OsbLd5E_md.jpg"
+fullImage: "http://uploads.9dots.io/OsbLd5E_lrg.jpg"
 
 ---
 

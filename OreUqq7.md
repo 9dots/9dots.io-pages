@@ -9,6 +9,8 @@ id: "9dots-OreUqq7"
 attachments: 
   - path: "http://uploads.9dots.io/OsJQoTy.docx"
     name: BrainstormingHandout.docx
+  - path: "http://uploads.9dots.io/OsbOuTd.pptx"
+    name: littleBits prototyping.pptx
 objective: "SWBAT define a minimum viable product, and create their first prototype based on their designs."
 blurb: "Students will continue to use the design thinking process to create their prototypes #NGSS-3-5-ETS1-2 #NGSS-MS-ETS1-2  #NGSS-MS-ETS1-4"
 

@@ -112,6 +112,9 @@ Play a game in which students program the instructor to move through a maze like
     
 - _What does a programmer do?_
 	- A programmer gives detailed instructions to computers to make computers useful to users.
+    
+## Standards
+
 
 # Day 2
 
@@ -184,4 +187,6 @@ Students will test their programs and keep a log of where each attempt could be 
 
 1. Students may test their robot at any point. 
 
-2. After each attempt, students should write down what worked and what they should change using the [iteration log handout]().
+2. After each attempt, students should write down what worked and what they should change using the [iteration log handout](http://uploads.9dots.io/OiQe49h.pdf).
+
+## Standards

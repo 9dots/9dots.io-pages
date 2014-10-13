@@ -93,5 +93,3 @@ For students that finish early, explain about the importance of repeatability fo
 
 - Why is it important to clean up Lego pieces properly?
 	- Future building can be more efficient and more fun if it is not necessary to hunt for every little piece.
-    
-## Standards

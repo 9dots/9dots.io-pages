@@ -18,6 +18,9 @@ attachments:
 
 ---
 
+## Lesson Overview
+Using the design thinking process, students will create a cardboard crane powered by littleBits. 
+
 ## Setup 
 
 ### Materials:
@@ -42,7 +45,7 @@ attachments:
 ### Project Time:
 - 45 minutes
 
-## Empathize
+## Empathize - 5 minutes
 Explain to students the scenario that they are going to find a solution for.
 
 1. You are working on building a skyscraper, and need to lift a lot of heavy pieces to continue construction. 
@@ -52,14 +55,14 @@ Explain to students the scenario that they are going to find a solution for.
 3. Lead a brief discussion with students about how they would feel in that situation.
 	- Students will write their answers on the littleBits Day 2 handout.
 
-## Define
+## Define - 5 minutes
 After students discuss how they feel about the situation, they will define the problem in simple terms.
 
 1. Discuss with students what the problem is.
 	- An example of the problem statement could read, "There is no way to lift the heavy pieces to the top of the building."
 2. Students will write their problem statement on their handouts.
 
-## Ideate
+## Ideate - 10 minutes
 After seeing the materials that they have available to them, students will develop a design solution to their problem.
 
 1. Show students the materials that they have available to them. These are:
@@ -80,7 +83,7 @@ After seeing the materials that they have available to them, students will devel
 	- How can you use the cardboard to stabilize the crane?
 		- Build a structure with the cardboard to keep the littleBits from sliding because of the weight.
 
-## Prototype
+## Prototype - 25 minutes
 Students will start to build their design using the provided materials. This project will be finished as part of the next lesson.
 
 ## Standards

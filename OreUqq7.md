@@ -15,7 +15,7 @@ blurb: "Students will continue to use the design thinking process to create thei
 ---
 
 ## Lesson Overview
-Students will learn about the concept of a minimum viable product and its importance for designers. Then, they will begin building their product using their plans from the brainstorming lesson. During building, emphasize the importance of testing and iteration to create the best possible product. Students will demonstrate learning by following design thinking principles as they build their prototypes.
+Students will learn about the concept of a minimum viable product and its importance for designers. Then, they will begin building their product using their plans from the [brainstorming lesson](). During building, emphasize the importance of testing and iteration to create the best possible product. Students will demonstrate learning by following design thinking principles as they build their prototypes.
 
 ## Setup 
 
@@ -38,7 +38,7 @@ Students will learn about the concept of a minimum viable product and its import
 
 - 45 minutes
 
-## Introduction
+## Introduction - 5 minutes 
 
 Students will start making a prototype using the design that they created during the last lesson. 
 
@@ -52,7 +52,7 @@ Students will start making a prototype using the design that they created during
 	- The mvp is the most basic version of a product that can be tested. 
     - This is important for a start-up company that does not have a lot of money to spend on a product that may not sell well.
 
-## Ideate
+## Ideate - 5 minutes 
 
 Students should take time to review their designs from the previous lesson, and make sure to have a finished diagram of their proposed prototype. 
 
@@ -60,7 +60,7 @@ Students should take time to review their designs from the previous lesson, and 
 
 2. The littleBits that the group will need should be clearly stated in the brainstorming document.
 
-## Prototype
+## Prototype - 35 minutes
 
 1. Students will start prototyping their product using cardboard, littleBits, and other materials that you woud like to provide for them. 
 	- Students should not be afraid to throw away a design and start over if does not work out the first time. 
@@ -90,7 +90,7 @@ If a group has finished building their prototype, they should test it by letting
 ## Standards
 
 | Standard      | Description   | Connection  |
-| ------------- |---------------| ------|
+| ------------- |---------------| ------ |
 | NGSS-3-5-ETS1-2 | Generate and compare multiple possible solutions to a problem based on how well each is likely to meet the criteria and constraints of the problem. | Ideate |
 | NGSS-MS-ETS1-2 | Evaluate competing design solutions using a systematic process to determine how well they meet the criteria and constraints of the problem. | Test |
 | NGSS-MS-ETS1-4 | Develop a model to generate data for iterative testing and modification of a proposed object, tool, or process such that an optimal design can be achieved. | Test |

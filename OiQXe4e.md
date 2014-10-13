@@ -42,7 +42,7 @@ This lesson will serve as an introduction to programming using the EV3 software 
 - 45 min
     
     
-## Engage (5 minutes)
+## Engage - 5 minutes
 Give students an introduction to what it means to program robots and discuss the goal for this lesson.
 
 1. Start a discussion with students by asking, _"What do programmers do?"_
@@ -59,7 +59,7 @@ TIP: Make sure to start the robot in the exact same place each time. Placing an 
 ![](http://uploads.9dots.io/OiQa9tW_md.jpg)
 **Above: An example of what the maze could look like. The robot will have to push the lego from the green ‘Start’ zone to the red ‘Finish’  zone without crossing the lines.**
 
-## Explore (10 minutes)
+## Explore - 10 minutes
 Students will take to the engineering side of robotics to develop an attachment to help accomplish their goal.
 
 1. A robot attachment is an additional part made out of legos that can easily be connected to the robot to help complete a specific goal. 
@@ -73,7 +73,7 @@ Students will take to the engineering side of robotics to develop an attachment 
 ![](http://uploads.9dots.io/OiQb3yI_md.jpg) 
 **Above: An attachment for pushing the legos.**
 
-## Explain (15 minutes)
+## Explain - 15 minutes
 Students will learn about discuss programming and learn about simple and complex robotic behaviors.
 
 1. Discuss with students, _"Now that the robot has an attachment to push the lego, how will the robot know what to do?"_
@@ -89,7 +89,7 @@ Students will learn about discuss programming and learn about simple and complex
 5. Gauge understanding by asking, "_Is navigating the maze a simple or complex behavior?_"
 	- Going through the maze is complex because it is made up of several different programmable steps.
 
-## Elaborate (10 minutes)
+## Elaborate - 10 minutes
 Play a game in which students program the instructor to move through a maze like the robot.
 
 1. Break into groups of no more than four students. 
@@ -105,7 +105,7 @@ Play a game in which students program the instructor to move through a maze like
 4. After students have their instructions written down, groups will take turns having the teacher robot act out their program. 
 	- When behaving as the robot, make sure to follow the instructions very literally.
 
-## Evaluate (5 minutes)
+## Evaluate - 5 minutes
 
 - _What is the difference between a simple and a complex behavior?_
 	- A simple behavior is a single programmable action, a complex behavior is made up of two or more simple behaviors.
@@ -141,7 +141,7 @@ Students will continue learning about simple and complex behaviors by programmin
 
 - 45 minutes
 
-## Engage
+## Engage - 5 minutes
 To get the students interested, show them a video of a very well designed and programmed EV3 robot.
 
 1. Show the [video](https://www.youtube.com/watch?v=wzDjg595AiU) of the world champion robot from 2013-14 First Lego League challenge.
@@ -154,7 +154,7 @@ To get the students interested, show them a video of a very well designed and pr
     - What is the relationship between simple and complex behaviors?
     	- Complex behaviors are made up of several simple behaviors.
 
-## Explain 
+## Explain - 15 minutes
 Teach students how to use the move steering block to accomplish a simple behavior. Students will follow along on the Move Steering handout.
 
 1. In the Mindstorm EV3 software, to program the robot, drag blocks from the bottom bar and connect them to the start block that is on the screen. 
@@ -174,7 +174,7 @@ Teach students how to use the move steering block to accomplish a simple behavio
 4. On the handout, students will describe the behaviors for each move steering block. The finished answer should look like this:
 ![](http://uploads.9dots.io/OiQcewv_md.jpg) 
 
-## Elaborate
+## Elaborate - 20 minutes 
 Show students the maze from the previous lesson to remind them of what their robot will need to navigate. Students will go begin programming their robot to complete the maze.
 
 1. Demonstrate how to download a program to the robot. 
@@ -185,7 +185,7 @@ Show students the maze from the previous lesson to remind them of what their rob
 3. Each team has 35 minutes to build an attachment and program their robot to complete the maze. 
 	- Students should use their program (the written down instructions) from the ‘teacher robot’ activity to help with organizing the behaviors for the actual maze challenge.
 
-## Evaluate
+## Evaluate - 5 minutes
 Students will test their programs and keep a log of where each attempt could be improved.
 
 1. Students may test their robot at any point. 

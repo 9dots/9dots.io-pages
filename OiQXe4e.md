@@ -115,6 +115,11 @@ Play a game in which students program the instructor to move through a maze like
     
 ## Standards
 
+| Standard      | Description   | Connection  |
+| ------------- |---------------| ------|
+| 3-5-ETS1-1 | Define a simple design problem reflecting a need or a want that includes specified criteria for success and constraints on materials, time, or cost | Define |
+| 3-5-ETS1-2 | Generate and compare multiple possible solutions to a problem based on how well each is likely to meet the criteria and constraints of the problem | Ideate |
+| MS-ETS1-2 | Evaluate competing design solutions using a systematic process to determine how well they meet the criteria and constraints of the problem | Prototype |
 
 # Day 2
 
@@ -190,3 +195,9 @@ Students will test their programs and keep a log of where each attempt could be 
 2. After each attempt, students should write down what worked and what they should change using the [iteration log handout](http://uploads.9dots.io/OiQe49h.pdf).
 
 ## Standards
+
+| Standard      | Description   | Connection  |
+| ------------- |---------------| ------|
+| 3-5-ETS1-1 | Define a simple design problem reflecting a need or a want that includes specified criteria for success and constraints on materials, time, or cost | Define |
+| 3-5-ETS1-2 | Generate and compare multiple possible solutions to a problem based on how well each is likely to meet the criteria and constraints of the problem | Ideate |
+| MS-ETS1-2 | Evaluate competing design solutions using a systematic process to determine how well they meet the criteria and constraints of the problem | Prototype |

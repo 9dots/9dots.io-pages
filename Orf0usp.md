@@ -18,6 +18,8 @@ attachments:
 
 ---
 
+# Day 1
+
 ## Lesson Overview
 Using the design thinking process, students will create a cardboard crane powered by littleBits. The lesson will begin by establishing that the goal for students is to lift weights from the floor up to their desks using limited supplies. Students will define the problem and then begin to generate solution ideas. Students will begin to prototype their ideas using littleBits, cardboard, string, tape, paper clips, and a straw.
 
@@ -93,3 +95,5 @@ Students will start to build their design using the provided materials. This pro
 | 3-5-ETS1-1 | Define a simple design problem reflecting a need or a want that includes specified criteria for success and constraints on materials, time, or cost | Define |
 | 3-5-ETS1-2 | Generate and compare multiple possible solutions to a problem based on how well each is likely to meet the criteria and constraints of the problem | Ideate |
 | MS-ETS1-2 | Evaluate competing design solutions using a systematic process to determine how well they meet the criteria and constraints of the problem | Prototype |
+
+# Day 2

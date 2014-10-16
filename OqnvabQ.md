@@ -30,6 +30,7 @@ In this final lesson, students present their product presentations to a panel of
 - 40 minutes
 
 ## Presentation Day - 40 minutes
+Student groups take turns presenting their products to the judges panel. Each group should use their visual aides (poster and product) to help their presentation.
 
 1. Today, students present their products to the judges. They should use their posters as visual aides, and attempt to convice the judges to invest in their product. 
 	- After each presentation, everyone in the class will snap their fingers to applaud their fellow shark tank contestant. 

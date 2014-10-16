@@ -38,7 +38,7 @@ During this lesson, student learn about creating an effective sales pitch. Start
 
 - 45 minutes
 
-## Engage
+## Engage - 5 minutes
 Use a video clip and discussion to get students thinking about how to create a succesful sales pitch.
 
 1. Watch the [sales pitch](https://www.youtube.com/watch?v=h5xJrw_h5Nk) from the movie Guilt Trip. 
@@ -49,7 +49,7 @@ Use a video clip and discussion to get students thinking about how to create a s
 
 3. Today, students are working on the sales pitch that they will give to the judges during the next lesson. 
     
-## Explore
+## Explore - 5 minutes
 During this explore, students try to quickly come up with a way to sell common items in the room (pencils, pens, paper) to the person sitting next to them. 
 
 1. Break students into groups of two and them a simple object from the room to sell. This can be anything from pencils to chairs.
@@ -58,7 +58,7 @@ During this explore, students try to quickly come up with a way to sell common i
 
 3. Students present their sales pitch to their partner.
 
-## Explain
+## Explain - 10 minutes
 After students try a sales pitch on their own, use the powerpoint to lead a discussion about the steps required to create an effective sales pitch.
 
 1. Teach students the six steps to creating a successful sales pitch.  
@@ -71,7 +71,7 @@ After students try a sales pitch on their own, use the powerpoint to lead a disc
   
 2. Discuss with students the importance of each of the steps from the list above.
 
-## Elaborate
+## Elaborate - 20 minutes
 To hone their new skills students work on developing a sales pitch for their original littleBits projects using .
 
 1. Give students five minutes to fill in the sales pitch handout.  This handout is used to help organize ideas for their presentation. 
@@ -81,7 +81,7 @@ To hone their new skills students work on developing a sales pitch for their ori
 
 3. Students practice their presentation out loud to get more comfortable with the presentation.
 
-## Evaluate
+## Evaluate - 5 minutes
 
 - What are the six steps for creating a succesful sales pitch?
 

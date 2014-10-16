@@ -46,17 +46,16 @@ Use a video clip and discussion to get students thinking about how to create a s
 2. Discuss, "_What makes a good sales person? What makes a bad one?_"
 	- Chart out student responses on the whiteboard.
 
-3. Today, students will work on the sales pitch that they will give to the judges during the next lesson. 
-	- By the end of the class, students will have finished a poster for their product, as well as practiced their presentation for the judges.
+3. Today, students are working on the sales pitch that they will give to the judges during the next lesson. 
     
 ## Explore
-Using normal objects (pencils, paper, pens...) that they have in front of them, students will try to quickly come up with a way to sell it to the person sitting next to them. 
+During this explore, students try to quickly come up with a way to sell common items in the room (pencils, pens, paper) to the person sitting next to them. 
 
 1. Break students into groups of two and them a simple object from the room to sell. This can be anything from pencils to chairs.
 
 2. Each student has one minute to prepare a sales pitch for the object.
 
-3. Students will present their sales pitch to their partner.
+3. Students present their sales pitch to their partner.
 
 ## Explain
 After students try a sales pitch on their own, use the powerpoint to lead a discussion about the steps required to create an effective sales pitch.
@@ -69,14 +68,15 @@ After students try a sales pitch on their own, use the powerpoint to lead a disc
   5. Get to the point
   6. Make a two way conversation, not a lecture!
 
-2. Students will use these steps to craft a sales pitch for their product which they will be presenting in the following lesson.
-
 ## Elaborate
-Using the sales pitch handout, students will work on developing a sales pitch for their original littleBits projects.
+Using the sales pitch handout, students work on developing a sales pitch for their original littleBits projects.
 
-1. Students will use the sales pitch handout to help organize ideas for their presentation. 
+1. Give students five minutes to fill in the sales pitch handout.  This handout is used to help organize ideas for their presentation. 
 
-2. Students will make posters for the shark tank presentation, concentrating on being good salespeople. For this project, it is important for students to work on having a good poster as well as practice their presentation.
+2. When they finish the handout, students make posters for the shark tank presentation.
+	- The visual aide will be an important piece of the presentation.
+
+3. Students practice their presentation outloud to get more comfortable with the presentation.
 
 ## Evaluate
 

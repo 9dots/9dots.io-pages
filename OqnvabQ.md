@@ -36,5 +36,8 @@ In this final lesson, students present their product presentations to a panel of
     
 3. When everyone has finished, judges tally up the scores, and the product design winner is announced.
 
+## Standards
 
-
+Standard | Description | Connection
+---------|-------------| -------
+CCSS.ELA-LITERACY.SL.8.5 | Integrate multimedia and visual displays into presentations to clarify information, strengthen claims and evidence, and add interest. | Presentation Day

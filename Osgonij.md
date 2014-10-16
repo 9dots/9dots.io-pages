@@ -8,6 +8,7 @@ lessons:
   - "9dots-Orf0usp"
   - "9dots-Os7tKXc"
   - "9dots-OreUqq7"
+  - "9dots-Os218Ap"
 org: 9dots
 title: littleBits Product Design
 blurb: "#littleBits #design"

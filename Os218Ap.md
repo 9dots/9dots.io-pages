@@ -61,13 +61,15 @@ During this explore, students try to quickly come up with a way to sell common i
 ## Explain
 After students try a sales pitch on their own, use the powerpoint to lead a discussion about the steps required to create an effective sales pitch.
 
-1. There are six steps to creating a successful sales pitch.  
+1. Teach students the six steps to creating a successful sales pitch.  
   1. Research your client
   2. Know your product
   3. Set your objectives
   4. Greet your client right away
   5. Get to the point
   6. Make a two way conversation, not a lecture!
+  
+2. Discuss with students the importance of each of the steps from the list above.
 
 ## Elaborate
 To hone their new skills students work on developing a sales pitch for their original littleBits projects using .
@@ -89,6 +91,5 @@ To hone their new skills students work on developing a sales pitch for their ori
 
 Standard | Description | Connection
 --- | --- | ---
-3-5-ETS1-1 | Define a simple design problem reflecting a need or a want that includes specified criteria for success and constraints on materials, time, or cost. | Engage
-3-5-ETS1-2 | Generate and compare multiple possible solutions to a problem based on how well each is likely to meet the criteria and constraints of the problem. | Explain
-MS-ETS1-2 | Evaluate competing design solutions using a systematic process to determine how well they meet the criteria and constraints of the problem. | Evaluate
+CCSS.ELA-LITERACY.SL.8.5 | Integrate multimedia and visual displays into presentations to clarify information, strengthen claims and evidence, and add interest. | Elaborate
+CCSS.ELA-LITERACY.W.5.2 | Write informative/explanatory texts to examine a topic and convey ideas and information clearly. | Elaborate

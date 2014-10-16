@@ -10,6 +10,7 @@ id: "9dots-OqnvabQ"
 ---
 
 ## Lesson Overview
+In this final lesson, students present their product presentations to a panel of peers and judges.
 
 ## Setup
 

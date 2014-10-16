@@ -40,4 +40,5 @@ In this final lesson, students present their product presentations to a panel of
 
 Standard | Description | Connection
 ---------|-------------| -------
+CCSS.ELA-LITERACY.SL.5.4 | Report on a topic or text or present an opinion, sequencing ideas logically and using appropriate facts and relevant, descriptive details to support main ideas or themes; speak clearly at an understandable pace. | Presentation Day
 CCSS.ELA-LITERACY.SL.8.5 | Integrate multimedia and visual displays into presentations to clarify information, strengthen claims and evidence, and add interest. | Presentation Day

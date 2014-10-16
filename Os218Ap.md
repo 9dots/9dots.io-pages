@@ -20,6 +20,7 @@ attachments:
 
 ## Lesson Overview
 
+
 ## Setup
 
 ### Materials:
@@ -76,13 +77,12 @@ Using the sales pitch handout, students work on developing a sales pitch for the
 2. When they finish the handout, students make posters for the shark tank presentation.
 	- The visual aide will be an important piece of the presentation.
 
-3. Students practice their presentation outloud to get more comfortable with the presentation.
+3. Students practice their presentation out loud to get more comfortable with the presentation.
 
 ## Evaluate
 
 - What are the six steps for creating a succesful sales pitch?
 
 - What are two examples of traits that make a good sales person? 
-
 
 ## Standards

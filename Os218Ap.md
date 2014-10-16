@@ -10,6 +10,11 @@ blurb: ""
 objective: ""
 image: "http://uploads.9dots.io/Os2GGNe_md.jpg"
 fullImage: "http://uploads.9dots.io/Os2GGNe_lrg.jpg"
+attachments: 
+  - path: "http://uploads.9dots.io/OssdmHy.pptx"
+    name: littlBits Sales Pitch.pptx
+  - path: "http://uploads.9dots.io/OssdnuL.pdf"
+    name: salesPresenation.pdf
 
 ---
 
@@ -81,4 +86,3 @@ Using the sales pitch handout, students will work on developing a sales pitch fo
 
 
 ## Standards
-

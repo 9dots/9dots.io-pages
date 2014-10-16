@@ -19,7 +19,7 @@ attachments:
 ---
 
 ## Lesson Overview
-During this lesson, student learn about creating an effective sales pitch. After engaging students by watching a quick video clip, discuss 
+During this lesson, student learn about creating an effective sales pitch. Start by engaging students with a quick video clip. After discussing the clip, give students an introduction to sales by attempting to sell an ordinary object in the classroom. Then, explain to students the important steps to creating a sales pitch. Finally, give students time to create a sales pitch and visual aides for their product. 
 
 ## Setup
 

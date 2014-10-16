@@ -10,7 +10,7 @@ id: "9dots-OqnvabQ"
 ---
 
 ## Lesson Overview
-In this final lesson, students present their product presentations to a panel of peers and judges.
+In this final lesson, students present their product presentations to a panel of judges. The judges will have a rubric for scoring the presentations. Students are judged on their product, visual aide, and ability to present their product.
 
 ## Setup
 

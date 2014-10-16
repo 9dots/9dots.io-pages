@@ -11,15 +11,15 @@ objective: ""
 image: "http://uploads.9dots.io/Os2GGNe_md.jpg"
 fullImage: "http://uploads.9dots.io/Os2GGNe_lrg.jpg"
 attachments: 
-  - path: "http://uploads.9dots.io/OssdmHy.pptx"
-    name: littlBits Sales Pitch.pptx
   - path: "http://uploads.9dots.io/OssdnuL.pdf"
     name: salesPresenation.pdf
+  - path: "http://uploads.9dots.io/OssmzDH.pptx"
+    name: littleBits Sales Pitch.pptx
 
 ---
 
 ## Lesson Overview
-
+During this lesson, student learn about creating an effective sales pitch. After engaging students by watching a quick video clip, discuss 
 
 ## Setup
 
@@ -70,7 +70,7 @@ After students try a sales pitch on their own, use the powerpoint to lead a disc
   6. Make a two way conversation, not a lecture!
 
 ## Elaborate
-Using the sales pitch handout, students work on developing a sales pitch for their original littleBits projects.
+To hone their new skills students work on developing a sales pitch for their original littleBits projects using .
 
 1. Give students five minutes to fill in the sales pitch handout.  This handout is used to help organize ideas for their presentation. 
 
@@ -86,3 +86,9 @@ Using the sales pitch handout, students work on developing a sales pitch for the
 - What are two examples of traits that make a good sales person? 
 
 ## Standards
+
+Standard | Description | Connection
+--- | --- | ---
+3-5-ETS1-1 | Define a simple design problem reflecting a need or a want that includes specified criteria for success and constraints on materials, time, or cost. | Engage
+3-5-ETS1-2 | Generate and compare multiple possible solutions to a problem based on how well each is likely to meet the criteria and constraints of the problem. | Explain
+MS-ETS1-2 | Evaluate competing design solutions using a systematic process to determine how well they meet the criteria and constraints of the problem. | Evaluate

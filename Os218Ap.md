@@ -6,8 +6,8 @@ type: lesson
 title: littleBits Sales Pitch
 org: 9dots
 id: "9dots-Os218Ap"
-blurb: ""
-objective: ""
+blurb: "In this lesson, students create a presentation for their #littleBits product that includes a visual aide #CCSS.ELA-LITERACY.SL.8.5"
+objective: SWBAT list the steps to creating an effective sales pitch and create a presentation with a written components and visual aides for their littleBits product.
 image: "http://uploads.9dots.io/Os2GGNe_md.jpg"
 fullImage: "http://uploads.9dots.io/Os2GGNe_lrg.jpg"
 attachments: 

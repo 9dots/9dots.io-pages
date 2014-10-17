@@ -10,8 +10,8 @@ blurb: "Students will use the #MakeyMakey to learn about #circuits and #conducti
 attachments: 
   - path: "http://uploads.9dots.io/Oo4VuH6.pptx"
     name: Makey Makey Controllers.pptx
-  - path: "http://uploads.9dots.io/Oo4aN0L.docx"
-    name: MakeyMakeyCircuitsday1.docx
+  - path: "http://uploads.9dots.io/OsyrTd5.docx"
+    name: Makey Makey Handout.docx
 id: "9dots-Oo4UGHU"
 image: "http://uploads.9dots.io/OoupIy3_md.jpg"
 fullImage: "http://uploads.9dots.io/OoupIy3_lrg.jpg"
@@ -19,11 +19,14 @@ fullImage: "http://uploads.9dots.io/OoupIy3_lrg.jpg"
 ---
 
 ## Setup
+
 ### Materials:
 
 - Materials to test for conductivity (tin foil, pencil graphite, paper, etc...)
 - Makey Makey
 - Computers (1 per Makey Makey)
+- [Makey Makey powerpoint](http://uploads.9dots.io/Oo4VuH6.pptx)
+- [Makey Makey handout](http://uploads.9dots.io/OsyrTd5.docx)
 
 ## Engage
 ### Watch:

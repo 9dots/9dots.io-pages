@@ -7,7 +7,7 @@ title: Cardboard Cranes
 org: 9dots
 objective: SWBAT create a motorized circuit to lift objects using littleBits and design an original solution to create a crane using limited supplies.
 id: "9dots-Orf0usp"
-blurb: "Students will practice the design process thinking to develop a solution for lifting legos off the ground using #littleBits #NGSS-MS-ETS1-2"
+blurb: "Students practice the design process thinking to develop a solution for lifting weights off the ground using #littleBits #NGSS-MS-ETS1-2"
 image: "http://uploads.9dots.io/OrwCi5T_md.jpg"
 fullImage: "http://uploads.9dots.io/OrwCi5T_lrg.jpg"
 attachments: 
@@ -21,7 +21,7 @@ attachments:
 # Day 1
 
 ## Lesson Overview
-Using the design thinking process, students will create a cardboard crane powered by littleBits. The lesson will begin by establishing that the goal for students is to lift weights from the floor up to their desks using limited supplies. Students will define the problem and then begin to generate solution ideas. Students will begin to prototype their ideas using littleBits, cardboard, string, tape, paper clips, and a straw.
+Using the design thinking process, students create a cardboard crane powered by littleBits. The lesson begins by establishing that the goal for students is to lift weights from the floor up to their desks using limited supplies. Students define the problem and then begin to generate solution ideas. Students begin to prototype their ideas using littleBits, cardboard, string, tape, paper clips, and a straw.
 
 ## Setup 
 
@@ -58,14 +58,14 @@ Explain to students the scenario that they are going to find a solution for.
 	- Students will write their answers on the littleBits Day 2 handout.
 
 ## Define - 5 minutes
-After students discuss how they feel about the situation, they will define the problem in simple terms.
+After students discuss how they feel about the situation, they define the problem in simple terms.
 
 1. Discuss with students what the problem is.
 	- An example of the problem statement could read, "There is no way to lift the heavy pieces to the top of the building."
 2. Students will write their problem statement on their handouts.
 
 ## Ideate - 10 minutes
-After seeing the materials that they have available to them, students will develop a design solution to their problem.
+After seeing the materials that they have available to them, students develop a design solution to their problem.
 
 1. Show students the materials that they have available to them. These are:
 	- littleBits
@@ -86,7 +86,7 @@ After seeing the materials that they have available to them, students will devel
 		- Build a structure with the cardboard to keep the littleBits from sliding because of the weight.
 
 ## Prototype - 25 minutes
-Students will start to build their design using the provided materials. This project will be finished as part of the next lesson.
+Students start to build their design using the provided materials. This project will be finished as part of the next lesson.
 
 ## Standards
 
@@ -99,7 +99,7 @@ Students will start to build their design using the provided materials. This pro
 # Day 2
 
 ## Lesson Overview
-Students will complete the cardboard cranes that they started in the previous lesson. When students complete their prototype, they will test them by attaching a weight to the string. After testing, they will assess the strengths and weaknesses of their design and adjust their prototype accordingly.
+Students complete the cardboard cranes that they started in the previous lesson. When students complete their prototype, they test them by attaching a weight to the string. After testing, they assess the strengths and weaknesses of their design and adjust their prototype accordingly.
 
 ## Setup
 
@@ -134,16 +134,16 @@ Start the day off by discussing the importance of prototyping and testing to cre
 	- Yes! It is important to not get too attached to one design because testing may reveal that it does not work well as planned.
     
 ## Prototype
-Students will continue to create their original design for their cranes. Remind students that this is important to get their first prototype done quickly so that they can move on to testing and then  revising their design.
+Students continue to create their original design for their cranes. Remind students that this is important to get their first prototype done quickly so that they can move on to testing and then revising their design.
 
 ## Test
-When students have complete their prototypes, they will test their cranes by attaching weights to the end of the strings.
+When students have complete their prototypes, they test their cranes by attaching weights to the end of the strings.
 
-1. Students who have finished their prototype will attach weights (any object that can be tied up with a string) and test their design.
+1. Students who have finished their prototype attach weights (any object that can be tied up with a string) to test their design.
 
-2. After testing, students will use the [iteration log]() to keep track of what could have worked better.
+2. After testing, students use the [iteration log]() to keep track of what could have worked better.
 
-3. Students will modify their prototypes to reflect the design problems found during testing.
+3. Students modify their prototypes to reflect the design problems found during testing.
 
 ## Standards
 

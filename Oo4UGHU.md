@@ -28,6 +28,14 @@ fullImage: "http://uploads.9dots.io/OoupIy3_lrg.jpg"
 - [Makey Makey powerpoint](http://uploads.9dots.io/Oo4VuH6.pptx)
 - [Makey Makey handout](http://uploads.9dots.io/OsyrTd5.docx)
 
+### Preparations:
+
+- Set up projector with [Makey Makey powerpoint](http://uploads.9dots.io/Oo4VuH6.pptx)
+
+### Project Time:
+
+- 45 minutes
+
 ## Engage
 ### Watch:
 Watch the [Makey Makey video](https://www.youtube.com/watch?v=rfQqh7iCcOU) to get students excited and thinking about possible designs for their controllers.

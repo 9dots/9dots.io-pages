@@ -17,6 +17,7 @@ fullImage: "http://uploads.9dots.io/OouqeNr_lrg.jpg"
 ---
 
 ## Lesson Overview
+This lesson provides an exploration driven introduction into coding with Scratch. Students start by watching a video that demonstrates the possibilites with Scratch. Then, they will follow a step-by-step guide available on Scratch to try out the programming. Students will demonstrate learning by modifying their program with some original code at the end of the lesson.
 
 ## Setup
 

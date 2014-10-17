@@ -35,7 +35,7 @@ Students learn about electronic sensor and how they can be added to their mural 
 - 40 minutes
 
 ## Engage - 5 minutes
-Get students thinking about sensors by relating it to the senses that humans have. 
+Get students thinking about sensors by relating it to the senses that humans have.
 
 1. Today, students learn about electronic sensors that can make their mural interactive. 
 
@@ -54,7 +54,7 @@ Get students thinking about sensors by relating it to the senses that humans hav
     - if we taste something bad, we spit it out
 
 ## Explain - 15 minutes
-During this explain, teach students how sensors work and give some real life examples of sensors.
+During this explain, teach students how sensors work and give some real life examples of sensors. Then, introduce littleBits and show a video to demonstrate how they work.
 
 1. Just like with the body, in electronic senses are called “sensors”.  
 

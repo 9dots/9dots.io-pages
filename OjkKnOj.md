@@ -9,7 +9,7 @@ id: "9dots-OjkKnOj"
 attachments: 
   - path: "http://uploads.9dots.io/OjkT9Sg.pdf"
     name: LITTLE BITS WORKSHEET.pdf
-blurb: "Students will use #LittleBits to learn about sensors and #circuits,  and test input/output combinations to learn how it works."
+blurb: "Students will use #littleBits to learn about sensors and #circuits,  and test input/output combinations to learn how it works."
 objective: "By the end of the lesson, students will be able to define a power source, identify a sensor, and describe how to connect the Little Bits to create a circuit."
 image: "http://uploads.9dots.io/Ol48kBm_md.jpg"
 fullImage: "http://uploads.9dots.io/Ol48kBm_lrg.jpg"
@@ -17,13 +17,14 @@ fullImage: "http://uploads.9dots.io/Ol48kBm_lrg.jpg"
 ---
 
 ## Lesson Overview
+Students learn about electronic sensor and how they can be added to their mural to make them interactive.  This is an exploration driven lesson which culminates with students testing combinations of littleBits to discover how they work.
 
 ## Setup
 
 ### Materials:
 
 - [Little Bits](http://littlebits.cc)
-- Little Bits worksheet
+- [Little Bits worksheet](http://uploads.9dots.io/OjkT9Sg.pdf)
 
 ### Preparations:
 

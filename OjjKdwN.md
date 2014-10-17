@@ -40,6 +40,7 @@ Students are introduced to the unit by learning about murals and iteractivity. T
 - 40 minutes
 
 ## Engage - 5 minutes
+Get things rolling by introducing the unit and some of the exciting aspects of creating a mural.
 
 1. Today students are beginning their brand new unit of designing, creating and building their very own Interactive Art Wall!
 
@@ -56,6 +57,7 @@ Students are introduced to the unit by learning about murals and iteractivity. T
   7.	Allow students and teacher to learn and have fun!
 
 ## Explain - 10 minutes
+Explain interactivity and how it relates to the project. Then, show a video of an example interactive mural.
 
 1. _What does the word interactive mean?_
 Something that is **interactive** is designed to respond to actions or command of a user.
@@ -68,6 +70,7 @@ Something that is **interactive** is designed to respond to actions or command o
   - _What is the subject of the mural?_
 
 ## Elaborate - 25 minutes
+Using the projector and the [powerpoint](http://uploads.9dots.io/OjjhAVn.pptx), display some famous and local murals. Students will write notes about each mural on the [mural review worksheet](http://uploads.9dots.io/OjjZvIA.pdf).
 
 1. Before we can begin adding all sorts of cool sensors on our wall we first need to come up with a theme and idea for our mural. As artists and innovators we are going to gather inspiration from other artists by looking at different murals.
 

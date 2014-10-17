@@ -18,6 +18,9 @@ fullImage: "http://uploads.9dots.io/OoupIy3_lrg.jpg"
 
 ---
 
+## Lesson Overview
+Students learn about basic circuits and conductivity through hand on testing of various materials. After they have determined which materials can be used, students use those materials to create a game controller using a Makey Makey. To test their creation, students connect the Makey Makey to a computer and play a browswer based piano using their custom buttons.
+
 ## Setup
 
 ### Materials:
@@ -40,7 +43,9 @@ fullImage: "http://uploads.9dots.io/OoupIy3_lrg.jpg"
 Watch the [Makey Makey video](https://www.youtube.com/watch?v=rfQqh7iCcOU) to get students excited and thinking about possible designs for their controllers.
 
 ## Explore - 8 minutes
-Using the Makey Makey and it's alligator clips, students will test the conductivity of different materials provided to them. Check the [wiki]() on how to use the Makey Makey.
+Students have eight minutes to test the conductivity of different materials provided to them by using the Makey Makey. 
+
+- Check the [wiki]() on how to use the Makey Makey.
 
 ## Explain - 10 minutes
 Teach student about basic circuits and what makes some materials better conductors of electricity than other materials.
@@ -59,7 +64,7 @@ Teach student about basic circuits and what makes some materials better conducto
 	- **Metals** have electrons that can flow freely, making them the best conductors.
 	- **Nonmetals** have electrons that are stuffed close together, so they are poor conductors.
 
-5. Show students the periodic table. Using the handout, students will determine whether or not a material is conductive by looking at it's elements in the table. 
+5. Show students the periodic table on the projector. Using the handout, students will determine whether or not a material is conductive by looking at it's elements in the table. 
 
 ## Elaborate - 25 minutes
 Students will design their own controller and connect it to the computer using the Makey Makey. 

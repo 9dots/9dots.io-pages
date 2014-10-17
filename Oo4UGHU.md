@@ -36,13 +36,14 @@ fullImage: "http://uploads.9dots.io/OoupIy3_lrg.jpg"
 
 - 45 minutes
 
-## Engage
+## Engage - 2 minutes
 Watch the [Makey Makey video](https://www.youtube.com/watch?v=rfQqh7iCcOU) to get students excited and thinking about possible designs for their controllers.
 
-## Explore
-Using the Makey Makey and it's alligator clips, students will test the conductivity of different materials provided to them. Check the wiki on how to use the Makey Makey.
+## Explore - 8 minutes
+Using the Makey Makey and it's alligator clips, students will test the conductivity of different materials provided to them. Check the [wiki]() on how to use the Makey Makey.
 
-## Explain
+## Explain - 10 minutes
+Teach student about basic circuits and what makes some materials better conductors of electricity than other materials.
 
 1. A circuit is a pathway made out of wires that allows electrons (electricity) to flow through it.
 
@@ -60,7 +61,8 @@ Using the Makey Makey and it's alligator clips, students will test the conductiv
 
 5. Show students the periodic table. Using the handout, students will determine whether or not a material is conductive by looking at it's elements in the table. 
 
-## Elaborate
+## Elaborate - 25 minutes
+Students will design their own controller and connect it to the computer using the Makey Makey. 
 
 1. Students design and connect their own controllers using the Makey Makey. 
 

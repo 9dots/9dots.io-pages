@@ -35,6 +35,7 @@ Students learn about electronic sensor and how they can be added to their mural 
 - 40 minutes
 
 ## Engage - 5 minutes
+Get students thinking about sensors by relating it to the senses that humans have. 
 
 1. Today, students learn about electronic sensors that can make their mural interactive. 
 
@@ -53,6 +54,7 @@ Students learn about electronic sensor and how they can be added to their mural 
     - if we taste something bad, we spit it out
 
 ## Explain - 15 minutes
+During this explain, teach students how sensors work and give some real life examples of sensors.
 
 1. Just like with the body, in electronic senses are called “sensors”.  
 
@@ -80,6 +82,7 @@ http://littlebits.cc/about
 9. Hand out the Little Bits worksheet.  Go through an example of the worksheet with students, choosing an input and output, and filling out the fields on the board while students test it and write on their handout.
 
 ## Elaborate - 20 minutes
+This time will be dedicated to students testing out different combinations of littleBits on their paper and writing down the results on the [handout](http://uploads.9dots.io/OjkT9Sg.pdf).
 
 1. Using the worksheet, students should choose new input and output combinations and test them. Students record the results on the worksheet.
 

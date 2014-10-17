@@ -16,80 +16,76 @@ fullImage: "http://uploads.9dots.io/Ol48kBm_lrg.jpg"
 
 ---
 
+## Lesson Overview
+
 ## Setup
 
 ### Materials:
 
 - [Little Bits](http://littlebits.cc)
-
-### Media and Handouts:
-
 - Little Bits worksheet
 
 ### Preparations:
 
-- Draw and example of a power source, sensor, output. An example could be a battery, touch sensors, light.
+- Draw an example of a power source, sensor, output. An example could be a battery, touch sensors, light.
 
 ### Project Time:
 
 - 40 minutes
 
-## Introduce
+## Engage - 5 minutes
 
-### Hook:
-Today, students are going to learn about electronic sensors.  They will be using sensors to help us to make their mural interactive. 
+1. Today, students learn about electronic sensors that can make their mural interactive. 
 
-_What are the senses that the human body has?_
+2. Ask students, "_What are the senses that the human body has?_"
+  - Sight
+  - Touch
+  - Taste
+  - Sound
+  - Smell
 
-- Sight
-- Touch
-- Taste
-- Sound
-- Smell
+3. Discuss, "_What are the senses in the body used for?_"
+  - The senses are used to respond to the outside environment, such as:
+    - if we feel something is too hot, we move our hand away
+    - it we see candy we want to have, we grab it
+    - if we hear our dog running away, we call their name
+    - if we taste something bad, we spit it out
 
-_What are the senses in the body used for?_
-The senses are used to respond to the outside environment, such as:
+## Explain - 15 minutes
 
-- if we feel something is too hot, we move our hand away
-- it we see candy we want to have, we grab it
-- if we hear our dog running away, we call their name
-- if we taste something bad, we spit it out
+1. Just like with the body, in electronic senses are called “sensors”.  
 
-### Explain:
-Just like with the body, in electronic senses are called “sensors”.   A sensor is a device that receives and responds to a signal or stimulus. A sensor is used to measure a physical quantity such as temperature, pressure or loudness and convert it into an electronic signal of some kind (e.g a voltage).
+2. A sensor is a device that receives and responds to a signal or stimulus. 
 
-Some examples of sensors from real life include:
+3. A sensor is used to measure a physical quantity such as temperature, pressure or loudness and convert it into an electronic signal of some kind (e.g a voltage).
 
-- Fire alarm – sense smoke in the air and turn on noise
-- Light switch – sense motion and turn on light
-- Clap on clap off lights – sense sound and turn on light
+4. Some examples of sensors from real life include:
+  - Fire alarm – sense smoke in the air and turn on noise
+  - Light switch – sense motion and turn on light
+  - Clap on clap off lights – sense sound and turn on light
 
-## Guided Practice
+5. To use a sensor, there are components students will need to understand:
+  1. Power - Supplies electricity, such as a battery
+  2. Sensor - Checks for a condition to be met
+  3. Output - Action, such as a light or buzzer
 
-### Discuss:
-To use a sensor, there are components students will need to understand:
+6. The **sensors** are like a gate: they allow or disallow current to flow through the circuit to the output.  The electricity can only flow through to power the output if the sensor senses what it is looking for. 
 
-1. Power - Supplies electricity, such as a battery
-2. Sensor - Checks for a condition to be met
-3. Output - Action, such as a light or buzzer
+7. Students will put power, sensors, and outputs into our interactive mural!  To accomplish this, they will be using something called littleBits.
 
-_How do sensors work?_
-The **sensors** are like a gate: they allow or disallow current to flow through the circuit to the output.  The electricity can only flow through to power the output if the sensor senses what it is looking for. 
-
-### Explain: 
-Students will be able to put power, sensors, and outputs into our interactive mural!  To accomplish this, they will be using something called Little Bits.
-
-### Watch:
-Watch little bits video:  
+8. Watch littleBits video:  
 http://littlebits.cc/about
 
-### As a group:
-Hand out the Little Bits worksheet.  Go through an example of the worksheet with students, choosing an input and output, and filling out the fields on the board while students test it and write on their handout.
+9. Hand out the Little Bits worksheet.  Go through an example of the worksheet with students, choosing an input and output, and filling out the fields on the board while students test it and write on their handout.
 
-## Explore
+## Elaborate - 20 minutes
 
-### Build:
-Using the worksheet, students will choose new input and output combinations and test them. Students will record the results on the worksheet.
+1. Using the worksheet, students should choose new input and output combinations and test them. Students record the results on the worksheet.
 
-### Go beyond:
-If extra time, have computers on hand for students to peruse the [Little Bits](http://littlebits.cc) website.
+2. If there is extra time, have computers on hand for students to peruse the [Little Bits](http://littlebits.cc) website.
+
+## Standards
+
+| Standard      | Description   | Connection  |
+| ------------- |---------------| ------|
+| 3-5-ETS1-2 | Generate and compare multiple possible solutions to a problem based on how well each is likely to meet the criteria and constraints of the problem | Elaborate |

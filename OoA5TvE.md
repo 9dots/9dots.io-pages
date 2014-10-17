@@ -27,22 +27,29 @@ This lesson provides an exploration driven introduction into coding with Scratch
 - Scratch account for students
 - [Scratch powerpoint](http://uploads.9dots.io/OoAHNhe.pptx)
 
+### Preparations:
+
+- Set up projector with [Scratch powerpoint](http://uploads.9dots.io/OoAHNhe.pptx)
+
 ### Project Time:
 - 45 minutes
 
-## Engage
+## Engage - 5 minutes
+Introduce students to programming witch Scratch by discussing the ability to create something new on a computer. 
 
 1. Discuss, _What are different ways that you interact with computers? How many of those ways include you creating something on the computer?_
 
 2. During this project, students use scratch to create their own interactive media. Show the video about scratch on http://scratch.mit.edu/about/. 
 
-## Explore
+## Explore - 5 mintues
+A brief five minute exploration time for students to test out other projects on Scratch and see what makes them work.
 
 1. Give students 5 minutes to explore different projects on the Scratch website. When they look at the projects, students should use the **See Inside** button to look at the programming that goes into creating a scratch project. 
 
 2. Encourage students to try changing the values in the programming and see how it changes the project.
 
-## Explain
+## Explain - 25 minutes
+Students follow a step-by-step guide to create their first Scratch project. Adding explanatory comments to their program forces students to consider what each programming block does.
 
 1. Students need to start by creating an account for scratch. When this is completed, push the **Create** button at the top of the page to get started.  On the right side of the screen there is a question mark which, when clicked, reveals the tutorials. 
 
@@ -50,9 +57,10 @@ This lesson provides an exploration driven introduction into coding with Scratch
 
 3. When they have finished creating their program, students should add comments to their project describing what each block accomplishes. To add a comment, right click on the block and select **add comment**.
 
-## Elaborate
+## Elaborate - 10 minutes
+Challenge students to create something new in their program to make it different than others around the class.
 
-1. Students have 10 minutes to explore scratch. Use the prompt, _make something surprising happen when you click on the sprite._
+1. Students have 10 minutes to try to create something new in their program. Use the prompt, _make something surprising happen when you click on the sprite._
 
 2. Students are encouraged to help other students by explaining what they discover and work together.
 

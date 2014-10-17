@@ -12,12 +12,12 @@ attachments:
     name: Product Design Day 5.pptx
   - path: "http://uploads.9dots.io/OsJQfpY.docx"
     name: BrainstormingHandout.docx
-blurb: "In this lesson, students will utilize design thinking to develop ideas for a product #NGSS-3-5-ETS1-2 #NGSS-MS-ETS1-1 #NGSS-MS-ETS1-2"
+blurb: "In this lesson, students utilize design thinking to develop ideas for a product #NGSS-3-5-ETS1-2 #NGSS-MS-ETS1-1 #NGSS-MS-ETS1-2"
 
 ---
 
 ## Lesson Overview
-This lesson will be about generating ideas for a product to build using the littleBits. Students will begin by reviewing the design thinking process. Afterwards, they will use the first three steps of the process to brainstorm ideas for an original littleBits product to create.
+This lesson is about generating ideas for a product to build using the littleBits. Students begin by reviewing the design thinking process. Afterwards, they use the first three steps of the process to brainstorm ideas for an original littleBits product to create.
 
 ## Setup 
 
@@ -45,31 +45,31 @@ Review the design thinking process and get students thinking about possible prod
   4. Prototype
   5. Test
   
-2. During this lesson, students will focus on the first three steps in the design process.  
+2. During this lesson, students focus on the first three steps in the design process.  
 
-3. To help generate ideas for their products, students will take five minutes to browse the [littlebits.cc](http://littlebits.cc) website and look at the projects section.
+3. To help generate ideas for their products, students take five minutes to browse the [littlebits.cc](http://littlebits.cc) website and look at the projects section.
 
 ## Empathize - 5 minutes
-Students will discuss with their partner different problems that they have throughout a normal day for themselves. 
+Students discuss with their partner different problems that they have throughout a normal day for themselves. 
 
-1. Students will discuss with a partner what kind of products they would like to create. 
+1. Students discuss with a partner what kind of products they would like to create. 
 
 2. What sort of product do you need? What would be a helpful product for your community?
 
-3. Students will write down potential problems on their handout as they discuss these questions.
+3. Students write down potential problems on their handout as they discuss these questions.
 
 ## Define - 5 minutes
 
-Students will generate a problem definition based on an issue that they think can be solved by creating a product using littleBits and write it on the handout.
+Students generate a problem definition based on an issue that they think can be solved by creating a product using littleBits and write it on the handout.
 
 ## Ideate - 20 minutes
-Using the problem statement that they have just definded, students will generate ideas for products that they could create using littleBits.
+Using the problem statement that they have just definded, students generate ideas for products that they could create using littleBits.
 
-1. Students will generate 3 idea for a product that they could create to help out their community. 
+1. Students generate 3 idea for a product that they could create to help out their community. 
 
-2. Students will refine their choices down to just one product that you want to work on. 
+2. Students refine their choices down to just one product that you want to work on. 
 
-3. Once they have chosen, students will sketch a diagram for the product and come up with ideas for a name for that product.
+3. Once they have chosen, students sketch a diagram for the product and come up with ideas for a name for that product.
 
 ## Standards
 

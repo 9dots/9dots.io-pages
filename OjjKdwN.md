@@ -20,17 +20,16 @@ fullImage: "http://uploads.9dots.io/Ol48Ue8_lrg.jpg"
 
 ---
 
+## Lesson Overivew
+Students are introduced to the unit by learning about murals and iteractivity. The lesson begins with discussing the power of murals. Then, students will watch a video about MIT's interactive art wall. After the video, a slideshow of murals will help students brainstorm ideas for a theme for their own collaborative mural. Students will demonstrate learning by choosing a topic and sketching out an idea for their mural.
+
 ## Setup
 
 ### Materials:
 
-- N/A
-
-### Media and Handouts:
-
-- Mural review worksheet
-- Brainstorm worksheet
-- Mural powerpoint
+- [Mural review worksheet](http://uploads.9dots.io/OjjZvIA.pdf)
+- [Brainstorm worksheet](http://uploads.9dots.io/OjjN3hb.pdf)
+- [Mural powerpoint](http://uploads.9dots.io/OjjhAVn.pptx)
 
 ### Preparation:
 
@@ -40,56 +39,47 @@ fullImage: "http://uploads.9dots.io/Ol48Ue8_lrg.jpg"
 
 - 40 minutes
 
-## Introduce
+## Engage - 5 minutes
 
-### Hook:
-Today we are beginning our brand new unit of designing, creating and building our very own Interactive Art Wall!
+1. Today students are beginning their brand new unit of designing, creating and building their very own Interactive Art Wall!
 
-### Discuss:
-_What is a mural?_
-Murals are more than just giant paintings. Students should think of murals not only as art projects, but as an interactive process that blends collaborative grouping, history, current events, local communities, social change, and leadership skills.
+2. Discuss, "_What is a mural?_"
+  - Murals are more than just giant paintings. Students should think of murals not only as art projects, but as an interactive process that blends collaborative grouping, history, current events, local communities, social change, and leadership skills.
 
-### Engage:
-Some great things about murals include:
+3. Some great things about murals include:
+  1.	Give students a voice and platform
+  2.	Bring people together
+  3.	Have a meaningful message/ optimisitc
+  4.	Build success and hope/ innovation
+  5.	Expand the concept of history and history makers.
+  6.	Strengthen ties between school and the community
+  7.	Allow students and teacher to learn and have fun!
 
-1.	Give students a voice and platform
-2.	Bring people together
-3.	Have a meaningful message/ optimisitc
-4.	Build success and hope/ innovation
-5.	Expand the concept of history and history makers.
-6.	Strengthen ties between school and the community
-7.	Allow students and teacher to learn and have fun!
+## Explain - 10 minutes
 
-## Guided Practice
-
-### Explain:
-_What does the word interactive mean?_
+1. _What does the word interactive mean?_
 Something that is **interactive** is designed to respond to actions or command of a user.
 
-### Watch:
-To get started, watch a brief clip of the [MIT interactive art wall](http://www.youtube.com/watch?v=r9j8DIHXSKA)
+2. To get started, watch a brief clip of the [MIT interactive art wall](http://www.youtube.com/watch?v=r9j8DIHXSKA)
 
-### Discuss:
+3. Discuss the following question aboth the video:
+  - _What makes this wall interative?_
+  - _What happens when she touches the wall?_
+  - _What is the subject of the mural?_
 
-- _What makes this wall interative?_
-- _What happens when she touches the wall?_
-- _What is the subject of the mural?_
+## Elaborate - 25 minutes
 
-## Explore
+1. Before we can begin adding all sorts of cool sensors on our wall we first need to come up with a theme and idea for our mural. As artists and innovators we are going to gather inspiration from other artists by looking at different murals.
 
-### Explain:
-Before we can begin adding all sorts of cool sensors on our wall we first need to come up with a theme and idea for our mural. As artists and innovators we are going to gather inspiration from other artists by looking at different murals.
+2. Distribute the Mural Review worksheet. Students will now get a chance to look at other murals and decide on what they like or dislike about each one.
 
-### Analyze:
-Distribute the Mural Review worksheet. Students will now get a chance to look at other murals and decide on what they like or dislike about each one.
+3. Using a projector, show students the mural powerpoint (the murals chosen are mostly from Los Angeles). Students will take notes about each one on the handout.
+	- TIP: To help engange students, change the murals in the powerpoint to murals from your local community.
 
-### Show:
-Using a projector, show students the mural powerpoint (the murals chosen are mostly from Los Angeles). Students will take notes about each one on the handout.
+4. Using the brainstorming handout, students will develop five ideas for a mural. Students will share their ideas with a partner, and then decide on one to sketch.
 
-```
-TIP: 
-To help engange students, change the murals in the powerpoint to murals from your local community.
-```
+## Standards
 
-### Brainstorm:
-Using the brainstorming handout, students will develop five ideas for a mural. Students will share their ideas with a partner, and then decide on one to sketch.
+| Standard      | Description   | Connection  |
+| ------------- |---------------| ------|
+| CCSS.ELA-LITERACY.SL.6.2 | Interpret information presented in diverse media and formats (e.g., visually, quantitatively, orally) and explain how it contributes to a topic, text, or issue under study. | Explain |

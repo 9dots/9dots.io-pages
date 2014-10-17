@@ -17,7 +17,7 @@ org: 9dots
 id: "9dots-OlKg0kq"
 image: "http://uploads.9dots.io/OlKhUah_md.jpg"
 fullImage: "http://uploads.9dots.io/OlKhUah_lrg.jpg"
-blurb: "In this interactive #STEAM project, students will use paint and #LittleBits to create a collaborative mural that depicts their community."
+blurb: "In this interactive #STEAM project, students will use paint and #littleBits ittleBits to create a collaborative mural that depicts their community."
 
 ---
 

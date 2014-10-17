@@ -17,7 +17,7 @@ blurb: "Students will continue to use the design thinking process to create thei
 ---
 
 ## Lesson Overview
-Students will learn about the concept of a minimum viable product and its importance for designers. Then, they will begin building their product using their plans from the [brainstorming lesson](). During building, emphasize the importance of testing and iteration to create the best possible product. Students will demonstrate learning by following design thinking principles as they build their prototypes.
+Students learn about the concept of a minimum viable product and its importance for designers. Then, they begin building their product using their plans from the [brainstorming lesson](). During building, emphasize the importance of testing and iteration to create the best possible product. Students demonstrate learning by following design thinking principles as they build their prototypes.
 
 ## Setup 
 
@@ -42,7 +42,7 @@ Students will learn about the concept of a minimum viable product and its import
 
 ## Introduction - 5 minutes 
 
-Students will start making a prototype using the design that they created during the last lesson. 
+Students start making a prototype using the design that they created during the last lesson. 
 
 1. Discuss with students the importance of prototyping and iterating. 
 	- Prototyping allows designers to test their products in a basic form before going into a major production.
@@ -64,7 +64,7 @@ Students should take time to review their designs from the previous lesson, and 
 
 ## Prototype - 35 minutes
 
-1. Students will start prototyping their product using cardboard, littleBits, and other materials that you woud like to provide for them. 
+1. Students start prototyping their product using cardboard, littleBits, and other materials that you woud like to provide for them. 
 	- Students should not be afraid to throw away a design and start over if does not work out the first time. 
 
 2. Check for understanding by asking, "What does iteration mean?"
@@ -75,16 +75,16 @@ TIP: Students should only be allowed to use the littleBits from their diagrams b
 
 ## Test
 
-If a group has finished building their prototype, they should test it by letting someone who was not involved in building try to use it.
+When a group has finished building their prototype, they should test it by letting someone who was not involved in building try to use it.
 
-1. Students will observe someone else using their product.
+1. Students observe someone else using their product.
 
 2. As the tester is using their product, students should take notes on what works well.
 	- Is the product intuitive (does the tester know how to use it without instructions)?
     - Does the product function as expected?
     - Ask the tester for additional feedback.
 
-3. After testing, students will start the design process again by defining the problem that the tester found with their product.
+3. After testing, students start the design process again by defining the problem that the tester found with their product.
 	- Use the brainstorming handout again to help students organize their thoughts on their second run through the design thinking process.
 
 ![](http://uploads.9dots.io/OsJO25x_md.jpg)

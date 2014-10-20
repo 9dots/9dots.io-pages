@@ -14,7 +14,7 @@ fullImage: "http://uploads.9dots.io/Ol3oIOG_lrg.jpg"
 ---
 
 ## Lesson Overview
-This exploration driven lesson teaches students about strucural rigidity. Students explore by building a tower out of spaghetti and marshmallows without any background. After a quick build, students will learn about structural rigidity in a hands on demonstration. Students will demonstrate learning by creating a taller tower in the second round using optimal building shapes.
+This exploration driven lesson teaches students about strucural rigidity. Students explore by building a tower out of spaghetti and marshmallows without any background. After a quick build, students will learn about structural rigidity in a hands on demonstration. Students demonstrate learning by creating a taller tower in the second round using optimal building shapes.
 
 ## Setup
 

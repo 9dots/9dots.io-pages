@@ -21,15 +21,15 @@ fullImage: "http://uploads.9dots.io/Ol4C46f_lrg.jpg"
 ---
 
 ## Lesson Overview
-
+Students revist their initial sketches for their mural to plan for creating a foreground and background.
 
 ## Setup
 
 ### Materials:
 
 - Pencils
-- [Little Bits overview](http://uploads.9dots.io/Ok1J6w8.pdf)
-- [Little Bits brainstorming handout](http://uploads.9dots.io/Ok1Ihug.pdf)
+- [littleBits overview](http://uploads.9dots.io/Ok1J6w8.pdf)
+- [littleBits brainstorming handout](http://uploads.9dots.io/Ok1Ihug.pdf)
 - [Foreground and Background handout](http://uploads.9dots.io/Ok1IjtI.pdf)
 
 ### Preparation:
@@ -42,21 +42,23 @@ fullImage: "http://uploads.9dots.io/Ol4C46f_lrg.jpg"
 - 40 minutes
 
 ## Engage
-Today, students start working on their murals.  Each student builds their own piece of the mural, and then the murals are layered together to create the group mural.
+Today, students start working on their murals.  Each student builds their own piece of the mural, and then when each of the individual murals are finished the murals are layered together to create the group mural.
 
 ## Explain
+Teach students about foreground and background and plan for which littleBits that they need for their mural.
 
 1. Now that students know about Little Bits, they should look back at their sketch and think about what inputs and outputs they will use.  
-  - Browse through the handout with all of the little bits
-  - Fill out the brainstorming little bits handout
-  - Make sure students mark on their sketch where the input, output and power would go
+	1. Distribute the [littleBits overview handout](http://uploads.9dots.io/Ok1J6w8.pdf) and the [littleBits brainstorming handout](http://uploads.9dots.io/Ok1Ihug.pdf).
+    2. Students browse through the littleBits overview handout to decide which they will use for their mural.
+    3. Students fill out the littleBits brainstorming handout.
+    4. Make sure students mark on their sketch where the input, output and power would go.
 
 2. Students sign up for use of Little Bits alphabetically.
 
-3. _What is foreground?_
+3. Ask students what they know about foreground and then explain.
 	- The **foreground** is what looks like the closest thing to you. It's in front of everything else in the picture, and it has the most detail.  It will also be the piece that hides Little Bits pieces for the mural.
 
-4. _What is background?_
+4. Discuss how foreground is related to background.
 	- The **background** is the opposite-- it's the farthest away and has the least detail. 
 
 ## Elaborate
@@ -67,4 +69,16 @@ Today, students start working on their murals.  Each student builds their own pi
 
 2. Students complete the background and foreground handout. When they are finished, they have a strong plan for how to create their mural.
 
+## Evaluate
+
+1. What is **foreground**?
+	- The **foreground** is what looks like the closest thing to you. It's in front of everything else in the picture, and it has the most detail.  It will also be the piece that hides Little Bits pieces for the mural.
+    
+2. Why will the foreground and background be on separate pieces of cardboard for this project?
+	- They will be separated so that the foreground can hide the litteBits being used.
+
 ## Standards
+
+| Standard      | Description   | Connection  |
+| ------------- |---------------| ------ |
+| CCSS.ELA-LITERACY.SL.5.1.C | Pose and respond to specific questions by making comments that contribute to the discussion and elaborate on the remarks of others. | Elaborate |

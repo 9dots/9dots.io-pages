@@ -16,14 +16,14 @@ fullImage: "http://uploads.9dots.io/Ol4Aj1P_lrg.jpg"
 
 ---
 
+## Lesson Overview
+In this final lesson, students present their product presentations to a panel of judges. The judges use a rubric for scoring the presentations in which students are judged on their product, visual aide, and ability to present their product.
+
 ## Setup
 
 ### Materials:
 
 - Posters
-
-### Media and Handouts:
-
 - Judging rubric
 
 ### Preparations:
@@ -34,11 +34,19 @@ fullImage: "http://uploads.9dots.io/Ol4Aj1P_lrg.jpg"
 
 - 40 minutes
 
+## Presentation Day - 40 minutes
+Student groups take turns presenting their products to the judges panel. Each group should use their visual aides (poster and product) to help their presentation.
 
-## Presentation Day
+1. Today, students present their products to the judges. They should use their posters as visual aides, and attempt to convice the judges to invest in their product. 
+	- After each presentation, everyone in the class will snap their fingers to applaud their fellow shark tank contestant. 
+ 
+2. Judges use the rubric to score the presentations.
+    
+3. When everyone has finished, judges tally up the scores, and the Shark Tank winner is announced.
 
-### Introduction:
-Today, students will be presenting their products to the judges. They will use their posters as visual aides, and attempt to convice the judges to invest in their product. Judges will use the rubric to score the presentations.
+## Standards
 
-### Presentations:
-Each group will have a turn to present their product. After each presentation, everyone in the class will snap their fingers to applaud their fellow shark tank contestant. When everyone has finished, judges will tally up their scores, and the Shark Tank winner will be announced.
+Standard | Description | Connection
+---------|-------------| -------
+CCSS.ELA-LITERACY.SL.5.4 | Report on a topic or text or present an opinion, sequencing ideas logically and using appropriate facts and relevant, descriptive details to support main ideas or themes; speak clearly at an understandable pace. | Presentation Day
+CCSS.ELA-LITERACY.SL.8.5 | Integrate multimedia and visual displays into presentations to clarify information, strengthen claims and evidence, and add interest. | Presentation Day

@@ -15,7 +15,7 @@ attachments:
 ---
 
 ## Lesson Overview
-In this final lesson, students present their product presentations to a panel of judges. The judges use a rubric for scoring the presentations. Students are judged on their product, visual aide, and ability to present their product.
+In this final lesson, students present their product presentations to a panel of judges. The judges use a rubric for scoring the presentations in which students are judged on their product, visual aide, and ability to present their product.
 
 ## Setup
 

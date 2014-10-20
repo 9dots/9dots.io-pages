@@ -21,7 +21,7 @@ fullImage: "http://uploads.9dots.io/Ol4C46f_lrg.jpg"
 ---
 
 ## Lesson Overview
-Students revist their initial sketches for their mural to plan for creating a foreground and background. This lesson starts by 
+Students revist their initial sketches for their mural to plan for creating a foreground and background. This lesson starts by discussing the plans for creating a collaborative mural. Then, students use a list of littleBits and the brainstorming handout to choose which littleBits to incorporate. After, teach students about foreground and background and how to hide littleBits behind an elevated foreground. Students demonstrate learning by creating a plan for their foreground and background with littleBits.
 
 ## Setup
 
@@ -68,7 +68,7 @@ Teach students about foreground and background and plan for which littleBits tha
 
 2. Students discuss their plans for a foreground and background with a partner.
 
-2. Students complete the background and foreground handout. When they are finished, they have a strong plan for how to create their mural.
+3. Students complete the background and foreground handout. When they are finished, they have a strong plan for how to create their mural.
 
 ## Evaluate
 
@@ -77,7 +77,7 @@ Teach students about foreground and background and plan for which littleBits tha
     
 2. Why will the foreground and background be on separate pieces of cardboard for this project?
 	- They will be separated so that the foreground can hide the litteBits being used.
-
+    
 ## Standards
 
 | Standard      | Description   | Connection  |

@@ -43,7 +43,7 @@ Students revist their initial sketches for their mural to plan for creating a fo
 
 
 
-## Explain
+## Explain - 15 minutes
 Teach students about foreground and background and plan for which littleBits that they need for their mural.
 
 1. Today, students start working on their murals.  Each student builds their own piece of the mural, and then when each of the individual murals are finished the murals are layered together to create the group mural.
@@ -62,7 +62,7 @@ Teach students about foreground and background and plan for which littleBits tha
 4. Discuss how foreground is related to background.
 	- The **background** is the opposite-- it's the farthest away and has the least detail. 
 
-## Elaborate
+## Elaborate - 20 minutes
 
 1. Students need to think about what their background and foreground will be.  They should remember that in their case, the Little Bits will be hiding behind the items in the foreground.
 
@@ -70,7 +70,7 @@ Teach students about foreground and background and plan for which littleBits tha
 
 3. Students complete the background and foreground handout. When they are finished, they have a strong plan for how to create their mural.
 
-## Evaluate
+## Evaluate - 5 minutes
 
 1. What is foreground?
 	- The **foreground** is what looks like the closest thing to you. It's in front of everything else in the picture, and it has the most detail.  It will also be the piece that hides Little Bits pieces for the mural.

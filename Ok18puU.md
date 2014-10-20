@@ -21,7 +21,7 @@ fullImage: "http://uploads.9dots.io/Ol4C46f_lrg.jpg"
 ---
 
 ## Lesson Overview
-Students revist their initial sketches for their mural to plan for creating a foreground and background.
+Students revist their initial sketches for their mural to plan for creating a foreground and background. This lesson starts by 
 
 ## Setup
 
@@ -41,11 +41,12 @@ Students revist their initial sketches for their mural to plan for creating a fo
 
 - 40 minutes
 
-## Engage
-Today, students start working on their murals.  Each student builds their own piece of the mural, and then when each of the individual murals are finished the murals are layered together to create the group mural.
+
 
 ## Explain
 Teach students about foreground and background and plan for which littleBits that they need for their mural.
+
+1. Today, students start working on their murals.  Each student builds their own piece of the mural, and then when each of the individual murals are finished the murals are layered together to create the group mural.
 
 1. Now that students know about Little Bits, they should look back at their sketch and think about what inputs and outputs they will use.  
 	1. Distribute the [littleBits overview handout](http://uploads.9dots.io/Ok1J6w8.pdf) and the [littleBits brainstorming handout](http://uploads.9dots.io/Ok1Ihug.pdf).
@@ -71,7 +72,7 @@ Teach students about foreground and background and plan for which littleBits tha
 
 ## Evaluate
 
-1. What is **foreground**?
+1. What is foreground?
 	- The **foreground** is what looks like the closest thing to you. It's in front of everything else in the picture, and it has the most detail.  It will also be the piece that hides Little Bits pieces for the mural.
     
 2. Why will the foreground and background be on separate pieces of cardboard for this project?

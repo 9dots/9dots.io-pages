@@ -104,4 +104,6 @@ Gives student another chance at creating a wind powered car. After, students wil
 
 | Standard | Description | Connection |
 | ------ | ------ | ------ |
-| 3-5-ETS1-1 | Define a simple design problem reflecting a need or a want that includes specified criteria for success and constraints on materials, time, or cost | Explore |
+| CCSS.ELA-LITERACY.RI.6.2 | Determine a central idea of a text and how it is conveyed through particular details; provide a summary of the text distinct from personal opinions or judgments. | Engage |
+| 4-ESS3-1 | Obtain and combine information to describe that energy and fuels are derived from natural resources and their uses affect the environment. | Engage |
+| 3-5-ETS1-1 | Define a simple design problem reflecting a need or a want that includes specified criteria for success and constraints on materials, time, or cost. | Explore |

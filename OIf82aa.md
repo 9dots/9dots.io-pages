@@ -13,6 +13,9 @@ fullImage: "http://uploads.9dots.io/Ol3oIOG_lrg.jpg"
 
 ---
 
+## Lesson Overview
+This exploration driven lesson teaches students about strucural rigidity. Students explore by building a tower out of spaghetti and marshmallows without any background. After a quick build, students will learn about structural rigidity in a hands on demonstration. Students will demonstrate learning by creating a taller tower in the second round using optimal building shapes.
+
 ## Setup
 
 ### Materials:
@@ -31,6 +34,7 @@ fullImage: "http://uploads.9dots.io/Ol3oIOG_lrg.jpg"
 - 45 minutes
 
 ## Engage - 5 minutes
+Discuss tall building and engineering with students to get them thinking about building towers.
 
 1. Ask some questions to get students thinking about structural rigidity.
 	1. What are the tallest buildings you can think of?
@@ -41,12 +45,14 @@ fullImage: "http://uploads.9dots.io/Ol3oIOG_lrg.jpg"
 3. Engineers often have a budget and cannot always use all of the resources they would like. Today, students are limited to building their structure with only spaghetti and marshmallows.
 
 ## Explore - 10 minutes
+The first round of building spaghetti marshmallow towers. Students build without any explanation of the better building shapes.
 
 1. Students now have ten minutes to experiment and attempt to build the tallest tower that they can. 
 
 2. At the end of this session, the students take measurements of their towers using a ruler.
 
 ## Explain - 10 minutes
+Teach students about structural rigidity through a hands on demonstration with different shapes.
 
 1. Students try building different types (squares, triangles, etc…) of geometric shapes using the spaghetti and marshmallows. 
 
@@ -69,7 +75,7 @@ fullImage: "http://uploads.9dots.io/Ol3oIOG_lrg.jpg"
 
 ## Elaborate - 15 minutes
 
-Students will throw out their first attempts and begin a second round of building with fresh spaghetti and marshmallows.
+Students throw out their first attempts and begin a second round of building with fresh spaghetti and marshmallows.
 
 ## Evaluate - 5 minutes
 

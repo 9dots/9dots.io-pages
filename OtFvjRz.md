@@ -24,8 +24,10 @@ Time to program a phone application! In this project, we will design and program
 
 ## Engage - 5 minutes
 1. Play [video](https://www.youtube.com/watch?v=elaR3WhguVk)
+	
 	- Ask students what apps they like and why they are important to them. 
 	- Ask students what apps they would like to be invented in the future.
+
 2. Explain to students that apps can be a way to help people and give them new technology to carry around in their pockets. 
 3. The app we will program will help students make healthier decisions about the foods they eat by providing a database of nutritional info about different foods.
 4. Have students fill in the bold section of the following stats in their Day 1: Handout:
@@ -38,6 +40,7 @@ Time to program a phone application! In this project, we will design and program
 ## Explore
 1. Instruct students to use the table from [Source 3](https://www.bcm.edu/research/centers/childrens-nutrition-research-center/consumer/archives/percentDV.htm) to fill in Day 1: Handout for their specific age and gender group
 2. Students spend the remainder of the explore time period to brainstorm 10 foods they eat regularly -- 5 they consider “healthy” and 5 they consider “unhealthy.” 
+
 	- Using these foods, students conduct research to gather basic nutritional information in order to fill out in Day 1: Handout
     - Students should begin to see small connections between to see simple connections between the daily recommended values they need versus the nutritional values for their selected foods
 
@@ -61,4 +64,4 @@ Time to program a phone application! In this project, we will design and program
         
 	- **Sodium**
     	- How it helps: Sodium helps our body regulate **water**, helps cells **talk** to each other, helps our muscles contract, and has many other roles!
-		- How it hurts: Too much can lead to high blood pressure, **headaches**, and weight gain 
+		- How it hurts: Too much can lead to high blood pressure, **headaches**, and weight gain

@@ -22,7 +22,7 @@ Time to program a phone application! In this project, we will design and program
 ### project time:	
 - 45 minutes
 
-## Engage - 5 minutes
+## Engage - 10 minutes
 1. Play [video](https://www.youtube.com/watch?v=elaR3WhguVk)
 	
 	- Ask students what apps they like and why they are important to them. 
@@ -37,14 +37,14 @@ Time to program a phone application! In this project, we will design and program
 [Source 1](http://www.cdc.gov/obesity/data/childhood.html)
 [Source 2](http://www.rwjf.org/content/dam/web-assets/2010/05/overweight-and-obesity-among-latino-youths)
 
-## Explore
+## Explore - 25 minutes
 1. Instruct students to use the table from [Source 3](https://www.bcm.edu/research/centers/childrens-nutrition-research-center/consumer/archives/percentDV.htm) to fill in Day 1: Handout for their specific age and gender group
 2. Students spend the remainder of the explore time period to brainstorm 10 foods they eat regularly -- 5 they consider “healthy” and 5 they consider “unhealthy.” 
 
 	- Using these foods, students conduct research to gather basic nutritional information in order to fill out in Day 1: Handout
     - Students should begin to see small connections between to see simple connections between the daily recommended values they need versus the nutritional values for their selected foods
 
-## Explain
+## Explain - 10 minutes
 1. Briefly discuss any connections students see between the daily recommended values for their age/gender and their favorite foods.
 	- Students might respond with they likely eat more sugar than is recommended, if they eat x servings for x food, they will surpass the recommended calories, etc. 
 2. Students fill out the following facts (bold portions) in the Day 1: Handout 

@@ -46,13 +46,13 @@ This screen is accessible by selecting a ‘Food’ on the Screen1 homepage. Upo
 
 **Note: Keep the emulator open on the instructor screen throughout the lesson to allow students to see how changing the code affects the app in real-time.**
 
-## Explore - 5 minutes
+## Explore - 10 minutes
 Today’s explore is to give students an opportunity to select the correct components for Screen1 and Screen2 (Day 6 will be reserved for the Info Screen and further customizing the properties of each screen.)
 
 1. Provide students with a screen shot of Screen1 and Screen2 on Handout: Day 5. 
 2. Students they have 3 minutes to re-read the description of Screen1 and Screen2 in order to determine what components are needed for each screen and add these components to their viewer.
 
-## Explain
+## Explain - 15 minutes
 Complete the following steps with students, displaying the instructor’s screen for all students to observe. 
 
 1. Review the correct components for Screen1 and Screen2 with students. 
@@ -123,4 +123,3 @@ This time is dedicated to customizing the app design with the ‘Properties’ s
 
 ## Evaluate - 5 minutes
 Test on device (emulator or Android device)
-

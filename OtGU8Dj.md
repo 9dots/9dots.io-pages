@@ -8,6 +8,9 @@ org: 9dots
 objective: "SWBAT define specific components and program a functioning list app using #AppInventor"
 blurb: "Learn the specific functions of each component and build a basic list application using #AppInventor"
 id: "9dots-OtGU8Dj"
+attachments: 
+  - path: "http://uploads.9dots.io/OtM2nGi.gdoc"
+    name: "Health App Day 3-4: Lists.gdoc"
 
 ---
 
@@ -16,7 +19,7 @@ Students gain a deeper understanding of the AppInventor components and functiona
 
 ## Setup
 ### materials:
-- Health App Day 3-4: Handout
+- Health App Day [3-4: Handout](http://uploads.9dots.io/OtM2nGi.gdoc)
 - Computer with internet for [MIT AppInventor](http://appinventor.mit.edu/explore/)
 - Android phone OR computer with [Android emulator downloaded](http://appinventor.mit.edu/explore/ai2/setup-emulator.html)
 
@@ -35,7 +38,7 @@ In this section of the guided explore, students will work together and with the 
 
 1. Students login to their MIT AppInventor account and open their Health App Project Page. 
 2. Show students the completed list app on a projector (an emulator works best to use on a projector)
-3. On Health App Day 3: Handout, have students recall what a component is.
+3. On Health App [Day 3: Handout](http://uploads.9dots.io/OtM2nGi.gdoc), have students recall what a component is.
 	- Component = control specific behaviors for the phone that can each be individually programmed 
 4. Students should work together for 2-3 minutes to determine what 3 components from the Palette they will be using
 	- They should drag 'List', 'Button', and 'Textbox' from the Palette into the 'Viewer.'
@@ -43,7 +46,7 @@ In this section of the guided explore, students will work together and with the 
 	- Students are ready to move on to the Blocks page
 
 ## Explain - 10 minutes
-In this section of the lesson, students begin to learn fundamentals of programming vocabulary and basic theory. Students fill in the bold sections on Handout: Day 3
+In this section of the lesson, students begin to learn fundamentals of programming vocabulary and basic theory. Students fill in the bold sections on [Handout: Day 3](http://uploads.9dots.io/OtM2nGi.gdoc)
 
 - Vocabulary:
 	- **Event**: An action that occurs and tells the program to “do” something as a result of the user, such as a button or key being clicked.  

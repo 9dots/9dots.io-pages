@@ -65,3 +65,9 @@ Time to program a phone application! In this project, we will design and program
 	- **Sodium**
     	- How it helps: Sodium helps our body regulate **water**, helps cells **talk** to each other, helps our muscles contract, and has many other roles!
 		- How it hurts: Too much can lead to high blood pressure, **headaches**, and weight gain
+
+## Standards
+ 
+| Standard      | Description   | Connection  |
+| ------------- |---------------| ------|
+| 3-5-ETS1-1 | Define a simple design problem reflecting a need or a want that includes specified criteria for success and constraints on materials, time, or cost | Explore |

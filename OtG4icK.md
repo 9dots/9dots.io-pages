@@ -73,3 +73,12 @@ Provide students with 2 more extensions.
 
 ## Evaluate - 5 minutes
 Open up the emulator on each computer and students may check their code to see if it is properly functioning
+
+## Standards
+ 
+| Standard      | Description   | Connection  |
+| ------------- |---------------| ------|
+| 3-5-ETS1-3 | Plan and carry out fair tests in which variables are controlled and failure points are considered to identify 
+aspects of a model or prototype that can be improved | Explore, Elaborate |
+| MS-ETS1-4 | Develop a model to generate data for iterative testing and modification of a proposed object, tool, or process 
+such that an optimal design can be achieved | Explore, Evaluate |

@@ -38,7 +38,7 @@ In this section of the guided explore, students will work together and with the 
 3. On Health App Day 3: Handout, have students recall what a component is.
 	- Component = control specific behaviors for the phone that can each be individually programmed 
 4. Students should work together for 2-3 minutes to determine what 3 components from the Palette they will be using
-	- They should drag LIST, BUTTON, and TEXTBOX into the Viewer.
+	- They should drag 'List', 'Button', and 'Textbox' from the Palette into the 'Viewer.'
 	- Instruct students they may order these 3 components on the design page however they like (Button on top, List on top, or Textbox on top, etc.)
 	- Students are ready to move on to the Blocks page
 
@@ -57,20 +57,20 @@ In this section of the lesson, students begin to learn fundamentals of programmi
 
 ## Elaborate - 15 minutes
 
-1. Guide students in creating a list. Explain to students we are creating an “Empty List” and as a general function of the app, ask where students will find this.
+1. Guide students in creating a list. Explain to students we are creating an 'Empty List' and as a general function of the app, ask where students will find this.
 
 	- As a general behavior, students will find in the Built-In Drawers
 	- Give students 1 minute to search through the Built-In drawer and find the block that will help define a list.
-		- Students will likely go to “Lists” and select “create empty list”
+		- Students will likely go to 'Lists' and select 'create empty list'
     
 	- Explain this is correct and have all students drag this block out. Explain this list must connect with another General Behavior block. 
-	- Create a “Global” list. Give students 1 minute to explore the drawers to find a block that the “create empty list” can attach to 
-		- Students should select “Initialize global”
+	- Create a 'Global' list. Give students 1 minute to explore the drawers to find a block that the 'create empty list' can attach to 
+		- Students should select 'Initialize global'
     ![](http://uploads.9dots.io/OtGZtjn_md.jpg) 
     
 3. The next component to program is the Button 1 component.
 	- Ask students, because this is a specific component we have added to our design page, where would we find blocks for this page?
-		- Give students 1 minute to discuss and identify. They should select “Button 1” under the “Screen 1” components.”
+		- Give students 1 minute to discuss and identify. They should select _Button1_ under the _Screen1_ components.
         
 ![](http://uploads.9dots.io/OtGa3Ji_md.jpg) 
 	
@@ -81,7 +81,7 @@ In this section of the lesson, students begin to learn fundamentals of programmi
 
 - Ask students to define what our app is to do
 	- Add food items to the list
-- Ask students to take 1 minute to identify the General block behavior that may perform this function
+- Ask students to take 1 minute to identify the general block behavior that may perform this function
 	- Provide 3 options:
     ![](http://uploads.9dots.io/OtGaa2Z_md.jpg) 
     
@@ -100,7 +100,7 @@ In the last 5 minutes, instruct students to select the 'Connection' tab and sele
 ## Engage - 8 minutes
 Begin by having students login to their project page and opening to the Design page. Conduct a 5 minute review of Day 1 using multiple choice questions. Cold call for each answer and have student provide brief explanation for their answer choice. 
 
-1. What is each specific section on Screen1 called?
+1. What is each specific section on _Screen1_ called?
 	- Group
 	- **Component**
 	- Part
@@ -111,7 +111,7 @@ Begin by having students login to their project page and opening to the Design p
 	- Lists display the values, ListViews store the values
 	- **ListViews display the values, Lists store the values**
 
-3. If I want to find blocks for the Button1 component, where can I find these blocks?
+3. If I want to find blocks for the _Button1_ component, where can I find these blocks?
 	- Variables in Built-in Drawer
 	- Procedures in Viewer
 	- Any Button drawer in Any Component
@@ -128,22 +128,22 @@ During this segment of the lesson, students work together and with the instructo
 	- Students should select the following:
 ![](http://uploads.9dots.io/OtGd71s_md.jpg) 
 
-- Cold call to ask why there is a Red explanation point near the “get” block.
+- Cold call to ask why there is a Red exclamation point near the 'get' block.
 	- Because you need to identify what List you are adding to 
-- Cold call to ask if “BackgroundColor” is the correct item. If so why, if not, which would be a better option? 
-	- Text because this will tell the app that you are adding an item from the Text you type into TextBox1.
+- Cold call to ask if 'BackgroundColor' is the correct item. If so why, if not, which would be a better option? 
+	- Text because this will tell the app that you are adding an item from the Text you type into _TextBox1_.
     ![](http://uploads.9dots.io/OtGdDYq_md.jpg) 
 
 ## Explain - 10 minutes
 In this section of the lesson, students review and continue to implement fundamentals of programming vocabulary and basic theory. Quickly review the steps for the MIT AppInventor for the List App
 
-1. Name Variable “Food”
+1. Name Variable 'Food'
 	- Defines our new List
-2. Using the Button1 component, select “when Button1.Click” to set off a reaction 
+2. Using the _Button1_ component, select 'when _Button1_.Click' to set off a reaction 
 	- Our reaction is to add a Value to our List
-3. Values are added to the List by inputting text into TextBox1
+3. Values are added to the List by inputting text into _TextBox1_
 	- These are the various food items we have previously selected
-4. Values are displayed in ListView
+4. Values are displayed in the ListView
 ![](http://uploads.9dots.io/OtGdiZw_md.jpg) 
 
 - New Vocabulary:
@@ -161,8 +161,8 @@ In this section of the lesson, students review and continue to implement fundame
 ## Elaborate - 10 minutes
 Allow students time to extend their code by working with the 'properties' on the Design page. Here are some options for students.
 
-- Rename the Button1
-- Rename what TextBox1 says when there is no text in it
+- Rename _Button1_
+- Rename what _TextBox1_ says when there is no text in it
 - Add background color
 - Add a specific layout
 - Change the default font 
@@ -170,4 +170,4 @@ Allow students time to extend their code by working with the 'properties' on the
 - Add screen animation
 
 ## Evaluate - 7 minutes
-Instruct students to select the “Connection” tab and select “Emulator”
+Instruct students to select the 'Connection' tab and select 'Emulator'

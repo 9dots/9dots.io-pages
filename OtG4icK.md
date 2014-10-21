@@ -8,6 +8,9 @@ title: AppInventor Intro
 blurb: "Create an #AppInventor project page and learn the layout and basic functionality of the various components"
 objective: SWBAT create a project page on the MIT AppInventor website and program an app that says text outloud when a button is pressed
 id: "9dots-OtG4icK"
+attachments: 
+  - path: "http://uploads.9dots.io/OtM2Ei1.gdoc"
+    name: "Health App Day 2: Introducing the App Inventor.gdoc"
 
 ---
 
@@ -16,7 +19,7 @@ The MIT AppInventor will be introduced and each student will create a project pa
 
 ## Setup
 ### materials:
-- Health App Day 2: Handout
+- Health App [Day 2: Handout](http://uploads.9dots.io/OtM2Ei1.gdoc)
 - Computer with internet for [MIT AppInventor](http://appinventor.mit.edu/explore/)
 - Android phone OR computer with [Android emulator downloaded](http://appinventor.mit.edu/explore/ai2/setup-emulator.html)
 
@@ -41,9 +44,9 @@ Students need to set up project pages for their health app. As an instructor, ma
 
 Next, have students become familiar with the basic functionality and layout of the program. Students may keep their computer open to compare their handout to the screen, however, be clear all students should be following along and filling in their handout.
 
-1. Begin with the 'Designer' page. Read each component of the page and have students write in the blanks for each part of the screen on Handout: Day2
+1. Begin with the 'Designer' page. Read each component of the page and have students write in the blanks for each part of the screen on [Handout: Day2](http://uploads.9dots.io/OtM2Ei1.gdoc)
 ![](http://uploads.9dots.io/OtG9aO0_md.jpg) 
-2. Continue to the 'Blocks' page. Read each component of the page and have students write in the blanks for each part of the screen on Handout: Day2
+2. Continue to the 'Blocks' page. Read each component of the page and have students write in the blanks for each part of the screen on [Handout: Day2](http://uploads.9dots.io/OtM2Ei1.gdoc)
 ![](http://uploads.9dots.io/OtG9XZV_md.jpg) 
 
 ## (Guided) Explore - 15 minutes 

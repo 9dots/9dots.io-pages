@@ -3,11 +3,14 @@ author: miketeja
 views: 0
 published: false
 type: lesson
-title: Designing the Health App
+title: Health App Screen Design
 blurb: "Focus on design components for the three screens of the Health App using the #AppInventor"
 org: 9dots
 objective: 1. SWBAT design three screens for a health app using the designer page components on the AppInventor  2. SWBAT edit the design properties of their screen and components upon completion of the app design framework
 id: "9dots-OtGhCXe"
+attachments: 
+  - path: "http://uploads.9dots.io/OtMM4NC.gdoc"
+    name: "Health App Day 5-6: Screen Design.gdoc"
 
 ---
 
@@ -16,7 +19,7 @@ This week is dedicated to user interface (UI) design. Elements of design are cri
 
 ## Setup
 ### materials:
-- Health App Day 5-6: Handout
+- Health App [Day 5-6: Handout](http://uploads.9dots.io/OtMM4NC.gdoc)
 - Computer with internet for [MIT AppInventor](http://appinventor.mit.edu/explore/)
 - Android phone OR computer with [Android emulator downloaded](http://appinventor.mit.edu/explore/ai2/setup-emulator.html)
 
@@ -49,7 +52,7 @@ This screen is accessible by selecting a ‘Food’ on the 'Screen1' homepage. U
 ## Explore - 10 minutes
 Today’s explore is to give students an opportunity to select the correct components for 'Screen1' and 'Screen2' (Day 6 will be reserved for the 'Info' Screen and further customizing the properties of each screen.)
 
-1. Provide students with a screen shot of 'Screen1' and 'Screen2' on Handout: Day 5. 
+1. Provide students with a screen shot of 'Screen1' and 'Screen2' on [Handout: Day 5](http://uploads.9dots.io/OtMM4NC.gdoc). 
 2. Students they have 3 minutes to re-read the description of 'Screen1' and 'Screen2' in order to determine what components are needed for each screen and add these components to their viewer.
 
 ## Explain - 15 minutes
@@ -68,7 +71,7 @@ Screen2: _Label1, Label2, TextBox1, TextBox2, Button1_
 The text written on each component can be edited using the ‘Properties’ portion of the page. 
 
 - On Screen1, edit the Button1 text to read, ‘Add’ by erasing _Button1_ from ‘Text’ and typing ‘Add.’ 
-- Instruct students to edit all the component’s properties to replicate 'Screen1' and 'Screen2' from their Handout: Day 5 (5 minutes). Review answers. 
+- Instruct students to edit all the component’s properties to replicate 'Screen1' and 'Screen2' from their [Handout: Day 5](http://uploads.9dots.io/OtMM4NC.gdoc) (5 minutes). Review answers. 
 
 ### The Layout: 
 The layout is found in the 'Palette' and allows the components to be arranged in several ways. 
@@ -93,8 +96,8 @@ Remind students the function of the 'Info' screen:
 - **Info**: This screen is accessible by selecting a ‘Food’ on the Screen1 homepage. Upon selecting a ‘Food,’ the Info screen will display the ‘Food’ and the ‘Fact,’ both which were previously input by the user. There will also be an ‘Edit’ button at the bottom, allowing the user to update or add to information. 
 ![](http://uploads.9dots.io/OtGqBc3_md.jpg) 
 
-1. Challenge students to select the correct components for the Info screen to match the screenshot on Handout: Day 6. 
-2. Challenge students to organize their Info screen layout to match the screenshot on Handout: Day 6.
+1. Challenge students to select the correct components for the Info screen to match the screenshot on [Handout: Day 6](http://uploads.9dots.io/OtMM4NC.gdoc). 
+2. Challenge students to organize their Info screen layout to match the screenshot on [Handout: Day 6](http://uploads.9dots.io/OtMM4NC.gdoc).
 
 ## Explain - 10 minutes
 

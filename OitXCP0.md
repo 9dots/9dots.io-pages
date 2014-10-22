@@ -84,4 +84,4 @@ To watch the stop motion:
 2. Hold the arrow keys on the keyboard to make the pictures animate just like the flipbook.
 
 ## Extension:
-If you finish, create a second animation of the tower falling apart or shrinking using the same process.
+If a student finishes their first stop motion, create a second animation of the tower falling apart or shrinking using the same process.

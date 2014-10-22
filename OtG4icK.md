@@ -11,6 +11,8 @@ id: "9dots-OtG4icK"
 attachments: 
   - path: "http://uploads.9dots.io/OtM2Ei1.gdoc"
     name: "Health App Day 2: Introducing the App Inventor.gdoc"
+image: "http://uploads.9dots.io/OtRSdtg_md.jpg"
+fullImage: "http://uploads.9dots.io/OtRSdtg_lrg.jpg"
 
 ---
 

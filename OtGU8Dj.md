@@ -11,8 +11,8 @@ id: "9dots-OtGU8Dj"
 attachments: 
   - path: "http://uploads.9dots.io/OtM2nGi.gdoc"
     name: "Health App Day 3-4: Lists.gdoc"
-image: "http://uploads.9dots.io/OtRSPak_md.jpg"
-fullImage: "http://uploads.9dots.io/OtRSPak_lrg.jpg"
+image: "http://uploads.9dots.io/OtRVBbK_md.jpg"
+fullImage: "http://uploads.9dots.io/OtRVBbK_lrg.jpg"
 
 ---
 

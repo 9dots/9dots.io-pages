@@ -36,7 +36,7 @@ The home screen for the user which will consist only of an ‘Add’ button and 
 Upon adding a food item with the ‘Add’ button, users will be navigated to ‘Screen2.’ This screen is dedicated to adding a ‘Food,’ adding a ‘Fact’ about the specified food, and a ‘Submit’ button to add the Values to the database and the ‘Food’ to the 'Screen1' ListView.
 ![](http://uploads.9dots.io/OtGkyT6_md.jpg) 
 
-###Info
+###Info screen
 This screen is accessible by selecting a ‘Food’ on the 'Screen1' homepage. Upon selecting a ‘Food,’ the Info screen will display the ‘Food’ and the ‘Fact,’ both which were previously input by the user. There will also be an ‘Edit’ button at the bottom, allowing the user to update or add to information. 
 ![](http://uploads.9dots.io/OtGl3df_md.jpg) 
 

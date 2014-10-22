@@ -1,7 +1,7 @@
 ---
 author: miketeja
 views: 0
-published: false
+published: true
 type: lesson
 title: Health App Screen Design
 blurb: "Focus on design components for the three screens of the Health App using the #AppInventor"

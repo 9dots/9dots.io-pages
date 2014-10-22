@@ -13,8 +13,8 @@ attachments:
     name: "Health App Day 1: Preliminary Research.gdoc"
   - path: "http://uploads.9dots.io/OtM1exa.gslides"
     name: Health App Day 1.gslides
-image: "http://uploads.9dots.io/OtRUZfv_md.jpg"
-fullImage: "http://uploads.9dots.io/OtRUZfv_lrg.jpg"
+image: "http://uploads.9dots.io/OtRVfs8_md.jpg"
+fullImage: "http://uploads.9dots.io/OtRVfs8_lrg.jpg"
 
 ---
 

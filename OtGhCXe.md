@@ -11,6 +11,8 @@ id: "9dots-OtGhCXe"
 attachments: 
   - path: "http://uploads.9dots.io/OtMM4NC.gdoc"
     name: "Health App Day 5-6: Screen Design.gdoc"
+image: "http://uploads.9dots.io/OtRRwSs_md.jpg"
+fullImage: "http://uploads.9dots.io/OtRRwSs_lrg.jpg"
 
 ---
 

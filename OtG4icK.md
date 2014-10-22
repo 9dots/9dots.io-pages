@@ -1,7 +1,7 @@
 ---
 author: miketeja
 views: 0
-published: false
+published: true
 type: lesson
 org: 9dots
 title: AppInventor Intro

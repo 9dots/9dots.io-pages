@@ -1,7 +1,7 @@
 ---
 author: miketeja
 views: 0
-published: false
+published: true
 type: lesson
 objective: SWBAT select and research the nutritional information for 10 different foods that will later be programmed into an Android application
 org: 9dots

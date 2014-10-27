@@ -24,12 +24,13 @@ objective: ""
 ### Materials:
 
 - 12"x12" sheet of aluminum foil
-- Tape
 - Pennies for testing
 
 ### Preparations:
 
 - Fill a bucket with water to test the tin foil boats in
+- Print the [tin boats handout](http://uploads.9dots.io/OoorjpS.docx)
+- Set up a projector with the [tin foil boats powerpoint]()
 
 ### Project Time:
 
@@ -46,6 +47,7 @@ Keep one piece flat and crumple the second piece as tightly as possible.
 3. Ask, _why?_ (shape, size, density are possible answers)
  
 ## Explore - 15 minutes
+Using the 
 
 1. Ask, _"How can a single sheet of foil be folded in such a way to float and hold as many pennies as possible?"_
 

@@ -18,41 +18,62 @@ objective: ""
 
 ---
 
+## Lesson Overview
+
 ## Setup
-**Materials** 
-•12"x12" sheet of aluminum foil
-•Pennies for testing
+### Materials:
+
+- 12"x12" sheet of aluminum foil
+- Tape
+- Pennies for testing
+
+### Preparations:
+
+- Fill a bucket with water to test the tin foil boats in
+
+### Project Time:
+
+- 45 minutes
  
-## Engage
-Tear two piece of similar size aluminum foil to show students.
+## Engage - 5 minutes
+
+1. Tear two piece of similar size aluminum foil to show students.
 Keep one piece flat and crumple the second piece as tightly as possible.
-Ask, _which, if either, will float and which, if either, will sink? Why?_
-Demonstrate the flat piece floats while the crumpled piece sinks, though they are the same mass.
+
+2. Ask, _/'Which, if either, will float and which, if either, will sink? Why?/'_
+	- Demonstrate the flat piece floats while the crumpled piece sinks, though they are the same mass.
  
-Ask, _why?_ (shape, size, density are possible answers)
+3. Ask, _why?_ (shape, size, density are possible answers)
  
-## Explore
-Question: How can a single sheet of foil be folded in such a way to float and hold as many pennies as possible?
+## Explore - 15 minutes
 
-Design on paper 10 minutes
-Fold and test for 20 minutes
+1. Ask, _"How can a single sheet of foil be folded in such a way to float and hold as many pennies as possible?"_
+
+2. Students have 5 minutes to design their boat on paper.
+
+3. After they design the boat, students create it using their supplies.
+
+4. Test the tin foil boats by putting them in the bucket of water and adding pennies to the boat until it sinks.
  
-## Explain
-Density is the amount of stuff (liquid, gas, solid) that's jam packed into a given space (provide visual example)
+## Explain - 10 minutes
 
-- Application: Anyone who has ever tried to lift something out of water knows it is harder than lifting that object outside in regular air. Why?
-- The force of gravity pulls the boat downward, while there is a liquid applies a force that goes upward, this is called **buoyancy**
-- In other words, an objects ability to float depends on multiple factors, including how much surface area is touching the water in comparison to it’s overall weight
+1. Density is the amount of stuff (liquid, gas, solid) that's jam packed into a given space (provide visual example).
 
-**Density = mass/volume** 
+2. **Density = mass/volume** 
 
-- Show students 2 sheets of foil that are the same size again. Ask, _is the density for these two sheets the same? Why or why not?_
-Fold one into a very loose sphere and one into a very tight sphere. Ask, _is the density for these two sheets the same? Why or why not?_
+3. Anyone who has ever tried to lift something out of water knows it is harder than lifting that object outside in regular air. Why?
+	- The force of gravity pulls the boat downward, while there is a liquid applies a force that goes upward, this is called **buoyancy**.
+	- In other words, an objects ability to float depends on multiple factors, including how much surface area is touching the water in comparison to it’s overall weight.
 
-## Elaborate
+
+4. Show students 2 sheets of foil that are the same size again. Ask, _is the density for these two sheets the same? Why or why not?_
+
+5. Fold one into a very loose sphere and one into a very tight sphere. Ask, _is the density for these two sheets the same? Why or why not?_
+
+## Elaborate - 10 minutes
 Students get 1 new piece of foil to start from scratch, this time only given 10 minutes to apply new knowlege
  
-## Evaluate
+## Evaluate - 5 minutes
 Test using pennies! Who has the safest, most buoyant boat?
 
 ## Standards

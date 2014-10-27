@@ -85,3 +85,9 @@ To watch the stop motion:
 
 ## Extension
 If a student finishes their first stop motion, create a second animation of the tower falling apart or shrinking using the same process.
+
+## Standards
+
+Standard | Description | Connection
+--- | --- | ---
+CSTA.CPP.L2-03 | Design, develop, publish, and present products (e.g., webpages, mobile applications, animations) using technology resources that demonstrate and communicate curriculum concepts. | Elaborate

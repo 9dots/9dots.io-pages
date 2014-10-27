@@ -10,15 +10,16 @@ id: "9dots-Oo4ZqNz"
 attachments: 
   - path: "http://uploads.9dots.io/OoorjpS.docx"
     name: TinBoatsHandout.docx
-  - path: "http://uploads.9dots.io/Ooorlqc.gslides"
-    name: Tin Foil Boats.gslides
+  - path: "http://uploads.9dots.io/OtvGbgv.pptx"
+    name: Tin Foil Boats.pptx
 image: "http://uploads.9dots.io/OpJNj3o_md.jpg"
 fullImage: "http://uploads.9dots.io/OpJNj3o_lrg.jpg"
-objective: ""
+objective: "SWBAT define buoyancy and density, and use that knowledge to create a boat capable of carrying weights."
 
 ---
 
 ## Lesson Overview
+In this design engineering challenge, students attempt to create a boat out of tin foil that is capable of carrying the most weight. Students explore buoyancy and density by creating their first boat. Then, using the powerpoint, teach students the science behind creating a buoyant boat.  Students will demonstrate learning by developing a new design for their boat that carries a greater load.
 
 ## Setup
 ### Materials:
@@ -30,13 +31,14 @@ objective: ""
 
 - Fill a bucket with water to test the tin foil boats in
 - Print the [tin boats handout](http://uploads.9dots.io/OoorjpS.docx)
-- Set up a projector with the [tin foil boats powerpoint]()
+- Set up a projector with the [tin foil boats powerpoint](http://uploads.9dots.io/OtvGbgv.pptx)
 
 ### Project Time:
 
 - 45 minutes
  
 ## Engage - 5 minutes
+Start with a demonstration to get students thinking about density and buoyancy.
 
 1. Tear two piece of similar size aluminum foil to show students.
 Keep one piece flat and crumple the second piece as tightly as possible.
@@ -47,17 +49,18 @@ Keep one piece flat and crumple the second piece as tightly as possible.
 3. Ask, _why?_ (shape, size, density are possible answers)
  
 ## Explore - 15 minutes
-Using the 
+Using the tin foil sheets, students create their first attempt at a tin foil boat.
 
 1. Ask, _"How can a single sheet of foil be folded in such a way to float and hold as many pennies as possible?"_
 
-2. Students have 5 minutes to design their boat on paper.
+2. Students have 5 minutes to design their boat on the [tin boats handout](http://uploads.9dots.io/OoorjpS.docx).
 
 3. After they design the boat, students create it using their supplies.
 
 4. Test the tin foil boats by putting them in the bucket of water and adding pennies to the boat until it sinks.
  
 ## Explain - 10 minutes
+Using the powerpoint as a guide, teach students about density and buoyancy.
 
 1. Density is the amount of stuff (liquid, gas, solid) that's jam packed into a given space (provide visual example).
 

@@ -65,7 +65,6 @@ Keep one piece flat and crumple the second piece as tightly as possible.
 	- The force of gravity pulls the boat downward, while there is a liquid applies a force that goes upward, this is called **buoyancy**.
 	- In other words, an objects ability to float depends on multiple factors, including how much surface area is touching the water in comparison to it’s overall weight.
 
-
 4. Show students 2 sheets of foil that are the same size again. Ask, _is the density for these two sheets the same? Why or why not?_
 
 5. Fold one into a very loose sphere and one into a very tight sphere. Ask, _is the density for these two sheets the same? Why or why not?_

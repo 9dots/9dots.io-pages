@@ -14,35 +14,43 @@ objective: ""
 ---
 
 ## Setup
-### Materials 
+### Materials :
 
 - Cardstock paper
 - Masking tape
 - Scissors
 - Marbles
 
-### Preparation
+### Preparation:
+
 - Cut cardstock paper into ~1.5" wide strips
 
+### Project Time:
+
+- 45 minutes
+
 ## Engage
-Watch roller coaster video
-Ask, _what types of energy are present in this video? At what points on the roller coaster did you see these types of energy?_
+
+1. Watch roller coaster video
+
+2. Ask, _what types of energy are present in this video? At what points on the roller coaster did you see these types of energy?_
 
 ## Explore
 Students design and test out various methods of constructing the track and base of the roller coaster
 
 ## Explain
-**Gravitational Potential Energy**: The energy stored in an object as a result of its vertical position, or height.
 
-- Application: G.P.E.=m*g*h. This means that the taller the roller coaster, the more G.P.E. the marble will have, as the marble mass and the gravitational force are constants. 
+1. **Gravitational Potential Energy**: The energy stored in an object as a result of its vertical position, or height.
 
-**Kinetic Energy**: The energy of motion.
+2. G.P.E.=m*g*h. This means that the taller the roller coaster, the more G.P.E. the marble will have, as the marble mass and the gravitational force are constants. 
 
-- Application: Energy is transformed from gravitational potential energy to kinetic energy and back to gravitational potential energy. Ask students where the energy conversions occur.
+3. **Kinetic Energy**: The energy of motion.
 
-**Law of conservation of energy**: Energy cannot be created or destroyed, but can be transformed from one form to another
+4. Energy is transformed from gravitational potential energy to kinetic energy and back to gravitational potential energy. Ask students where the energy conversions occur.
 
-- Application: The marble will never be able to exceed the height of the starting point of the roller coaster (implement this concept in the design of the roller coaster)
+5. Energy cannot be created or destroyed, but can be transformed from one form to another
+
+6. Application: The marble will never be able to exceed the height of the starting point of the roller coaster (implement this concept in the design of the roller coaster)
 
 ## Elaborate
 Students combine their tracks and their base to produce a structure that has the greatest gravitational potential energy 

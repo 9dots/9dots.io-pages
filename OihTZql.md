@@ -4,7 +4,7 @@ views: 0
 published: true
 type: lesson
 title: Line Follow
-blurb: This lesson focuses on programming the robot to use the color sensor to follow a line on the ground
+blurb: "This lesson focuses on programming the robot to use the color sensor to follow a line on the ground. #NGSS-MS-ETS1-2"
 org: 9dots
 objective: SWBAT identify a programming switch statement and discuss the strategy for programming a robot to follow a black line.
 attachments: 
@@ -107,3 +107,10 @@ Check for understanding by discussing the outcomes of the project and asking a f
 3. Why is a loop necessary to make the robot follow a line?
 
 4. Students should now finish their robotics wrap-up handout.
+
+## Standards
+
+Standard | Description | Connection
+--- | --- | ---
+3-5-ETS1-2 | Generate and compare multiple possible solutions to a problem based on how well each is likely to meet the criteria and constraints of the problem. | Engage
+MS-ETS1-2 | Evaluate competing design solutions using a systematic process to determine how well they meet the criteria and constraints of the problem. | Elaborate

@@ -4,9 +4,9 @@ views: 0
 published: true
 type: lesson
 title: Line Follow
-blurb: "This lesson will focus on using the color sensor to follow a line on the ground, as well as an introduction to the switch statement."
+blurb: This lesson focuses on programming the robot to use the color sensor to follow a line on the ground
 org: 9dots
-objective: "By the end of the lesson, the student will be able to identify a programming switch statement and discuss the strategy for programming a robot to follow a black line."
+objective: SWBAT identify a programming switch statement and discuss the strategy for programming a robot to follow a black line.
 attachments: 
   - path: "http://uploads.9dots.io/OihVx8V.pdf"
     name: IterationLog (1).pdf
@@ -68,21 +68,22 @@ Show students the line and demonstrate the simple behaviors needed to program a 
 
 4. With the strategy figured out, teach students about the the programming blocks required to execute this strategy. 
 	- The **switch** statement takes the readings from the sensor and breaks it into two possible cases, just like the two rules in our strategy. 
-    - For the color sensor, the two cases will be dark and light. To set up the switch: 
+    - For the color sensor, the two cases are dark or light. To set up the switch: 
       1. Select the color sensor
       2. Click on compare
       3. Select reflected light intensity
       
 ![](http://uploads.9dots.io/Oiha8uX_md.jpg) 
 
-**In the example above, the top track will be triggered if the color sensor is over the black line, and the bottom track will be triggered if it has moved off of the line.**
+**In the example above, the top track is triggered if the color sensor is over the black line, and the bottom track is triggered when it has moved off of the line.**
 
 ![](http://uploads.9dots.io/Oihrsws_md.jpg) 
 5. Using the previously discussed strategy as the guide, add the **move steering** blocks. The finished product should look like:
 
 ![](http://uploads.9dots.io/Oii19BC_md.jpg) 
 6. Ask, "_How can you make that process repeat indefinitely?_"
-	- Put that entire switch statement in a loop so that the process repeats forever. If there is no loop it will move once and be done.
+	
+   - Put that entire switch statement in a loop so that the process repeats forever. If there is no loop it will move once and be done.
 
 ![](http://uploads.9dots.io/Oihyzmy_md.jpg) 
 
@@ -91,10 +92,10 @@ Students take thirty minutes to finish building their attachments and program th
 
 1. Each group has 30 minutes to create a robot capable of following the line accurately and as quickly as possible. 
 
-2. The robot that completes the entire maze the quickest will be the winner. 
+2. The robot that completes the entire maze the quickest is the winner. 
 	- To change the speed of the robot the students need to alter the values of the turning and the power in the move blocks. 
     
-3. At the end of the 30 minutes, each group will test their robot.
+3. At the end of the 30 minutes, each group tests their robot.
 
 ## Evaluate - 5 minutes
 Check for understanding by discussing the outcomes of the project and asking a few review questions.

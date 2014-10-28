@@ -49,15 +49,33 @@ Today's lesson transitions from the 'Designer' page to the 'Blocks' page, where 
 
 3. Instruct students to read the following descriptions in Health App Day 7: Handout for Screen1 ‘Blocks.’ They should be referring to the on-screen emulator to check their work. 
 
-- 1. Initialize a global variable to create an empty list, and define the variable as “Food” 
-- 2. Create an event such that when the ‘Add’ button is clicked, the app opens another screen named ‘Screen2.’ 
-- 3. Create an event when ‘AfterPicking’ ListView1, another screen opens that is titled, “Info” and has a start value that is the ‘Selection of ListView1.
+	- Initialize a global variable to create an empty list, and define the variable as “Food” 
+	- Create an event such that when the ‘Add’ button is clicked, the app opens another screen named ‘Screen2.’ 
+	- Create an event when ‘AfterPicking’ ListView1, another screen opens that is titled, “Info” and has a start value that is the ‘Selection of ListView1.
 
 ## Explain - 20 minutes
 
 1. Review the correct code for prompts 1, 2, and 3. 
 ![](http://uploads.9dots.io/Ou0NmjE_md.jpg) 
 ![](http://uploads.9dots.io/Ou0NtIz_md.jpg) 
+
+	- Explain this code: Initializes a new variable that is an empty list and is defined as “food.”
+	- When the ‘Add’ button is clicked, it takes the user to Screen2.
+	- When an item in ListView1 is picked, it takes the user to the Info screen with the selected food item as the starting value (recall, an item that is added to a list, such as food in this case, is considered a ‘Value.’ 
+		- (i.e. apple and big mac are considered ‘startValues’)
+
+2. A Tag can be thought of as a folder on your computer finder.
+	- This is a way to organize files and maintain organization throughout your saved material
+	- The documents in the files are the stored items, such as the Foods, and Food Facts
+
+3. The last section of code commands the app to call from the TinyDatabase1 when the Screen1 is initialized upon opening.
+
+	- The ‘global food’ variable must be set to call data (values) that have been stored within folders (Tags) in the TinyDB1. 
+	- The ListView1 component must be set to the elements listed that we get from the ‘global food’ list variable. 
+![](http://uploads.9dots.io/Ou0nZHV_md.jpg) 
+
+## Evaluate - 5 minutes
+This time is dedicate to students receiving feedback from their Android companion (Android device or on screen emulator.) 
 
 
 

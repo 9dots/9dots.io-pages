@@ -69,7 +69,8 @@ Today's lesson transitions from the 'Designer' page to the 'Blocks' page, where 
 
 2. A Tag can be thought of as a folder on your computer finder.
 	- This is a way to organize files and maintain organization throughout your saved material
-	- The documents in the files are the stored items, such as the Foods, and Food Facts
+	- A _Tag_ has _value_(s) stored inside of it, similar to how a Folder stores documents and other files. 
+    - In this case, our _Tag_ is the Food name and the value is the Fact about that particular food. The _TinyDB1_ stores the _Tag_, which is storing the _value_ inside of it. 
 
 3. The last section of code commands the app to call from the _TinyDB1_ when the Screen1 is initialized upon opening.
 

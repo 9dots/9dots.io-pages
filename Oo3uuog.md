@@ -59,17 +59,15 @@ Get students excited about the project by watching the video of Felix Baumgartne
 4. Each group is going to be given the same amount of time and materials so its important to think about your science and engineering knowledge to design the most durable “egg-chute” possible!
 
 ## Explore - 5 minutes
-Students learn more about their objectives and design their vehicle on paper.
+Students learn more about their objectives and design their contraption on paper.
 
 1. What design will allow for the egg to survive when dropped from various heights?
+	- Egg must be visible (even if only very slightly).
+	- There is a strict ‘no yolk’ policy (a crack is okay, but yolk will be disqualified).
 
-2. Egg must be visible (even if only very slightly).
+2. Show students the materials that they are allowed to use to create their vehicle.
 
-3. Ther is a strict ‘no yolk’ policy (a crack is okay, but yolk will be disqualified).
-
-4. Show students the materials that they are allowed to use to create their vehicle.
-
-5. Students draw their designs on the egg drop handout.
+3. Students draw their designs on the egg drop handout.
 
 ## Explain - 10 minutes
 With the powerpoint to guide the discussion, teach students about the forces that act on the egg as it is dropped.

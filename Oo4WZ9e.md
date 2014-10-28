@@ -12,7 +12,7 @@ attachments:
     name: Mousetrap Cars.pptx
 image: "http://uploads.9dots.io/OpIsDzL_md.jpg"
 fullImage: "http://uploads.9dots.io/OpIsDzL_lrg.jpg"
-objective: ""
+objective: SWBAT explain how a mousetrap converts potential energy to kinetic energy and how that conversion can power their vehicle.
 
 ---
 

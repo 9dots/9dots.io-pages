@@ -9,7 +9,7 @@ org: 9dots
 id: "9dots-Oo4T7e8"
 image: "http://uploads.9dots.io/OpOQlTP_md.jpg"
 fullImage: "http://uploads.9dots.io/OpOQlTP_lrg.jpg"
-objective: ""
+objective: SWBAT explain the relationship between gravitational potential and kinetic energy.
 attachments: 
   - path: "http://uploads.9dots.io/Ou0ZFvr.pptx"
     name: Roller Coaster.pptx

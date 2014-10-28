@@ -42,9 +42,9 @@ Students learn about the forces that act on falling objects and create a device 
 
 ### Project Time:
 
-- 45 minutes
+- 55 minutes
 
-## Engage
+## Engage - 10 minutes
 Get students excited about the project by watching the video of Felix Baumgartner jumping from the stratosphere.
 
 1. Watch the video of Felix Baumgartner stratosphere jump from the powerpoint.
@@ -58,7 +58,7 @@ Get students excited about the project by watching the video of Felix Baumgartne
 
 4. Each group is going to be given the same amount of time and materials so its important to think about your science and engineering knowledge to design the most durable “egg-chute” possible!
 
-## Explore
+## Explore - 5 minutes
 Students learn more about their objectives and design their vehicle on paper.
 
 1. What design will allow for the egg to survive when dropped from various heights?
@@ -71,7 +71,7 @@ Students learn more about their objectives and design their vehicle on paper.
 
 5. Students draw their designs on the egg drop handout.
 
-## Explain
+## Explain - 10 minutes
 With the powerpoint to guide the discussion, teach students about the forces that act on the egg as it is dropped.
 
 1. **Gravitational Potential Energy**: The energy stored in an object as a result of its vertical position, or height.
@@ -88,7 +88,7 @@ With the powerpoint to guide the discussion, teach students about the forces tha
 	- Ask students if all the parachutes will fall at exactly the same speed, considering gravity does not change. Ask why or why not?
     - Encourage students to consider the amount of contact between their parachute and the air surrounding it and how that will affect the rate at which their parachute falls when they design their project. 
 
-## Elaborate
+## Elaborate - 20 minutes
 Open discussion to hear/provide tips after 15 minutes of building
 
 Tips to help guide building:
@@ -97,7 +97,7 @@ Tips to help guide building:
 
 2. Distribution of force of impact. The larger the area of impact, the less likely the egg will break. (push down on egg with pen vs. palm of hand; more area to absorb energy)
 
-## Evaluate
+## Evaluate - 10 minutes
 To test the designs, drop their contraptions from 2 meters, 4 meters, 6 meters, 8 meters.
 
 ## Standards

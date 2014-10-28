@@ -34,14 +34,30 @@ Today's lesson transitions from the 'Designer' page to the 'Blocks' page, where 
 2. Students need to rename several components to provide unique names for each component which will later prove to be useful in the block programming portion of the explore. 
 
 	- Instruct students to rename a component, they must highlight the desired component within the ‘Components’ section of the web browser and then select ‘Rename’ at the bottom of the ‘Components’ section.
+![](http://uploads.9dots.io/Ou0MUkl_md.jpg) 
+		
+	- Screen1’: 
+		- Button1 → add
+	- ‘Screen2’: 
+		- TextBox1 → name
+		- TextBox2 → fact
+		- Button1 → submit
+	- ‘Info’:
+		- Label1 → name
+		- Label2 → fact
+		- Button1 → edit
 
-		- Screen1’: 
-			- Button1 → add
-		- ‘Screen2’: 
-			- TextBox1 → name
-			- TextBox2 → fact
-			- Button1 → submit
-		- ‘Info’:
-			- Label1 → name
-			- Label2 → fact
-			- Button1 → edit
+3. Instruct students to read the following descriptions in Health App Day 7: Handout for Screen1 ‘Blocks.’ They should be referring to the on-screen emulator to check their work. 
+
+- 1. Initialize a global variable to create an empty list, and define the variable as “Food” 
+- 2. Create an event such that when the ‘Add’ button is clicked, the app opens another screen named ‘Screen2.’ 
+- 3. Create an event when ‘AfterPicking’ ListView1, another screen opens that is titled, “Info” and has a start value that is the ‘Selection of ListView1.
+
+## Explain - 20 minutes
+
+1. Review the correct code for prompts 1, 2, and 3. 
+![](http://uploads.9dots.io/Ou0NmjE_md.jpg) 
+![](http://uploads.9dots.io/Ou0NtIz_md.jpg) 
+
+
+

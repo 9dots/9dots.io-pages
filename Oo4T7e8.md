@@ -36,17 +36,17 @@ Students learn about gravitational potential energy and kinetic energy and creat
 
 - 45 minutes
 
-## Engage
+## Engage - 5 minutes
 Get students thinking about energy by showing them the video of a roller coaster in action in the powerpoint.
 
 1. Watch the [roller coaster video](https://www.youtube.com/watch?v=9dC6uJDNf64).
 
 2. Ask, _what types of energy are present in this video? At what points on the roller coaster did you see these types of energy?_
 
-## Explore
+## Explore - 5 minutes
 Students design and test out various methods of constructing the track and base of the roller coaster.
 
-## Explain
+## Explain - 10 minutes
 Using the powerpoint as a guide, teach students about the relationship between gravitational potential energy and kinetic energy.
 
 1. **Gravitational Potential Energy (G.P.E.)**: The energy stored in an object as a result of its vertical position, or height.
@@ -68,10 +68,10 @@ Using the powerpoint as a guide, teach students about the relationship between g
     3. Stack 2-3 cubes on top of each other to make the coaster taller
     4. Add the track by taping folded strips of paper to the cube frame
 
-## Elaborate
+## Elaborate - 20 minutes
 Students combine their tracks and their base to produce a structure that has the greatest gravitational potential energy.
 
-## Evaluate
+## Evaluate - 5 minutes
 Test the designs for safety, design, and innovation by setting a marble down at the top of the roller coaster.
 
 ## Standards

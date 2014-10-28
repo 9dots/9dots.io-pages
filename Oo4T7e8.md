@@ -4,7 +4,7 @@ views: 0
 published: true
 type: lesson
 title: Marble Roller Coasters
-blurb: "Students will construct a roller coaster to demonstrate energy transfer #NGSS-MS-PS2-2 #NGSS-MS-PS3-2 #NGSS-MS-PS3-5 #NGSS-MS-ETS1-2"
+blurb: "Students construct a roller coaster to demonstrate energy transfer #NGSS-MS-PS2-2 #NGSS-MS-PS3-2 #NGSS-MS-PS3-5 #NGSS-MS-ETS1-2"
 org: 9dots
 id: "9dots-Oo4T7e8"
 image: "http://uploads.9dots.io/OpOQlTP_md.jpg"
@@ -60,7 +60,7 @@ Using the powerpoint as a guide, teach students about the relationship between g
 
 5. Energy cannot be created or destroyed, but can be transformed from one form to another
 
-6. The marble will never be able to exceed the height of the starting point of the roller coaster (implement this concept in the design of the roller coaster).
+6. The marble can never be able to exceed the height of the starting point of the roller coaster (implement this concept in the design of the roller coaster).
 
 7. To build the roller coaster:
 	1. Fold the strips of paper in half

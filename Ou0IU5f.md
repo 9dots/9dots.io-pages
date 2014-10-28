@@ -77,5 +77,12 @@ Today's lesson transitions from the 'Designer' page to the 'Blocks' page, where 
 ## Evaluate - 5 minutes
 This time is dedicate to students receiving feedback from their Android companion (Android device or on screen emulator.) 
 
+## Evaluate - 5 minutes
+Test on device (emulator or Android device)
 
+| Standard      | Description   | Connection  |
+| ------------- |---------------| ------|
+| 3-5-ETS1-2 | Generate and compare multiple possible solutions to a problem based on how well each is likely to meet the criteria and constraints of the problem | Elaborate |
+| CSTA.CPP.L2-01. | Select appropriate tools and technology resources to accomplish a variety of tasks and solve problems | Explore, Explain | 
+| CSTA.CPP.L3A-02. | Use mobile devices/ emulators to design, develop, and implement mobile computing applications | Evaluate |
 

@@ -37,21 +37,21 @@ Today's lesson transitions from the 'Designer' page to the 'Blocks' page, where 
 ![](http://uploads.9dots.io/Ou0MUkl_md.jpg) 
 		
 	- Screen1’: 
-		- Button1 → add
+		- _Button1_ → add
 	- ‘Screen2’: 
-		- TextBox1 → name
-		- TextBox2 → fact
-		- Button1 → submit
+		- _TextBox1_ → name
+		- _TextBox2_ → fact
+		- _Button1_ → submit
 	- ‘Info’:
-		- Label1 → name
-		- Label2 → fact
-		- Button1 → edit
+		- _Label1_ → name
+		- _Label2_ → fact
+		- _Button1_ → edit
 
-3. Instruct students to read the following descriptions in Health App Day 7: Handout for Screen1 ‘Blocks.’ They should be referring to the on-screen emulator to check their work. 
+3. Instruct students to read the following descriptions in Health App Day 7: Handout for 'Screen1' ‘Blocks.’ They should be referring to the on-screen emulator to check their work. 
 
 	- Initialize a global variable to create an empty list, and define the variable as “Food” 
 	- Create an event such that when the ‘Add’ button is clicked, the app opens another screen named ‘Screen2.’ 
-	- Create an event when ‘AfterPicking’ ListView1, another screen opens that is titled, “Info” and has a start value that is the ‘Selection of ListView1.
+	- Create an event when ‘AfterPicking’ _ListView1_, another screen opens that is titled, “Info” and has a start value that is the ‘Selection of _ListView1_.
 
 ## Explain - 20 minutes
 
@@ -61,7 +61,7 @@ Today's lesson transitions from the 'Designer' page to the 'Blocks' page, where 
 
 	- Explain this code: Initializes a new variable that is an empty list and is defined as “food.”
 	- When the ‘Add’ button is clicked, it takes the user to Screen2.
-	- When an item in ListView1 is picked, it takes the user to the Info screen with the selected food item as the starting value (recall, an item that is added to a list, such as food in this case, is considered a ‘Value.’ 
+	- When an item in _ListView1_ is picked, it takes the user to the Info screen with the selected food item as the starting value (recall, an item that is added to a list, such as food in this case, is considered a ‘Value.’ 
 		- (i.e. apple and big mac are considered ‘startValues’)
 
 2. A Tag can be thought of as a folder on your computer finder.
@@ -70,8 +70,8 @@ Today's lesson transitions from the 'Designer' page to the 'Blocks' page, where 
 
 3. The last section of code commands the app to call from the TinyDatabase1 when the Screen1 is initialized upon opening.
 
-	- The ‘global food’ variable must be set to call data (values) that have been stored within folders (Tags) in the TinyDB1. 
-	- The ListView1 component must be set to the elements listed that we get from the ‘global food’ list variable. 
+	- The ‘global food’ variable must be set to call data (values) that have been stored within folders (Tags) in the _TinyDB1_. 
+	- The _ListView1_ component must be set to the elements listed that we get from the ‘global food’ list variable. 
 ![](http://uploads.9dots.io/Ou0nZHV_md.jpg) 
 
 ## Evaluate - 5 minutes

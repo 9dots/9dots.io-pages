@@ -8,16 +8,18 @@ blurb: "Students will design a car powered by the elastic potential energy of a 
 org: 9dots
 id: "9dots-Oo4WZ9e"
 attachments: 
-  - path: "http://uploads.9dots.io/Ook8Lcb.gslides"
-    name: Mousetrap Cars.gslides
+  - path: "http://uploads.9dots.io/Ou0qNIl.pptx"
+    name: Mousetrap Cars.pptx
 image: "http://uploads.9dots.io/OpIsDzL_md.jpg"
 fullImage: "http://uploads.9dots.io/OpIsDzL_lrg.jpg"
 objective: ""
 
 ---
 
+## Lesson Overview
+
 ## Setup
-### Materials 
+### Materials:
 
 - 1 mouse trap
 - Cardboard (base and wheels)
@@ -27,43 +29,47 @@ objective: ""
 - rubber bands to secure wheels
 - cups of various diameters to use as wheel outlines
 
-```
-SAFETY: disarm mouse trap by removing arm from lever
-```
+### Preparations:
 
-## Engage
-Show a closed mousetrap. Ask,  _does this mousetrap have energy?_  (most will say no)
-Then ask,  _what are mousetraps used for? (to kill mice) If this mousetrap has no energy, how can it kill a mouse? _
-Show how the mouse trap works.
+- **Disarm mouse trap by removing arm from lever**
+- Set up projector with [mousetrap cars powerpoint](http://uploads.9dots.io/Ou0qNIl.pptx)
+- Look at this [guide](http://www.wikihow.com/Build-a-Mousetrap-Car) for a tutorial on how to build the cars
 
-Show a wind up car before winding it up. Ask,  _does this toy car have energy?_ 
-Wind up car and release, show its motion. Ask, _how does it move on it’s own?_
+### Project Time:
 
-## Explore
-Question: How can we produce a design that will harness the potential energy from the mouse trap to power the car?
+- 45 minutes
 
-10 minutes to design their car on paper
-30 minutes to build and test*
-10 minutes to race 
+## Engage - 5 minutes
+Introduce students to the mousetraps and show how it works to get them thinking about potential and kinetic energy.
 
-```
-Project may only include provided materials
-```
-## Explain
+1. Show a closed mousetrap. Ask, "_Does this mousetrap have energy?"_
 
-**Elastic Potential Energy**: The energy stored in elastic materials as the result of their stretching or compression.
+2. Then ask,  _"What are mousetraps used for?"_
+	- To kill mice. If this mousetrap has no energy, how can it kill a mouse?
+    
+3. Show how the mouse trap works.
 
-- Application: The energy will be stored in the mousetrap. As the spring is further compressed (deformed from original position), the energy will build as it is compressed to its maximum point. Releasing the latch will release the stored energy as the spring returns to its original position.
+4. Show a wind up car before winding it up. Ask,  _"Does this toy car have energy?"_ 
 
-**Kinetic Energy**: The energy of motion.
+5. Wind up car and release, show its motion. Ask, _"How does it move on it’s own?"_
 
-- Application: Energy is transformed from Elastic potential energy to kinetic energy. As the mousetrap car stops moving, the energy transformation is from kinetic to elastic potential energy. 
+## Explain - 10 minutes
+Teach students about elastic potential and kinetic energy and how they relate to the movement of a mousetrap car.
 
-## Elaborate
-Ask for unique designs (wheel size, frame size, axle length, etc.)
-Ask how students think different designs might affect speed (i.e. bigger wheels = less rolling friction)
+1. **Elastic Potential Energy**: The energy stored in elastic materials as the result of their stretching or compression.
+	- The energy will be stored in the mousetrap. As the spring is further compressed (deformed from original position), the energy will build as it is compressed to its maximum point. Releasing the latch will release the stored energy as the spring returns to its original position.
 
-## Evaluate
+2. **Kinetic Energy**: The energy of motion.
+	- Energy is transformed from Elastic potential energy to kinetic energy. As the mousetrap car stops moving, the energy transformation is from kinetic to elastic potential energy. 
+
+## Elaborate - 20 minutes
+During this elaborate time, students build their unique design for a mousetrap car.
+
+1. Students should build their cars with a unique design (wheel size, frame size, axle length, etc.).
+
+2. Ask how students think different designs might affect speed (i.e. bigger wheels = less rolling friction).
+
+## Evaluate - 10 minutes
 Time to race!
 
 ## Standards

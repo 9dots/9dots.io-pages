@@ -8,6 +8,9 @@ blurb: "Focus on programming components for Screen1 of the Health App using the 
 org: 9dots
 objective: SWBAT program the Blocks for Screen1 when given a description of the screen functionality
 id: "9dots-Ou0IU5f"
+attachments: 
+  - path: "http://uploads.9dots.io/Ou0s1JI.gdoc"
+    name: "Health App Day 7: Screen1 Blocks.gdoc"
 
 ---
 
@@ -16,7 +19,7 @@ Today's lesson transitions from the 'Designer' page to the 'Blocks' page, where 
 
 ## Setup
 ### materials:
-- Health App [Day 5-6: Handout](http://uploads.9dots.io/OtMM4NC.gdoc)
+- Health App [Day 7: Handout](http://uploads.9dots.io/Ou0s1JI.gdoc)
 - Computer with internet for [MIT AppInventor](http://appinventor.mit.edu/explore/)
 - Android phone OR computer with [Android emulator downloaded](http://appinventor.mit.edu/explore/ai2/setup-emulator.html)
 
@@ -47,7 +50,7 @@ Today's lesson transitions from the 'Designer' page to the 'Blocks' page, where 
 		- _Label2_ → fact
 		- _Button1_ → edit
 
-3. Instruct students to read the following descriptions in Health App Day 7: Handout for 'Screen1' ‘Blocks.’ They should be referring to the on-screen emulator to check their work. 
+3. Instruct students to read the following descriptions in [Health App Day 7: Handout](http://uploads.9dots.io/Ou0s1JI.gdoc) for 'Screen1' ‘Blocks.’ They should be referring to the on-screen emulator to check their work. 
 
 	- Initialize a global variable to create an empty list, and define the variable as “Food” 
 	- Create an event such that when the ‘Add’ button is clicked, the app opens another screen named ‘Screen2.’ 
@@ -68,7 +71,7 @@ Today's lesson transitions from the 'Designer' page to the 'Blocks' page, where 
 	- This is a way to organize files and maintain organization throughout your saved material
 	- The documents in the files are the stored items, such as the Foods, and Food Facts
 
-3. The last section of code commands the app to call from the TinyDatabase1 when the Screen1 is initialized upon opening.
+3. The last section of code commands the app to call from the _TinyDB1_ when the Screen1 is initialized upon opening.
 
 	- The ‘global food’ variable must be set to call data (values) that have been stored within folders (Tags) in the _TinyDB1_. 
 	- The _ListView1_ component must be set to the elements listed that we get from the ‘global food’ list variable. 

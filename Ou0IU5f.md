@@ -40,15 +40,15 @@ Today's lesson transitions from the 'Designer' page to the 'Blocks' page, where 
 ![](http://uploads.9dots.io/Ou0MUkl_md.jpg) 
 		
 	- Screen1’: 
-		- _Button1_ → add
+		- _Button1_ → Add
 	- ‘Screen2’: 
-		- _TextBox1_ → name
-		- _TextBox2_ → fact
-		- _Button1_ → submit
+		- _TextBox1_ → EditFoodName
+		- _TextBox2_ → EditFoodFact
+		- _Button1_ → Submit
 	- ‘Info’:
-		- _Label1_ → name
-		- _Label2_ → fact
-		- _Button1_ → edit
+		- _Label1_ → ViewFoodName
+		- _Label2_ → ViewFoodFact
+		- _Button1_ → Edit
 
 3. Instruct students to read the following descriptions in [Health App Day 7: Handout](http://uploads.9dots.io/Ou0s1JI.gdoc) for 'Screen1' ‘Blocks.’ They should be referring to the on-screen emulator to check their work. 
 
@@ -89,4 +89,3 @@ Test on device (emulator or Android device)
 | 3-5-ETS1-2 | Generate and compare multiple possible solutions to a problem based on how well each is likely to meet the criteria and constraints of the problem | Elaborate |
 | CSTA.CPP.L2-01. | Select appropriate tools and technology resources to accomplish a variety of tasks and solve problems | Explore, Explain | 
 | CSTA.CPP.L3A-02. | Use mobile devices/ emulators to design, develop, and implement mobile computing applications | Evaluate |
-

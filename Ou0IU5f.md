@@ -6,7 +6,7 @@ type: lesson
 title: Block Coding
 blurb: "Focus on programming components for Screen1 of the Health App using the #AppInventor"
 org: 9dots
-objective: SWBAT identify and apply block coding when given a description of app functionality
+objective: SWBAT identify and apply block coding when given a description of app functionality SWBAT add and store tags and values to a database
 id: "9dots-Ou0IU5f"
 attachments: 
   - path: "http://uploads.9dots.io/Ou0s1JI.gdoc"

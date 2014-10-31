@@ -15,7 +15,7 @@ attachments:
 ---
 
 ## Overview
-Today's lesson transitions from the 'Designer' page to the 'Blocks' page, where students begin programming one of the three screens. Students are given the challenge to program the app using the select blocks when given a description of the app functionality. 
+Students transition from app design to programming the app, with a focus on Screen1. The primary function of this screen is to display tags and allow the user to add a food name and fact to the database. 
 
 ## Setup
 ### materials:

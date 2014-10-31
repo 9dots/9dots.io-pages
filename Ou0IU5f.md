@@ -68,13 +68,15 @@ Students transition from app design to programming the app, with a focus on Scre
 		- (i.e. apple and big mac are considered ‘startValues’)
 
 2. A Tag can be thought of as a folder on your computer finder.
-	- This is a way to organize files and maintain organization throughout your saved material
+	- In our case, the food name is the tag (folder) and the food fact is the value (file inside that folder)
+    - This is a way to organize files and maintain organization throughout your saved material	
+    - The _ListView_ will serve as our "finder" and allow the user to view and open the different "files"
 	- A _Tag_ has _value_(s) stored inside of it, similar to how a Folder stores documents and other files. 
     - In this case, our _Tag_ is the Food name and the value is the Fact about that particular food. The _TinyDB1_ stores the _Tag_, which is storing the _value_ inside of it. 
 
 3. The last section of code commands the app to call from the _TinyDB1_ when the Screen1 is initialized upon opening.
 
-	- The ‘global food’ variable must be set to call data (values) that have been stored within folders (Tags) in the _TinyDB1_. 
+	- The ‘global food’ variable must be set to call the names of the folders (tags). 
 	- The _ListView1_ component must be set to the elements listed that we get from the ‘global food’ list variable. 
 ![](http://uploads.9dots.io/Ou0nZHV_md.jpg) 
 

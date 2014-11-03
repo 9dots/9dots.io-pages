@@ -55,7 +55,7 @@ Students now have 15 minutes to attempt to build an infrared attachment for the 
 _What knowledge from previous lessons can help complete the goal?_
 By using a combination of the move, wait, and loop block, the robot can be programmed to continuously avoid the obstacles in your path.
 
-_What will need to be change to make the wait block work for the infrared sensor?_
+_What will need to be changed to make the wait block work for the infrared sensor?_
 
 ![](http://uploads.9dots.io/OihQice_md.jpg) 
 

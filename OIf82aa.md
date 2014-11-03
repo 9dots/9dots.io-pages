@@ -69,7 +69,6 @@ Teach students about structural rigidity through a hands on demonstration with d
 6. Show students how to reinforce a square by adding diagonal braces. Have them practice using their spaghetti and marshmallows.
 
 7. By adding a spaghetti that goes diagonally across the square, you can turn the square into 2 triangles. If you add one more spaghetti along the other diagonal, you can break your square into 4 triangles, making it very sturdy.
-
 ![](http://uploads.9dots.io/OLy021r_md.jpg)
 8. Show students pictures of various structures (the [Eiffel Tower](http://2.bp.blogspot.com/-GXrvCUupVmE/UcRidMzqxyI/AAAAAAAAnVQ/UbL-ZaCSPx0/s1600/eiffel+tower+metal+frame+close+up+7.jpg), [Epcot Center](http://upload.wikimedia.org/wikipedia/commons/7/7a/Spaceship_Earth_2.jpg), [Bridge 1](http://ns1758.ca/rail/dar-bridge-23712tc-2011dec13.jpg), [Bridge 2](http://passyworldofmathematics.com/Images/pwmImagesFour/BridgeTrianglesOne550x281JPG.jpg)) and all of the triangles that are used in their structures.
 

@@ -46,7 +46,6 @@ fullImage: "http://uploads.9dots.io/Ol3tytc_lrg.jpg"
     
 	- _How do you change the duration of the move block?_
 
-
 2. Tell students that their goal is to create a robot that is capable of going through a maze by using the walls to direct itself. Bonus points will be awarded for each wall that the robot touches.
 
 ## Explain
@@ -61,8 +60,8 @@ fullImage: "http://uploads.9dots.io/Ol3tytc_lrg.jpg"
 ## Elaborate
 
 1. Each group has 35 minutes to program the robot to complete the maze. Points for the robots will be rewarded for:
-- 10 points for each wall the robot bumps.
-- 50 points for finishing the maze in the correct area.
+	- 10 points for each wall the robot bumps.
+    - 50 points for finishing the maze in the correct area.
 
 2. After each attempt, students write down what worked and what needs to change using the [iteration log](http://uploads.9dots.io/OihHr6T.pdf). 
 

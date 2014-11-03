@@ -47,12 +47,12 @@ Get things rolling by introducing the unit and some of the exciting aspects of c
 2. Discuss, "_What is a mural?_"
   - Murals are more than just giant paintings. Students should think of murals not only as art projects, but as an interactive process that blends collaborative grouping, history, current events, local communities, social change, and leadership skills.
 
-3. Some great things about murals include:
+3. Murals are great because they:
   1.	Give students a voice and platform
   2.	Bring people together
   3.	Have a meaningful message/ optimisitc
   4.	Build success and hope/ innovation
-  5.	Expand the concept of history and history makers.
+  5.	Expand the concept of history and history makers
   6.	Strengthen ties between school and the community
   7.	Allow students and teacher to learn and have fun!
 

@@ -52,7 +52,7 @@ This screen is accessible by selecting a ‘Food’ on the 'Screen1' homepage. U
 **Note: Keep the emulator open on the instructor screen throughout the lesson to allow students to see how changing the code affects the app in real-time.**
 
 ## Explore - 10 minutes
-Today’s explore is to give students an opportunity to select the correct components for 'Screen1' and 'Screen2' (Day 6 will be reserved for the 'Info' Screen and further customizing the properties of each screen.)
+Give students an opportunity to select the correct components for 'Screen1' and 'Screen2' (Day 6 will be reserved for the 'Info' Screen and further customizing the properties of each screen.)
 
 1. Provide students with a screen shot of 'Screen1' and 'Screen2' on [Handout: Day 5](http://uploads.9dots.io/OtMM4NC.gdoc). 
 2. Students they have 3 minutes to re-read the description of 'Screen1' and 'Screen2' in order to determine what components are needed for each screen and add these components to their viewer.
@@ -86,7 +86,7 @@ The layout is found in the 'Palette' and allows the components to be arranged in
 - Have students match their Layout properties of the Layout for 'Screen2' (5 minutes). Review answers. 
 
 ## Evaluate - 10 minutes
-This time is dedicate to students receiving feedback from their Android companion (Android device or on screen emulator.) 
+Students receive feedback from their Android companion (Android device or on screen emulator.) 
 
 #Day 6
 ## Engage - 5 minutes

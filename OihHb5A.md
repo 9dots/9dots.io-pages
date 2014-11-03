@@ -18,6 +18,9 @@ fullImage: "http://uploads.9dots.io/Ol3tytc_lrg.jpg"
 
 ---
 
+## Lesson Overview
+This lesson combines the maze of the first lesson with the use of touch sensors in the second lesson to review the programming that students learned. Students review the move steering and wait blocks by playing a game of mindstorm says. Students demonstrate learning by programming a robot to move through a maze while using the touch sensor to know when to turn.
+
 ## Setup
 
 ### Materials:
@@ -68,3 +71,5 @@ fullImage: "http://uploads.9dots.io/Ol3tytc_lrg.jpg"
 3. At the end of the 35 minutes, each group tests their robot and record their points.
 
 4. Students finish their robotics [wrap-up handout](http://uploads.9dots.io/OihIq1N.pdf).
+
+## Standards

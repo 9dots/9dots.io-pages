@@ -42,7 +42,7 @@ Provide the students with the current scenario for their characters and get them
     - Used mining and crafting to create 
 2. Discuss how the situation would feel for their character.
 	- How do you feel with only one partner? 
-    - What do you think a community in the real world would be like if there was only 1 or 2 people trying to make it last? 
+    - What do you think a community in the real world would be like if there were only a few people trying to sustain it? 
 3. Students will write down their answers on the Minecraft Day 4 handout.
 
 ## Define

@@ -75,7 +75,7 @@ Using the powerpoint as a guide, teach students about density and buoyancy.
 5. Fold one into a very loose sphere and one into a very tight sphere. Ask, _is the density for these two sheets the same? Why or why not?_
 
 ## Elaborate - 10 minutes
-Students get 1 new piece of foil to start from scratch, this time only given 10 minutes to apply new knowlege
+Students get 1 new piece of foil to start from scratch, and have 10 minutes to apply new knowlege.
  
 ## Evaluate - 5 minutes
 Test using pennies! Who has the safest, most buoyant boat?

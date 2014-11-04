@@ -4,7 +4,7 @@ views: 0
 published: true
 type: lesson
 title: Infrared Sensor
-blurb: This lesson will focus on using the infrared sensor to watch for obstacles in the path of the robot.
+blurb: This lesson focuses on using the infrared sensor to watch for obstacles in the path of the robot.
 org: 9dots
 objective: "By the end of the lesson, the student will be able to create a robot capable of avoiding obstacles using the infrared sensor."
 id: "9dots-OihNHeX"
@@ -17,6 +17,9 @@ image: "http://uploads.9dots.io/Ol3u9XW_md.jpg"
 fullImage: "http://uploads.9dots.io/Ol3u9XW_lrg.jpg"
 
 ---
+
+## Lesson Overview
+This lesson focuses on using the infrared sensor to watch for obstacles in the path of the robot. Start by relating the infrared sensor to the human sense of sight. Then, tell students that the goal for today is to build a robot that can drive around while avoiding obstacles in its path. Show students how to change the wait block to use the infrared sensor. Students demonstrate learning by creating a robot that continuously avoid obstacles while driving for 1 minute.
 
 ## Setup
 
@@ -33,25 +36,25 @@ fullImage: "http://uploads.9dots.io/Ol3u9XW_lrg.jpg"
 
 ### Project time:
 
-- 1 hr 15 min
+- 1 hr 20 min
 
-## Engage
+## Engage - 5 minutes
 Get students thinking about the challenge by discussing the senses needed to avoid obstacles. After relating the infrared sensor to human sight, reveal the challenge for this lesson.
 
 1. _What senses are used to avoid walking into objects?_
 Eyes allow humans to see obstacles before running into them.
 
 2. _Which attachment can give the robot the ability to avoid objects?_
-The infrared sensor will give the robot the ability to sense objects that are in it’s path.
+The infrared sensor gives the robot the ability to sense objects that are in it’s path.
 
 3. Watch the [video](https://www.youtube.com/watch?v=LEwIFIOoZPU)  of a robot avoiding obstacle.
 
 4. Tell students that the goal for this lesson is to build a robot that continuously avoid obstacles for 1 minutes while the power never goes below 50.
 
-## Explore
+## Explore - 15 minutes
 Students now have 15 minutes to attempt to build an infrared attachment for the robot. It is important for the sensor to be located on the front of the robot so that it can get an accurate reading as to how far away obstacles are.
 
-## Explain
+## Explain - 10 minutes
 Show students how to use the wait block with the infrared sensor. Students should already have a strong understanding of the wait block from the [Mindstorm Pinball](http://www.9dots.io/9dots/OiQezr2) and [Review of Move and Wait Blocks](http://www.9dots.io/9dots/OihHb5A) lessons. 
 
 1. _What knowledge from previous lessons can help complete the goal?_
@@ -64,7 +67,8 @@ By using a combination of the move, wait, and loop block, the robot can be progr
     
 ![](http://uploads.9dots.io/OihQice_md.jpg) 
 
-## Elaborate
+## Elaborate - 35 minutes
+Remind students about the goal for their robot and give them time to program the robot and test out their designs.
 
 1. **The setup for the competition:** 
 Each group needs to create a robot capable of avoiding all obstacles for 1 minute while the move power is never below 60. Show the students the field setup with the obstacles (picture). 
@@ -73,8 +77,13 @@ Each group needs to create a robot capable of avoiding all obstacles for 1 minut
 
 3. After each attempt, students write down what worked and what they should change using this handout. 
 
-## Evaluate:
+## Evaluate - 10 minutes
+Now that the students programs are finished and attachments are developed, test their robots. When they are done, students finish with the wrap-up handout.
 
-1. At the end of the build time, there is a competition to make sure that their robots can avoid all of the obstacles for the entire minute.
+## Standards
 
-2. Students should now finish their robotics wrap-up handout.
+Standard | Description | Connection
+-------- | ----------- | ----------
+NGSS-MS-ETS1-3 | Analyze data from tests to determine similarities and differences among several design solutions to identify the best characteristics of each that can be combined into a new solution to better meet the criteria for success. | Evaluate 
+CSTA.CT.L2-01 | Use the basic steps in algorithmic problem-solving to design solutions (e.g., problem statement and exploration, examination of sample instances, design, implementing a solution, testing, evaluation). | Elaborate
+CSTA.CPP.L1:6-06 | Implement problem solutions using a block-based visual programming language | Elaborate

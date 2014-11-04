@@ -4,7 +4,7 @@ views: 0
 published: true
 type: lesson
 title: Infrared Sensor
-blurb: This lesson focuses on using the infrared sensor to watch for obstacles in the path of the robot.
+blurb: "This lesson focuses on using the infrared sensor to watch for obstacles in the path of the robot. #CSTA.CT.L2-01 #NGSS-MS-ETS1-3"
 org: 9dots
 objective: "By the end of the lesson, the student will be able to create a robot capable of avoiding obstacles using the infrared sensor."
 id: "9dots-OihNHeX"

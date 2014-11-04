@@ -46,7 +46,9 @@ fullImage: "http://uploads.9dots.io/Ol3uQfJ_lrg.jpg"
 Each group is a team sent from NASA to perform experiment on the moon. Unfortunately, as they were landing, some of their resources got scattered across the moon and they need them back quickly. The only solution is to build a robot capable of bringing the resources back to the base as quickly as possible. Show the students the mat and where the various pieces are set up.
 
 ## Explore
-Using the medium motor, students now have 15 minutes to attempt to build a motorized arm for their robot that is capable of [dragging](https://www.youtube.com/watch?v=Xs8mh3skPGw) legos.
+Using the medium motor, students have 15 minutes to build a motorized arm for their robot that is capable of [dragging](https://www.youtube.com/watch?v=Xs8mh3skPGw) legos.
+
+![](http://uploads.9dots.io/Oufi7CO_md.jpg) 
 
 ```
 If you are using an NXT kit, use the normal motor in place of the medium of the motor.

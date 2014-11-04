@@ -4,9 +4,9 @@ views: 0
 published: true
 type: lesson
 title: Space Engineers
-blurb: Students will compete by having their robot gather as many resources (legos) as possible using a robotic arm.
+blurb: "Students compete by having their robot gather as many resources (legos) as possible using a robotic arm. #CSTA.CT.L2-01 #NGSS-MS-ETS1-3"
 org: 9dots
-objective: "By the end of the lesson, the student will be able to engineer a robotic arm attachment and create a robot capable of returning legos to a specified location."
+objective: "By the end of the lesson, the student will be able to develop a robotic arm attachment and create a robot capable of returning legos to a specified location."
 id: "9dots-Oii3alP"
 attachments: 
   - path: "http://uploads.9dots.io/OiiHcB8.pdf"
@@ -19,7 +19,7 @@ fullImage: "http://uploads.9dots.io/Ol3uQfJ_lrg.jpg"
 ---
 
 ## Lesson Overview
-
+Students generate a robotic arm that is capable of gathering legos and bring them back to the base. Start by discussing what could be added to a robot to give it the ability to manipulate objects. Next, students build a robotic arm and learn how to program it using the medium motor block. Students demonstrate learning by developing a robot that is tested in a competition to gather the most legos in 1 minute.
 
 ## Setup
 
@@ -29,6 +29,11 @@ fullImage: "http://uploads.9dots.io/Ol3uQfJ_lrg.jpg"
 - Computer with EV3 software
 - [Iteration log](http://uploads.9dots.io/OiiHcB8.pdf)
 - [Daily wrap-up handout](http://uploads.9dots.io/OiiHdDi.pdf)
+
+### Preparations
+
+- Set up projector to show videos and demonstrate medium motor block
+- Print interation logs and daily wrap-up handouts
 
 ### Project time:
 
@@ -88,3 +93,9 @@ Test the programs created by the students and finish up by having student fill o
 2. Students should now finish their [daily wrap-up handout](http://uploads.9dots.io/OiiHdDi.pdf).
 
 ## Standards
+
+Standard | Description | Connection
+-------- | ----------- | ----------
+NGSS-MS-ETS1-3 | Analyze data from tests to determine similarities and differences among several design solutions to identify the best characteristics of each that can be combined into a new solution to better meet the criteria for success. | Evaluate 
+CSTA.CT.L2-01 | Use the basic steps in algorithmic problem-solving to design solutions (e.g., problem statement and exploration, examination of sample instances, design, implementing a solution, testing, evaluation). | Elaborate
+CSTA.CPP.L1:6-06 | Implement problem solutions using a block-based visual programming language | Elaborate

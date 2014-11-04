@@ -82,4 +82,4 @@ This time is dedicate to students receiving feedback from their Android companio
 | 3-5-ETS1-3 | Plan and carry out fair tests in which variables are controlled and failure points are considered to identify aspects of a model or prototype that can be improved | Explore, Explain |
 | CCSS.MATH.PRACTICE.MP7 | Look for and make use of structure | Explore, Explain | 
 | CSTA.CPP.L3A-02. | CSTA.CT.L3A-07 | Explain |
-| CL.L3A-01 | Work in a team to design and develop a software artifact | Explore, Explain |
+| CSTA.CL.L3A-01 | Work in a team to design and develop a software artifact | Explore, Explain |

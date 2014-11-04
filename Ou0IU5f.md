@@ -49,7 +49,7 @@ Students transition from app design to programming the app, with a focus on Scre
 		- _Label2_ → ViewFoodFact
 		- _Button1_ → Edit
 
-3. Students refer to the on-screen emulator to check their work. 
+3. Students refer to the on-screen emulator to check their work for the following descriptions: 
 
 	- Initialize a global variable to create an empty list, and define the variable as “Food” 
 	- Create an event such that when the ‘Add’ button is clicked, the app opens another screen named ‘Screen2.’ 

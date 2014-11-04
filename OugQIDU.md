@@ -59,3 +59,11 @@ Provide the answers for the description.
 
 1. Students use this time to check their code on their devices/emulators. Students also input the different foods and facts they researched on Day 1 into their app to check the functionality. 
 2. Students who confirm the functionality of their app may continue to edit the properties of each component to customize their app design. 
+
+## Standards
+| Standard      | Description   | Connection  |
+| ------------- |---------------| ------|
+| 3-5-ETS1-3 | Plan and carry out fair tests in which variables are controlled and failure points are considered to identify aspects of a model or prototype that can be improved | Explore, Explain |
+| CCSS.MATH.PRACTICE.MP1 | Make sense of problems and persevere in solving them | Explore | 
+| CSTA.CL.L2-03. | Collaborate with peers, experts, and others using collaborative practices such as pair programming, working in project teams, and participating in group active learning activities | Explore, Explain |
+| CSTA.CPP.L2-03. | Design, develop, publish, and present products (e.g., webpages, mobile applications, animations) using technology resources that demonstrate and communicate curriculum concepts | Evaluate |

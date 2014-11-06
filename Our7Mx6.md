@@ -58,10 +58,14 @@ Show students the [Box Trolls Trailer](http://www.youtube.com/watch?v=Vfm4uPESCo
     
 4. Today, students compete to show the most grit by taking the most pictures for their stop motion and make their movie playback as smoothly as possible.
 
-5. The instructions for creating the first stop motion are:
-	1. Place the first lego in the view of the camera
+5. All students create the same scene: A snowman made out of play-doh that melts into a puddle.
+
+6. Show an example of a bad stop motion with not enough pictures to demonstrate the importance of taking a lot of pictures with very small movements in beteween.
+
+7. The instructions for creating the first stop motion are:
+	1. Create the snowman out of play-doh
 	2. Take a picture
- 	3. Add a lego
+	3. Smoosh the play-doh a small amount to make it melt
 	4. Take a picture
 	5. Repeats steps 3 and 4
     

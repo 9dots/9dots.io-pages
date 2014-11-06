@@ -16,8 +16,6 @@ fullImage: "http://uploads.9dots.io/Ol3v1yB_lrg.jpg"
 
 ---
 
-## Lesson Overview
-
 ## Setup
 
 ### Materials:

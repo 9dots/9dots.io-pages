@@ -3,7 +3,7 @@ author: danleavitt0
 views: 0
 published: true
 type: lesson
-blurb: "In this lesson, students will finish their #prototype by learning how to import pictures and add labels."
+blurb: "In this lesson, students will finish their #prototype by learning how to import pictures and add labels. #CSTA.CPP.L2-01"
 org: 9dots
 objective: "By the end of the lesson, students will be able to import images into Inkscape and recognize each section of their layout at separate html elements."
 id: "9dots-OevTFrs"
@@ -12,6 +12,9 @@ image: "http://uploads.9dots.io/Ol3qwXp_md.jpg"
 fullImage: "http://uploads.9dots.io/Ol3qwXp_lrg.jpg"
 
 ---
+
+## Lesson Overview
+Students finish creating their prototypes from the [Designer](http://www.9dots.io/9dots/OeAmgrD) lesson. Students learn how to add images to their site and get a preview of how these prototypes help create websites. Students demonstrate learning by developing a completed prototype for their website with images, text, and headers.
 
 ## Setup
 
@@ -24,24 +27,48 @@ fullImage: "http://uploads.9dots.io/Ol3qwXp_lrg.jpg"
 
 - N/A
 
-## Introduce
+### Project Time:
 
-### DO NOW:
-Student will take a couple of minutes to write down on a piece of paper the answer to the question, 'What is a prototype? What is the advantage to creating one before making a website?'
+- 45 minutes
 
-## Guided Practice
+## Engage
+Student take a couple of minutes to write down on a piece of paper the answer to the question, 'What is a prototype? What is the advantage to creating one before making a website?'
 
-### DISCUSS:
-_What is missing from their prototype?_
-Students will recognize that there are no images yet. To add images they will use the clipart from inkscape. To access it they will go to File > Import From Open Clipart Library. Once the image is imported, students will use the select tool to resize the image.
+## Explain
+Discuss what is missing from their prototypes and how to add images to their prototype using the clipart library.
 
-## Explore:
+1. Ask students, _"What is missing from their prototype?"_
+	- Guide students to the fact that there are no images yet. 
 
-### Create:
-Once the students have imported their images, students will continue to customize their prototype in Inkscape. Students should add captions to their images and write small blurbs describing their application. Encourage students to rearrange their website to make them their own.
+2. To add images use the clipart from inkscape. To access it students click on File > Import From Open Clipart Library.
 
-### EXPAND:
+3. Once the image is imported, students use the select tool to resize the image.
+
+## Elaborate:
+Once the students have imported their images, they continue to customize their prototype in Inkscape. 
+
+- Students should add captions to their images and write small blurbs describing their application. 
+- Encourage students to rearrange their website to make them their own.
+
+## Extension
+
+** Individual students**
+
 If students finish their prototypes, remind them that a website normally has several pages. They can create a new Inkscape image to design a secondary page for their website.
 
-### PREVIEW: 
-Take the last 5 minutes to discuss how the prototype will help create their website. To create a website we write in a computer language that is called HTML. When you an internet browser such as Chrome, Safari, or Firefox goes to a website, the website sends the browser HTML code. The internet browser then deciphers the code and displays HTML as elements on the page. An element is anything that is shown on the website such as text, image, or a section to help organize both of them together. Each section of your prototype will be a different line of HTML code.
+** Whole class **
+
+Take the 5 minutes to discuss how the prototype helps create their website.
+
+- A website is created using a computer language that is called HTML. 
+- When an internet browser such as Chrome, Safari, or Firefox goes to a website, the website sends the browser HTML code. 
+- The internet browser then deciphers the code and displays HTML as elements on the page. 
+- An element is anything that is shown on the website such as text, image, or a section to help organize both of them together.
+- Each section of the prototype will be a different line of HTML code.
+
+## Standards
+
+Standard | Description | Connection
+-------- | ----------- | ----------
+CSTA.CPP.L2-01 | Select appropriate tools and technology resources to accomplish a variety of tasks and 
+solve problems. | Elaborate

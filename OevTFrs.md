@@ -31,10 +31,10 @@ Students finish creating their prototypes from the [Designer](http://www.9dots.i
 
 - 45 minutes
 
-## Engage
+## Engage - 5 minutes 
 Student take a couple of minutes to write down on a piece of paper the answer to the question, 'What is a prototype? What is the advantage to creating one before making a website?'
 
-## Explain
+## Explain - 5 minutes
 Discuss what is missing from their prototypes and how to add images to their prototype using the clipart library.
 
 1. Ask students, _"What is missing from their prototype?"_
@@ -44,7 +44,7 @@ Discuss what is missing from their prototypes and how to add images to their pro
 
 3. Once the image is imported, students use the select tool to resize the image.
 
-## Elaborate:
+## Elaborate - 30 minutes
 Once the students have imported their images, they continue to customize their prototype in Inkscape. 
 
 - Students should add captions to their images and write small blurbs describing their application. 

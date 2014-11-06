@@ -74,7 +74,7 @@ Teach students the step to creating a stop motion and then explain their challen
   2. Take a picture
   3. Add a lego
   4. Take a picture
-  5. Repeats steps 3and 4 until you have at least 40 pictures and a full lego tower.
+  5. Repeats steps 3 and 4 until you have at least 40 pictures and a full lego tower.
 
 ## Evaluate - 5 minutes
 

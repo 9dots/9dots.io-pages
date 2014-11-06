@@ -70,5 +70,4 @@ Take the 5 minutes to discuss how the prototype helps create their website.
 
 Standard | Description | Connection
 -------- | ----------- | ----------
-CSTA.CPP.L2-01 | Select appropriate tools and technology resources to accomplish a variety of tasks and 
-solve problems. | Elaborate
+CSTA.CPP.L2-01 | Select appropriate tools and technology resources to accomplish a variety of tasks and solve problems. | Elaborate

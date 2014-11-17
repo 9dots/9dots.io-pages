@@ -75,3 +75,8 @@ Check for understanding by asking some follow up questions.
 - What is a structural wall?
 
 ## Standards
+
+Standard | Description | Connection
+--- | --- | ---
+3-5-ETS1-2 | Generate and compare multiple possible solutions to a problem based on how well each is likely to meet the criteria and constraints of the problem. | Explain
+MS-ETS1-2 | Evaluate competing design solutions using a systematic process to determine how well they meet the criteria and constraints of the problem. | Explain

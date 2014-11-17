@@ -33,17 +33,17 @@ This engineering challenge teaches students about tension and compression as wel
 
 - 45 minutes
 
-## Engage
+## Engage - 5 minutes
 
 Begin by reviewing with students what they know about gravity. 
 	
 - Discuss that gravity gives weight to objects and causes them to fall to the ground when dropped.
 - Challenge students to use 5 pieces of printer paper to hold as many pumpkins ~11 inches in the air.
 
-## Explore
+## Explore - 10 minutes
 Students now have ten minutes to experiment and attempt to build a tower that is 11 inches tall that can hold as much weight as possible.
 
-## Explain
+## Explain - 10 minutes
 
 1. Students have five minutes to look at the other towers in the room.  
 
@@ -60,13 +60,13 @@ Students now have ten minutes to experiment and attempt to build a tower that is
 
 5. Explain that tension and compression are forces that allow buildings to stand up even under tremendous weights.
 
-## Elaborate
+## Elaborate - 15 minutes
 
 1. Students build a tower that is ~ 22 inches tall and capable of holding the weights.
 
 2. If they are succesful at this they should try to build a tower that is ~ 33 inches tall.
 
-## Evaluate
+## Evaluate - 5 minutes
 
 Check for understanding by asking some follow up questions.
 

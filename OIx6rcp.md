@@ -51,7 +51,7 @@ Students now have ten minutes to experiment and attempt to build a tower that is
 	- Which designs had the best structural walls?
 	- What could they do differently that would help them make their buildings taller?
 
-3. 	Discuss with students how buildings work.  Particularly, ask them why, if you are standing on the second floor of a building with a room underneath you, does the floor not collapse?  
+3. 	Discuss with students how buildings work.  Particularly, ask them "If you are standing on the second floor of a building with a room underneath you, does the floor not collapse?"  
 	- Lead them to the point that the structural walls are bearing most of the weight.
     
 4. Introduce the concepts of tension and compression.  
@@ -64,7 +64,7 @@ Students now have ten minutes to experiment and attempt to build a tower that is
 
 1. Students build a tower that is ~ 22 inches tall and capable of holding the weights.
 
-2. If they are succesful at this they can try to build a tower that is ~ 33 inches tall.
+2. If they are succesful at this they should try to build a tower that is ~ 33 inches tall.
 
 ## Evaluate
 

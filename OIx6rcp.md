@@ -3,7 +3,7 @@ author: danleavitt0
 views: 0
 published: true
 type: lesson
-blurb: Students will be challenged to build tall towers out of printer paper and tape that are strong enough to hold several weights on top.
+blurb: Students are challenged to build tall towers out of printer paper and tape that are strong enough to hold several weights on top.
 title: Paper Towers
 org: 9dots
 objective: "By the end of the lesson, students will be able to define a structural wall and demonstrate learning by creating a sturdy #tower capable of holding weight."
@@ -14,6 +14,7 @@ fullImage: "http://uploads.9dots.io/Ol3p8yI_lrg.jpg"
 ---
 
 ## Lesson Overview
+This engineering challenge teaches students about tension and compression as well as the importance of structural walls for building. Students demonstrate learning by completing a challenge to build the tallest tower that can hold all of the supplied weights.
 
 ## Setup
 
@@ -61,7 +62,7 @@ Students now have ten minutes to experiment and attempt to build a tower that is
 
 ## Elaborate
 
-1. With their new information the students will try to build a tower that is ~ 22 inches tall and capable of holding the weights.
+1. Students build a tower that is ~ 22 inches tall and capable of holding the weights.
 
 2. If they are succesful at this they can try to build a tower that is ~ 33 inches tall.
 

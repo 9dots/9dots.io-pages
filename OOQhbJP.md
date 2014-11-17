@@ -49,14 +49,14 @@ Students will earn about electricity by building circuits with conductive playdo
 
 - 45 minutes
 
-## Engage 
+## Engage - 10 minutes
 
 To demonstrate open and closed circuits with the [energy ball](http://www.amazon.com/Energy-Ball-Scientific-your-fingertips/dp/B000OU9RMS):
 
 - Using a pair of students:  Each student touches one of the sensors on the sides of the energy ball, and then hold hands.  What happens?
 - With the whole class: Students line up, holding hands, with one student holding the energy ball in one hand.  Students figure out how to arrange themselves so that the ball lights up, showing that the circuit is closed.  When the ball does not light up, the circuit is open.
 
-## Explain
+## Explain - 10 minutes
 
 1. Begin by discussing with students what they know about electricity.  Where does it come from? What is it used for?
 	- Electricity is a form of energy produced when electrons flow through atoms of matter.  Electricity can come from different sources such as solar power, burning coal, wind turbines, battery power, water power, etc.
@@ -77,7 +77,7 @@ To demonstrate open and closed circuits with the [energy ball](http://www.amazon
     
 ![](http://uploads.9dots.io/Ovu8pHo_md.jpg) 
 
-## Elaborate
+## Elaborate - 20 minutes
 Students start by exploring with the power source and LED lights. Then students create series and parallel circuits and see how bright the lights are in each set up. 
 
 1. Students figure out how to light a LED with their playdough and their battery.  
@@ -89,8 +89,10 @@ Students start by exploring with the power source and LED lights. Then students 
 Please note:  It is best to store the playdough in the refrigerator.  Metal squishy circuit components should be wiped off with a wet paper towel, since the conductive playdough is corrosive and can damage the metal components if not removed.
 ```
 
-## Evaluate
+## Evaluate - 5 minutes
 Check for understanding by asking some questions about circuits.
 
 - How did students light up the LEDs with their Squishy Circuit kits?
 - What happens if the circuit is not completed and connected back to the battery?
+
+## Standards

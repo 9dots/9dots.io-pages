@@ -78,6 +78,7 @@ To demonstrate open and closed circuits with the [energy ball](http://www.amazon
 ![](http://uploads.9dots.io/Ovu8pHo_md.jpg) 
 
 ## Elaborate
+Students start by exploring with the power source and LED lights. Then students create series and parallel circuits and see how bright the lights are in each set up. 
 
 1. Students figure out how to light a LED with their playdough and their battery.  
 

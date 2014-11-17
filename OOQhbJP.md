@@ -96,3 +96,7 @@ Check for understanding by asking some questions about circuits.
 - What happens if the circuit is not completed and connected back to the battery?
 
 ## Standards
+Standard | Description | Connection
+--- | --- | ---
+3-5-ETS1-2 | Generate and compare multiple possible solutions to a problem based on how well each is likely to meet the criteria and constraints of the problem. | Ideate
+MS-ETS1-2 | Evaluate competing design solutions using a systematic process to determine how well they meet the criteria and constraints of the problem. | Prototype

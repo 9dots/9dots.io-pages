@@ -14,7 +14,7 @@ fullImage: "http://uploads.9dots.io/Ol3q2Gu_lrg.jpg"
 ---
 
 ## Lesson Overview
-Students will earn about electricity by building circuits with conductive playdough. 
+Students will earn about electricity by building circuits with conductive playdough. Start by introducing students to circuits by playing with an [energy ball](http://www.amazon.com/Energy-Ball-Scientific-your-fingertips/dp/B000OU9RMS). Then, teach students about the different types of circuits. Students demonstrate learning by using the conductive playdough and a power supply to light up LED lights.
 
 ## Setup
 

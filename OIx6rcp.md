@@ -13,6 +13,8 @@ fullImage: "http://uploads.9dots.io/Ol3p8yI_lrg.jpg"
 
 ---
 
+## Lesson Overview
+
 ## Setup
 
 ### Each group will need: 
@@ -22,26 +24,53 @@ fullImage: "http://uploads.9dots.io/Ol3p8yI_lrg.jpg"
 - 1 paper plate
 - Large weight (we used mini pumpkins)
 
-## Engage
-Begin by reviewing with students what they know about gravity. 
+### Preparation:
 
+- Distribute supplies to each group
+
+### Project Time:
+
+- 45 minutes
+
+## Engage
+
+Begin by reviewing with students what they know about gravity. 
+	
 - Discuss that gravity gives weight to objects and causes them to fall to the ground when dropped.
-- Discuss with students how buildings work.  Particularly, ask them why, if you are standing on the second floor of a building with a room underneath you, does the floor not collapse?  Lead them to the point that the structural walls are bearing most of the weight.
 - Challenge students to use 5 pieces of printer paper to hold as many pumpkins ~11 inches in the air.
 
 ## Explore
 Students now have ten minutes to experiment and attempt to build a tower that is 11 inches tall that can hold as much weight as possible.
 
 ## Explain
-Students have five minutes to look at the other towers in the room.  Afterwards everyone will sit down and discuss what strategies worked the best. 
 
-- Which designs had the best structural walls?
-- What could they do differently that would help them make their buildings taller?
+1. Students have five minutes to look at the other towers in the room.  
+
+2. Afterwards everyone will sit down and discuss what strategies worked the best. 
+	- Which designs had the best structural walls?
+	- What could they do differently that would help them make their buildings taller?
+
+3. 	Discuss with students how buildings work.  Particularly, ask them why, if you are standing on the second floor of a building with a room underneath you, does the floor not collapse?  
+	- Lead them to the point that the structural walls are bearing most of the weight.
+    
+4. Introduce the concepts of tension and compression.  
+	- Have students clasp their hands and pull outwards.  This is tension.  
+    - Now have students clasp their hands and press inwards.  This is compression.  
+
+5. Explain that tension and compression are forces that allow buildings to stand up even under tremendous weights.
 
 ## Elaborate
-With their new information the students will try to build a tower that is ~ 22 inches tall and capable of holding the weights.  If they are succesful at this they can try to build a tower that is ~ 33 inches tall.
+
+1. With their new information the students will try to build a tower that is ~ 22 inches tall and capable of holding the weights.
+
+2. If they are succesful at this they can try to build a tower that is ~ 33 inches tall.
 
 ## Evaluate
+
+Check for understanding by asking some follow up questions.
+
 - What is tension? Demonstrate with your hands.
 - What is compression? Demonstrate with your hands.
 - What is a structural wall?
+
+## Standards

@@ -27,7 +27,7 @@ Students transition from app design to programming the app, with a focus on Scre
 
 ## Engage - 5 minutes
 
-1. Show students https://www.youtube.com/watch?v=nKIu9yen5nc#t=92 for 3-5 minutes.
+1. Show students [code.org video](https://www.youtube.com/watch?v=nKIu9yen5nc#t=92) for 3-5 minutes.
 2. Ask 2-3 students why they want to code and what they hope to achieve with this skill.
 
 ## Explore - 15 minutes

@@ -13,6 +13,9 @@ fullImage: "http://uploads.9dots.io/Ol3q2Gu_lrg.jpg"
 
 ---
 
+## Lesson Overview
+Students will earn about electricity by building circuits with conductive playdough. 
+
 ## Setup
 
 ### Materials for entire class to share:
@@ -48,9 +51,10 @@ fullImage: "http://uploads.9dots.io/Ol3q2Gu_lrg.jpg"
 
 ## Engage 
 
-1. To demonstrate open and closed circuits with the [energy ball](http://www.amazon.com/Energy-Ball-Scientific-your-fingertips/dp/B000OU9RMS):
-	- Using a pair of students:  Each student touches one of the sensors on the sides of the energy ball, and then hold hands.  What happens?
-    - With the whole class: Students line up, holding hands, with one student holding the energy ball in one hand.  Students figure out how to arrange themselves so that the ball lights up, showing that the circuit is closed.  When the ball does not light up, the circuit is open.
+To demonstrate open and closed circuits with the [energy ball](http://www.amazon.com/Energy-Ball-Scientific-your-fingertips/dp/B000OU9RMS):
+
+- Using a pair of students:  Each student touches one of the sensors on the sides of the energy ball, and then hold hands.  What happens?
+- With the whole class: Students line up, holding hands, with one student holding the energy ball in one hand.  Students figure out how to arrange themselves so that the ball lights up, showing that the circuit is closed.  When the ball does not light up, the circuit is open.
 
 ## Explain
 
@@ -58,10 +62,20 @@ fullImage: "http://uploads.9dots.io/Ol3q2Gu_lrg.jpg"
 	- Electricity is a form of energy produced when electrons flow through atoms of matter.  Electricity can come from different sources such as solar power, burning coal, wind turbines, battery power, water power, etc.
     
 2. What are electric currents? What kinds of materials carry electric currents?
-	- An electric current is the flow of electric charge through some material.  Electricity flows through certain materials called conductors.   All materials are made of tiny atoms.  All atoms have charges on them (either electrons or ions).  In materials that carry electricity, such as metals, the atom’s charges are loosely held onto, and can travel from one atom to another.  This is why wires are made out of metal and not wood.  Other materials that are conductive include salt water and the human body.
+	- An electric current is the flow of electric charge through some material.  Electricity flows through certain materials called conductors.  All materials are made of tiny atoms.  All atoms have charges on them (either electrons or ions).  In materials that carry electricity, such as metals, the atom’s charges are loosely held onto, and can travel from one atom to another.  This is why wires are made out of metal and not wood.  Other materials that are conductive include salt water and the human body.
 
 3. What is an electric circuit? 
 	- In order for the electrical current to flow, it must form a closed path (or loop) where the electrons can connect back to the source of the electric current.  This path is called an electric circuit.
+    
+4. There are two types of circuits that students are trying to create today: series and parallel.
+	- A series circuit is a chain of lights that connect in a loop back to the battery.
+    	- In a series the voltage drops to be evenly distributed amongst all of the lights.
+        - If one of the lights burns out or is not connected correctly, all of the lights will go out.
+    - A parallel circuit has each light connected in parallel to the positive and negative wires (or playdough)
+    	- In a parallel circuit, each of the lights gets all of the voltage from the power source.
+        - If one of the lights burns out, the rest will still work.
+    
+![](http://uploads.9dots.io/Ovu8pHo_md.jpg) 
 
 ## Elaborate
 

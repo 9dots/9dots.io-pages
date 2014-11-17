@@ -26,7 +26,6 @@ fullImage: "http://uploads.9dots.io/Ol3q2Gu_lrg.jpg"
  - 1 4AA battery pack
  - Different colored LEDs
 
-
 ### Ingredients for the conductive playdough:
 
  - 1 cup water
@@ -50,9 +49,8 @@ fullImage: "http://uploads.9dots.io/Ol3q2Gu_lrg.jpg"
 ## Engage 
 
 1. To demonstrate open and closed circuits with the [energy ball](http://www.amazon.com/Energy-Ball-Scientific-your-fingertips/dp/B000OU9RMS):
-- Using a pair of students:  Each student touches one of the sensors on the sides of the energy ball, and then hold hands.  What happens?
-
-2. With the whole class: Students line up, holding hands, with one student holding the energy ball in one hand.  Students figure out how to arrange themselves so that the ball lights up, showing that the circuit is closed.  When the ball does not light up, the circuit is open.
+	- Using a pair of students:  Each student touches one of the sensors on the sides of the energy ball, and then hold hands.  What happens?
+    - With the whole class: Students line up, holding hands, with one student holding the energy ball in one hand.  Students figure out how to arrange themselves so that the ball lights up, showing that the circuit is closed.  When the ball does not light up, the circuit is open.
 
 ## Explain
 

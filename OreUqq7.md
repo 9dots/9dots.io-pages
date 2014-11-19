@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 org: 9dots
 title: Product Design Prototyping
@@ -15,6 +15,8 @@ objective:
   - Define a minimum viable product
   - Create their first prototype based on their designs
 blurb: "Students learn about the concept of a minimum viable product and its importance for designers. Then, they begin building their product using their plans from the [brainstorming lesson](). During building, emphasize the importance of testing and iteration to create the best possible product. Students demonstrate learning by following design thinking principles as they build their prototypes. #NGSS-3-5-ETS1-2 #NGSS-MS-ETS1-2  #NGSS-MS-ETS1-4"
+image: "http://uploads.9dots.io/Ow6Egqs_md.jpg"
+fullImage: "http://uploads.9dots.io/Ow6Egqs_lrg.jpg"
 
 ---
 

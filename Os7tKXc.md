@@ -4,7 +4,9 @@ views: 0
 published: false
 type: lesson
 title: Product Design Brainstorming
-objective: SWBAT explain the step of the design thinking process and generate ideas for a product to creating using the Little Bits
+objective: 
+  - Explain the step of the design thinking process
+  - Generate ideas for a product to creating using the Little Bits
 org: 9dots
 id: "9dots-Os7tKXc"
 attachments: 
@@ -12,12 +14,9 @@ attachments:
     name: Product Design Day 5.pptx
   - path: "http://uploads.9dots.io/OsJQfpY.docx"
     name: BrainstormingHandout.docx
-blurb: "In this lesson, students utilize design thinking to develop ideas for a product #NGSS-3-5-ETS1-2 #NGSS-MS-ETS1-1 #NGSS-MS-ETS1-2"
+blurb: "This lesson is about generating ideas for a product to build using the littleBits. Students begin by reviewing the design thinking process. Afterwards, they use the first three steps of the process to brainstorm ideas for an original littleBits product to create.  #NGSS-3-5-ETS1-2 #NGSS-MS-ETS1-1 #NGSS-MS-ETS1-2"
 
 ---
-
-## Lesson Overview
-This lesson is about generating ideas for a product to build using the littleBits. Students begin by reviewing the design thinking process. Afterwards, they use the first three steps of the process to brainstorm ideas for an original littleBits product to create.
 
 ## Setup 
 

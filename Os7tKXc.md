@@ -15,6 +15,8 @@ attachments:
   - path: "http://uploads.9dots.io/OsJQfpY.docx"
     name: BrainstormingHandout.docx
 blurb: "This lesson is about generating ideas for a product to build using the littleBits. Students begin by reviewing the design thinking process. Afterwards, they use the first three steps of the process to brainstorm ideas for an original littleBits product to create.  #NGSS-3-5-ETS1-2 #NGSS-MS-ETS1-1 #NGSS-MS-ETS1-2"
+image: "http://uploads.9dots.io/Ow6FOz9_md.jpg"
+fullImage: "http://uploads.9dots.io/Ow6FOz9_lrg.jpg"
 
 ---
 

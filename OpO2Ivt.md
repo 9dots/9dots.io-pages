@@ -5,8 +5,10 @@ published: true
 type: lesson
 title: littleBits Exploration
 org: 9dots
-objective: "SWBAT explain the difference between input and output, and create circuits using littleBits"
-blurb: "Students learn about sensors, and try different input/output combinations to gain a familiarity with #littleBits. #NGSS-3-5-ETS1-2"
+objective: 
+  - Explain the difference between input and output
+  - Create circuits using littleBits
+blurb: "In this unit, students design and prototype their own product that they is made using the littleBits. When their product is completed, students develop a sales pitch to present to a panel of judges. In this lesson, students explore the various littleBits components and how they interact."
 id: "9dots-OpO2Ivt"
 attachments: 
   - path: "http://uploads.9dots.io/OreA5Fy.pdf"
@@ -17,9 +19,6 @@ image: "http://uploads.9dots.io/OsbLd5E_md.jpg"
 fullImage: "http://uploads.9dots.io/OsbLd5E_lrg.jpg"
 
 ---
-
-## Overview
-In this unit, students design and prototype their own product that they is made using the littleBits. When their product is completed, students develop a sales pitch to present to a panel of judges. In this lesson, students explore the various littleBits components and how they interact.
 
 ## Setup 
 

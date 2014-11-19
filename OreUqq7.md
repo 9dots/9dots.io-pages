@@ -11,13 +11,12 @@ attachments:
     name: BrainstormingHandout.docx
   - path: "http://uploads.9dots.io/OsbOuTd.pptx"
     name: littleBits prototyping.pptx
-objective: "SWBAT define a minimum viable product, and create their first prototype based on their designs."
-blurb: "Students will continue to use the design thinking process to create their prototypes #NGSS-3-5-ETS1-2 #NGSS-MS-ETS1-2  #NGSS-MS-ETS1-4"
+objective: 
+  - Define a minimum viable product
+  - Create their first prototype based on their designs
+blurb: "Students learn about the concept of a minimum viable product and its importance for designers. Then, they begin building their product using their plans from the [brainstorming lesson](). During building, emphasize the importance of testing and iteration to create the best possible product. Students demonstrate learning by following design thinking principles as they build their prototypes. #NGSS-3-5-ETS1-2 #NGSS-MS-ETS1-2  #NGSS-MS-ETS1-4"
 
 ---
-
-## Lesson Overview
-Students learn about the concept of a minimum viable product and its importance for designers. Then, they begin building their product using their plans from the [brainstorming lesson](). During building, emphasize the importance of testing and iteration to create the best possible product. Students demonstrate learning by following design thinking principles as they build their prototypes.
 
 ## Setup 
 

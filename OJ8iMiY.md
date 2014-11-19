@@ -3,10 +3,13 @@ author: danleavitt0
 views: 0
 published: true
 type: lesson
-blurb: "Learn the basic process of #engineering as well as teaching them the different pieces that make up a #Lego #Mindstorm robot."
+blurb: "This lesson provides an introduction to robotics and specifically the engineering side of building a robot. To start, students will learn about engineers and watch a brief video about the process of engineering. Students will then build a robot using the instructions provided in the attachments. If there is time at the end, students will attach the touch sensor to their robots."
 title: Robotic Engineering
 org: 9dots
-objective: "SWBAT to explain what an engineer does, define robotics, and demonstrate learning by producing a robot capable of driving."
+objective: 
+  - Define robotics
+  - Explain what an engineer does
+  - Demonstrate learning by producing a robot capable of driving
 attachments: 
   - path: "http://uploads.9dots.io/OJ8kmj2.rbt"
     name: straightLine.rbt
@@ -19,10 +22,6 @@ id: "9dots-OJ8iMiY"
 fullImage: "http://uploads.9dots.io/Ol3pKtW_lrg.jpg"
 
 ---
-
-## Lesson Overview
-This lesson provides an introduction to robotics and specifically the engineering side of building a robot. To start, students will learn about engineers and watch a brief video about the process of engineering. Students will then build a robot using the instructions provided in the attachments. If there is time at the end, students will attach the touch sensor to their robots.
-
 
 **For the nxt robot download the [NXT building plans](http://uploads.9dots.io/OJ8lcC3.pdf)
 For the ev3 robot download the [ev3 building plans](http://uploads.9dots.io/OiQX849.pdf)**

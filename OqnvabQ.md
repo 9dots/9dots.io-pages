@@ -6,16 +6,17 @@ type: lesson
 org: 9dots
 title: littleBits Product Presentation
 id: "9dots-OqnvabQ"
-blurb: "In this lesson, students present their #littleBits products to a panel of judges using their notes and visual aide #CCSS-ELA-LITERACY-SL-5-4"
-objective: SWBAT deliver a sales pitch for their littleBits product and effectively use visual aides during their presentation.
+blurb: "In this final lesson, students present their product presentations to a panel of judges. The judges use a rubric for scoring the presentations in which students are judged on their product, visual aide, and ability to present their product. #CCSS-ELA-LITERACY-SL-5-4"
+objective: 
+  - Deliver a sales pitch for their littleBits product
+  - Effectively use visual aides during their presentation
 attachments: 
   - path: "http://uploads.9dots.io/Osy4oiq.pdf"
     name: ProductDesignJudgingRubric.pdf
+image: "http://uploads.9dots.io/Ow6EGjv_md.jpg"
+fullImage: "http://uploads.9dots.io/Ow6EGjv_lrg.jpg"
 
 ---
-
-## Lesson Overview
-In this final lesson, students present their product presentations to a panel of judges. The judges use a rubric for scoring the presentations in which students are judged on their product, visual aide, and ability to present their product.
 
 ## Setup
 

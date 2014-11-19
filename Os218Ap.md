@@ -6,10 +6,12 @@ type: lesson
 title: littleBits Sales Pitch
 org: 9dots
 id: "9dots-Os218Ap"
-blurb: "In this lesson, students create a presentation for their #littleBits product that includes a visual aide #CCSS-ELA-LITERACY-SL-8-5"
-objective: SWBAT list the steps to creating an effective sales pitch and create a presentation with a written components and visual aides for their littleBits product.
-image: "http://uploads.9dots.io/Os2GGNe_md.jpg"
-fullImage: "http://uploads.9dots.io/Os2GGNe_lrg.jpg"
+blurb: "During this lesson, student learn about creating an effective sales pitch. Start by engaging students with a quick video clip. After discussing the clip, give students an introduction to sales by attempting to sell an ordinary object in the classroom. Then, explain to students the important steps to creating a sales pitch. Finally, give students time to create a sales pitch and visual aides for their product."
+objective: 
+  - List the steps to creating an effective sales pitch
+  - create a presentation with a written components and visual aides for their littleBits product
+image: "http://uploads.9dots.io/Ow6DoVo_md.jpg"
+fullImage: "http://uploads.9dots.io/Ow6DoVo_lrg.jpg"
 attachments: 
   - path: "http://uploads.9dots.io/OssdnuL.pdf"
     name: salesPresenation.pdf
@@ -17,9 +19,6 @@ attachments:
     name: littleBits Sales Pitch.pptx
 
 ---
-
-## Lesson Overview
-During this lesson, student learn about creating an effective sales pitch. Start by engaging students with a quick video clip. After discussing the clip, give students an introduction to sales by attempting to sell an ordinary object in the classroom. Then, explain to students the important steps to creating a sales pitch. Finally, give students time to create a sales pitch and visual aides for their product. 
 
 ## Setup
 

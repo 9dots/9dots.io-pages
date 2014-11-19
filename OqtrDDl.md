@@ -4,9 +4,11 @@ views: 0
 published: true
 type: lesson
 title: "Minecraft: Shelters"
-blurb: "Students will collaborate to build shelter within a community in #Minecraft #NGSS-3-5-ETS1-1 #NGSS-3-5-ETS1-2 #NGSS-MS-ETS1-2"
+blurb: "Students will use Minecraft to engage in daily challenges and work as a collaborative community to achieve various challenges. Minecraft is an online interactive role playing game. The instructor will set up Minecraft in a server and turn on Survival Mode. Link for gameplay instructions are listed below. \n[Minecraft Guide](http://www.wikihow.com/Play-Minecraft)"
 org: 9dots
-objective: SWBAT design and construct a shelter in order to set up a community in Minecraft
+objective: 
+  - Explain the steps in the design process
+  - Design and construct a shelter in order to set up a community in Minecraft
 id: "9dots-OqtrDDl"
 attachments: 
   - path: "http://uploads.9dots.io/Or0DeLh.gdoc"
@@ -17,10 +19,6 @@ image: "http://uploads.9dots.io/Or0ECNR_md.jpg"
 fullImage: "http://uploads.9dots.io/Or0ECNR_lrg.jpg"
 
 ---
-
-## Lesson Overview
-Students will use Minecraft to engage in daily challenges and work as a collaborative community to achieve various challenges. Minecraft is an online interactive role playing game. The instructor will set up Minecraft in a server and turn on Survival Mode. Link for gameplay instructions are listed below. 
-[Minecraft Guide](http://www.wikihow.com/Play-Minecraft) 
 
 ## Setup
 

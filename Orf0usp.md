@@ -5,9 +5,11 @@ published: true
 type: lesson
 title: Cardboard Cranes
 org: 9dots
-objective: SWBAT create a motorized circuit to lift objects using littleBits and design an original solution to create a crane using limited supplies.
+objective: 
+  - Design an original solution to create a crane using limited supplies
+  - Create a motorized circuit to lift objects using littleBits
 id: "9dots-Orf0usp"
-blurb: "Students practice the design process thinking to develop a solution for lifting weights off the ground using #littleBits #NGSS-MS-ETS1-2"
+blurb: "Using the design thinking process, students create a cardboard crane powered by littleBits. The lesson begins by establishing that the goal for students is to lift weights from the floor up to their desks using limited supplies. Students define the problem and then begin to generate solution ideas. Students begin to prototype their ideas using littleBits, cardboard, string, tape, paper clips, and a straw. #littleBits #NGSS-MS-ETS1-2"
 image: "http://uploads.9dots.io/OrwCi5T_md.jpg"
 fullImage: "http://uploads.9dots.io/OrwCi5T_lrg.jpg"
 attachments: 
@@ -19,9 +21,6 @@ attachments:
 ---
 
 # Day 1
-
-## Lesson Overview
-Using the design thinking process, students create a cardboard crane powered by littleBits. The lesson begins by establishing that the goal for students is to lift weights from the floor up to their desks using limited supplies. Students define the problem and then begin to generate solution ideas. Students begin to prototype their ideas using littleBits, cardboard, string, tape, paper clips, and a straw.
 
 ## Setup 
 

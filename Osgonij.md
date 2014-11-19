@@ -12,8 +12,10 @@ lessons:
   - "9dots-OqnvabQ"
 org: 9dots
 title: littleBits Product Design
-blurb: "#littleBits #design"
+blurb: "Students learn about prototyping with #littleBits and #design thinking to create fully formed products that they present at the end of the unit."
 id: "9dots-Osgonij"
+image: "http://uploads.9dots.io/Ow6GOyg_md.jpg"
+fullImage: "http://uploads.9dots.io/Ow6GOyg_lrg.jpg"
 
 ---
 

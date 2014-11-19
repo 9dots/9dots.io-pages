@@ -4,17 +4,16 @@ views: 0
 published: true
 type: lesson
 title: "It's Electric Part 1: Currents & Circuits"
-blurb: "Students will earn about #electricity by building #circuits with conductive #playdough."
+blurb: "Students will earn about electricity by building circuits with conductive playdough. Start by introducing students to circuits by playing with an [energy ball](http://www.amazon.com/Energy-Ball-Scientific-your-fingertips/dp/B000OU9RMS). Then, teach students about the different types of circuits. Students demonstrate learning by using the conductive playdough and a power supply to light up LED lights."
 org: 9dots
-objective: "This project introduces the basic concepts of electricity and  conductivity.  By the end of the project, students will be able to to build simple functioning circuits and explain the difference between open and closed circuits."
+objective: 
+  - Build simple functioning circuits
+  - Explain the difference between open and closed circuits
 id: "9dots-OOQhbJP"
 image: "http://uploads.9dots.io/Ol3q2Gu_md.jpg"
 fullImage: "http://uploads.9dots.io/Ol3q2Gu_lrg.jpg"
 
 ---
-
-## Lesson Overview
-Students will earn about electricity by building circuits with conductive playdough. Start by introducing students to circuits by playing with an [energy ball](http://www.amazon.com/Energy-Ball-Scientific-your-fingertips/dp/B000OU9RMS). Then, teach students about the different types of circuits. Students demonstrate learning by using the conductive playdough and a power supply to light up LED lights.
 
 ## Setup
 

@@ -9,6 +9,7 @@ lessons:
   - "9dots-Os7tKXc"
   - "9dots-OreUqq7"
   - "9dots-Os218Ap"
+  - "9dots-OqnvabQ"
 org: 9dots
 title: littleBits Product Design
 blurb: "#littleBits #design"

@@ -5,7 +5,9 @@ published: true
 type: lesson
 title: Create a Song
 org: 9dots
-objective: "By the end of the lesson, students will be able to identify the difference between a happy song and a sad song, and create two original songs using the GarageBand loops one happy and one sad."
+objective: 
+  - Identify the difference between a happy song and a sad song
+  - Create two original songs using the GarageBand loops one happy and one sad
 blurb: Students will discuss characteristics of happ and sad songs and then compose two original songs that evoke those emotions.
 image: "http://uploads.9dots.io/Ol3wtvv_md.jpg"
 attachments: 

@@ -6,7 +6,8 @@ type: lesson
 title: Spaghetti String Tower
 blurb: "Students will need to get creative to build towers capable of supporting a marshmallow with only string, tape, and uncooked spaghetti."
 org: 9dots
-objective: "By the end of the lesson, students will be able to produce a freestanding structure with the limited materials supplied to them."
+objective: 
+  - Produce a freestanding structure with the limited materials supplied to them
 image: "http://uploads.9dots.io/Ol3oThN_md.jpg"
 id: "9dots-OIwxiOb"
 fullImage: "http://uploads.9dots.io/Ol3oThN_lrg.jpg"

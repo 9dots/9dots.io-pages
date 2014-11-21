@@ -6,7 +6,7 @@ type: lesson
 title: Databases
 org: 9dots
 objective: 
-  - Identify and apply block coding when given a description of app functionality   SWBAT retrieve and store values to a database
+  - Identify and apply block coding when given a description of app functionality
 id: "9dots-Oug1PdA"
 image: "http://uploads.9dots.io/OwGzZ5G_md.jpg"
 fullImage: "http://uploads.9dots.io/OwGzZ5G_lrg.jpg"

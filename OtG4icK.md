@@ -5,8 +5,9 @@ published: true
 type: lesson
 org: 9dots
 title: AppInventor Intro
-blurb: "Create an #AppInventor project page and learn the layout and basic functionality of the various components"
-objective: SWBAT create a project page on the MIT AppInventor website and program an app that says text outloud when a button is pressed
+blurb: "The MIT AppInventor will be introduced and each student will create a project page under the instructor’s account. After getting familiar with the layout of the AppInventor and the basic functionality, students work with the instructor to design and build their first app!"
+objective: 
+  - Create a project page on the MIT AppInventor website and program an app that says text outloud when a button is pressed
 id: "9dots-OtG4icK"
 attachments: 
   - path: "http://uploads.9dots.io/OtM2Ei1.gdoc"
@@ -15,9 +16,6 @@ image: "http://uploads.9dots.io/OtRSdtg_md.jpg"
 fullImage: "http://uploads.9dots.io/OtRSdtg_lrg.jpg"
 
 ---
-
-## Overview
-The MIT AppInventor will be introduced and each student will create a project page under the instructor’s account. After getting familiar with the layout of the AppInventor and the basic functionality, students work with the instructor to design and build their first app!
 
 ## Setup
 ### materials:

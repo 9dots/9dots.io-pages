@@ -10,7 +10,7 @@ objective:
 org: 9dots
 id: "9dots-OOQz3R7"
 image: "http://uploads.9dots.io/Ol3qEQD_md.jpg"
-blurb: "Students work through a series of #MakeyMakey challenges to win points for their team."
+blurb: "Students work through a series of #MakeyMakey challenges to win points for their team. This lesson begins with an introduction to the #MakeyMakey and reviewing conductive materials with students. Students explore the #MakeyMakey for ten minutes and are then presented with challenges to complete. Students demonstrate learning by creating successful circuits that control a computer using a #MakeyMakey."
 fullImage: "http://uploads.9dots.io/Ol3qEQD_lrg.jpg"
 
 ---

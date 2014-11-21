@@ -44,6 +44,7 @@ fullImage: "http://uploads.9dots.io/Okh1wp1_lrg.jpg"
 - http://www.wrdaonline.org/
 
 ## Engage
+Get students thinking about websites and applications by discussing with them what a computer application is. 
 
 1. _What is an app?_
 	- An app (or application) is a computer program that is designed to be used by the consumer.
@@ -52,6 +53,7 @@ fullImage: "http://uploads.9dots.io/Okh1wp1_lrg.jpg"
 	- There are camera application like Photobooth, web browsing applications such as Chrome, Safari, and Firefox, games such as Angry Birds or Minecraft, and millions of things beyond that.
 
 ## Explain
+Students inspect examples of good and bad website and use the  [brainstorming handout](http://uploads.9dots.io/Oi8d7pz.pdf) to write down their three favorite and three least favorite websites.
 
 1. _How do people hear about new applications?_
 	- Market applications (e.g. Google Play, Apple App Store)

@@ -83,3 +83,9 @@ Now that students have seen examples of application websites, they brainstorm id
 
 ## Evaluate - 10 minutes
 With their ideas polished, each student tells the group about one of their applications.  They should share the name and explain to the group why they would want to use this app.
+
+## Standards
+
+Standard | Description | Connection
+--- | --- | ---
+CSTA.CD.L2-01 | Recognize that computers are devices that execute programs. | Explain

@@ -3,9 +3,10 @@ author: miketeja
 views: 0
 published: true
 type: lesson
-objective: SWBAT select and research the nutritional information for 10 different foods that will later be programmed into an Android application
+objective: 
+  - Select and research the nutritional information for 10 different foods that will later be programmed into an Android application
 org: 9dots
-blurb: "Introduce the #Android application health theme and conduct preliminary nutritional research on common daily foods"
+blurb: "Time to program a phone application! In this project, we will design and program a fully functioning Android phone app that can keep track of different foods and some nutritional facts! Your job as a designer and programmer is to select some of your favorite foods and learn about them, then design your app to teach others using the MIT AppInventor."
 title: Introduction and Research
 id: "9dots-OtFvjRz"
 attachments: 
@@ -17,9 +18,6 @@ image: "http://uploads.9dots.io/OtRVfs8_md.jpg"
 fullImage: "http://uploads.9dots.io/OtRVfs8_lrg.jpg"
 
 ---
-
-## Overview
-Time to program a phone application! In this project, we will design and program a fully functioning Android phone app that can keep track of different foods and some nutritional facts! Your job as a designer and programmer is to select some of your favorite foods and learn about them, then design your app to teach others using the MIT AppInventor. 
 
 ## Setup
 ### materials:

@@ -5,8 +5,11 @@ published: false
 type: lesson
 title: Viewing and Editing Stored Items
 org: 9dots
-objective: SWBAT identify and apply block coding when given a description of app functionality  SWBAT retrieve and edit stored values in a database
+objective: 
+  - Identify and apply block coding when given a description of app functionality  SWBAT retrieve and edit stored values in a database
 id: "9dots-OugQIDU"
+image: "http://uploads.9dots.io/OwH0wHt_md.jpg"
+fullImage: "http://uploads.9dots.io/OwH0wHt_lrg.jpg"
 
 ---
 

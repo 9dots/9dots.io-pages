@@ -7,7 +7,7 @@ title: Block Coding
 blurb: "Students transition from app design to programming the app, with a focus on Screen1. The primary function of this screen is to display tags and allow the user to add a food name and fact to the database."
 org: 9dots
 objective: 
-  - Identify and apply block coding when given a description of app functionality SWBAT add and store tags and values to a database
+  - Identify and apply block coding when given a description of app functionality
 id: "9dots-Ou0IU5f"
 attachments: 
   - path: "http://uploads.9dots.io/Ou0s1JI.gdoc"

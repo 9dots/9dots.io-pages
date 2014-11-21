@@ -3,7 +3,7 @@ author: danleavitt0
 views: 0
 published: true
 type: lesson
-blurb: "This lesson will give students an understanding of the importance of a well designed #website to attract an audience. Students do a gallery walk to look at various websites. Students analyze the websites and discuss what makes a good website. Students demonstrate learning by developing ideas for their own website."
+blurb: "This lesson will give students an understanding of the importance of a well designed #website to attract an audience. Students do a gallery walk to look at various websites, analyze the websites, and discuss what makes a good website. Students demonstrate learning by developing ideas for their own website."
 org: 9dots
 objective: 
   - Define an application

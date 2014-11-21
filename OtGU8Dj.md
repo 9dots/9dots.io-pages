@@ -5,8 +5,9 @@ published: true
 type: lesson
 title: List App
 org: 9dots
-objective: "SWBAT define specific components and program a functioning list app using #AppInventor"
-blurb: "Learn the specific functions of each component and build a basic list application using #AppInventor"
+objective: 
+  - "Define specific components and program a functioning list app using #AppInventor"
+blurb: Students gain a deeper understanding of the AppInventor components and functionality as they create a basic list app.
 id: "9dots-OtGU8Dj"
 attachments: 
   - path: "http://uploads.9dots.io/OtM2nGi.gdoc"
@@ -15,9 +16,6 @@ image: "http://uploads.9dots.io/OtRVBbK_md.jpg"
 fullImage: "http://uploads.9dots.io/OtRVBbK_lrg.jpg"
 
 ---
-
-## Overview
-Students gain a deeper understanding of the AppInventor components and functionality as they create a basic list app.
 
 ## Setup
 ### materials:

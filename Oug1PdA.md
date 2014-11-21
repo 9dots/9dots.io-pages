@@ -10,11 +10,9 @@ objective:
 id: "9dots-Oug1PdA"
 image: "http://uploads.9dots.io/OwGzZ5G_md.jpg"
 fullImage: "http://uploads.9dots.io/OwGzZ5G_lrg.jpg"
+blurb: Students program Screen2 to store and retrieve food names and food facts to a database.
 
 ---
-
-## Overview
-In Today's lesson, students program Screen2 to store and retrieve food names and food facts to a database.
 
 ## Setup
 ### materials:

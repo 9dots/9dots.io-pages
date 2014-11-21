@@ -6,15 +6,13 @@ type: lesson
 title: Viewing and Editing Stored Items
 org: 9dots
 objective: 
-  - Identify and apply block coding when given a description of app functionality  SWBAT retrieve and edit stored values in a database
+  - Identify and apply block coding when given a description of app functionality
 id: "9dots-OugQIDU"
 image: "http://uploads.9dots.io/OwH0wHt_md.jpg"
 fullImage: "http://uploads.9dots.io/OwH0wHt_lrg.jpg"
+blurb: "Students continue with the 'Blocks' page, where students move on to the final screen, the Info Screen, where students have can view the Food Name and Food Fact they have submitted on Screen2, and also have the option to edit these Tags and values. Students are given the challenge to program the app using the select blocks when given a description of the app functionality."
 
 ---
-
-## Overview
-Today's lesson continues with the 'Blocks' page, where students move on to the final screen, the Info Screen, where students have can view the Food Name and Food Fact they have submitted on Screen2, and also have the option to edit these Tags and values. Students are given the challenge to program the app using the select blocks when given a description of the app functionality. 
 
 ## Setup
 ### materials:

@@ -1,7 +1,7 @@
 ---
 author: miketeja
 views: 0
-published: false
+published: true
 type: lesson
 title: Block Coding
 blurb: "Students transition from app design to programming the app, with a focus on Screen1. The primary function of this screen is to display tags and allow the user to add a food name and fact to the database."

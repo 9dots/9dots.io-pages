@@ -9,8 +9,8 @@ lessons:
   - "9dots-OtGU8Dj"
   - "9dots-OtGhCXe"
   - "9dots-Ou0IU5f"
-  - "9dots-OugQIDU"
   - "9dots-Oug1PdA"
+  - "9dots-OugQIDU"
 title: Android AppInventor
 org: 9dots
 id: "9dots-OtG4I70"

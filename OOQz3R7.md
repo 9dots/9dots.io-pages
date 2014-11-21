@@ -10,7 +10,7 @@ objective:
 org: 9dots
 id: "9dots-OOQz3R7"
 image: "http://uploads.9dots.io/Ol3qEQD_md.jpg"
-blurb: "Students will work through a series of #MakeyMakey challenges to win points for their team."
+blurb: "Students work through a series of #MakeyMakey challenges to win points for their team."
 fullImage: "http://uploads.9dots.io/Ol3qEQD_lrg.jpg"
 
 ---
@@ -80,3 +80,7 @@ Check for understanding by asking the students questions about the lesson.
 2. Which challenge was the most difficult, and why?
 
 ## Standards
+
+Standard | Description | Connection
+--- | --- | ---
+4-PS3-2 | Make observations to provide evidence that energy can be transferred from place to place by sound, light, heat, and electric currents. | Elaborate

@@ -4,20 +4,18 @@ views: 0
 published: true
 type: lesson
 title: Health App Screen Design
-blurb: "Focus on design components for the three screens of the Health App using the #AppInventor"
+blurb: "This week is dedicated to user interface (UI) design. Elements of design are critical when programming an app and students will work to make their app design intuitive and easy for the user and also customize the app framework with different colors, layouts, and graphics."
 org: 9dots
-objective: 1. SWBAT design three screens for a health app using the designer page components on the AppInventor  2. SWBAT edit the design properties of their screen and components upon completion of the app design framework
+objective: 
+  - Design three screens for a health app using the designer page components on the AppInventor  2. SWBAT edit the design properties of their screen and components upon completion of the app design framework
 id: "9dots-OtGhCXe"
 attachments: 
   - path: "http://uploads.9dots.io/OtMM4NC.gdoc"
     name: "Health App Day 5-6: Screen Design.gdoc"
-image: "http://uploads.9dots.io/OtRRwSs_md.jpg"
-fullImage: "http://uploads.9dots.io/OtRRwSs_lrg.jpg"
+image: "http://uploads.9dots.io/OwH6DEs_md.jpg"
+fullImage: "http://uploads.9dots.io/OwH6DEs_lrg.jpg"
 
 ---
-
-## Overview
-This week is dedicated to user interface (UI) design. Elements of design are critical when programming an app and students will work to make their app design intuitive and easy for the user and also customize the app framework with different colors, layouts, and graphics. 
 
 ## Setup
 ### materials:

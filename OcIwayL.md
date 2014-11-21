@@ -22,11 +22,17 @@ fullImage: "http://uploads.9dots.io/Okh1wp1_lrg.jpg"
 ## Setup
 
 ### Materials:
+
 - Computers with internet access
 - [Brainstorming handout](http://uploads.9dots.io/Oi8d7pz.pdf)
 
 ### Preparation:
+
 - Load examples of application web pages on as many computers as you have available to you.
+
+### Project Time: 
+
+- 45 minutes
 
 ### Good Website Examples:
 - https://www.google.com/intl/en/chrome/browser/
@@ -43,7 +49,7 @@ fullImage: "http://uploads.9dots.io/Okh1wp1_lrg.jpg"
 - http://www.pennyjuice.com/htmlversion/whoispj.htm
 - http://www.wrdaonline.org/
 
-## Engage
+## Engage - 5 minutes
 Get students thinking about websites and applications by discussing with them what a computer application is. 
 
 1. _What is an app?_
@@ -52,7 +58,7 @@ Get students thinking about websites and applications by discussing with them wh
 2. _What are some examples of applications?_
 	- There are camera application like Photobooth, web browsing applications such as Chrome, Safari, and Firefox, games such as Angry Birds or Minecraft, and millions of things beyond that.
 
-## Explain
+## Explain - 20 minutes
 Students inspect examples of good and bad website and use the  [brainstorming handout](http://uploads.9dots.io/Oi8d7pz.pdf) to write down their three favorite and three least favorite websites.
 
 1. _How do people hear about new applications?_
@@ -68,11 +74,12 @@ Students inspect examples of good and bad website and use the  [brainstorming ha
 4. When they return to their seats, the teacher will take a survey and chart out their 3 favorite sites and the 3 that they liked the least.  
     - What do their favorites have in common with each other? Why were the 3 they liked the least not pleasant?
 
-## Elaborate
+## Elaborate - 10 minutes
+Now that students have seen examples of application websites, they brainstorm ideas for an original application that they are creating a website for. 
 
 1. Students will now take 5 minutes to come up with 3 ideas for apps that they would like to make a website for. The ideas should have a name as well as reasons why people would use the app.
 
 2. Students should now talk to their partner and share their ideas.  Within their group they will discuss the ideas and possible improvements or tweaks that could make their ideas even better.
 
-## Evaluate
+## Evaluate - 10 minutes
 With their ideas polished, each student will tell the group about one of their applications.  They should share the name and explain to the group why they would want to use this app.

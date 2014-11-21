@@ -15,6 +15,8 @@ title: Android AppInventor
 org: 9dots
 id: "9dots-OtG4I70"
 blurb: "Students design and program an Android application using #AppInventor"
+image: "http://uploads.9dots.io/OwH59H3_md.jpg"
+fullImage: "http://uploads.9dots.io/OwH59H3_lrg.jpg"
 
 ---
 

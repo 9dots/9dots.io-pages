@@ -66,20 +66,20 @@ Students inspect examples of good and bad website and use the  [brainstorming ha
     - Word of mouth
     - Internet searches
 
-2. Together with a classmate discuss the question, "_How important is it to you that an application has a website that looks nice?_"
+2. Together with a classmate, students discuss the question, "_How important is it to you that an application has a website that looks nice?_"
 
 3. Distribute the brainstorming handout.  Students have 2 minutes to do a gallery walk around the room to all the computers with example websites open on them. 
-	- Using their handout, students will record their favorite and least favorite websites.  
+	- Using their handout, students record their favorite and least favorite websites.  
 
-4. When they return to their seats, the teacher will take a survey and chart out their 3 favorite sites and the 3 that they liked the least.  
+4. When they return to their seats, take a survey and chart out students' 3 favorite sites and the 3 that they liked the least.  
     - What do their favorites have in common with each other? Why were the 3 they liked the least not pleasant?
 
 ## Elaborate - 10 minutes
 Now that students have seen examples of application websites, they brainstorm ideas for an original application that they are creating a website for. 
 
-1. Students will now take 5 minutes to come up with 3 ideas for apps that they would like to make a website for. The ideas should have a name as well as reasons why people would use the app.
+1. Students now take 5 minutes to come up with 3 ideas for apps that they would like to make a website for. The ideas should have a name as well as reasons why people would use the app.
 
-2. Students should now talk to their partner and share their ideas.  Within their group they will discuss the ideas and possible improvements or tweaks that could make their ideas even better.
+2. Students now talk to their partner and share their ideas.  Within their group they discuss the ideas and possible improvements or tweaks that could make their ideas even better.
 
 ## Evaluate - 10 minutes
-With their ideas polished, each student will tell the group about one of their applications.  They should share the name and explain to the group why they would want to use this app.
+With their ideas polished, each student tells the group about one of their applications.  They should share the name and explain to the group why they would want to use this app.

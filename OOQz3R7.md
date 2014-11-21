@@ -5,7 +5,8 @@ published: true
 type: lesson
 title: "It’s Electric Part 2: Makey Makey Circuit Challenges"
 objective: 
-  - "Use their creativity to make a variety of #circuits with the #MakeyMakey"
+  - List four conductive materials
+  - "Demonstrate learning by creating a variety of #circuits with the #MakeyMakey"
 org: 9dots
 id: "9dots-OOQz3R7"
 image: "http://uploads.9dots.io/Ol3qEQD_md.jpg"
@@ -29,30 +30,38 @@ fullImage: "http://uploads.9dots.io/Ol3qEQD_lrg.jpg"
 
 ### Project Time
 
-- 1 hour 30 minutes
+- 1 hour 5 minutes
 
-## Engage
+## Engage - 5 minutes
+Show the students an [introduction video](https://www.youtube.com/watch?v=rfQqh7iCcOU) to the Makey Makey. Discuss with the students what kind of materials were used in the video to operate the Makey Makey.
 
-1. Review the concepts of electric currents, conductivity, and circuits learned in the prior lesson. Students should remember that in order for circuits to work, they must make a complete loop that connects back to the power source (such as batteries.) 
-
-2. Give the students a brief introduction to the Makey Makey.  Explain how the electrical current leaves the computer through the USB cord, through the wires, through their bodies, and back through the wires to the ground in order to complete a circuit.  When the circuit is complete, the Makey Makey makes the corresponding button on the computer work.
-
-![](http://uploads.9dots.io/OOtM1kf_md.jpg) 
-
-## Explore
+## Explore - 10 minutes
 
 1. Students plug in the Makey Makey following the instructions [here](http://www.makeymakey.com/howto.php).  
-
 ![](http://uploads.9dots.io/OOtMUfp_md.jpg) 
 **Makey Makey with alligator clips attached to the arrow keys, space, and click pads.**
 
-Next, students attach conductive materials to the other end of the alligator clips attached to the arrow keys, space, and click pads.  Students can hold the metal tip of the alligator clip attached to the section called “Earth” (the black alligator clip in the photo above) and then touch the materials attached to the other alligator clips, to complete the circuit.  By doing this, the Makey Makey becomes an extension of the computer keyboard.
+2. Next, students attach conductive materials to the other end of the alligator clips attached to the arrow keys, space, and click pads.  
+	- Students can hold the metal tip of the alligator clip attached to the section called “Earth” (the black alligator clip in the photo above) and then touch the materials attached to the other alligator clips, to complete the circuit.  
+    - By doing this, the Makey Makey becomes an extension of the computer keyboard.
 
-## Inquire
+## Explain - 15 minutes
+
+1. Review the concepts of electric currents, conductivity, and circuits learned in the prior lesson. Students should remember that in order for circuits to work, they must make a complete loop that connects back to the power source (such as batteries.) 
+
+2. Give the students a brief introduction to the Makey Makey.
+	- Explain how the electrical current leaves the computer through the USB cord, through the wires, through their bodies, and back through the wires to the ground in order to complete a circuit.  
+    - When the circuit is complete, the Makey Makey makes the corresponding button on the computer work.
+
+![](http://uploads.9dots.io/OOtM1kf_md.jpg) 
+
+## Elaborate - 30 minutes
 Students work through the Electricity Challenges (see table below).  As students work with the Makey Makey, make sure to explain to them how their circuits are being completed. The team with the most points earns a prize at the end of the day!
 
-Light a light bulb at least 5 feet away from your battery | 1 pt 
+
+Challenge | Points
 --- | --- 
+Light a light bulb at least 5 feet away from your battery | 1 pt 
 Light 2 light bulbs with one battery and 3 pieces of play dough | 1 pt 
 Make a play dough animal with 2 light bulb eyes | 2 pts 
 Use the Makey Makey to make your space bar work when one person touches another person | 3 pts 
@@ -63,5 +72,11 @@ Play tetris, BUT your friends are the buttons AND you do not hold any ground wir
 
 ![](http://uploads.9dots.io/OOtYsw5_md.jpg) 
 
-## Discuss
-1. Which challenge was the most difficult, and why?
+## Evaluate - 5 minutes
+Check for understanding by asking the students questions about the lesson.
+
+1. What are materials are conductive?
+
+2. Which challenge was the most difficult, and why?
+
+## Standards

@@ -4,7 +4,7 @@ views: 0
 published: false
 type: lesson
 title: Block Coding
-blurb: "Focus on programming components for Screen1 of the Health App using the #AppInventor"
+blurb: "Students transition from app design to programming the app, with a focus on Screen1. The primary function of this screen is to display tags and allow the user to add a food name and fact to the database."
 org: 9dots
 objective: 
   - Identify and apply block coding when given a description of app functionality SWBAT add and store tags and values to a database
@@ -16,9 +16,6 @@ image: "http://uploads.9dots.io/OwGzQBj_md.jpg"
 fullImage: "http://uploads.9dots.io/OwGzQBj_lrg.jpg"
 
 ---
-
-## Overview
-Students transition from app design to programming the app, with a focus on Screen1. The primary function of this screen is to display tags and allow the user to add a food name and fact to the database. 
 
 ## Setup
 ### materials:

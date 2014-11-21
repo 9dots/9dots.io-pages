@@ -75,7 +75,7 @@ Play tetris, BUT your friends are the buttons AND you do not hold any ground wir
 ## Evaluate - 5 minutes
 Check for understanding by asking the students questions about the lesson.
 
-1. What are materials are conductive?
+1. Which materials are conductive?
 
 2. Which challenge was the most difficult, and why?
 

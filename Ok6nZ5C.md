@@ -61,3 +61,8 @@ Chart out student responses on the whiteboard.
 1. Students use the sales pitch handout to help organize ideas for their presentation. 
 
 2. Students make posters for the shark tank presentation, concentrating on being good salespeople. For this project, it is important for students to work on having a good poster as well as practice their presentation.
+
+## Standards
+Standard | Description | Connection
+---------|-------------| -------
+CCSS.ELA-LITERACY.SL.8.5 | Integrate multimedia and visual displays into presentations to clarify information, strengthen claims and evidence, and add interest. | Elaborate

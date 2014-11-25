@@ -9,15 +9,14 @@ attachments:
 title: "Shark Tank: Presentations"
 org: 9dots
 id: "9dots-Ok76jzW"
-objective: "By the end of the lesson, students will have experience designing and selling an original product."
-blurb: Students will present the products that they have been designing this unit to a panel of judges.
+objective: 
+  - Design and sell an original product
+  - Present their original product to a panel of judges
+blurb: "In this final lesson, students present their product presentations to a panel of judges. The judges use a rubric for scoring the presentations in which students are judged on their product, visual aide, and ability to present their product."
 image: "http://uploads.9dots.io/Ol4Aj1P_md.jpg"
 fullImage: "http://uploads.9dots.io/Ol4Aj1P_lrg.jpg"
 
 ---
-
-## Lesson Overview
-In this final lesson, students present their product presentations to a panel of judges. The judges use a rubric for scoring the presentations in which students are judged on their product, visual aide, and ability to present their product.
 
 ## Setup
 

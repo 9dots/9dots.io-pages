@@ -5,7 +5,10 @@ published: true
 type: lesson
 blurb: "In this lesson, students will gain a basic understanding of the image, paragraph, and heading #HTML elements."
 org: 9dots
-objective: "By the end of the lesson, students will be able to define an HTML tag, understand how to implement HTML tags in coding, and translate and example website into HTML tags."
+objective: 
+  - Define an HTML tag
+  - Understand how to implement HTML tags in coding
+  - Translate and example website into HTML tags
 id: "9dots-OevYoBW"
 title: Building a Website
 attachments: 
@@ -26,31 +29,31 @@ fullImage: "http://uploads.9dots.io/Ol3r9Tb_lrg.jpg"
 
 ### Materials:
 
-- Stickman worksheet
-- Puppy pals worksheet
+- [Stickman worksheet](http://uploads.9dots.io/OiK08rR.pdf)
+- [Puppy pals worksheet](http://uploads.9dots.io/OfUeM8G.pdf)
 
 ### Preparation:
 
 - Print worksheets
 - On a whiteboard, write out a table of the three HTML elements like the one below
 
-## Introduce
+## Engage
 
-### REVIEW:
-_What is HTML?_
-HTML is the code that programmers use to make websites. Each line of HTML represents an element on the page. 
+1. _What is HTML?_
+	- HTML is the code that programmers use to make websites. Each line of HTML represents an element on the page. 
 
-### Show:
-_What does HTML look like?_
-
+2. _What does HTML look like?_
 ![](http://uploads.9dots.io/OfUXVZ7_md.jpg) 
 
-## Guided practice
+## Explain
 
-### Explain:
-HTML is a series of tags which describe the elements on the webpage. Tags are the building blocks of a website and usually come in pairs. The first in the pair is the start tag and the second is the end tag.  The end tag is written the same as the start tag, but with a forward slash in front of the name. Any words written in between the tags will be displayed as text on the page. 
+1. HTML is a series of tags which describe the elements on the webpage. 
+	- Tags are the building blocks of a website and usually come in pairs. 
+    - The first in the pair is the start tag and the second is the end tag.  
+    - The end tag is written the same as the start tag, but with a forward slash in front of the name. 
+    - Any words written in between the tags will be displayed as text on the page. 
 
-Today we are going to focus on three specific tags:
+2. Today we are going to focus on three specific tags:
 
 Element | HTML | Use
 -|-|-
@@ -58,26 +61,23 @@ Heading | ```<h1>...</h1>``` | Titles
 Paragraph | ```<p>...</p>``` | Text
 Image | ```<img src=”...” />``` | Pictures
 
-### TRY IT:
-For their first HTML element, students will write a **heading** that says 'My First HTML Element'. To help facilitate the process, guide the students through the following steps:
+3. For their first HTML element, students will write a **heading** that says 'My First HTML Element'. To help facilitate the process, guide the students through the following steps:
+	1. What kind of element is required?
+    2. What is the tag for that element?
+    3. What is the content?
+    4. Don't forget the end tag!
 
-1. What kind of element is required?
-2. What is the tag for that element?
-3. What is the content?
-4. Don't forget the end tag!
-
-When they have finished writing, their paper should read: 
+4. When they have finished writing, their paper should read: 
 
 ```
 <h1> My First HTML Element </h1>
 ```
 
-### IMAGES:
-There are two major differences between the **image** tag and the other elements that have been discussed:
-1. Images do not have content or an end tag
-2. Images have an attribute called **source** which is the path to the image's location
+5. There are two major differences between the **image** tag and the other elements that have been discussed:
+	1. Images do not have content or an end tag
+	2. Images have an attribute called **source** which is the path to the image's location
 
-For this unit, all of the images will have a source that is a link to a picture on the internet.
+6. For this unit, all of the images will have a source that is a link to a picture on the internet.
 
 ### TRY IT:
 For their second element, students will create an **image** that has a source of "http://www.example.com/firstimage.png". Take students through the steps again but with an additional step for writing the source:

@@ -37,7 +37,11 @@ fullImage: "http://uploads.9dots.io/Ol3r9Tb_lrg.jpg"
 - Print worksheets
 - On a whiteboard, write out a table of the three HTML elements like the one below
 
-## Engage
+### Project Time:
+
+- 45 minutes
+
+## Engage - 5 minutes
 
 1. _What is HTML?_
 	- HTML is the code that programmers use to make websites. Each line of HTML represents an element on the page. 
@@ -45,7 +49,7 @@ fullImage: "http://uploads.9dots.io/Ol3r9Tb_lrg.jpg"
 2. _What does HTML look like?_
 ![](http://uploads.9dots.io/OfUXVZ7_md.jpg) 
 
-## Explain
+## Explain - 15 minutes
 
 1. HTML is a series of tags which describe the elements on the webpage. 
 	- Tags are the building blocks of a website and usually come in pairs. 
@@ -86,15 +90,14 @@ fullImage: "http://uploads.9dots.io/Ol3r9Tb_lrg.jpg"
 
 9. HTML tags are written in order from the top of the page to the bottom of the page.
 
-## Elaborate
+## Elaborate - 15 minutes
 Handout the Stickman example worksheet. Together the class translates the example document into HTML tags. 
 
 - First, students label their document so that each element is catagorized as either a heading, paragraph, or an image
 - The example document is color coded to match with the answer page. 
 - To write the HTML for each element on the example document, guide students through the same steps as the examples above.
     
-## Evaluate
-
+## Evaluate - 10 minutes
 
 1. Challenge students to complete the page. The source for the second image should be the same as the first one. 
 

@@ -53,13 +53,8 @@ fullImage: "http://uploads.9dots.io/Ol3r9Tb_lrg.jpg"
     - The end tag is written the same as the start tag, but with a forward slash in front of the name. 
     - Any words written in between the tags will be displayed as text on the page. 
 
-2. Today we are going to focus on three specific tags:
-
-Element | HTML | Use
--|-|-
-Heading | ```<h1>...</h1>``` | Titles
-Paragraph | ```<p>...</p>``` | Text
-Image | ```<img src=”...” />``` | Pictures
+2. Today students are focussing on three specific tags:
+![](http://uploads.9dots.io/OwfesBs_md.jpg) 
 
 3. For their first HTML element, students will write a **heading** that says 'My First HTML Element'. To help facilitate the process, guide the students through the following steps:
 	1. What kind of element is required?
@@ -68,7 +63,6 @@ Image | ```<img src=”...” />``` | Pictures
     4. Don't forget the end tag!
 
 4. When they have finished writing, their paper should read: 
-
 ```
 <h1> My First HTML Element </h1>
 ```
@@ -79,27 +73,21 @@ Image | ```<img src=”...” />``` | Pictures
 
 6. For this unit, all of the images will have a source that is a link to a picture on the internet.
 
-### TRY IT:
-For their second element, students will create an **image** that has a source of "http://www.example.com/firstimage.png". Take students through the steps again but with an additional step for writing the source:
+7. For their second element, students will create an **image** that has a source of "http://www.example.com/firstimage.png". Take students through the steps again but with an additional step for writing the source:
+	1. What kind of element is required?
+    2. What is the tag for that element?
+    3. What is the source?
+    4. Make sure there is a space between **img** and **src**
 
-1. What kind of element is required?
-2. What is the tag for that element?
-3. What is the source?
-4. Make sure there is a space between **img** and **src**
-
-When they have finished writing, their paper should read: 
-
+8. When they have finished writing, their paper should read: 
 ```
 <img src="http://www.example.com/firstimage.png" />
 ```
 
-### EXPLAIN:
-HTML tags are written in order from the top of the page to the bottom of the page.
+9. HTML tags are written in order from the top of the page to the bottom of the page.
 
-## Explore
+## Elaborate
 
-### WORK TOGETHER:
-Handout the Stickman example worksheet. Together the class will translate the example document into HTML tags. First, students will label their document so that each element is catagorized as either a heading, paragraph, or an image. The example document is color coded to match with the answer page. To write the HTML for each element on the example document, guide students through the same steps as the examples above.
+1. Handout the Stickman example worksheet. Together the class will translate the example document into HTML tags. First, students will label their document so that each element is catagorized as either a heading, paragraph, or an image. The example document is color coded to match with the answer page. To write the HTML for each element on the example document, guide students through the same steps as the examples above.
 
-### CHALLENGE:
-Challenge students to complete the page. The source for the second image should be the same as the first one. Once everyone has finished, review the answers. Next, show the students the ‘puppy pals’ worksheet. Together, label each section as header, image, or paragraph. Once that is done students will translate them to HTML.
+2. Challenge students to complete the page. The source for the second image should be the same as the first one. Once everyone has finished, review the answers. Next, show the students the ‘puppy pals’ worksheet. Together, label each section as header, image, or paragraph. Once that is done students will translate them to HTML.

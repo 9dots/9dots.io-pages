@@ -87,7 +87,19 @@ fullImage: "http://uploads.9dots.io/Ol3r9Tb_lrg.jpg"
 9. HTML tags are written in order from the top of the page to the bottom of the page.
 
 ## Elaborate
+Handout the Stickman example worksheet. Together the class will translate the example document into HTML tags. 
 
-1. Handout the Stickman example worksheet. Together the class will translate the example document into HTML tags. First, students will label their document so that each element is catagorized as either a heading, paragraph, or an image. The example document is color coded to match with the answer page. To write the HTML for each element on the example document, guide students through the same steps as the examples above.
+- First, students will label their document so that each element is catagorized as either a heading, paragraph, or an image
+- The example document is color coded to match with the answer page. 
+- To write the HTML for each element on the example document, guide students through the same steps as the examples above.
+    
+## Evaluate
+1. Challenge students to complete the page. The source for the second image should be the same as the first one. 
 
-2. Challenge students to complete the page. The source for the second image should be the same as the first one. Once everyone has finished, review the answers. Next, show the students the ‘puppy pals’ worksheet. Together, label each section as header, image, or paragraph. Once that is done students will translate them to HTML.
+2. Once everyone has finished, review the answers. 
+
+3. Show the students the ‘Puppy Pals’ worksheet. 
+
+4. Together, label each section as header, image, or paragraph.
+
+5. Students translate the 'Puppy Pals' worksheet to HTML.

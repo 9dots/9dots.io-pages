@@ -38,8 +38,8 @@ fullImage: "http://uploads.9dots.io/Ol4A8Wj_lrg.jpg"
 ## Engage - 5 minutes
 
 1. Start by asking students questions about product design.
-	- _Do you think that engineers always design their products exactly how they want them on the first try? 
-    - How long do you think it takes to design a product?_
+	- _Do you think that engineers always design their products exactly how they want them on the first try?_ 
+    - _How long do you think it takes to design a product?_
 
 2. Give each student three index card to write their guess for how long it took to design the following products:
 	- a new car model

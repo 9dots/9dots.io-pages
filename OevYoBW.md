@@ -3,7 +3,7 @@ author: danleavitt0
 views: 0
 published: true
 type: lesson
-blurb: "In this lesson, students will gain a basic understanding of the image, paragraph, and heading #HTML elements."
+blurb: "In this lesson, students gain a basic understanding of the image, paragraph, and heading #HTML elements. Students demonstrate learning by completely translating an example document into HTML."
 org: 9dots
 objective: 
   - Define an HTML tag
@@ -94,11 +94,13 @@ Handout the Stickman example worksheet. Together the class will translate the ex
 - To write the HTML for each element on the example document, guide students through the same steps as the examples above.
     
 ## Evaluate
+
+
 1. Challenge students to complete the page. The source for the second image should be the same as the first one. 
 
 2. Once everyone has finished, review the answers. 
 
-3. Show the students the ‘Puppy Pals’ worksheet. 
+3. Distribute the 'Puppy Pals’ worksheet. 
 
 4. Together, label each section as header, image, or paragraph.
 

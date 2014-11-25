@@ -3,18 +3,17 @@ author: danleavitt0
 views: 0
 published: true
 type: lesson
-blurb: "In this lesson, students will finish their #prototype by learning how to import pictures and add labels. #CSTA.CPP.L2-01"
+blurb: "Students finish creating their prototypes from the [Designer](http://www.9dots.io/9dots/OeAmgrD) lesson. Students learn how to add images to their site and get a preview of how these prototypes help create websites. Students demonstrate learning by developing a completed prototype for their website with images, text, and headers. #CSTA.CPP.L2-01"
 org: 9dots
-objective: "By the end of the lesson, students will be able to import images into Inkscape and recognize each section of their layout at separate html elements."
+objective: 
+  - Import images into Inkscape
+  - Recognize each section of their layout at separate HTML elements
 id: "9dots-OevTFrs"
 title: Photo Finish
 image: "http://uploads.9dots.io/OurxloG_md.jpg"
 fullImage: "http://uploads.9dots.io/OurxloG_lrg.jpg"
 
 ---
-
-## Lesson Overview
-Students finish creating their prototypes from the [Designer](http://www.9dots.io/9dots/OeAmgrD) lesson. Students learn how to add images to their site and get a preview of how these prototypes help create websites. Students demonstrate learning by developing a completed prototype for their website with images, text, and headers.
 
 ## Setup
 

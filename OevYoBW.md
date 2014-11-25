@@ -113,5 +113,4 @@ Handout the Stickman example worksheet. Together the class translates the exampl
 
 Standard | Description | Connection
 -------- | ----------- | ----------
-CPP.L3A-01 | Create and organize web pages through the use of a variety of web programming design
-tools. | Explain, Elaborate
+CPP.L3A-01 | Create and organize web pages through the use of a variety of web programming design tools. | Explain, Elaborate

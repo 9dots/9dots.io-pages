@@ -108,3 +108,10 @@ Handout the Stickman example worksheet. Together the class translates the exampl
 4. Together, label each section as header, image, or paragraph.
 
 5. Students translate the 'Puppy Pals' worksheet to HTML.
+
+## Standards
+
+Standard | Description | Connection
+-------- | ----------- | ----------
+CPP.L3A-01 | Create and organize web pages through the use of a variety of web programming design
+tools. | Explain, Elaborate

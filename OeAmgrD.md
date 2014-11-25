@@ -57,3 +57,8 @@ Now that students have an idea of what their website should look like it is time
 ```
 TIP: Push students to continue to develop their prototype beyond the basics. There are almost limitless ways to improve their designs. If their website has a navigation bar they can create the secondary pages that they their website can navigate too.
 ```
+## Standards
+
+Standard | Description | Connection
+-------- | ----------- | ----------
+CSTA.CPP.L2-01 | Select appropriate tools and technology resources to accomplish a variety of tasks and solve problems. | Elaborate

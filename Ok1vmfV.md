@@ -9,7 +9,7 @@ title: "Shark Tank: Design Process"
 attachments: 
   - path: "http://uploads.9dots.io/Ok1xt7f.pdf"
     name: ProductDesignGuide.pdf
-blurb: "Students will take a more in-depth look at the process behind designing a product. They will then apply that methodology to their products."
+blurb: "Students take a more in-depth look at the process behind designing a product. They will then apply that methodology to their own products. Students demonstrate learning by sharing their design ideas with the class."
 objective: 
   - Define prototype
   - Explain the process of design

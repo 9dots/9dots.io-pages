@@ -56,7 +56,7 @@ fullImage: "http://uploads.9dots.io/Ol3r9Tb_lrg.jpg"
 2. Today students are focussing on three specific tags:
 ![](http://uploads.9dots.io/OwfesBs_md.jpg) 
 
-3. For their first HTML element, students will write a **heading** that says 'My First HTML Element'. To help facilitate the process, guide the students through the following steps:
+3. For their first HTML element, students write a **heading** that says 'My First HTML Element'. To help facilitate the process, guide the students through the following steps:
 	1. What kind of element is required?
     2. What is the tag for that element?
     3. What is the content?
@@ -73,7 +73,7 @@ fullImage: "http://uploads.9dots.io/Ol3r9Tb_lrg.jpg"
 
 6. For this unit, all of the images will have a source that is a link to a picture on the internet.
 
-7. For their second element, students will create an **image** that has a source of "http://www.example.com/firstimage.png". Take students through the steps again but with an additional step for writing the source:
+7. For their second element, students create an **image** that has a source of "http://www.example.com/firstimage.png". Take students through the steps again but with an additional step for writing the source:
 	1. What kind of element is required?
     2. What is the tag for that element?
     3. What is the source?
@@ -87,9 +87,9 @@ fullImage: "http://uploads.9dots.io/Ol3r9Tb_lrg.jpg"
 9. HTML tags are written in order from the top of the page to the bottom of the page.
 
 ## Elaborate
-Handout the Stickman example worksheet. Together the class will translate the example document into HTML tags. 
+Handout the Stickman example worksheet. Together the class translates the example document into HTML tags. 
 
-- First, students will label their document so that each element is catagorized as either a heading, paragraph, or an image
+- First, students label their document so that each element is catagorized as either a heading, paragraph, or an image
 - The example document is color coded to match with the answer page. 
 - To write the HTML for each element on the example document, guide students through the same steps as the examples above.
     

@@ -100,3 +100,7 @@ Teach students about the body and div elements and how to use them to organize t
 3. Students type the translated HTML into codepen.io so that they can see how it builds a website.
 
 4. Inform the students that they now have the tools to turn their prototype into websites. Next lesson they will be translating their own prototypes into HTML.
+
+Standard | Description | Connection
+-------- | ----------- | ----------
+CPP.L3A-01 | Create and organize web pages through the use of a variety of web programming design tools. | Explain, Elaborate

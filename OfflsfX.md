@@ -30,6 +30,8 @@ fullImage: "http://uploads.9dots.io/Ol3rJC2_lrg.jpg"
 ### Materials:
 
 - Computers with internet access
+- [Puppy pals with divs handout](http://uploads.9dots.io/OfgFWEI.pdf)
+- [Musical mayhem handout](http://uploads.9dots.io/OffsaEv.pdf)
 
 ### Preparation:
 
@@ -75,7 +77,10 @@ Teach students about the body and div elements and how to use them to organize t
 5. Using the puppy pals worksheet from the last lesson (a large poster version would be preferable) outline the body (around the entire website) and the divs (should contain one image and one paragraph). 
 ![](http://uploads.9dots.io/Offq4HV_md.jpg) 
 
-6. Handout the new puppy pals worksheet to students. Students should open the worksheet so that they can see both pages at the same time. As a group label each section as one of the 5 HTML elements that have been covered. By color they should be:
+6. Handout the new puppy pals worksheet to students. 
+	- Students should open the worksheet so that they can see both pages at the same time. 
+
+7. As a group label each section as one of the 5 HTML elements that have been covered. By color they should be:
 ![](http://uploads.9dots.io/Owlb01h_md.jpg) 
 
 7. As a class, write the HTML on the corresponding page. 

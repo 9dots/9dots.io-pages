@@ -40,7 +40,7 @@ fullImage: "http://uploads.9dots.io/Ol3rJC2_lrg.jpg"
 
 - 45 minutes
 
-## Engage
+## Engage - 5 minutes
 Start of by reviewing what students have learned about HTML so far in this unit.
 
 1. _Which HTML tags have you learned about so far? What is each one used for?_
@@ -53,7 +53,7 @@ Start of by reviewing what students have learned about HTML so far in this unit.
 	- These tags are written the same as the others with a start tag, content, and an end tag.  
     - Instead of the content being text, the content of these tags is one or multiple HTML tags.
 
-## Explain
+## Explain - 20 minutes
 Teach students about the body and div elements and how to use them to organize their website.
 
 1. Write this on the whiteboard:
@@ -82,7 +82,7 @@ Teach students about the body and div elements and how to use them to organize t
 	- Make sure to point out to students that the start tag for the body is at the top but the end tag is at the very bottom of the page. 
     - Similarly for the divs the start tag should be at the top of the blue box and the end tag should be at the bottom with the paragraph and the image between them.
 
-## Elaborate 
+## Elaborate - 20 minutes
 
 1. Check for understanding by asking a couple of questions
 	1. _What makes the **div** and **body** tag different from the ones that we have learned previously?_

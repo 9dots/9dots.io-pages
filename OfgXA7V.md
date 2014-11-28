@@ -84,18 +84,16 @@ img {
 <img id=”logo” src=”batman”>
 ```
 
-9. Once the HTML has an **id**, instead of selecting all of the `<img>` tags, it is possible to edit just one. This is called an id selector. To select by an **id** we need to put a ‘#’ followed by the id. For the example above that would be:
+9. Once the HTML has an **id**, instead of selecting all of the `<img>` tags, it is possible to edit just one. This is called an id selector. To select by an **id** we need to put a `#` followed by the id. For the example above that would be:
 ```
 #logo { 
-width:600px;
-height:400px;
-margin:20px;
+	width:600px;
+	height:400px;
+	margin:20px;
 }
 ```
 
-## Explore
-
-### Try it:
+## Elaborate
 Using the new information student will have 10 minutes to attempt to edit the website and make it look as nice as possible.  The student who is working the hardest will have his/her website displayed on the projector for the entire class.
 
 ## Standards

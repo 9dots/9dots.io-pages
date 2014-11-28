@@ -95,7 +95,7 @@ img {
 }
 ```
 
-## Elaborate
+## Elaborate - 10 minutes
 Using the new information student will have 10 minutes to attempt to edit the website and make it look as nice as possible.  The student who is working the hardest will have his/her website displayed on the projector for the entire class.
 
 ## Standards

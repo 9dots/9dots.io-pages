@@ -5,21 +5,19 @@ published: true
 type: lesson
 title: "Minecraft: Farming"
 org: 9dots
-objective: SWBAT design and develop a system for sustainable food growth in Minecraft to keep the community going
+objective: 
+  - Design and develop a system for sustainable food growth in Minecraft to keep the community going
 attachments: 
   - path: "http://uploads.9dots.io/OpIXxyC.docx"
     name: Day2Handout.docx
   - path: "http://uploads.9dots.io/OpIXzSy.pptx"
     name: Minecraft Day 2.pptx
-blurb: "Students will develop a solution to address the problem of gathering food in #Minecraft. #NGSS-3-5-ETS1-1 #NGSS-3-5-ETS1-2 #NGSS-MS-ETS1-2"
+blurb: "This project is a continuation of the Minecraft adventure from the [Minecraft Shelter](http://www.9dots.io/9dots/OqtrDDl) lesson. Students will use design thinking to develop a sustainable food source for their shelters. The planning process will take place on the [Design Thinking handout](http://uploads.9dots.io/OpIXxyC.docx). Once students have finalized their designs, they will create their farms in the game. For more information on how to provide students with materials check out this [Minecraftedu teacher cheat sheet](https://www.dropbox.com/s/ggi0lviuy58ws2w/Teacher%20Cheat%20Sheet.pdf?dl=0). To get more information on farming you can look at this [farming guide](http://minecraft.gamepedia.com/Tutorials/Crop_farming)."
 image: "http://uploads.9dots.io/OpIYkEw_md.jpg"
 fullImage: "http://uploads.9dots.io/OpIYkEw_lrg.jpg"
 id: "9dots-OpIX5X6"
 
 ---
-
-## Lesson Overview
-This project is a continuation of the Minecraft adventure from the [Minecraft Shelter](http://www.9dots.io/9dots/OqtrDDl) lesson. Students will use design thinking to develop a sustainable food source for their shelters. The planning process will take place on the [Design Thinking handout](http://uploads.9dots.io/OpIXxyC.docx). Once students have finalized their designs, they will create their farms in the game. For more information on how to provide students with materials check out this [Minecraftedu teacher cheat sheet](https://www.dropbox.com/s/ggi0lviuy58ws2w/Teacher%20Cheat%20Sheet.pdf?dl=0). To get more information on farming you can look at this [farming guide](http://minecraft.gamepedia.com/Tutorials/Crop_farming).
 
 ## Setup
 
@@ -33,7 +31,9 @@ This project is a continuation of the Minecraft adventure from the [Minecraft Sh
 - Project the [minecraft day 2 powerpoint](http://uploads.9dots.io/OpIXzSy.pptx)
 - Distribute the [day 2 handout](http://uploads.9dots.io/OpIXxyC.docx)
 
+## Project Time:
 
+- 45 minutes
 
 ## Empathize
 Discuss with students the current scenario their characters are in. On their handout, students will write how they feel and what they would be wanting.

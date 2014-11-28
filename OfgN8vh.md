@@ -24,12 +24,13 @@ fullImage: "http://uploads.9dots.io/Ol3rpCw_lrg.jpg"
 ### Materials:
 
 - Computers with internet access
+- [Print the CSS checklist worksheet](http://uploads.9dots.io/OfgSn5Q.docx)
 
 ### Preparation:
 
 - Create a poster with the example CSS rule
 - Create a poster with a list of CSS properties and the possible values for the properties
-- Print the CSS checklist worksheet
+- [Print the CSS checklist worksheet](http://uploads.9dots.io/OfgSn5Q.docx)
 
 ## Engage - 5 minutes
 

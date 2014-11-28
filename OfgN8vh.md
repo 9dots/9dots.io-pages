@@ -31,7 +31,7 @@ fullImage: "http://uploads.9dots.io/Ol3rpCw_lrg.jpg"
 - Create a poster with a list of CSS properties and the possible values for the properties
 - Print the CSS checklist worksheet
 
-## Engage
+## Engage - 5 minutes
 
 1. _What is HTML?_
 	- HTML is the language that web developers use to create websites. Each HTML tag translates to an element on the page.
@@ -39,7 +39,7 @@ fullImage: "http://uploads.9dots.io/Ol3rpCw_lrg.jpg"
 2. Does HTML style a website?
 	- Students recognize from their own experience typing their HTML on codepen, that on its own, HTML creates elements but has no style. Ask students if this is a web page that they would like to make? Why not?
 
-## Explain
+## Explain - 15 minutes
 
 1. To style the website students need a second language called  Cascading Style Sheets or CSS.  CSS is written as a series of rules that define what the HTML tags look like.
 
@@ -71,7 +71,7 @@ p { font-size:25px; }
 	2. Which CSS selector will set the rules for the paragraphs?
 		- The selector ‘p’ will set rules for all of the paragraphs.
 
-## Elaborate
+## Elaborate - 25 minutes
 
 1. Distribute the [CSS practice checklist handout](http://uploads.9dots.io/OfgSn5Q.docx).
 
@@ -83,3 +83,9 @@ TIP: It can be fun to project student's projects for the class when they finish 
 ```
 
 3. If students complete the work early, they can try editing one of the featured pens on the codepen home site. When they are editing the website they should try to find the CSS relating to text and change it to see what happens to the website.
+
+## Standards
+
+Standard | Description | Connection
+--- | --- | ---
+CSTA.CD.L2-01 | Recognize that computers are devices that execute programs. | Explain

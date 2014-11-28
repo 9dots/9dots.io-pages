@@ -31,7 +31,7 @@ id: "9dots-OpIX5X6"
 - Project the [minecraft day 2 powerpoint](http://uploads.9dots.io/OpIXzSy.pptx)
 - Distribute the [day 2 handout](http://uploads.9dots.io/OpIXxyC.docx)
 
-## Project Time:
+### Project Time:
 
 - 45 minutes
 

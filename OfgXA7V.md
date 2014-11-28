@@ -3,7 +3,7 @@ author: danleavitt0
 views: 0
 published: true
 type: lesson
-blurb: "During this lesson, students will continue to explore #CSS, learn how to resize elements, and create margins create space between elements."
+blurb: "During this lesson, students continue to explore #CSS, learn how to resize elements, and create margins create space between elements."
 org: 9dots
 objective: 
   - Use the height and width properties to resize elements

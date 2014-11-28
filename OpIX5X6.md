@@ -93,8 +93,7 @@ Time to go into Minecraft and try out the solutions that students have developed
 3. Students should work to create their farm and expand it as necessary.
 
 ## Test/Feedback
-
-### Discussion Questions:
+Ask a series of questions to check for understanding.
 
 - What was the best design for growing the maximum amount of wheat?
 - What are the pros and cons of creating a farm versus going out to look for food?

@@ -34,7 +34,7 @@ fullImage: "http://uploads.9dots.io/Ol3s23B_lrg.jpg"
 
 - 45 minutes
 
-## Engage
+## Engage - 5 minutes
 
 1. _What is CSS?_
 	- Cascading Style Sheets or CSS is a language that adds styles and formatting to a website. The HTML creates the elements and the CSS defines what they look like with a series of rules.
@@ -45,7 +45,7 @@ fullImage: "http://uploads.9dots.io/Ol3s23B_lrg.jpg"
 
 3. Show students one of the styled Batman Bowling sites from the previous class. What can we do to improve the style of the website? Guide them to the answer that many of the elements are the wrong size and are too close to each other. To change that, students need to learn about some new CSS properties.
 
-## Explain
+## Explain - 20 minutes
 
 1. CSS uses the box model to organize elements. Using the Box Model poster, show students that every element has:
 	- a width property: how wide the element is
@@ -80,6 +80,8 @@ img {
 		1. The name of the attribute (in this case it will be **id**)
 		2. An equals sign
 		3. The value in quotation marks (for this example "logo")
+
+9. In the HTML add an id attribute named 'logo' for the batman image.
 ```
 <img id=”logo” src=”batman”>
 ```

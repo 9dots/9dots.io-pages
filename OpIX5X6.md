@@ -53,7 +53,9 @@ Discuss with students the current scenario their characters are in. On their han
 Time do define the problem that students will solve during this session of the game.
 
 1. Students will discuss with a partner what they feel is the biggest problem that they are facing right now.
+
 2. Guide students to the idea that creating a sustainable food source should be their first priority.
+
 3. Students will write their problem definition on the handout.
 	- An example problem statement could be, "There is no system in place for gathering food safely."
 
@@ -79,6 +81,7 @@ Students will develop a design solution to the problem they have just defined.
 Time to go into Minecraft and try out the solutions that students have developed. 
 
 1. Everyone will sign in to Minecraft.
+
 2. With a teacher account, provide everyone with these materials:
 	- 10 seeds
     - 2 buckets of water
@@ -86,6 +89,7 @@ Time to go into Minecraft and try out the solutions that students have developed
     - 4 torches
     - 1 hoe
     - 30 fences
+    
 3. Students should work to create their farm and expand it as necessary.
 
 ## Test/Feedback

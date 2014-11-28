@@ -45,7 +45,7 @@ fullImage: "http://uploads.9dots.io/Ol3s23B_lrg.jpg"
 
 3. Show students one of the styled Batman Bowling sites from the previous class. What can we do to improve the style of the website? Guide them to the answer that many of the elements are the wrong size and are too close to each other. To change that, students need to learn about some new CSS properties.
 
-## Explain - 20 minutes
+## Explain - 25 minutes
 
 1. CSS uses the box model to organize elements. Using the Box Model poster, show students that every element has:
 	- a width property: how wide the element is
@@ -62,7 +62,7 @@ img {
 }
 ```
 
-3. In Google Chrome, right click one of the images and the select ‘Inspect Element’. This will open a window in your browser that shows all of the HTML and CSS used on the element.  The section on the right is where the CSS is shown. Scroll to the bottom of that section and there is an interactive version of the box model. Hovering over each section will show where it is on the element.
+3. In Google Chrome, right click one of the images and the select ‘Inspect Element’. This opens a window in your browser that shows all of the HTML and CSS used on the element.  The section on the right is where the CSS is shown. Scroll to the bottom of that section and there is an interactive version of the box model. Hovering over each section shows where it is on the element.
 
 4. Students now open their computers to the same Batman Bowling example site. With the teacher, students attempt to change the height, width, and margin of the images on their website.
 
@@ -77,7 +77,7 @@ img {
 
 8. _What does it look like?_
 	- **Attributes** are written just like the source that students have already written many times. There is a space separating it from the name of the tag followed by three parts:
-		1. The name of the attribute (in this case it will be **id**)
+		1. The name of the attribute (in this case it is **id**)
 		2. An equals sign
 		3. The value in quotation marks (for this example "logo")
 
@@ -95,8 +95,8 @@ img {
 }
 ```
 
-## Elaborate - 10 minutes
-Using the new information student will have 10 minutes to attempt to edit the website and make it look as nice as possible.  The student who is working the hardest will have his/her website displayed on the projector for the entire class.
+## Elaborate - 15 minutes
+Using the new information student have 15 minutes to attempt to edit the website and make it look as nice as possible.  The student who is working the hardest gets his/her website displayed on the projector for the entire class.
 
 ## Standards
 

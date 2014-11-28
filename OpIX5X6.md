@@ -12,7 +12,7 @@ attachments:
     name: Day2Handout.docx
   - path: "http://uploads.9dots.io/OpIXzSy.pptx"
     name: Minecraft Day 2.pptx
-blurb: "This project is a continuation of the Minecraft adventure from the [Minecraft Shelter](http://www.9dots.io/9dots/OqtrDDl) lesson. Students will use design thinking to develop a sustainable food source for their shelters. The planning process will take place on the [Design Thinking handout](http://uploads.9dots.io/OpIXxyC.docx). Once students have finalized their designs, they will create their farms in the game. For more information on how to provide students with materials check out this [Minecraftedu teacher cheat sheet](https://www.dropbox.com/s/ggi0lviuy58ws2w/Teacher%20Cheat%20Sheet.pdf?dl=0). To get more information on farming you can look at this [farming guide](http://minecraft.gamepedia.com/Tutorials/Crop_farming)."
+blurb: "This project is a continuation of the Minecraft adventure from the [Minecraft Shelter](http://www.9dots.io/9dots/OqtrDDl) lesson. Students use design thinking to develop a sustainable food source for their shelters. The planning process takes place on the [Design Thinking handout](http://uploads.9dots.io/OpIXxyC.docx). Once students have finalized their designs, they create their farms in the game. For more information on how to provide students with materials check out this [Minecraftedu teacher cheat sheet](https://www.dropbox.com/s/ggi0lviuy58ws2w/Teacher%20Cheat%20Sheet.pdf?dl=0). To get more information on farming you can look at this [farming guide](http://minecraft.gamepedia.com/Tutorials/Crop_farming)."
 image: "http://uploads.9dots.io/OpIYkEw_md.jpg"
 fullImage: "http://uploads.9dots.io/OpIYkEw_lrg.jpg"
 id: "9dots-OpIX5X6"
@@ -36,7 +36,7 @@ id: "9dots-OpIX5X6"
 - 45 minutes
 
 ## Empathize
-Discuss with students the current scenario their characters are in. On their handout, students will write how they feel and what they would be wanting.
+Discuss with students the current scenario their characters are in. On their handout, students write how they feel and what they would be wanting.
 
 1. Review with students what has happened in their Minecraft adventure.
 	- You have been shipwrecked on an island and discovered that there are monsters there. 
@@ -47,20 +47,20 @@ Discuss with students the current scenario their characters are in. On their han
 	- Students have a small supply of seed and materials to build a hoe.
 	- There are still monsters roaming around on the island.
     
-2. Students will write how their characters are feeling in this situation on the day 2 handout.
+2. Students write how their characters are feeling in this situation on the day 2 handout.
 
 ## Define
-Time do define the problem that students will solve during this session of the game.
+Time do define the problem that students must solve during this session of the game.
 
-1. Students will discuss with a partner what they feel is the biggest problem that they are facing right now.
+1. Students discuss with a partner what they feel is the biggest problem that they are facing right now.
 
 2. Guide students to the idea that creating a sustainable food source should be their first priority.
 
-3. Students will write their problem definition on the handout.
+3. Students write their problem definition on the handout.
 	- An example problem statement could be, "There is no system in place for gathering food safely."
 
 ## Ideate
-Students will develop a design solution to the problem they have just defined.
+Students develop a design solution to the problem they have just defined.
 
 1. Discuss with students possible solutions to their problem.
 	- What are some possible solutions to solving the problem that students identified?
@@ -68,19 +68,19 @@ Students will develop a design solution to the problem they have just defined.
     - How would you apply these ideas in Minecraft?
 
 2. With the supplies that they have, a wheat farm is the best choice for the students.
-	- To create a wheat farm, you will first need to dig an irrigation ditch for water .
-    - The wheat will only grow within 4 blocks of a water source and the dirt has to be tilled using a hoe.
-    - Put a fence around your farm to make sure your crops do not get trampled.
-	- Torches will allow your crops to grow better at night.
+	- To create a wheat farm, students first need to dig an irrigation ditch for water .
+    - The wheat grows only within 4 blocks of a water source and the dirt has to be tilled using a hoe.
+    - Put a fence around the farm to make sure your crops do not get trampled.
+	- Torches allow crops to grow better at night.
     
-3. Using the handout, students will draw a diagram of their proposed farm, including labels for the wheat, water, and fences.
+3. Using the handout, students draw a diagram of their proposed farm, including labels for the wheat, water, and fences.
 
 ![](http://uploads.9dots.io/OpIZwgm_md.jpg) 
 
 ## Prototype
 Time to go into Minecraft and try out the solutions that students have developed. 
 
-1. Everyone will sign in to Minecraft.
+1. Everyone signs in to Minecraft.
 
 2. With a teacher account, provide everyone with these materials:
 	- 10 seeds

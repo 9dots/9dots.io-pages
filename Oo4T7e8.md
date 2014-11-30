@@ -4,20 +4,17 @@ views: 0
 published: true
 type: lesson
 title: Marble Roller Coasters
-blurb: "Students construct a roller coaster to demonstrate energy transfer #NGSS-MS-PS2-2 #NGSS-MS-PS3-2 #NGSS-MS-PS3-5 #NGSS-MS-ETS1-2"
+blurb: Students learn about gravitational potential energy and kinetic energy and create a roller coaster for a marble and demonstrate the energy transfer by constructing a marble roller coaster that successfully transports the marble to the bottom of the track.
 org: 9dots
 id: "9dots-Oo4T7e8"
 image: "http://uploads.9dots.io/OpOQlTP_md.jpg"
 fullImage: "http://uploads.9dots.io/OpOQlTP_lrg.jpg"
-objective: SWBAT explain the relationship between gravitational potential and kinetic energy.
+objective: []
 attachments: 
   - path: "http://uploads.9dots.io/Ou0ZFvr.pptx"
     name: Roller Coaster.pptx
 
 ---
-
-## Lesson Overview
-Students learn about gravitational potential energy and kinetic energy and create a roller coaster for a marble. This lesson starts by showing a video of a roller coaster and discussing energy. Next, students learn about potential energy and kinetic energy and their relationship. Students demonstrate learning by creating a marble roller coaster that successfully transports the marble to the bottom of the track.
 
 ## Setup
 ### Materials:

@@ -4,7 +4,7 @@ views: 0
 published: true
 type: lesson
 title: Aluminum Foil Boats
-blurb: "Student will design and construct a boat using only aluminum foil #NGSS-5-PS2-1 #NGSS-MS-ETS1-1 #NGSS-MS-ETS1-3"
+blurb: Student explore concepts of buoyancy and density then design a boat using only aluminum foil that successfully carries the most weight
 org: 9dots
 id: "9dots-Oo4ZqNz"
 attachments: 
@@ -14,12 +14,9 @@ attachments:
     name: Tin Foil Boats.pptx
 image: "http://uploads.9dots.io/OpJNj3o_md.jpg"
 fullImage: "http://uploads.9dots.io/OpJNj3o_lrg.jpg"
-objective: "SWBAT define buoyancy and density, and use that knowledge to create a boat capable of carrying weights."
+objective: []
 
 ---
-
-## Lesson Overview
-In this design engineering challenge, students attempt to create a boat out of tin foil that is capable of carrying the most weight. Students explore buoyancy and density by creating their first boat. Then, using the powerpoint, teach students the science behind creating a buoyant boat.  Students will demonstrate learning by developing a new design for their boat that carries a greater load.
 
 ## Setup
 ### Materials:

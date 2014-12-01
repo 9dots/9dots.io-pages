@@ -4,7 +4,7 @@ views: 0
 published: true
 type: lesson
 title: "Giant Game Controllers: Building"
-blurb: "Using their designs from lesson 1 as a blueprint, students will build their game controllers using their proposed materials."
+blurb: "Using their designs from the [Giant Game Controllers: Brainstorm](http://www.9dots.io/9dots/OjMk5CC) lesson as a blueprint, students build their game controllers using their proposed materials."
 org: 9dots
 objective: 
   - Build all of the cardboard elements of their controller

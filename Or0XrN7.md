@@ -6,7 +6,10 @@ type: lesson
 title: "Minecraft: Mining"
 org: 9dots
 blurb: Students continue collaborating as a community in the Minecraft server and utilize crafting guides to construct essential items for continued survival.
-objective: []
+objective: 
+  - Define a design problem
+  - Analyze what materials would be most beneficial
+  - Create necessary supplies using their limited materials
 id: "9dots-Or0XrN7"
 attachments: 
   - path: "http://uploads.9dots.io/Or0vuHE.gdoc"

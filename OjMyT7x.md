@@ -4,9 +4,11 @@ views: 0
 published: true
 type: lesson
 title: "Giant Game Controllers: Buttons"
-blurb: "Students will continue with the construction of the controllers and connect the #MakeyMakey to their buttons."
+blurb: "Students continue with the construction of the controllers and connect the #MakeyMakey to their buttons."
 org: 9dots
-objective: "By the end of the lesson, students will be able to demonstrate the use of their controller, and explain how their controller works."
+objective: 
+  - Demonstrate the use of their controller
+  - Explain how their controller works
 image: "http://uploads.9dots.io/Ol45GxM_md.jpg"
 id: "9dots-OjMyT7x"
 fullImage: "http://uploads.9dots.io/Ol45GxM_lrg.jpg"

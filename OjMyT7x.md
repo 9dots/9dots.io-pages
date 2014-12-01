@@ -54,3 +54,11 @@ Students continue to add the buttons to their controllers. Using a Makey Makey, 
     - Another way to check is to see if the green light on the Makey Makey turns on when the button is pressed (the Makey Makey needs to be plugged into the computer to check this way as well).
 
 3. For students that finish early, the goal for the rest of the project is to decorate their controllers and make them look as cool as possible.
+
+## Standards
+
+Standard | Description | Connection
+--- | --- | ---
+3-5-ETS1-2 | Generate and compare multiple possible solutions to a problem based on how well each is likely to meet the criteria and constraints of the problem. | Elaborate
+MS-ETS1-2 | Evaluate competing design solutions using a systematic process to determine how well they meet the criteria and constraints of the problem. | Elaborate
+4-PS3-2 | Make observations to provide evidence that energy can be transferred from place to place by sound, light, heat, and electric currents. | Elaborate

@@ -5,7 +5,7 @@ published: true
 type: lesson
 title: "Minecraft: Mining"
 org: 9dots
-blurb: Students continue collaborating as a community in the Minecraft server and utilize crafting guides to construct essential items for continued survival
+blurb: Students continue collaborating as a community in the Minecraft server and utilize crafting guides to construct essential items for continued survival.
 objective: []
 id: "9dots-Or0XrN7"
 attachments: 

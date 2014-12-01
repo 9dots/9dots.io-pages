@@ -36,10 +36,10 @@ fullImage: "http://uploads.9dots.io/Ol457wL_lrg.jpg"
 - Gather the materials
 - Make an example button out of aluminum foil and card stock paper
 
-## Engage
+## Engage - 10 minutes
 Take students through the [circuits slideshow](http://uploads.9dots.io/OjMwGTH.pptx) (slide number 5 has a video). Explain that today they are learning how to turn their cardboard pieces into real game controllers. 
 
-## Explain
+## Explain - 10 minutes
 
 1. Using the teacher created example button, show students how the button is connected. 
 	- One piece of aluminum foil is connected to desired makey makey action (up, down, left, right, click, space) while the other is connected to the “ground” on the makey makey. 
@@ -48,5 +48,5 @@ Take students through the [circuits slideshow](http://uploads.9dots.io/OjMwGTH.p
 
 2. The other option students have is to make the player the ground and the button be a conductive material that is directly plugged into the desired makey makey action. Conductive materials include playdough, aluminum foil, pencil graphite, some fruit, or coins.
 
-## Elaborate
+## Elaborate - 25 minutes
 Students continue to construct their cardboard controllers. When they finish the building, the group is given a makey makey and a computer. Students need to plug the makey makey into the usb port on the computer to power it. Once it is plugged in the group works on creating their functioning buttons on their controller.

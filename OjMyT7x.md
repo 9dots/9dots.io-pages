@@ -34,10 +34,10 @@ fullImage: "http://uploads.9dots.io/Ol45GxM_lrg.jpg"
 
 - 45 minutes
 
-## Engage
+## Engage - 5 minutes
 Students continue to add the buttons to their controllers. Using a Makey Makey, each group should have at least four functional buttons by the end of the project day.
 
-## Explain
+## Explain - 10 minutes
 
 1. Review with students, _"What is a circuit?"_
 	- An electric circuit is a path for electrons to flow through. A power source, such as a battery, makes the electrons move. When these electrons make it to an electrical device like a light bulb, computer, or a microwave, they give it power to make it work.
@@ -45,7 +45,7 @@ Students continue to add the buttons to their controllers. Using a Makey Makey, 
 2. _How can you use circuits to create buttons using the Makey Makey?_
 	- When the button gets pushed, it completes the circuits, and MaKey MaKey sends the computer a keyboard message such as left, right, space, and click.
 
-## Elaborate
+## Elaborate - 30 minutes
 
 1. Students split into their groups and spend the rest of the project devising ways to connect their controller buttons to the MakeyMakey.
 
@@ -53,7 +53,7 @@ Students continue to add the buttons to their controllers. Using a Makey Makey, 
 	- Students can load the Makey Makey piano scratch project to test all of their buttons. 
     - Another way to check is to see if the green light on the Makey Makey turns on when the button is pressed (the Makey Makey needs to be plugged into the computer to check this way as well).
 
-3. For students that finish early, the goal for the rest of the project is to decorate their controllers and make them look as cool as possible.
+3. As groups finish their controller, the goal for the rest of the project is to decorate their controllers and make them look as cool as possible.
 
 ## Standards
 

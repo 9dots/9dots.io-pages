@@ -34,13 +34,17 @@ fullImage: "http://uploads.9dots.io/Ol44xVW_lrg.jpg"
 
 - 45 minutes
 
-## Work Day
-
-### HOOK:
+## Engage
 To give the students some inspiration and information, show the [giant game controller video](https://www.youtube.com/watch?v=simqlREvRH4). Explain that the process they are using to make their controller is very similar to what they are working on.
 
-### GROUP UP:
-With their group, students will figure out what kind of materials they will need to create their controllers. The group that will be building a foot controller will probably need a large flat piece of cardboard, the group with the hand controller will want a large rectangular piece, and the group building the joystick will need a cube as well as a large cylinder.
+## Elaborate
+With their group, students figure out what kind of materials they will need to create their controllers. 
 
-### BUILD:
-Using their design as a blueprint, students will start building their controller to the specifications. If they have finished with the general shape, students can plan which materials that they will need to create their buttons. Conductive materials that they can use include tin foil, play-doh or even some fruit if that is available.
+- The group that is building a foot controller will probably need a large flat piece of cardboard
+- The group with the hand controller will want a large rectangular piece
+- The group building the joystick will need a cube as well as a large cylinder.
+
+1. Using their design as a blueprint, students start building their controller to the specifications. 
+
+2. If they have finished with the general shape, students can plan which materials that they need to create their buttons. 
+	- Conductive materials that they can use include tin foil, play-doh or even some fruit if that is available.

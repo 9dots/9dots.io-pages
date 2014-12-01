@@ -36,6 +36,10 @@ fullImage: "http://uploads.9dots.io/Ol457wL_lrg.jpg"
 - Gather the materials
 - Make an example button out of aluminum foil and card stock paper
 
+### Project Time:
+
+- 45 minutes
+
 ## Engage - 10 minutes
 Take students through the [circuits slideshow](http://uploads.9dots.io/OjMwGTH.pptx) (slide number 5 has a video). Explain that today they are learning how to turn their cardboard pieces into real game controllers. 
 

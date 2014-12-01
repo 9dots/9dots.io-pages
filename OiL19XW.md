@@ -1,12 +1,13 @@
 ---
 author: danleavitt0
 views: 0
-published: true
+published: false
 type: lesson
 title: "Original Website: CSS and Images"
 org: 9dots
 blurb: "Students will continue to work on the #website for their original application ideas. This lessons focus will be on #CSS and adding images."
-objective: By the end of the lesson students will have added images to their website and begin styling with CSS
+objective: 
+  - By the end of the lesson students will have added images to their website and begin styling with CSS
 id: "9dots-OiL19XW"
 image: "http://uploads.9dots.io/Ol3tRvj_md.jpg"
 fullImage: "http://uploads.9dots.io/Ol3tRvj_lrg.jpg"

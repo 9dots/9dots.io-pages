@@ -4,7 +4,7 @@ views: 0
 published: true
 type: lesson
 title: Flipbooks
-blurb: This lesson will provide students with a short history of animation and produce a deliverable as students create an animated flip book.
+blurb: This lesson provides students with a short history of animation.  Students demonstrate learning by producing an animated flip book.
 org: 9dots
 objective: 
   - Define animation

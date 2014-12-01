@@ -4,10 +4,9 @@ views: 0
 published: true
 type: lesson
 title: Egg Drop
-blurb: "Students learn about the forces that act on falling objects and create a device to protect an egg falling. Engage students by showing them a video of Felix Baumgartner's jump from the stratosphere. Then, show the students their building materials and have them design a device for protecting their eggs. Next, explain the forces that act on a falling object. Students demonstrate learning by creating a contraption that keeps the egg from cracking.#NGSS-MS-PS2-2 #NGSS-MS-PS3-5 #NGSS-MS-ETS1-2"
+blurb: Students learn about the forces that act on falling objects and create a device to protect an egg from cracking.
 org: 9dots
 objective: 
-  - Define potential energy
   - Explain the relationship of gravity and air resistance in the context of a falling object
   - Design and construct a contraption that keeps an egg from cracking when dropped from the second floor
 id: "9dots-Oo3uuog"

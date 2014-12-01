@@ -4,9 +4,11 @@ views: 0
 published: true
 type: lesson
 title: "Giant Game Controllers: Brainstorming"
-blurb: Students will learn about the history of video game controllers and then brainstorm a design for their own super sized cardboard controller.
+blurb: Students learn about the history of video game controllers and then brainstorm a design for their own super sized cardboard controller.
 org: 9dots
-objective: "By the end of the lesson, students will be able to identify a joystick, and develop a design for a video game controller that would use a makey makey."
+objective: 
+  - Identify a joystick
+  - Develop a design for a video game controller that would use a makey makey
 id: "9dots-OjMk5CC"
 attachments: 
   - path: "http://uploads.9dots.io/OjMnNR0.pdf"

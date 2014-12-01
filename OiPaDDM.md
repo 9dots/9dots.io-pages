@@ -14,8 +14,6 @@ lessons:
   - "9dots-OfgXA7V"
   - "danleavitt0-Og92rfJ"
   - "9dots-Og99Lsb"
-  - "9dots-OiL19XW"
-  - "9dots-OiDzQy7"
 title: Web Design
 blurb: "A 12 lesson introduction into the world of web design. By the end of the unit, students will be able to create a website using HTML and CSS."
 org: 9dots

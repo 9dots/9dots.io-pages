@@ -34,7 +34,7 @@ fullImage: "http://uploads.9dots.io/Ol3uh22_lrg.jpg"
 
 - 45 minutes
 
-## Engage
+## Engage - 10 minutes
 
 1. Show the students clips from 'Paranorman' as and example of movies made using stop motion animation. Over the next 6 weeks, students are making their own stop motion movie.
 
@@ -47,17 +47,17 @@ fullImage: "http://uploads.9dots.io/Ol3uh22_lrg.jpg"
 	2. _Why do animated drawings seem like they are moving?_
 		- Animations like flipbooks work because the human eye remembers the previous picture for about 1/32 second after it is shown; another picture shown quickly appears to be part of the same image.
 
-## Explore
+## Explore - 10 minutes
 
-1. As a group, test the concept of afterimage on this website. Students should stare at the black dot in the middle of the screen. After 30 seconds, the image will change and the students will see color even though the new image is black and white.
+1. As a group, test the concept of afterimage on this [website](http://www.moillusions.com/wp-content/uploads/2014/07/Rainbow-in-the-Sky-Optical-Illusion.jpg?2fad8a). Students should stare at the black dot in the middle of the screen. After 20 seconds, students look elsewhere and see a rainbow.
 
-2. To check for understanind, students share with a partner why they can see colors even after the image becomes black and white.
+2. To check for understanding, students share with a partner why they can see colors even after the image becomes black and white.
 
-3. Show the students an example of a flipbook. Flipbooks are a great example of using the concept of afterimage to create animation. By flipping the pages quickly it will appear as if the characters are moving. 
+3. Show the students an example of a flipbook. Flipbooks are a great example of using the concept of afterimage to create animation. By flipping the pages quickly it appears as if the characters are moving. 
 
 ## Elaborate
 
-1. Hand out 10-20 pieces of the pre-cut white paper to each student. On one of the pieces of paper, students draw a first image that the rest of the animation will be based on. 
+1. Hand out 10-20 pieces of the pre-cut white paper to each student. On one of the pieces of paper, students draw a first image that the rest of the animation is based on. 
 
 2. When that is completed, students trace their first image on the next piece of paper BUT change one detail. 
 	- The cycle of tracing the previous image but with a small change should continue until the student has used all of his or her paper.  

@@ -54,3 +54,9 @@ Take students through the [circuits slideshow](http://uploads.9dots.io/OjMwGTH.p
 
 ## Elaborate - 25 minutes
 Students continue to construct their cardboard controllers. When they finish the building, the group is given a makey makey and a computer. Students need to plug the makey makey into the usb port on the computer to power it. Once it is plugged in the group works on creating their functioning buttons on their controller.
+
+## Standards
+
+Standard | Description | Connection
+--- | --- | ---
+4-PS3-2 | Make observations to provide evidence that energy can be transferred from place to place by sound, light, heat, and electric currents. | Elaborate

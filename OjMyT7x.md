@@ -53,4 +53,4 @@ Students continue to add the buttons to their controllers. Using a Makey Makey, 
 	- Students can load the Makey Makey piano scratch project to test all of their buttons. 
     - Another way to check is to see if the green light on the Makey Makey turns on when the button is pressed (the Makey Makey needs to be plugged into the computer to check this way as well).
 
-3. For students that finish early, the goal for the rest of the project will be to decorate their controllers and make them look as cool as possible.
+3. For students that finish early, the goal for the rest of the project is to decorate their controllers and make them look as cool as possible.

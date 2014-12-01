@@ -4,7 +4,7 @@ views: 0
 published: true
 type: lesson
 title: "Minecraft: Shelters"
-blurb: "Students will use Minecraft to engage in daily challenges and work as a collaborative community to achieve various challenges. Minecraft is an online interactive role playing game. The instructor will set up Minecraft in a server and turn on Survival Mode. Link for gameplay instructions are listed below. \n[Minecraft Guide](http://www.wikihow.com/Play-Minecraft)"
+blurb: Students use Minecraft to engage in daily challenges and work as a collaborative community to achieve various challenges.
 org: 9dots
 objective: 
   - Explain the steps in the design process

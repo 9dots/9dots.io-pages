@@ -4,7 +4,7 @@ views: 0
 published: true
 type: lesson
 title: Stop Motion Legos
-blurb: Students will learn about how to create a stop motion animation with legos and their computers.
+blurb: "This lesson provides an introduction to creating stop motion animations. Start by showing some examples of famous stop motion films to engage students. Discuss the similarities between stop motion animation and the flipbooks from the [previous lesson](http://www.9dots.io/9dots/OiiarUw). After learning the process, students demonstrate learning by creating their own simple stop motions using legos."
 org: 9dots
 objective: 
   - Relate the process of creating a stop motion to the process of making the flipbook from lesson 1
@@ -14,9 +14,6 @@ image: "http://uploads.9dots.io/Ol3utXi_md.jpg"
 fullImage: "http://uploads.9dots.io/Ol3utXi_lrg.jpg"
 
 ---
-
-## Lesson Overview
-This lesson provides an introduction to creating stop motion animations. Start by showing some examples of famous stop motion films to engage students. Discuss the similarities between stop motion animation and the flipbooks from the [previous lesson](http://www.9dots.io/9dots/OiiarUw). After learning the process, students demonstrate learning by creating their own simple stop motions using legos.
 
 ## Setup
 

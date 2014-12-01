@@ -4,9 +4,11 @@ views: 0
 published: true
 type: lesson
 title: iMovie Editing
-blurb: "Students learn about video editing as they add transitions, titles, and sound effects to an example clip."
+blurb: "Students learn the basics of editing a video clip in iMovie. After watching a movie trailer, discuss the importance of movie editing. Then, explain to students what parts of a video can be edited using the iMovie applications. Students demonstrate learning by following along with the editing instructions handout to edit an example clip."
 org: 9dots
-objective: "By the end of the lesson, students will be able to explain what video editing is in their own words, and use iMovie to create a video using clips provided to them."
+objective: 
+  - Explain what video editing is in their own words
+  - Use iMovie to create a video using clips provided to them
 id: "9dots-OitcWZ5"
 attachments: 
   - path: "http://uploads.9dots.io/OitiZTX.pdf"
@@ -15,9 +17,6 @@ image: "http://uploads.9dots.io/Ol3v1yB_md.jpg"
 fullImage: "http://uploads.9dots.io/Ol3v1yB_lrg.jpg"
 
 ---
-
-## Lesson Overview
-Students learn the basics of editing a video clip in iMovie. After watching a movie trailer, discuss the importance of movie editing. Then, explain to students what parts of a video can be edited using the iMovie applications. Students demonstrate learning by following along with the editing instructions handout to edit an example clip.
 
 ## Setup
 

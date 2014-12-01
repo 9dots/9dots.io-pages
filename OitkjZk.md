@@ -6,7 +6,8 @@ type: lesson
 blurb: Students will continue learning about video editing by completing a mini project in which they will edit their stop motions from lesson 2.
 org: 9dots
 title: Editing Stop Motion
-objective: "By the end of the lesson students will be able to edit their videos to include transitions, sound effects, and titles."
+objective: 
+  - "Edit their videos to include transitions, sound effects, and titles"
 id: "9dots-OitkjZk"
 attachments: 
   - path: "http://uploads.9dots.io/OitnGQF.pdf"

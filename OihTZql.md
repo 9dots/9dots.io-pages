@@ -4,9 +4,11 @@ views: 0
 published: true
 type: lesson
 title: Line Follow
-blurb: "This lesson focuses on programming the robot to use the color sensor to follow a line on the ground. #NGSS-MS-ETS1-2"
+blurb: "Students learn how to make their robot follow a black line.  The lesson starts by giving students time to connect a color sensor facing down so that the robot can react to the line. Next, students learn about using a switch statement in programming that takes the data from the sensor and splits it in to two categories (light or dark). Students demonstrate learning by completing an obstacle course by following a black line."
 org: 9dots
-objective: SWBAT identify a programming switch statement and discuss the strategy for programming a robot to follow a black line.
+objective: 
+  - Identify a programming switch statement
+  - Discuss the strategy for programming a robot to follow a black line
 attachments: 
   - path: "http://uploads.9dots.io/OihVx8V.pdf"
     name: IterationLog (1).pdf
@@ -17,9 +19,6 @@ image: "http://uploads.9dots.io/Ol3uHeh_md.jpg"
 fullImage: "http://uploads.9dots.io/Ol3uHeh_lrg.jpg"
 
 ---
-
-## Lesson Overview
-Students learn how to make their robot follow a black line.  The lesson starts by giving students time to connect a color sensor facing down so that the robot can react to the line. Next, students learn about using a switch statement in programming that takes the data from the sensor and splits it in to two categories (light or dark). Students demonstrate learning by completing an obstacle course by following a black line.
 
 ## Setup
 

@@ -28,7 +28,11 @@ fullImage: "http://uploads.9dots.io/Ol44xVW_lrg.jpg"
 
 ### Preparation:
 
-- Bring controller designs from lesson 1
+- Bring controller designs from [Giant Game Controllers: Brainstorm](http://www.9dots.io/9dots/OjMk5CC) lesson
+
+## Project Time:
+
+- 45 minutes
 
 ## Work Day
 

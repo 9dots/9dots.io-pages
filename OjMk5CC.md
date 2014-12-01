@@ -69,3 +69,8 @@ fullImage: "http://uploads.9dots.io/Ol44m5U_lrg.jpg"
 3. With the other members of their group, students take their favorite ideas from each design and blend them into one final design for the group.
 
 4. For any group that has a completed design, the next step is to list out the required materials for their project. Make sure they remember that they need to use conductive materials to make their buttons work.
+
+Standard | Description | Connection
+--- | --- | ---
+3-5-ETS1-2 | Generate and compare multiple possible solutions to a problem based on how well each is likely to meet the criteria and constraints of the problem. | Elaborate
+MS-ETS1-2 | Evaluate competing design solutions using a systematic process to determine how well they meet the criteria and constraints of the problem. | Elaborate

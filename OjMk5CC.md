@@ -30,7 +30,11 @@ fullImage: "http://uploads.9dots.io/Ol44m5U_lrg.jpg"
 
 - Print out the brainstorm worksheet (in the attachments section)
 
-## Engage
+### Project Time:
+
+- 45 minutes
+
+## Engage - 10 minutes
 
 1. _What is a video game controller?_
 	- A game controller is a device used with a game or entertainment system to control what happens in the game. This means having the ability to move a character or respond to prompts.
@@ -39,7 +43,7 @@ fullImage: "http://uploads.9dots.io/Ol44m5U_lrg.jpg"
 
 3. Show the students the [history of video game controllers video](https://www.youtube.com/watch?v=5-r9EH6R1k4). Discuss after the video if they noticed any pattern about shape and the number of buttons that the controllers had as they evolved.
 
-## Explain
+## Explain - 10 minutes
 
 1. _How do controllers work?_
 	- Controllers work by sending a signal when a button is pressed. To make their own controllers, students will need to create buttons that will send a signal to the computer. Each group will get a Makey Makey to create working buttons.
@@ -55,7 +59,7 @@ fullImage: "http://uploads.9dots.io/Ol44m5U_lrg.jpg"
         - A giant joystick
 ![](http://uploads.9dots.io/OjMlX21_md.jpg) 
 
-## Elaborate
+## Elaborate - 25 minutes
 
 1. Students split into groups for each kind of proposed controller.
 

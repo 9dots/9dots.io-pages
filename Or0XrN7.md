@@ -5,8 +5,8 @@ published: true
 type: lesson
 title: "Minecraft: Mining"
 org: 9dots
-blurb: "Students will mine and build essential items in #Minecraft #NGSS-3-5-ETS1-1 #NGSS-3-5-ETS1-2 #NGSS-MS-ETS1-2"
-objective: "SWBAT mine for and construct essential items for survival in #Minecraft"
+blurb: Students continue collaborating as a community in the Minecraft server and utilize crafting guides to construct essential items for continued survival
+objective: []
 id: "9dots-Or0XrN7"
 attachments: 
   - path: "http://uploads.9dots.io/Or0vuHE.gdoc"
@@ -18,13 +18,7 @@ fullImage: "http://uploads.9dots.io/OrHCosH_lrg.jpg"
 
 ---
 
-## Lesson Overview
-In [Minecraft Day 1](http://www.9dots.io/9dots/OqtrDDl) students built shelters for survival. In [Minecraft Day 2](http://www.9dots.io/9dots/OpIX5X6), students learned how to farm their own food. Now, students will gain the skills required to build tools and various survival resources. A link for the crafting guide is listed below. 
-
-For more information on crafting check out this [Crafting Guide](http://www.minecraft-crafting.net/) 
-
 ## Setup
-
 ### Materials
 
 - Computers with Minecraft installed

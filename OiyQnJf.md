@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 blurb: Student will learn about the different roles (director and animator) for members of their team and begin the taking picture for their movie.
 org: 9dots

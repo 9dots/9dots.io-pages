@@ -29,12 +29,17 @@ fullImage: "http://uploads.9dots.io/Ol3wbKS_lrg.jpg"
 - Editing checklist
 
 ### Preparation:
+
 - Print editing checklist
+
+### Project time:
+
+- 1 hour 30 minutes
     
-## Engage
+## Engage - 5 minutes
 Students take 3 minutes to write down what they can be add to their movies using iMovie.
 
-## Explain 
+## Explain - 10 minutes
 
 1. _What were some of the examples of what editing can do to enhance your movie?_
 	- In iMovie you can set the picture durations as well as add transitions, sound effects, background music, and titles.
@@ -44,8 +49,8 @@ Students take 3 minutes to write down what they can be add to their movies using
 
 4. Give each group the [editing checklist handout](http://uploads.9dots.io/OiyhygK.pdf).
 
-## Elaborate
+## Elaborate - 1 hour
 Using the editing checklist as a guide, groups take the rest of the project time to edit their videos using any transitions or sound effects within iMovie. Their movie should have at least 2 transitions, sound effects for action, and background music by the end of the project time.
 
-## Evaluate
+## Evaluate - 15 minutes
 When all of the groups have completed the checklist, students go on a gallery walk and watch other videos around the room. Students write down their two favorite parts of the videos that they see.

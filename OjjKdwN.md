@@ -13,15 +13,15 @@ attachments:
     name: Interactive Mural PowerPoint (1).pptx
 org: 9dots
 id: "9dots-OjjKdwN"
-blurb: "To start the interactive art wall unit, students will learn about murals, and brainstorm themes for their own painting."
-objective: "By the end of the lesson, students will be able to describe a mural, list two reasons that murals are important, and brainstorm five ideas for their own mural."
+blurb: "Students are introduced to the unit by learning about murals and interactivity. The lesson begins with discussing the power of murals. Then, students watch a video about MIT's interactive art wall. After the video, a slideshow of murals help students brainstorm ideas for a theme for their own collaborative mural. Students demonstrate learning by choosing a topic and sketching out an idea for their mural."
+objective: 
+  - Describe a mural
+  - List two reasons that murals are important
+  - Brainstorm five ideas for their own mural
 image: "http://uploads.9dots.io/Ol48Ue8_md.jpg"
 fullImage: "http://uploads.9dots.io/Ol48Ue8_lrg.jpg"
 
 ---
-
-## Lesson Overivew
-Students are introduced to the unit by learning about murals and iteractivity. The lesson begins with discussing the power of murals. Then, students will watch a video about MIT's interactive art wall. After the video, a slideshow of murals will help students brainstorm ideas for a theme for their own collaborative mural. Students will demonstrate learning by choosing a topic and sketching out an idea for their mural.
 
 ## Setup
 

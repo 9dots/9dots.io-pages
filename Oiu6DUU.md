@@ -51,3 +51,7 @@ Remind students that even with their ideas approved, it is important to come up 
 1. Each student completes their own storyboard including the written story. Groups can discuss their stories and scenes as they create their storyboard but everyone must fill out their own storyboard.
 
 2. If students have the minimum 8 scenes, encourage them to come up with a few more scenes. Students that complete their entire storyboard spend the rest of the class coloring in their illustrations to bring them to life.
+
+Standard | Description | Connection
+-------- | ----------- | ----------
+CCSS.ELA-LITERACY.W.5.3 | Write narratives to develop real or imagined experiences or events using effective technique, descriptive details, and clear event sequences. | Elaborate

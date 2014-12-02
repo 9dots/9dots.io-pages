@@ -80,3 +80,9 @@ fullImage: "http://uploads.9dots.io/Ol3vNGN_lrg.jpg"
 	- With each idea students explain their idea, and list the materials they would need to complete this movie.
 
 3. When they have finished, student circle their favorite ideas and submit them to the instructor to sign off on.
+
+## Standards
+
+Standard | Description | Connection
+-------- | ----------- | ----------
+CCSS.ELA-LITERACY.W.5.3 | Write narratives to develop real or imagined experiences or events using effective technique, descriptive details, and clear event sequences. | Explain

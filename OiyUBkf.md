@@ -1,11 +1,13 @@
 ---
 author: danleavitt0
 views: 0
-published: true
+published: false
 type: lesson
 blurb: Students will capture pictures for their stop motion videos as well as learn about techniques for showing dialogue between characters.
 org: 9dots
-objective: "By the end of the lesson students will be able to use different camera angles to convey dialogue, and complete taking at least 140 pictures."
+objective: 
+  - Use different camera angles to convey dialogue
+  - Complete taking at least 140 pictures
 image: "http://uploads.9dots.io/Ol3wBU7_md.jpg"
 title: "Pictures: Day 2"
 id: "9dots-OiyUBkf"

@@ -34,7 +34,7 @@ fullImage: "http://uploads.9dots.io/Ol3vDW7_lrg.jpg"
 
 - 45 minutes
 
-## Engage
+## Engage - 10 minutes
 
 1. Have the the question, _'What is a transition and what is it used for?'_ written on the board when students enter the class. Students will have 2 minutes to write down the answer on a piece of paper.
 	- A transition is an animation that is played in between two video clips to show the viewer that the movie is moving on to the next scene.
@@ -49,7 +49,7 @@ fullImage: "http://uploads.9dots.io/Ol3vDW7_lrg.jpg"
 	3. _What is a sound effect?_
 		- A sound effect is a sound that is added to the movie during editing that was not present while it was being filmed. These are added to make the movie feel more realistic. 
 
-## Elaborate
+## Elaborate - 35 minutes
 
 1. Distribute the stop motion editing checklist. Students apply the editing techniques that they have learned to the stop motion videos that they made in the [Stop Motion Legos](http://www.9dots.io/9dots/OitXCP0) lesson. 
 

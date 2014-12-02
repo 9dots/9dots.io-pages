@@ -4,9 +4,12 @@ views: 0
 published: true
 type: lesson
 title: Brainstorming
-blurb: Students will brainstorm ideas for their movies and learn how to organize those ideas by creating a storyboard
+blurb: Students brainstorm ideas for their movies and learn how to organize those ideas by creating a storyboard.
 org: 9dots
-objective: "By the end of the lesson, students will be able to use a storyboard to organize their ideas, brainstorm an idea for their movie, and complete a written story."
+objective: 
+  - Use a storyboard to organize their ideas
+  - Brainstorm an idea for their movie
+  - Complete a written story
 id: "9dots-OitvRVo"
 attachments: 
   - path: "http://uploads.9dots.io/OitzL87.pdf"
@@ -24,13 +27,19 @@ fullImage: "http://uploads.9dots.io/Ol3vNGN_lrg.jpg"
 
 ### Materials:
 
-- Storyboarding handout
-- Toy Story storyboard video
-- Brainstorming handout
+- [Storyboarding handout](http://uploads.9dots.io/OitzUYF.docx)
+- [Toy Story storyboard video](http://uploads.9dots.io/Oiu1c19.mp4)
+- [Brainstorming handout](http://uploads.9dots.io/OitzL87.pdf)
 
 ### Preparation:
 
-- Print storyboarding handout
+- Print [storyboarding handout](http://uploads.9dots.io/OitzUYF.docx)
+- Print [brainstorming handout](http://uploads.9dots.io/OitzL87.pdf)
+- Set up projector to play the [Toy Story storyboard video](http://uploads.9dots.io/Oiu1c19.mp4)
+
+### Project Time:
+
+- 45 minutes
 
 ## Introduce
 

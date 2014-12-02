@@ -3,10 +3,13 @@ author: danleavitt0
 views: 0
 published: true
 type: lesson
-blurb: Students will continue to flesh out the idea for their movie by creating a written story and illustrated story board.
+blurb: Students continue to flesh out the idea for their movie by creating a written story and illustrated story board.
 title: Storyboarding
 org: 9dots
-objective: "By the end of the lesson, students will be able to create a storyboard that has a written story, at least 8 illustrated scenes, and words and sounds described for each scene."
+objective: 
+  - Create a storyboard that has a written story
+  - At least 8 illustrated scenes
+  - Words and sounds described for each scene
 attachments: 
   - path: "http://uploads.9dots.io/Oiu98Mi.docx"
     name: STORY BOARDING HANDOUT.docx

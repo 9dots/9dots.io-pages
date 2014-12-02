@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: true
+published: false
 type: lesson
 blurb: This will be the final day of capturing pictures for the stop motion movies. Students will make sure to take pictures for their last scene.
 org: 9dots

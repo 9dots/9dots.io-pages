@@ -3,7 +3,7 @@ author: danleavitt0
 views: 0
 published: true
 type: lesson
-blurb: Students continue to flesh out the idea for their movie by creating a written story and illustrated story board.
+blurb: Students continue to flesh out the idea for their movie by creating a written story and illustrated story board. Students demonstrate learning by using their brainstormed ideas from the previous lessons to create a fully formed storyboard for their original movie.
 title: Storyboarding
 org: 9dots
 objective: 

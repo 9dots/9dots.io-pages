@@ -4,7 +4,7 @@ views: 0
 published: true
 type: lesson
 title: Brainstorming
-blurb: Students brainstorm ideas for their movies and learn how to organize those ideas by creating a storyboard.
+blurb: "Students brainstorm ideas for their movies and learn how to organize those ideas by creating a storyboard. Students gain practice storyboarding by completing one for an example clip as a class. Then, they generate ideas for their original stop motion movie. Students demonstrate learning by finishing an example storyboard and developing their original movie idea."
 org: 9dots
 objective: 
   - Use a storyboard to organize their ideas

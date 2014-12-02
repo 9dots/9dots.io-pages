@@ -43,7 +43,7 @@ fullImage: "http://uploads.9dots.io/Ol48to4_lrg.jpg"
 
 2. Once you have figured out how to connect the power, sensors, and outputs of the Little Bits, that’s just half of the challenge.  Connecting the to what you are building is very important. Today, students learn how to connect Little Bits to their projects by creating their own Little Bits creature.
 
-## Explain
+## Explain - 10 minutes
 
 1. To connect the Little Bits to projects without making them visible from the outside, students need to use twist ties. This enables them to attach the Little Bits without damaging them.
 
@@ -52,7 +52,7 @@ fullImage: "http://uploads.9dots.io/Ol48to4_lrg.jpg"
 3. Before they start building, students look at some examples of Little Bits [creatures](https://lb-community.s3.amazonaws.com/uploads/lesson/image/40/large_IMG_1511.JPG). 
 	- Remind students that they need to be creative to hide all of the Little Bits pieces.
 
-## Elaborate
+## Elaborate - 20 minutes
 
 1. Distribute the [creature planning handout](http://uploads.9dots.io/Ok13bji.pdf)
 

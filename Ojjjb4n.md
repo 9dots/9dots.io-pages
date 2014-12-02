@@ -35,16 +35,16 @@ fullImage: "http://uploads.9dots.io/Ol48cJF_lrg.jpg"
 
 - 40 minutes
 
-## Engage
+## Engage - 5 minutes
 
 1. Congratulate students for doing a great job on the first day reviewing the different murals and thinking about what they like and didn't like.
 
 2. Today, students develop ideas to contribute to a collaborative mural. The ideas that they come up with should adhere to a common theme.
 
-## Explore
+## Explore - 5 minutes
 Students take three minutes to write down possible themes for the group mural. 
 
-## Explain
+## Explain - 10 minutes
 
 1. After you have brainstormed what each idea would look like and consist of. Transition into discussing what would make the best mural idea. 
 	- Which idea or combination of ideas would be the most interesting?
@@ -53,7 +53,7 @@ Students take three minutes to write down possible themes for the group mural.
 
 2. The theme for the mural will be 'Our Community!' This way, students are be able to include a lot of different ideas of people, places, and things that are important to everyone.
 
-## Elaborate
+## Elaborate - 20 minutes
 
 1. Using the community handout, students write notes about their community:
 	- What are the landmarks?

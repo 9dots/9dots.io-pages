@@ -41,36 +41,42 @@ fullImage: "http://uploads.9dots.io/Ol3vNGN_lrg.jpg"
 
 - 45 minutes
 
-## Introduce
+## Engage
 
-### DO NOW:
-As students enter the class, they have 3 minutes to write down ideas for stop motion animations that they would like to make. At the end of the three minutes, students will share their favorite idea with the person sitting next to them.
+1. As students enter the class, they have 3 minutes to write down ideas for stop motion animations that they would like to make. At the end of the three minutes, students share their favorite idea with the person sitting next to them.
 
-### HOOK:
-Starting today, students will begin the process of making their own stop motion video. The rest of the unit will be devoted to moving through the steps of creating their movie. The first step is to brainstorm ideas and organize their favorite idea by putting into a storyboard.
+2. Starting today, students begin the process of making their own stop motion video. The rest of the unit is devoted to moving through the steps of creating their movie. The first step is to brainstorm ideas and organize their favorite idea by putting into a storyboard.
 
-### WHAT IS A STORYBOARD?
-A storyboard is a way of organizing a movie using illustrations of scenes to preview what the movie will look like.
+3. A storyboard is a way of organizing a movie using illustrations of scenes to preview what the movie will look like.
 
-### WATCH:
-Watch the Toy Story storyboard video and discuss with the students the depth and accuracy with which they planned out the scenes from Toy Story.
+4. Watch the Toy Story storyboard video and discuss with the students the depth and accuracy with which they planned out the scenes from Toy Story.
 
-## Guided Practice
+## Explain
 
-### As a group:
-Handout the storyboarding worksheet to each student. With the teacher, students will create a storyboard for the example videos that the edited during lesson 3. Start with the written story. Students can take turns contributing sentences to explain the movie. The written story should tell the reader the over summary of what happens in the movie. Once a narrative has been decided on, students will write that story on the first page. When they have finished writing, students will move on to the illustration section. Discuss the first scene and what students can draw to depict it. Next, discuss what sounds are made during that section and if there is any dialogue (characters talking to each other). Students will write down sounds, which for the first scene should be similar to  a ’pop’ sound.
+1. Handout the [storyboarding worksheet](http://uploads.9dots.io/OitzUYF.docx) to each student. 
 
-### WORK INDEPENDENTLY:
-When the first scene has been illustrated, students will work independently to complete the next three scenes. Encourage students to be as detailed as possible to create a useful storyboard like the example in the Toy Story video.
+2. With the teacher, students create a storyboard for the example videos that the edited during the [iMovie Editing](http://www.9dots.io/9dots/OitcWZ5) lesson. 
 
-### DISCUSS:
-_What does reasonable mean?_
-Reasonable means not extreme or excessive. It is important that when students are coming up with ideas for their movies, they are being reasonable about what can be accomplished in a few classes. Full length stop motion videos take years to create. Keeping an idea simple will ensure that their movies are successful.
+3. Start with the written story. Students can take turns contributing sentences to explain the movie. 
+	- The written story should tell the reader the over summary of what happens in the movie. 
+    - Once a narrative has been decided on, students write that story on the first page. 
 
-## Explore
+4. When they have finished writing, students move on to the illustration section. 
 
-### PAIR UP:
-Place the students into the groups for their project. Students will share their movie ideas from the beginning of the class with each other.
+5. Discuss the first scene and what students can draw to depict it. 
+	- Discuss what sounds are made during that section and if there is any dialogue (characters talking to each other). 
+	- Students write down sounds, which for the first scene should be similar to  a ’pop’ sound.
 
-### BRAINSTORM:
-Give each group the brainstorming handout. Using their ideas as a platform for more ideas, groups will come up with five movie ideas. With each idea students will explain their idea, and list the materials they would need to complete this movie. When they have finished, student will circle their favorite ideas and submit them to the instructor to sign off on.
+6. When the first scene has been illustrated, students work independently to complete the next three scenes. Encourage students to be as detailed as possible to create a useful storyboard like the example in the Toy Story video.
+
+7. _What does reasonable mean?_
+	- Reasonable means not extreme or excessive. It is important that when students are coming up with ideas for their movies, they are being reasonable about what can be accomplished in a few classes. Full length stop motion videos take years to create. Keeping an idea simple ensures that their movies can be made.
+
+## Elaborate
+
+1. Place the students into the groups for their project. Students share their movie ideas from the beginning of the class with each other.
+
+2. Give each group the [brainstorming handout](http://uploads.9dots.io/OitzL87.pdf). Using their ideas as a platform for more ideas, groups come up with five movie ideas. 
+	- With each idea students explain their idea, and list the materials they would need to complete this movie.
+
+3. When they have finished, student circle their favorite ideas and submit them to the instructor to sign off on.

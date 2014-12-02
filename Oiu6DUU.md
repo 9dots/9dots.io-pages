@@ -21,7 +21,7 @@ fullImage: "http://uploads.9dots.io/Ol3vjwj_lrg.jpg"
 
 ### Materials:
 
-- Storyboarding handout
+- [Storyboarding handout](http://uploads.9dots.io/Oiu98Mi.docx)
 - [Stop motion inspiration](https://www.youtube.com/watch?v=qBjLW5_dGAM)
 
 ### Preparation:
@@ -29,24 +29,25 @@ fullImage: "http://uploads.9dots.io/Ol3vjwj_lrg.jpg"
 - Print storyboarding handout
 - Review brainstormed ideas from lesson 5
 
-## Introduce
+### Project Time:
 
-### DO NOW:
-As students enter the class, they have 3 minutes to write down what it means to have a reasonable idea for their movies.
+- 45 minutes
 
-### WATCH:
-A video for a little [stop motion inspiration](https://www.youtube.com/watch?v=qBjLW5_dGAM).
+## Engage
 
-### HOOK:
-Tell students that starting today will be the final day of planning before they begin creating their movies. They will be receiving their approved brainstorming ideas and will then have to create a written story and illustrated storyboard for their approved idea. This is a time for the groups to really consider all of the scenes of their movie. A more refined storyboard will make for a better movie.
+1. As students enter the class, they have 3 minutes to write down what it means to have a reasonable idea for their movies.
 
-## Explore
+2. A video for a little [stop motion inspiration](https://www.youtube.com/watch?v=qBjLW5_dGAM).
 
-### REASONABLE:
+3. Tell students that today is the final day of planning before they begin creating their movies. 
+
+4. Give students their approved brainstorming ideas from the [Brainstorming](http://www.9dots.io/9dots/OitvRVo) lesson.
+
+## Explain
 Remind students that even with their ideas approved, it is important to come up with scenes for their movies that are reasonable. This includes the fact that the pictures will be taken in the classroom setting with limited time and resources.
 
-### WORK INDEPENDENTLY:
-Distribute the storyboarding handout. Each student will complete their own storyboard including the story. Groups can discuss their stories and scenes as they create their storyboard but everyone must fill out their own storyboard.
+## Elaborate
 
-### FINISHED EARLY:
-If students have the minimum 8 scenes, encourage them to come up with a few more scenes. Students that complete their entire storyboard will spend the rest of the class coloring in their illustrations to bring them to life.
+1. Each student completes their own storyboard including the written story. Groups can discuss their stories and scenes as they create their storyboard but everyone must fill out their own storyboard.
+
+2. If students have the minimum 8 scenes, encourage them to come up with a few more scenes. Students that complete their entire storyboard spend the rest of the class coloring in their illustrations to bring them to life.

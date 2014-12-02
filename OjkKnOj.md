@@ -67,14 +67,14 @@ During this explain, teach students how sensors work and give some real life exa
   - Light switch – sense motion and turn on light
   - Clap on clap off lights – sense sound and turn on light
 
-5. To use a sensor, there are components students will need to understand:
+5. To use a sensor, there are components students need to understand:
   1. Power - Supplies electricity, such as a battery
   2. Sensor - Checks for a condition to be met
   3. Output - Action, such as a light or buzzer
 
 6. The **sensors** are like a gate: they allow or disallow current to flow through the circuit to the output.  The electricity can only flow through to power the output if the sensor senses what it is looking for. 
 
-7. Students will put power, sensors, and outputs into our interactive mural!  To accomplish this, they will be using something called littleBits.
+7. Students put power, sensors, and outputs into our interactive mural!  To accomplish this, they are using something called littleBits.
 
 8. Watch littleBits video:  
 http://littlebits.cc/about

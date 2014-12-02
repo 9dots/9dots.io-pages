@@ -11,7 +11,7 @@ attachments:
   - path: "http://uploads.9dots.io/OjjqjZ8.pdf"
     name: SketchUpWS.pdf
 id: "9dots-Ojjjb4n"
-blurb: "Students will collaborate to decide upon a theme fro their mural, and begin the process of designing their contribution to the piece."
+blurb: "Students collaborate to decide upon a theme for their mural, and begin the process of designing their contribution to the piece. This lesson starts with students brainstorming possible ideas for a group mural. Then, students are informed that the theme will be 'our community'.  Students demonstrate learning by sketching out ideas for murals based on their community."
 objective: 
   - Work collaboratively to develop a theme for the mural
 image: "http://uploads.9dots.io/Ol48cJF_md.jpg"

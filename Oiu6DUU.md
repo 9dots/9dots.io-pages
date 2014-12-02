@@ -33,7 +33,7 @@ fullImage: "http://uploads.9dots.io/Ol3vjwj_lrg.jpg"
 
 - 45 minutes
 
-## Engage
+## Engage - 10 minutes
 
 1. As students enter the class, they have 3 minutes to write down what it means to have a reasonable idea for their movies.
 
@@ -43,10 +43,10 @@ fullImage: "http://uploads.9dots.io/Ol3vjwj_lrg.jpg"
 
 4. Give students their approved brainstorming ideas from the [Brainstorming](http://www.9dots.io/9dots/OitvRVo) lesson.
 
-## Explain
+## Explain - 5 minutes
 Remind students that even with their ideas approved, it is important to come up with scenes for their movies that are reasonable. This includes the fact that the pictures will be taken in the classroom setting with limited time and resources.
 
-## Elaborate
+## Elaborate - 30 minutes
 
 1. Each student completes their own storyboard including the written story. Groups can discuss their stories and scenes as they create their storyboard but everyone must fill out their own storyboard.
 

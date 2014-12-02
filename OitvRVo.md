@@ -41,7 +41,7 @@ fullImage: "http://uploads.9dots.io/Ol3vNGN_lrg.jpg"
 
 - 45 minutes
 
-## Engage
+## Engage - 20 minutes
 
 1. As students enter the class, they have 3 minutes to write down ideas for stop motion animations that they would like to make. At the end of the three minutes, students share their favorite idea with the person sitting next to them.
 
@@ -51,7 +51,7 @@ fullImage: "http://uploads.9dots.io/Ol3vNGN_lrg.jpg"
 
 4. Watch the Toy Story storyboard video and discuss with the students the depth and accuracy with which they planned out the scenes from Toy Story.
 
-## Explain
+## Explain - 15 minutes
 
 1. Handout the [storyboarding worksheet](http://uploads.9dots.io/OitzUYF.docx) to each student. 
 
@@ -72,7 +72,7 @@ fullImage: "http://uploads.9dots.io/Ol3vNGN_lrg.jpg"
 7. _What does reasonable mean?_
 	- Reasonable means not extreme or excessive. It is important that when students are coming up with ideas for their movies, they are being reasonable about what can be accomplished in a few classes. Full length stop motion videos take years to create. Keeping an idea simple ensures that their movies can be made.
 
-## Elaborate
+## Elaborate - 15 minutes
 
 1. Place the students into the groups for their project. Students share their movie ideas from the beginning of the class with each other.
 

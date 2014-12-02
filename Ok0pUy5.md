@@ -22,15 +22,12 @@ fullImage: "http://uploads.9dots.io/Ol48to4_lrg.jpg"
 
 ### Materials:
 
+- [Creature planning handout](http://uploads.9dots.io/Ok13bji.pdf)
 - Tp roll
 - Pre-made ears, hands, heads
 - Little bits
 - Markers
 - Twist ties
-
-### Media and Handouts:
-
-- Creature planning handout
 
 ### Preparation:
 
@@ -40,29 +37,25 @@ fullImage: "http://uploads.9dots.io/Ol48to4_lrg.jpg"
 
 - 40 minutes
 
-## Introduce
+## Engage - 10 minutes
 
-### Hook:
-Show an example of a [Little Bits creature](http://littlebits.cc/projects/rude-animal). Students will write down on a piece of paper which inputs and outputs they think were used to create the creature.
+1. Show an example of a [Little Bits creature](http://littlebits.cc/projects/rude-animal). Students write down on a piece of paper which inputs and outputs they think were used to create the creature.
 
-### Goal:
-Once you have figured out how to connect the power, sensors, and outputs of the Little Bits, that’s just half of the challenge.  Connecting the to what you are building is very important. Today, students will learn how to connect Little Bits to their projects by creating their own Little Bits creature.
+2. Once you have figured out how to connect the power, sensors, and outputs of the Little Bits, that’s just half of the challenge.  Connecting the to what you are building is very important. Today, students learn how to connect Little Bits to their projects by creating their own Little Bits creature.
 
-## Guided Practice
+## Explain
 
-### Attaching Little Bits:
-To connect the Little Bits to projects without making them visible from the outside, students will be using twist ties. This will enable them to attach the Little Bits without damaging them.
+1. To connect the Little Bits to projects without making them visible from the outside, students need to use twist ties. This enables them to attach the Little Bits without damaging them.
 
-### Wires:
-Using hte Little Bits wires, students can attach their inputs and output without placing them directly next to each other. This will help students place Little Bits outputs in a position to accomplish their goal.
+2. Using hte Little Bits wires, students can attach their inputs and output without placing them directly next to each other. This will help students place Little Bits outputs in a position to accomplish their goal.
 
-## Explore
+3. Before they start building, students look at some examples of Little Bits [creatures](https://lb-community.s3.amazonaws.com/uploads/lesson/image/40/large_IMG_1511.JPG). 
+	- Remind students that they need to be creative to hide all of the Little Bits pieces.
 
-### Examples:
-Before they start building, students will look at some examples of Little Bits [creatures](https://lb-community.s3.amazonaws.com/uploads/lesson/image/40/large_IMG_1511.JPG). Remind students that they will need to be creative to hide all of the Little Bits pieces.
+## Elaborate
 
-### Plan:
-Show students the supplies that they will have to build their creature. Using the creature planning handout, students will decide on their input and output, as well as sketch what their creature will look like.
+1. Distribute the [creature planning handout](http://uploads.9dots.io/Ok13bji.pdf)
 
-### Build:
-Students will take the rest of the project time to create their Little Bits creature.
+2. Show students the supplies that they have to build their creature. Using the creature planning handout, students decide on their input and output, as well as sketch what their creature will look like.
+
+3. Students take the rest of the project time to create their Little Bits creature.

@@ -54,3 +54,9 @@ Using the editing checklist as a guide, groups take the rest of the project time
 
 ## Evaluate - 15 minutes
 When all of the groups have completed the checklist, students go on a gallery walk and watch other videos around the room. Students write down their two favorite parts of the videos that they see.
+
+## Standards
+
+Standard | Description | Connection
+--- | --- | ---
+CSTA.CPP.L2-03 | Design, develop, publish, and present products (e.g., webpages, mobile applications, animations) using technology resources that demonstrate and communicate curriculum concepts. | Elaborate

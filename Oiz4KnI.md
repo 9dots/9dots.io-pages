@@ -11,9 +11,6 @@ lessons:
   - "9dots-OitvRVo"
   - "9dots-Oiu6DUU"
   - "9dots-OiyQnJf"
-  - "9dots-OiyUBkf"
-  - "9dots-OiyXfpq"
-  - "9dots-Oiybdio"
   - "9dots-OiyesOD"
   - "9dots-OiyiCXA"
 title: Stop Motion Animation

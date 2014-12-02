@@ -85,3 +85,9 @@ TIP: Mark where the camera was with tape so that when the conversation moves bac
 2. Check out the examples of establishing shots used in [Spiderman](https://www.youtube.com/watch?v=rmF-PBPLlcA) and [Wallace and Gromit](http://uploads.9dots.io/OxJdaSb.mp4). Notice how the first shots do not show the characters, but instead show the location and whether it is daytime or nighttime.
 
 3. Students should add at least one establishing shot and finish taking at least 200 pictures.
+
+## Standards
+
+Standard | Description | Connection
+--- | --- | ---
+CSTA.CPP.L2-03 | Design, develop, publish, and present products (e.g., webpages, mobile applications, animations) using technology resources that demonstrate and communicate curriculum concepts. | Elaborate

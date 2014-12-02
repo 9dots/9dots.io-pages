@@ -1,11 +1,14 @@
 ---
 author: danleavitt0
 views: 0
-published: true
+published: false
 type: lesson
 title: "Pictures: Day 3"
 blurb: Students will learn when to use an establishing shot and continue to capture pictures for their stop motion videos.
-objective: "By the end of the lesson, students will be able to complete taking at least 200 pictures,  describe an establishing shot, and use an establishing shot to start a scene"
+objective: 
+  - Complete taking at least 200 pictures
+  - Describe an establishing shot
+  - Use an establishing shot to start a scene
 attachments: 
   - path: "http://uploads.9dots.io/OiyZEJr.mp4"
     name: wallace and gromit establishing.mp4

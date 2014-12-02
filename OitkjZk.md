@@ -62,3 +62,9 @@ fullImage: "http://uploads.9dots.io/Ol3vDW7_lrg.jpg"
 		- at least 10 sound effects
 		- background music
 		- movie credits at the end of the movie
+        
+## Standards
+
+Standard | Description | Connection
+-------- | ----------- | ----------
+CSTA.CPP.L2-01 | Select appropriate tools and technology resources to accomplish a variety of tasks and solve problems. | Elaborate

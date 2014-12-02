@@ -6,7 +6,7 @@ type: lesson
 org: 9dots
 title: "Interactive Art Wall: Creatures"
 id: "9dots-Ok0pUy5"
-blurb: "Students will practice connecting #LittleBits to their projects using wires and twist ties by creating a Little Bits creature."
+blurb: "Students practice connecting #LittleBits to their projects using wires and twist ties by creating a Little Bits creature."
 objective: 
   - Explain the importance of the Little Bits wires
   - Create a cardboard creature that incorporates hidden Little Bits pieces

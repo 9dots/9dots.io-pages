@@ -8,7 +8,7 @@ org: 9dots
 objective: 
   - Define the roles of director and animator
   - As well as complete taking at least 60 pictures for their movie
-title: "Pictures: Day 1"
+title: Pictures
 image: "http://uploads.9dots.io/Ol3vw3j_md.jpg"
 id: "9dots-OiyQnJf"
 fullImage: "http://uploads.9dots.io/Ol3vw3j_lrg.jpg"

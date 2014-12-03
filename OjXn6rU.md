@@ -65,7 +65,7 @@ fullImage: "http://uploads.9dots.io/Ol45nKn_lrg.jpg"
 ## Elaborate
 Students brainstorm how to turn their robot into a realistic design made out of cardboard, and sketch a blueprint of the robot using the blueprint worksheet.
 
-### Evaluate:
+## Evaluate:
 
 - _Is your blueprint realistic?_ 
 - _Will you be able to build it?_

@@ -10,7 +10,6 @@ lessons:
   - "9dots-Ok0pUy5"
   - "9dots-Ok18puU"
   - "9dots-OkChd5I"
-  - "9dots-OkCptIN"
   - "9dots-OkDH1OR"
 title: Interactive Art Wall
 org: 9dots

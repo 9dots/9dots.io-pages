@@ -16,6 +16,8 @@ fullImage: "http://uploads.9dots.io/Ol45uoC_lrg.jpg"
 
 ---
 
+## Setup
+
 ### Materials:
 
 - Cardboard

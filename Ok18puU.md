@@ -13,15 +13,14 @@ attachments:
   - path: "http://uploads.9dots.io/Ok1J6w8.pdf"
     name: "Posters_and_worksheetsTWSU.1-2.pdf"
 id: "9dots-Ok18puU"
-blurb: Students will learn how to make their murals three dimensional by using the concepts of foreground and background.
-objective: "By the end of the lesson, students will be able to explain the difference between background and foreground, and use those concepts to plan their mural to be three dimensional."
+blurb: "Students revisit their initial sketches for their mural to plan for creating a foreground and background. This lesson starts by discussing the plans for creating a collaborative mural. Then, students use a list of littleBits and the brainstorming handout to choose which littleBits to incorporate. After, teach students about foreground and background and how to hide littleBits behind an elevated foreground. Students demonstrate learning by creating a plan for their foreground and background with littleBits."
+objective: 
+  - Explain the difference between background and foreground
+  - Use those concepts to plan their mural to be three dimensional
 image: "http://uploads.9dots.io/Ol4C46f_md.jpg"
 fullImage: "http://uploads.9dots.io/Ol4C46f_lrg.jpg"
 
 ---
-
-## Lesson Overview
-Students revist their initial sketches for their mural to plan for creating a foreground and background. This lesson starts by discussing the plans for creating a collaborative mural. Then, students use a list of littleBits and the brainstorming handout to choose which littleBits to incorporate. After, teach students about foreground and background and how to hide littleBits behind an elevated foreground. Students demonstrate learning by creating a plan for their foreground and background with littleBits.
 
 ## Setup
 

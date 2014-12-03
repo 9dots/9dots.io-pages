@@ -5,7 +5,7 @@ published: true
 type: lesson
 org: 9dots
 title: "Interactive Art Wall: Adding littleBits"
-blurb: "During this lesson, students will be attaching their foreground and background, as well as adding #littleBits to their projects."
+blurb: "During this lesson, students finish their murals by attaching their foreground and background, as well as adding #littleBits to their projects."
 id: "9dots-OkDH1OR"
 objective: 
   - "Complete a mural with a background, a foreground, and littleBits attached to make it interactive"

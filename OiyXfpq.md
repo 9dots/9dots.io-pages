@@ -4,14 +4,14 @@ views: 0
 published: false
 type: lesson
 title: "Pictures: Day 3"
-blurb: Students will learn when to use an establishing shot and continue to capture pictures for their stop motion videos.
+blurb: "This lesson introduces students to game design principles and gives students hands on experience creating their first level. Students use [gamefroot](http://www.gamefroot.com) to bring their level to life and test it."
 objective: 
-  - Complete taking at least 200 pictures
-  - Describe an establishing shot
-  - Use an establishing shot to start a scene
+  - List the principles of game design
+  - Use design process thinking to develop a level idea
+  - Demonstrate learning by creating a game level designed to teach the player to get to an endpoint
 attachments: 
-  - path: "http://uploads.9dots.io/OiyZEJr.mp4"
-    name: wallace and gromit establishing.mp4
+  - path: "http://uploads.9dots.io/OxsvMBy.pptx"
+    name: GD1.pptx
 org: 9dots
 image: "http://uploads.9dots.io/Ol3wKKQ_md.jpg"
 id: "9dots-OiyXfpq"
@@ -23,35 +23,61 @@ fullImage: "http://uploads.9dots.io/Ol3wKKQ_lrg.jpg"
 
 ### Materials:
 
-- [Stop Motion Inspiration](http://vimeo.com/1105462)
-- [Example of establishing shot](https://www.youtube.com/watch?v=rmF-PBPLlcA)
-- Wallace and Gromit establishing shot (in attachments)
-- Computer with Photo Booth (or other picture taking application)
-- Legos
-- Playdough
-- Markers
-- Crayon
-- Paper
-- Whiteboards
+- [Meatboy level design](https://www.youtube.com/watch?v=ZH2wGpEZVgE)
+- [Game Design Powerpoint]()
 
-### Preparation:
+### LESSON TIME:
 
-- Bring completed storyboards
+- 45 minutes
 
-## Work Day
+## Introduce - 10 minutes
+Make sure the projector is set up to play the introduction video and show the powerpoint.
 
-### DO NOW:
-Students will take a couple of minutes to write down at least three scenes that they want to complete by the end of the lesson.
+1. Introduce the concepts behind game design by showing the [Meatboy level design](https://www.youtube.com/watch?v=ZH2wGpEZVgE) video
 
-### HOOK:
-Watch some [stop motion inspiration](http://vimeo.com/1105462) to get the creativity flowing.
+2. Show the slide that details the level design principles
+	- Fun - Good level design is fun to navigate.
+	- Show - Good level design always tells the player what to do, but never how to do it.
+	- Teach - Good level design constantly teaches the player.
+	- Emotion - Good level design creates an emotional connection between the player and the game.
+	- Mechanics - Good level design is driven by mechanics.
+		- Mechanics are the rules and methods that control how the game works.
+        - In the mario clip from above, one example of a mechanic is that when mario eats a mushroom he grows.
+        - Another example of a mechanic is that hitting the question mark box releases a prize.
 
-### DISCUSS:
-_What is an establishing shot?_
-An establishing shot is a wide shot at the beginning of a scene that shows the location of a scene or the time at which it is happening (day or night) before switching to closer shots with the subjects of the film. Film makers often use an establishing shot to let the audience know where the action is taking place.
+3. Today students are designing the first level of a platformer game that teaches the player how to navigate to the finish.
 
-### WATCH:
-Check out the examples of establishing shots used in [Spiderman](https://www.youtube.com/watch?v=rmF-PBPLlcA) and Wallace and Gromit. Notice how the first shots do not show the characters, but instead show the location and whether it is daytime or nighttime.
+4. What is a platformer?
+	- A platformer is a type of game where you run across the level to get to specific end point like Mario.
+	- In this unit students are creating their own platformer games.
 
-### CREATE:
-Students will now take the rest of the project time to continue creating their movies. Students should add at least one establishing shot and finish taking at least 200 pictures.
+## Empathize - 10 minutes
+
+1. Hand out the game design handout
+
+2. In the empathize section of the handout students should write a response to, “What it is like to play a game that they have never played before? How do you learn to play a new game?”
+
+## Define - 5 minutes
+What are the problems that students need to solve with their design?
+
+- Teach players to go towards the end of the level.
+
+## Ideate - 10 minutes
+
+1. In the box provided on the handout, students draw ideas for the first level. 
+
+2. Remind students that they are making a platformer so the game is oriented left to right and needs to have a goal that the character moves towards.
+
+3. The level need an item to act as endpoint.
+
+## Prototpe - 15 minutes
+Students log in to [gamefroot](http://www.gamefroot.com) to create their first levels. To make this process go faster students use a premade level in which they create a character and a finish zone.
+
+1. Students login to gamefroot.com
+2. Students load the premade level
+3. Students use the character creator to make their own hero (no guns)
+4. Students add a finish area to the end of the level
+
+## Test - 5 minutes
+Students try playing their game and note any changes that they would make to it.
+

@@ -64,3 +64,9 @@ fullImage: "http://uploads.9dots.io/Ol3wtvv_lrg.jpg"
 1. Using the rest of the project time, students create two songs, that each have loops from at least three different instruments. One will be a song that makes that listener feel happy, and the other one will attempt to be a slower, sadder song.
 
 2. How can you make a song seem sadder? What can you do to make it feel happier?
+
+## Standards
+
+Standard | Description | Connection
+-------- | ----------- | ----------
+CSTA.CPP.L2-01 | Select appropriate tools and technology resources to accomplish a variety of tasks and solve problems. | Elaborate

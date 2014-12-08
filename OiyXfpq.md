@@ -3,7 +3,7 @@ author: danleavitt0
 views: 0
 published: false
 type: lesson
-title: Introduction to Level Design
+title: Video Game Level Design
 blurb: "This lesson introduces students to game design principles and gives students hands on experience creating their first level. Students use [gamefroot](http://www.gamefroot.com) to bring their level to life and test it."
 objective: 
   - List the principles of game design

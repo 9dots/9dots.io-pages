@@ -37,13 +37,13 @@ fullImage: "http://uploads.9dots.io/Ol3wtvv_lrg.jpg"
 
 - 45 minutes
 
-## Engage
+## Engage - 10 minutes
 
 1. Students have a couple of minutes at the beginning of class to write down their answer to the question, “What makes a song seem happy?”
 
 2. Listen to the instrumental versions of Happy and Say Something without telling them the name of each song.
 
-## Explain
+## Explain - 10 minutes
 
 1. Ask students questions about the songs and chart response on the whiteboard.
 	- How did the first song make you feel? 
@@ -59,11 +59,11 @@ fullImage: "http://uploads.9dots.io/Ol3wtvv_lrg.jpg"
 4. To filter the loops by major or minor scale change the option like in the picture below:
 ![](http://uploads.9dots.io/OjM81PS_md.jpg) 
 
-## Elaborate
+## Elaborate - 25 minutes
 
 1. Using the rest of the project time, students create two songs, that each have loops from at least three different instruments. One will be a song that makes that listener feel happy, and the other one will attempt to be a slower, sadder song.
 
-2. How can you make a song seem sadder? What can you do to make it feel happier?
+2. How can students make a song seem sadder? What can you do to make it feel happier?
 
 ## Standards
 

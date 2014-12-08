@@ -23,7 +23,11 @@ fullImage: "http://uploads.9dots.io/Ol3oThN_lrg.jpg"
 - 20 pieces of uncooked spaghetti
 - 1 large marshmallow
 
-## Engage
+### Project Time:
+
+- 45 minutes
+
+## Engage - 5 minutes
 
 Start by asking a series of questions:
 
@@ -34,7 +38,7 @@ Start by asking a series of questions:
 - What are some important attributes to become an innovator?  
 	- Some important attributes are determination, creativity, and the ability to collaborate.
 
-## Explore
+## Explore - 15 minutes
 
 1. Distribute one bag of supplies to each team.  
 
@@ -42,7 +46,7 @@ Start by asking a series of questions:
 
 3. At the end of this session, the students use their rulers to measure their tower.
 
-## Explain
+## Explain - 10 minutes
 
 1. Students have five minutes to look at the other towers in the room.  Afterwards everyone sits down and discusses what strategies worked the best. 
 
@@ -63,13 +67,12 @@ Start by asking a series of questions:
 
 		- By leaning the tower in the opposite direction that the string is pulling, an effective counterbalance can be created.
 
-
 4. One possibility is for the string to be used to counterbalance a leaning spaghetti tower.![](http://uploads.9dots.io/OJEPMO1.png) 
 
-## Elaborate
-Distribute new materials to each group. Students have 20 minutes to use their new information to build a taller tower.
+## Elaborate - 10 minutes
+Distribute new materials to each group. Students have 10 minutes to use their new information to build a taller tower.
 
-## Evaluate
+## Evaluate - 5 minutes
 Ask students which team they though was the most creative with their design. 
 
 - How did your own team work together to combine several creative ideas? 

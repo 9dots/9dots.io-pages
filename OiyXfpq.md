@@ -74,8 +74,11 @@ What are the problems that students need to solve with their design?
 Students log in to [gamefroot](http://www.gamefroot.com) to create their first levels. To make this process go faster students use a premade level in which they create a character and a finish zone.
 
 1. Students login to gamefroot.com
+
 2. Students load the premade level
+
 3. Students use the character creator to make their own hero (no guns)
+
 4. Students add a finish area to the end of the level
 
 ## Test - 5 minutes

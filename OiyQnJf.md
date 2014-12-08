@@ -89,5 +89,5 @@ TIP: Mark where the camera was with tape so that when the conversation moves bac
 ## Standards
 
 Standard | Description | Connection
---- | --- | ---
-CSTA.CPP.L2-03 | Design, develop, publish, and present products (e.g., webpages, mobile applications, animations) using technology resources that demonstrate and communicate curriculum concepts. | Elaborate
+-------- | ----------- | ----------
+CSTA.CPP.L2-01 | Select appropriate tools and technology resources to accomplish a variety of tasks and solve problems. | Elaborate

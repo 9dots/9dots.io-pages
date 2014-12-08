@@ -4,9 +4,10 @@ views: 0
 published: true
 type: lesson
 title: Theme Song
-blurb: "In this final lesson, students will create a theme song for their favorite movie and publish the song in iTunes."
+blurb: "In this final lesson, students create a theme song for their favorite movie and publish the song in iTunes."
 org: 9dots
-objective: "By the end of the lesson, students will be able to create a theme song that has at least three different instrument tacks, is at least one minute in length, and is saved and shared on iTunes."
+objective: 
+  - Create a theme song that has at least three different instrument tracks
 attachments: 
   - path: "http://uploads.9dots.io/OjMNkIT.pdf"
     name: FinalGarageBandSongChecklist.pdf
@@ -22,30 +23,35 @@ fullImage: "http://uploads.9dots.io/Ol3xFsb_lrg.jpg"
 
 - Computer with GarageBand software
 - Example theme songs
-- Theme song checklist
+- [Theme song checklist](http://uploads.9dots.io/OjMNkIT.pdf)
 
 ### Preparation:
 
-- Print theme song checklist 
+- Print [theme song checklist](http://uploads.9dots.io/OjMNkIT.pdf)
 
-## Introduce
+### Project Time:
 
-### DISCUSS:
-_What is a theme song?_
+- 45 minutes
+
+## Engage
+
+1. _What is a theme song?_
 A theme song is music that is created to serve as an introduction into a movie, tv show, or radio program. It reflects the style and content of the show and sometimes even has lyrics to describe the situation.
 
-### LISTEN:
-As a group listen to a few famous theme songs. Discuss how each theme song relates to the movie that it is used for.
+2. As a group listen to a few famous theme songs. Discuss how each theme song relates to the movie that it is used for.
 
-## Guided Practice
+## Explain 
 
-### EXPLAIN:
-Each student will need a computer and the theme song checklist. During the project today, students will create a theme song for their stop motion movies from the previous unit. Students will write down the genre/mood of the their movie on the handout.
+1. Each student needs a computer and the theme song checklist. During the project today, students create a theme song for their stop motion movies from the previous unit. Students write down the genre/mood of the their movie on the handout.
 
-## Explore
+## Elaborate
 
-### CREATE:
-Using the GarageBand loops, students will produce a theme song that has a clear beginning, middle, and end. The song will be at least one minute long and have at least 3 different instrument loops.
+1. Using the GarageBand loops, students produce a theme song that has a clear beginning, middle, and end. The song should be at least one minute long and have at least 3 different instrument loops.
 
-### SHARE:
-When they are finished students will share the song to iTunes using the **Share** menu at the top of the screen.
+2. When they are finished students will share the song to iTunes using the **Share** menu at the top of the screen.
+
+## Standards
+
+Standard | Description | Connection
+-------- | ----------- | ----------
+CSTA.CPP.L2-01 | Select appropriate tools and technology resources to accomplish a variety of tasks and solve problems. | Elaborate

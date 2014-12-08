@@ -40,7 +40,7 @@ fullImage: "http://uploads.9dots.io/Ol3x1li_lrg.jpg"
 	- A film score is original music create to accompany a film. The music is composed for each scene to help set the mood.
 
 ## Explore
-Show the film score example video. After each example, discuss with the group how the music set the tone for the scene. 
+Show the film score example clips. After each example, discuss with the group how the music set the tone for the scene. 
 
 ## Explain
 Show the example clip that the students are working with. First show it with no music, and then show it with the example music. All of the music in the example was made using the GarageBand loops that the students have been working with.
@@ -65,3 +65,9 @@ Students have the rest of the project time to create their own score for the mov
 	7. Click on the movie track to watch a preview of the clip with your original score
 
 	8. Make sure to use the fade in and fade out to improve your score
+    
+## Standards
+
+Standard | Description | Connection
+-------- | ----------- | ----------
+CSTA.CPP.L2-01 | Select appropriate tools and technology resources to accomplish a variety of tasks and solve problems. | Elaborate

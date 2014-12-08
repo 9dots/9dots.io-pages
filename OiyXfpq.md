@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 title: Video Game Level Design
 blurb: "This lesson introduces students to game design principles and gives students hands on experience creating their first level. Students use [gamefroot](http://www.gamefroot.com) to bring their level to life and test it."
@@ -80,4 +80,3 @@ Students log in to [gamefroot](http://www.gamefroot.com) to create their first l
 
 ## Test - 5 minutes
 Students try playing their game and note any changes that they would make to it.
-

@@ -23,8 +23,8 @@ fullImage: "http://uploads.9dots.io/Ol3wKKQ_lrg.jpg"
 
 ### Materials:
 
-- [Meatboy level design](https://www.youtube.com/watch?v=ZH2wGpEZVgE)
-- [Game Design Powerpoint]()
+- [Meatboy level design](http://videos.criticalcommons.org/transcoded/http/www.criticalcommons.org/Members/fearv/clips/indie-game-the-movie-edmund-mcmillen-discusses/video_file/webm-high/design-mp4.webm)
+- [Game Design Powerpoint](http://uploads.9dots.io/OxsvMBy.pptx)
 
 ### LESSON TIME:
 
@@ -33,7 +33,7 @@ fullImage: "http://uploads.9dots.io/Ol3wKKQ_lrg.jpg"
 ## Introduce - 10 minutes
 Make sure the projector is set up to play the introduction video and show the powerpoint.
 
-1. Introduce the concepts behind game design by showing the [Meatboy level design](https://www.youtube.com/watch?v=ZH2wGpEZVgE) video
+1. Introduce the concepts behind game design by showing the [Meatboy level design](http://videos.criticalcommons.org/transcoded/http/www.criticalcommons.org/Members/fearv/clips/indie-game-the-movie-edmund-mcmillen-discusses/video_file/webm-high/design-mp4.webm) video
 
 2. Show the slide that details the level design principles
 	- Fun - Good level design is fun to navigate.

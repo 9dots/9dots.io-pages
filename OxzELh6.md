@@ -6,6 +6,8 @@ type: lesson
 title: Paper Plate Speakers
 blurb: "Students learn about electromagnetic induction as a means to produce a current and generate voltage to make an inexpensive, working speaker out of household  items"
 org: 9dots
+objective: 
+  - "build a functional speaker using paper plates, magnets, and magnetic copper wire to demonstrate an understanding of electromagnetic induction"
 id: "9dots-OxzELh6"
 
 ---

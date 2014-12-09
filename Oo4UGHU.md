@@ -4,9 +4,12 @@ views: 0
 published: true
 type: lesson
 org: 9dots
-objective: "SWBAT explain basic circuitry, explore what materials can carry a current through a MaKey MaKey controller, and design a unique MaKey MaKey controller using materials of their choice"
+objective: 
+  - Explain basic circuitry
+  - Explore what materials can carry a current through a MaKey MaKey controller
+  - Design a unique MaKey MaKey controller using materials of their choice
 title: Makey Makey Controllers
-blurb: "Students will use the #MakeyMakey to learn about #circuits and #conductivity. #NGSS-5-PS1-3 #NGSS-3-5-ETS1-1"
+blurb: "Students learn about basic circuits and conductivity through hand on testing of various materials. After they have determined which materials can be used, students use those materials to create a game controller using a Makey Makey. To test their creation, students connect the Makey Makey to a computer and play a browswer based piano using their custom buttons. #NGSS-5-PS1-3 #NGSS-3-5-ETS1-1"
 attachments: 
   - path: "http://uploads.9dots.io/Oo4VuH6.pptx"
     name: Makey Makey Controllers.pptx
@@ -17,9 +20,6 @@ image: "http://uploads.9dots.io/OoupIy3_md.jpg"
 fullImage: "http://uploads.9dots.io/OoupIy3_lrg.jpg"
 
 ---
-
-## Lesson Overview
-Students learn about basic circuits and conductivity through hand on testing of various materials. After they have determined which materials can be used, students use those materials to create a game controller using a Makey Makey. To test their creation, students connect the Makey Makey to a computer and play a browswer based piano using their custom buttons.
 
 ## Setup
 

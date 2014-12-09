@@ -88,4 +88,12 @@ Students spend the majority of Day 2 building the remainder of their paper plate
 3. Glue the rolled up paper that has the copper wire wrapped around it to the center of the backside of the paper plate. 
 4. Glue the stack of 6 magnets to the center of the cardboard base (which is roughly the same size as the paper plate).
 5. Align the paper plate and the magnets so they slide smoothly in and out of the suspended cylinder and plate
-	- Check for understanding: 
+	- Check for understanding: Why do we need the folded notecards? Why can't we glue the paper plate directly on top of the magnets?
+
+6. Pull the two ends of the copper wire to the edge of the cardboard base to be easily connected to the alligator clips.
+
+## Evaluate - 10 minutes
+If available, set up several “listening stations” where students can connect the other end of their alligator clips to the ends of the speaker wire and connect the speaker wire inside of the amplifier. 
+
+- Have students take turns and adjust the specifications of their speaker if necessary (re-glue, reposition, adjust wiring, etc.)
+- Optional competition: Download dB Volume Meter app on a smartphone and measure the decibel level for each speaker to see which is the loudest!

@@ -46,17 +46,25 @@ id: "9dots-OxzELh6"
 
 1. Prepare a pre made coil of insulated copper wire and a stack of 6 magnets to show students the final product for day 1.
 2. Students will complete the first 2 steps of the project at this point.
-	- Provide each student with 3 magnets stacked upon one another
+	- Provide each student with 6 magnets stacked upon one another
+    ![](http://uploads.9dots.io/OxzhTqA_md.jpg) 
 	- Select one of the pieces of paper. Wrap the paper around the magnet  and tape the ends. Cut off the remainder so the paper wrapping is the same height and width of the magnets. 
 	- Select the other piece of paper. Wrap this paper around the first layer as well as the magnets. Wrap the paper all the way around such that when it is taped, it does not stick to any of the first layer paper.
-	- With both layers of wrapping and the magnets inside, wrap the insulated copper wire tightly around the cylinder (60-70 times). Leave about 6-8 inches of loose wire on both the top and the bottom. Hot glue each end to ensure the wire stays coiled. 
+    ![](http://uploads.9dots.io/OxzhegK_md.jpg) 
+    ![](http://uploads.9dots.io/Oxzhmz4_md.jpg) 
+	- With both layers of wrapping and the magnets inside, wrap the insulated copper wire tightly around the cylinder (60-70 times). Leave about 6-8 inches of loose wire on both the top and the bottom. Hot glue each end to ensure the wire stays coiled.
+    ![](http://uploads.9dots.io/OxzhuDH_md.jpg) 
 	- Remove the magnet from inside.
 	- Remove the first layer of paper wrapping from inside.
-
+    ![](http://uploads.9dots.io/Oxzi1CX_md.jpg) 
+	- Now the magnet can slide in and out of the wire wrapped paper easily
+    ![](http://uploads.9dots.io/Oxzi8pA_md.jpg) 
 3. Demo: Using your premade wire wrapping, show students how voltage can be generated using only the copper wire spool and the magnet. 
 	- Galvanometer: measures an electric current
 	- Connect the galvanometer ends to 2 aligator clips, and connect the alligator clips to the ends of the copper wire spool. 
+    ![](http://uploads.9dots.io/OxziK14_md.jpg) 
 	- Demonstrate the when the magnet is not present, the voltage reads zero, however, when the magnet is present, there is a positive and negative reading as the magnet makes a complete “loop” through the coiled wire
+    
 
 ## Explain - 10 minutes
 How the magnet generates a current in the copper wire
@@ -87,11 +95,14 @@ Students spend the majority of Day 2 building the remainder of their paper plate
 
 1. Provide each student with a paper plate, 2 notecards, and a cardboard base.
 2. Fold the notecards into fourths, in alternating directions.
-3. Glue the rolled up paper that has the copper wire wrapped around it to the center of the backside of the paper plate. 
+	![](http://uploads.9dots.io/OxzjFOe_md.jpg) 
+3. Glue the rolled up paper that has the copper wire wrapped around it to the center of the backside of the paper plate.
+	![](http://uploads.9dots.io/OxzjLuV_md.jpg) 
 4. Glue the stack of 6 magnets to the center of the cardboard base (which is roughly the same size as the paper plate).
+	![](http://uploads.9dots.io/OxzjRLd_md.jpg) 
 5. Align the paper plate and the magnets so they slide smoothly in and out of the suspended cylinder and plate
 	- Check for understanding: Why do we need the folded notecards? Why can't we glue the paper plate directly on top of the magnets?
-
+	![](http://uploads.9dots.io/OxzjZwH_md.jpg) 
 6. Pull the two ends of the copper wire to the edge of the cardboard base to be easily connected to the alligator clips.
 
 ## Evaluate - 10 minutes

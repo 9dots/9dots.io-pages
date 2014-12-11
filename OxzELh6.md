@@ -21,6 +21,7 @@ id: "9dots-OxzELh6"
 - Paper
 - Insulated copper wire
 - 2 notecards
+
 ### Materials (for class)
 
 - Hot glue gun 

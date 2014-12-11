@@ -6,8 +6,7 @@ type: lesson
 org: 9dots
 title: Test
 blurb: that
-objective: 
-  - stuff
+objective: []
 id: "9dots-OyAiblZ"
 
 ---
@@ -28,4 +27,4 @@ How does it work?...
 Continue with new information...
 
 ## Evaluate
-Check for understanding... 
+Check for understanding...

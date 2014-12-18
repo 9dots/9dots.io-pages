@@ -4,9 +4,12 @@ views: 0
 published: true
 type: lesson
 title: Mindstorm Pinball
-blurb: "This lesson will teach students about the #Mindstorm touch sensor as well as the wait and loop #programming blocks."
+blurb: "This lesson teaches students about programming loops and event handlers for their robots. It starts by discussing senses and how they help humans and robots react to their environment. Then, students work on building a touch sensor attachment for their robots. Next, students figure out the behaviors required to accomplish their goals and learn about how to program those behaviors. Students demonstrate learning by testing their created programs in a competition called Mindstorm Pinball."
 org: 9dots
-objective: "By the end of the lesson, the student will be able to define a programming loop, explain the importance of sensors to programming a robot, and create a robot capable of running indefinitely and turning whenever it runs into a wall."
+objective: 
+  - Define a programming loop
+  - Explain the importance of sensors to programming a robot
+  - Create a robot capable of running indefinitely and turning whenever it runs into a wall
 attachments: 
   - path: "http://uploads.9dots.io/OiQgDvK.pdf"
     name: touchsensorbuilding.pdf
@@ -19,9 +22,6 @@ image: "http://uploads.9dots.io/Ol3tnfD_md.jpg"
 fullImage: "http://uploads.9dots.io/Ol3tnfD_lrg.jpg"
 
 ---
-
-## Lesson Overview
-This lesson will teach students about programming loops and event handlers for their robots. It will start by discussing senses and how they help humans and robots react to their environment. Then, students will work on building a touch sensor attachment for their robots. Next, students will figure out the behaviors required to accomplish their goals and learn about how to program those behaviors. Students will demonstrate learning by testing their created programs in a competition called Mindstorm Pinball.
 
 ## Setup
 
@@ -54,16 +54,16 @@ Relate human senses to robotic sensors and discuss how those senses can be used 
 2. Explain that the robot uses sensors to mimic human senses and allow it to react to its surroundings.
 	- The touch sensor can let the robot know when it has run into a wall.
 
-2. The goal of the day will be to make a robot that can run into as many walls as possible in 1 minute.
+2. The goal of the day is to make a robot that can run into as many walls as possible in 1 minute.
 
 ## Explore - 5 minutes
 Review the definition of an attachment for a robot and then give students time to create a touch sensor attachment.
 
 1. An attachment is a lego structure added to the robot that gives it the ability to complete more tasks.
-	- This attachment will not be used at the same time as their push attachments. 
+	- This attachment can not be used at the same time as their push attachments. 
     - Different attachments are used to solve different problems.
 
-2. Students have five minutes to attempt to attach the touch sensor to their robot. The touch sensor should be connected to the front of their robot so that when it runs into a wall it will get pressed.
+2. Students have five minutes to attempt to attach the touch sensor to their robot. The touch sensor should be connected to the front of their robot so that when it runs into a wall it gets pressed.
 
 ## Explain - 15 minutes
 Start out by reviewing what they already know about programming the robot. Then, discuss what behaviors are necessary to accomplish the goal for today. Finally, show them how to program those behaviors and play a game to reinforce learning.
@@ -79,15 +79,15 @@ Start out by reviewing what they already know about programming the robot. Then,
     4. Repeat steps 1-3
 
 3. To accompish the first behavior the duration on the move block must be changed to **on**. This makes the robot move for an unlimited amount of time like referenced in the image below.
-	- If there is no programming block after this it will stop instantly.
-    - If there is a wait block after this move block, the robot will continue to move until the wait block condition is met.
+	- If there is no programming block after this it stops instantly.
+    - If there is a wait block after this move block, the robot continues to move until the wait block condition is met.
 ![](http://uploads.9dots.io/OiQhIX8_md.jpg) 
 
 4. This is called an **event handler** and reacts only when the event has happened. The wait block means that we continue whatever comes before the block until the condition is met.
 	- In this case the condition the robot should wait for is when the touch sensor is activated.
 ![](http://uploads.9dots.io/OiQj0Nu_md.jpg) 
 
-5. Students will remember from the previous lesson to use the Move Steering block to turn.
+5. Students remember from the previous lesson to use the Move Steering block to turn.
 
 6. The Loop block means that any blocks within the loop are repeated forever.
 ![](http://uploads.9dots.io/OiQjPzY_md.jpg) 
@@ -97,7 +97,7 @@ Start out by reviewing what they already know about programming the robot. Then,
     - **Move block:** Walk in place.
         - For each rotation specified the students take 1 step.
         - If the paper says unlimited the students continue to walk in place until told otherwise.
-    - **Wait block with touch sensor:** A tap on the head activates the student’s touch sensor. Students will now move on to the next step in the program.
+    - **Wait block with touch sensor:** A tap on the head activates the student’s touch sensor. Students now move on to the next step in the program.
     - **Loop:** Any parts of the program that are between the start and end of loop pages should be repeated until the teacher says to stop.
 ![](http://uploads.9dots.io/OiQkWO7_md.jpg) 
 **In the example above, students would take 2 steps, wait to be tapped on the head, and then repeat that process until they are told the program is finished.**
@@ -111,11 +111,11 @@ Start out by reviewing what they already know about programming the robot. Then,
 
 	- _How can the loop block be utilized?_
 	
-    The loop can ensure that their robot continues to bounce off walls continuously without having to restart the program. Anything inside of the loop will be repeated forever (or until the ‘stop’ button is pushed on the robot).
+    The loop can ensure that their robot continues to bounce off walls continuously without having to restart the program. Anything inside of the loop is repeated forever (or until the ‘stop’ button is pushed on the robot).
 ![](http://uploads.9dots.io/OiQnT0b_md.jpg) 
 
 ## Elaborate - 15 minutes
-This time will be used to program the robot and add final touches to the touch sensor attachment that is connected to the robot.
+This time is used to program the robot and add final touches to the touch sensor attachment that is connected to the robot.
 
 1. Each group now has 15 minutes to finish building an attachment and program the robot to bounce off as many walls as possible in 1 minute. 
 
@@ -123,18 +123,18 @@ This time will be used to program the robot and add final touches to the touch s
 	- After each attempt, students should write down what worked and what they should change using the iteration log handout. 
 
 ## Evaluate - 5 minutes
-Students will test their programs by competing in a game of Mindstorm Pinball (the rules are listed below). When they have finished, students will discuss their engineering designs and fill out the robotics wrap-up handout.
+Students test their programs by competing in a game of Mindstorm Pinball (the rules are listed below). When they have finished, students will discuss their engineering designs and fill out the robotics wrap-up handout.
 
-1. At the end of the allotted time, students will test their robots by playing a game of Mindstorm Pinball.  To play, create a square playing area with walls on all four sides.  Place the robot in the center and set a timer for 1 minute. Points will be awarded for each wall that the robot can touch within that time limit.
+1. At the end of the allotted time, students test their robots by playing a game of Mindstorm Pinball.  To play, create a square playing area with walls on all four sides.  Place the robot in the center and set a timer for 1 minute. Points will be awarded for each wall that the robot can touch within that time limit.
   - 1st time bouncing off of a wall: 10 points
   - 2nd time bouncing off of the same wall:  5 points
   - 3rd + time bouncing off of the same wall: 1 point
   - 50 bonus point each time all four walls are hit
 
 2. Discuss with students, "_How important was the placement of the touch sensor?_"
-	The placement of the the touch sensor is very important because if it is not in a place where it will get bumped, the robot will not be successful.
+	The placement of the the touch sensor is very important because if it is not in a place where it can be bumped, the robot can not be successful.
 
-3. Students will fill in the robotics wrap-up handout.
+3. Students fill in the robotics wrap-up handout.
 
 ## Standards
 

@@ -4,9 +4,10 @@ views: 0
 published: true
 type: lesson
 title: Review of Move and Wait
-blurb: "This lesson will solidify the students understanding of the move block and challenged them to move the #robot through a maze."
+blurb: "This lesson combines the maze of the first lesson with the use of touch sensors in the second lesson to review the programming that students learned. Students review the move steering and wait blocks by playing a game of #Mindstorm says. Students demonstrate learning by programming a robot to move through a maze while using the touch sensor to know when to turn."
 org: 9dots
-objective: "By the end of the class, students will be able to demonstrate learning by using the move and wait blocks to move a robot through the maze."
+objective: 
+  - Demonstrate learning by using the move and wait blocks to move a robot through the maze
 attachments: 
   - path: "http://uploads.9dots.io/OihHr6T.pdf"
     name: IterationLog (1).pdf
@@ -17,9 +18,6 @@ image: "http://uploads.9dots.io/Ol3tytc_md.jpg"
 fullImage: "http://uploads.9dots.io/Ol3tytc_lrg.jpg"
 
 ---
-
-## Lesson Overview
-This lesson combines the maze of the first lesson with the use of touch sensors in the second lesson to review the programming that students learned. Students review the move steering and wait blocks by playing a game of mindstorm says. Students demonstrate learning by programming a robot to move through a maze while using the touch sensor to know when to turn.
 
 ## Setup
 
@@ -55,7 +53,7 @@ Students have a do-now to answer review questions and then explain to them their
 ## Explain - 10 minutes
 Use a game of mindstorm says to review the programming blocks that students learned in previous lessons.
 
-1. Start a game of mindstorm says to check for understanding.  The rules will be the same as in the previous lesson. To recap:
+1. Start a game of mindstorm says to check for understanding.  The rules are the same as in the previous lesson. To recap:
   - **Move block:** Walk in place.
       - For each rotation specified the students take 1 step.
       - If the paper says unlimited the students continue to walk in place until told otherwise.
@@ -65,7 +63,7 @@ Use a game of mindstorm says to review the programming blocks that students lear
 ## Elaborate - 30 minutes
 Students program their robot and use practice runs to improve their solution.
 
-1. Each group has 35 minutes to program the robot to complete the maze. Points for the robots will be rewarded for:
+1. Each group has 35 minutes to program the robot to complete the maze. Points for the robots are rewarded for:
 	- 10 points for each wall the robot bumps.
     - 50 points for finishing the maze in the correct area.
 

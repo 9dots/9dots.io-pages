@@ -4,9 +4,10 @@ views: 0
 published: true
 type: lesson
 title: Space Engineers
-blurb: "Students compete by having their robot gather as many resources (legos) as possible using a robotic arm. #CSTA.CT.L2-01 #NGSS-MS-ETS1-3"
+blurb: "Students generate a robotic arm that is capable of gathering legos and bring them back to the base. Start by discussing what could be added to a robot to give it the ability to manipulate objects. Next, students build a robotic arm and learn how to program it using the medium motor block. Students demonstrate learning by developing a robot that is tested in a competition to gather the most legos in 1 minute. #CSTA.CT.L2-01 #NGSS-MS-ETS1-3"
 org: 9dots
-objective: "By the end of the lesson, the student will be able to develop a robotic arm attachment and create a robot capable of returning legos to a specified location."
+objective: 
+  - Develop a robotic arm attachment and create a robot capable of returning legos to a specified location
 id: "9dots-Oii3alP"
 attachments: 
   - path: "http://uploads.9dots.io/OiiHcB8.pdf"
@@ -17,9 +18,6 @@ image: "http://uploads.9dots.io/Ol3uQfJ_md.jpg"
 fullImage: "http://uploads.9dots.io/Ol3uQfJ_lrg.jpg"
 
 ---
-
-## Lesson Overview
-Students generate a robotic arm that is capable of gathering legos and bring them back to the base. Start by discussing what could be added to a robot to give it the ability to manipulate objects. Next, students build a robotic arm and learn how to program it using the medium motor block. Students demonstrate learning by developing a robot that is tested in a competition to gather the most legos in 1 minute.
 
 ## Setup
 
@@ -66,7 +64,7 @@ If you are using an NXT kit, use the normal motor in place of the medium of the 
 ## Explain - 10 minutes
 Students learn how to use the medium motor block to control the arm on their robot. Using this information, students write the steps to gather the first lego and check it with the group.
 
-1. To program their arm, students will need to use medium motor block.
+1. To program their arm, students need to use medium motor block.
 
 2. Switch the medium motor block to 'On for degrees' so that the arm doesn't spin too far
 

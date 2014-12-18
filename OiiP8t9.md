@@ -4,9 +4,10 @@ views: 0
 published: true
 type: lesson
 title: Robotics Competition
-blurb: Students will use the programming and building skills gained over the week to compete in a series of robotics challenges.
+blurb: "To finish the robotics unit, students compete in a series of programming challenges. Start by reviewing what students have learned about robotics. Then, introduce students to the challenges for the final competition. Students demonstrate learning by engineering and programming a robot to complete the challenges."
 org: 9dots
-objective: "By the end of the lesson, the student will be able to demonstrate learning by programming their robots to complete new challenges."
+objective: 
+  - Demonstrate learning by programming their robots to complete new challenges
 id: "9dots-OiiP8t9"
 attachments: 
   - path: "http://uploads.9dots.io/OiiSMQe.pdf"
@@ -15,9 +16,6 @@ image: "http://uploads.9dots.io/Ol3uZXn_md.jpg"
 fullImage: "http://uploads.9dots.io/Ol3uZXn_lrg.jpg"
 
 ---
-
-## Lesson Overview
-To finish the robotics unit, students compete in a series of programming challenges. Start by reviewing what students have learned about robotics. Then, introduce students to the challenges for the final competition. Students demonstrate learning by engineering and programming a robot to complete the challenges.
 
 ## Setup
 
@@ -46,7 +44,7 @@ Review the engineering and programming that students have learned about in this 
 
 3. Today, students use all of the skills that were just discussed, to compete in a series of robotics challenges.  They have three possible challenges and can attempt as many as they would like in the project time.
 
-4. Each group will recieve a scoring handout for the instructor to fill out during tests.
+4. Each group recieves a scoring handout for the instructor to fill out during tests.
 
 ## Explain - 5 minutes
 Show the students the challenges that they are working on and discuss the points that each is worth.
@@ -56,15 +54,15 @@ Show the students the challenges that they are working on and discuss the points
 ![](http://uploads.9dots.io/OiiQvep_md.jpg) 
 
 2. Follow the line
-	- Using the light sensor and a different course, students will attempt to follow a black line through a maze without touching any walls. The scoring will work as follows:
+	- Using the light sensor and a different course, students attempt to follow a black line through a maze without touching any walls. The scoring works as follows:
 		- 50 points for the robot finishing in the red zone
         - -5 points for any box that is touched
         - 30 bonus points to the team with the fastest time
 ![](http://uploads.9dots.io/OiiR02o_md.jpg) 
-**ABOVE: Example of what they line following maze can look like. A black line across the maze with walls (boxes) to make sure that the robot is sticking close to the line. Students will start at the green start zone and finish in the red zone.**
+**ABOVE: Example of what they line following maze can look like. A black line across the maze with walls (boxes) to make sure that the robot is sticking close to the line. Students start at the green start zone and finish in the red zone.**
 
 3. Mindstorm Pinball
-	- The last goal will be to play a game of mindstorm pinball and collect as many points as possible. The points will be awarded for: 
+	- The last goal is to play a game of mindstorm pinball and collect as many points as possible. The points are awarded for: 
 		- 1st time bouncing off of a wall: 10 points
         - 2nd time bouncing off of the same wall:  5 points
         - 3rd + time bouncing off of the same wall: 1 point

@@ -6,7 +6,10 @@ type: lesson
 title: Introduction to EV3 Programming
 blurb: "A two day lesson introducing students to simple and complex behaviors and #programming a #Mindstorm robot"
 org: 9dots
-objective: "By the end of the lesson, students will be able to explain what a programmer is, define a simple behavior, and write a program capable of navigating their robot through a simple maze."
+objective: 
+  - Explain what a programmer is
+  - Define a simple behavior
+  - Write a program capable of navigating their robot through a simple maze
 id: "9dots-OiQXe4e"
 image: "http://uploads.9dots.io/Ol3tbrJ_md.jpg"
 attachments: 

@@ -4,9 +4,10 @@ views: 0
 published: true
 type: lesson
 title: Infrared Sensor
-blurb: "This lesson focuses on using the infrared sensor to watch for obstacles in the path of the robot. #CSTA.CT.L2-01 #NGSS-MS-ETS1-3"
+blurb: "This lesson focuses on using the infrared sensor to watch for obstacles in the path of the robot. Start by relating the infrared sensor to the human sense of sight. Then, tell students that the goal for today is to build a robot that can drive around while avoiding obstacles in its path. Show students how to change the wait block to use the infrared sensor. Students demonstrate learning by creating a robot that continuously avoid obstacles while driving for 1 minute. #CSTA.CT.L2-01 #NGSS-MS-ETS1-3"
 org: 9dots
-objective: "By the end of the lesson, the student will be able to create a robot capable of avoiding obstacles using the infrared sensor."
+objective: 
+  - Create a robot capable of avoiding obstacles using the infrared sensor
 id: "9dots-OihNHeX"
 attachments: 
   - path: "http://uploads.9dots.io/OihTVR8.pdf"
@@ -17,9 +18,6 @@ image: "http://uploads.9dots.io/Ol3u9XW_md.jpg"
 fullImage: "http://uploads.9dots.io/Ol3u9XW_lrg.jpg"
 
 ---
-
-## Lesson Overview
-This lesson focuses on using the infrared sensor to watch for obstacles in the path of the robot. Start by relating the infrared sensor to the human sense of sight. Then, tell students that the goal for today is to build a robot that can drive around while avoiding obstacles in its path. Show students how to change the wait block to use the infrared sensor. Students demonstrate learning by creating a robot that continuously avoid obstacles while driving for 1 minute.
 
 ## Setup
 
@@ -60,7 +58,7 @@ Show students how to use the wait block with the infrared sensor. Students shoul
 1. _What knowledge from previous lessons can help complete the goal?_
 By using a combination of the move, wait, and loop block, the robot can be programmed to continuously avoid the obstacles in your path.
 
-2. _What will need to be changed to make the wait block work for the infrared sensor?_
+2. _What needs to be changed to make the wait block work for the infrared sensor?_
 	1. Click to switch the sensor to the infrared sensor
     2. Select compare
     3. Select proximity

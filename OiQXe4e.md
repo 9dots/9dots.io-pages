@@ -4,7 +4,7 @@ views: 0
 published: true
 type: lesson
 title: Introduction to EV3 Programming
-blurb: "This lesson will serve as an introduction to programming using the EV3 software (this is useable with the older NXT bricks as well). To start, students will learn about what it means to be a programmer. Next, students learn about their goal for the day and construct a lego attachment to help achieve it. After, students will learn about simple and complex robot behaviors. To finish the lesson, students will have their first programming challenge to guide their teacher through a maze using programming instructions."
+blurb: "This lesson serves as an introduction to programming using the EV3 software (this is useable with the older NXT bricks as well). To start, students learn about what it means to be a programmer. Next, inform students that their goal for the day is to program a robot to navigate through a maze. After, students learn about simple and complex robot behaviors. To finish the lesson, students have their first programming challenge to guide their teacher through a maze using programming instructions."
 org: 9dots
 objective: 
   - Explain what a programmer is
@@ -57,14 +57,14 @@ TIP: Make sure to start the robot in the exact same place each time. Placing an 
 ```
 
 ![](http://uploads.9dots.io/OiQa9tW_md.jpg)
-**Above: An example of what the maze could look like. The robot will have to push the lego from the green ‘Start’ zone to the red ‘Finish’  zone without crossing the lines.**
+**Above: An example of what the maze could look like. The robot must push the lego from the green ‘Start’ zone to the red ‘Finish’  zone without crossing the lines.**
 
 ## Explore - 10 minutes
-Students will take to the engineering side of robotics to develop an attachment to help accomplish their goal.
+Students take to the engineering side of robotics to develop an attachment to help accomplish their goal.
 
 1. A robot attachment is an additional part made out of legos that can easily be connected to the robot to help complete a specific goal. 
 
-2. To push legos, students will need to build an attachment that keeps legos from getting trapped under the robot or lost while turning.
+2. To push legos, students need to build an attachment that keeps legos from getting trapped under the robot or lost while turning.
 
 3. Break students in to groups of no more than four
 
@@ -74,9 +74,9 @@ Students will take to the engineering side of robotics to develop an attachment 
 **Above: An attachment for pushing the legos.**
 
 ## Explain - 15 minutes
-Students will learn about discuss programming and learn about simple and complex robotic behaviors.
+Students learn about programming and learn about simple and complex robotic behaviors.
 
-1. Discuss with students, _"Now that the robot has an attachment to push the lego, how will the robot know what to do?"_
+1. Discuss with students, _"Now that the robot has an attachment to push the lego, how does the robot know what to do?"_
 	- The robot needs to be programmed to accomplish the goal of getting through the maze.
 
 2. Check for understanding by asking, "_What does programming mean?_"
@@ -100,9 +100,9 @@ Play a game in which students program the instructor to move through a maze like
 		2. Turn Left (90 degrees)
 		3. Turn Right (90 degrees)
  
-3. After surverying the maze, each group will write down their instructions on a piece of paper. 
+3. After surverying the maze, each group writes down their instructions on a piece of paper. 
 
-4. After students have their instructions written down, groups will take turns having the teacher robot act out their program. 
+4. After students have their instructions written down, groups take turns having the teacher robot act out their program. 
 	- When behaving as the robot, make sure to follow the instructions very literally.
 
 ## Evaluate - 5 minutes
@@ -122,7 +122,7 @@ Play a game in which students program the instructor to move through a maze like
 # Day 2
 
 ## Lesson Overview
-Students will continue learning about simple and complex behaviors by programming their mindstorm robots. Start by teaching how to program in the EV3 environment and download programs to the robot for testing. Students will demonstrate learning by giving their robots commands to navigate a maze.
+Students continue learning about simple and complex behaviors by programming their mindstorm robots. Start by teaching how to program in the EV3 environment and download programs to the robot for testing. Students demonstrate learning by giving their robots commands to navigate a maze.
 
 ## Setup
 
@@ -155,27 +155,27 @@ To get the students interested, show them a video of a very well designed and pr
     	- Complex behaviors are made up of several simple behaviors.
 
 ## Explain - 15 minutes
-Teach students how to use the move steering block to accomplish a simple behavior. Students will follow along on the Move Steering handout.
+Teach students how to use the move steering block to accomplish a simple behavior. Students follow along on the Move Steering handout.
 
 1. In the Mindstorm EV3 software, to program the robot, drag blocks from the bottom bar and connect them to the start block that is on the screen. 
 	- When using the EV3 software, a simple behavior is a single programming block.
-	- To program the Mindstorm Robot, students will use the same 3 simple behaviors; move straight, turn left, and turn right. 
+	- To program the Mindstorm Robot, students use the same 3 simple behaviors; move straight, turn left, and turn right. 
 	- The three behaviors that have been discussed are all achievable using the Move Steering block.
 ![](http://uploads.9dots.io/OiQbdRA_md.jpg) 
 
-2. Students will fill in the 3 parts of the Move Steering block on their handout:
+2. Students fill in the 3 parts of the Move Steering block on their handout:
 	- *Turning:* Positive numbers turn right, Negative numbers turn left, and 0 means straight.
-	- *Power:* How fast the motor will spin. 0 is the slowest; 100 is the fastest.
-	- *Duration:* How long the motor will turn on for in rotations. 1 rotation is one full spin of the motor.
+	- *Power:* How fast the motor spins. 0 is the slowest; 100 is the fastest.
+	- *Duration:* How long the motor turns on for in rotations. 1 rotation is one full spin of the motor.
 ![](http://uploads.9dots.io/OiQc16D_md.jpg) 
 
 3. To make a complex behavior, connect as many Move Steering blocks (simple behaviors) together as are required.
 
-4. On the handout, students will describe the behaviors for each move steering block. The finished answer should look like this:
+4. On the handout, students describe the behaviors for each move steering block. The finished answer should look like this:
 ![](http://uploads.9dots.io/OiQcewv_md.jpg) 
 
 ## Elaborate - 20 minutes 
-Show students the maze from the previous lesson to remind them of what their robot will need to navigate. Students will go begin programming their robot to complete the maze.
+Show students the maze from the previous lesson to remind them of what their robots needs to navigate. Students begin programming their robot to complete the maze.
 
 1. Demonstrate how to download a program to the robot. 
 	- A how to on downloading programs to the EV3 can be found in the Wiki section of 9dots.io.
@@ -186,7 +186,7 @@ Show students the maze from the previous lesson to remind them of what their rob
 	- Students should use their program (the written down instructions) from the ‘teacher robot’ activity to help with organizing the behaviors for the actual maze challenge.
 
 ## Evaluate - 5 minutes
-Students will test their programs and keep a log of where each attempt could be improved.
+Students test their programs and keep a log of where each attempt could be improved.
 
 1. Students may test their robot at any point. 
 

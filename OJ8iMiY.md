@@ -8,7 +8,7 @@ title: Robotic Engineering
 org: 9dots
 objective: 
   - Define robotics
-  - Explain what an engineer does
+  - Explain the process of an engineer
   - Demonstrate learning by producing a robot capable of driving
 attachments: 
   - path: "http://uploads.9dots.io/OJ8kmj2.rbt"
@@ -58,13 +58,13 @@ Show students the building plans for their robot and explain the importance of b
 
 1. Show students the building plans for their robot. 
 
-2. Explain that this robot is helpful for learning how to program the robot, and that students will be coming up with their own robot designs later in the unit.
+2. Explain that this robot is helpful for learning how to program the robot.
 
 ## Explore - 30 minutes
 
-1. Students will work on creating their robot according to the plans provided to them. 
+1. Students work on creating their robot according to the plans provided to them. 
 	- Students should work in groups of four or less.
-2. When they have finished, students will use the [straight line program](http://uploads.9dots.io/OJ8kmj2.rbt) to test their robot.
+2. When they have finished, students use the [straight line program](http://uploads.9dots.io/OJ8kmj2.rbt) to test their robot.
 	- For instructions on how to download programs to the robot check out this [wiki](http://www.9dots.io/9dots/OiQoYL1).
 
 ## Extension
@@ -80,7 +80,7 @@ For students that finish early, explain about the importance of repeatability fo
     - Use sensors to keep track of where the robot is on the map
     - Start moving at low power so that the wheels do not slip at all
 
-3. Students will work on adding legos to their robot to address the issue of aligning their robot perpendicularly to a wall when reversing.
+3. Students work on adding legos to their robot to address the issue of aligning their robot perpendicularly to a wall when reversing.
 
 ## Evaluate - 5 minutes
 

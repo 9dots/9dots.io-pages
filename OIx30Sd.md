@@ -3,19 +3,19 @@ author: danleavitt0
 views: 0
 published: true
 type: lesson
-blurb: "Students will create a #car that is propelled using the wind generate through blowing air at it."
+blurb: "This exploration driven lesson starts with a short research project about alternative fuels. Students learn about a specific alternative fuel and present findings to the class. Then, students create puff mobiles which are small wind powered vehicles. The puff mobiles will be tested to see which can travel the furthest with three breaths of air."
 title: Puff Mobiles
 org: 9dots
-objective: "By the end of the lesson, students will be able to define energy, list three types of fuel, and demonstrate learning by making a puff mobile."
+objective: 
+  - Define energy
+  - List three types of fuel
+  - Demonstrate learning by making a puff mobile
 image: "http://uploads.9dots.io/Ol3ogVl_md.jpg"
 id: "9dots-OIx30Sd"
 attachments: []
 fullImage: "http://uploads.9dots.io/Ol3ogVl_lrg.jpg"
 
 ---
-
-## Lesson Overview
-This exploration driven lesson starts with a short research project about alternative fuels. Students learn about a specific alternative fuel and present findings to the class. Then, students create puff mobiles which are small wind powered vehicles. The puff mobiles will be tested to see which can travel the furthest with three breaths of air.
 
 ## Setup
 ### Materials:

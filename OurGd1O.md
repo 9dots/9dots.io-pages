@@ -5,13 +5,12 @@ published: false
 type: lesson
 org: 9dots
 title: "Stop Motion Core Values: Collaboration"
-objective: SWBAT define collaboration and use it to create a stop motion with multiple moving characters.
+objective: 
+  - Define collaboration and use it to create a stop motion with multiple moving characters
 id: "9dots-OurGd1O"
+blurb: "In this lesson, students collaborate with a partner to create a stop motion. Discuss with students the importance of collaboration.  Students demonstrate learning by developing a stop motion with multiple moving characters."
 
 ---
-
-## Lesson Overview
-In this lesson, students collaborate with a partner to create a stop motion. Discuss with students the importance of collaboration.  Students demonstrate learning by developing a stop motion with multiple moving characters.
 
 ## Setup
 

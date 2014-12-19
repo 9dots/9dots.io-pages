@@ -5,13 +5,12 @@ published: false
 type: lesson
 org: 9dots
 title: Stop Motion Core Values
-objective: SWBAT explain the importance of grit and develop a stop motion video using legos.
+objective: 
+  - Explain the importance of grit and develop a stop motion video using legos
 id: "9dots-Our7Mx6"
+blurb: "Students create a stop motion video using legos and the Photobooth software. Show a video of stop motion to show students the creativity that can go into an animation. Then, explain to students the need for grit to create a stop motion. Students demonstrate learning by creating a stop motion with as many pictures as possible."
 
 ---
-
-## Lesson Overview
-Students create a stop motion video using legos and the Photobooth software. Show a video of stop motion to show students the creativity that can go into an animation. Then, explain to students the need for grit to create a stop motion. Students demonstrate learning by creating a stop motion with as many pictures as possible.
 
 ## Setup
 

@@ -8,7 +8,7 @@ title: Paper Towers
 org: 9dots
 objective: 
   - Define a structural wall
-  - "Demonstrate learning by creating a sturdy #tower capable of holding weight"
+  - Demonstrate learning by creating a sturdy tower capable of holding weight
 image: "http://uploads.9dots.io/Ol3p8yI_md.jpg"
 id: "9dots-OIx6rcp"
 fullImage: "http://uploads.9dots.io/Ol3p8yI_lrg.jpg"

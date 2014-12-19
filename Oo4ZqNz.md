@@ -14,7 +14,9 @@ attachments:
     name: Tin Foil Boats.pptx
 image: "http://uploads.9dots.io/OpJNj3o_md.jpg"
 fullImage: "http://uploads.9dots.io/OpJNj3o_lrg.jpg"
-objective: []
+objective: 
+  - Define density
+  - "Describe the relationship of volume, mass, and density"
 
 ---
 

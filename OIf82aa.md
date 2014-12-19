@@ -5,16 +5,14 @@ published: true
 type: lesson
 org: 9dots
 title: Spaghetti Marshmallow Tower
-blurb: "Students will experiment with building shapes to determine which are the most stable. #NGSS-3-5-ETS1-1 #NGSS-3-5-ETS1-2 #NGSS-MS-ETS1-2"
+blurb: "This exploration driven lesson teaches students about structural rigidity. Students explore by building a tower out of spaghetti and marshmallows without any background. After a quick build, students will learn about structural rigidity in a hands on demonstration. Students demonstrate learning by creating a taller tower in the second round using optimal building shapes. #NGSS-3-5-ETS1-1 #NGSS-3-5-ETS1-2 #NGSS-MS-ETS1-2"
 image: "http://uploads.9dots.io/Ol3oIOG_md.jpg"
 id: "9dots-OIf82aa"
-objective: "By the end of the project, students will be able to identify the best shapes for building a tower."
+objective: 
+  - Identify the best shapes for building a tower
 fullImage: "http://uploads.9dots.io/Ol3oIOG_lrg.jpg"
 
 ---
-
-## Lesson Overview
-This exploration driven lesson teaches students about strucural rigidity. Students explore by building a tower out of spaghetti and marshmallows without any background. After a quick build, students will learn about structural rigidity in a hands on demonstration. Students demonstrate learning by creating a taller tower in the second round using optimal building shapes.
 
 ## Setup
 

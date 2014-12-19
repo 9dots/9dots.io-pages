@@ -6,8 +6,9 @@ type: lesson
 title: Introduction to Scratch
 org: 9dots
 id: "9dots-OoA5TvE"
-blurb: "Students will get an introduction to #programming with #Scratch and create an interactive animation. #CCSS.MATH.CONTENT.6.NS.C.5"
-objective: SWBAT create an interactive animation using the scratch coding blocks.
+blurb: "This lesson provides an exploration driven introduction into coding with Scratch. Students start by watching a video that demonstrates the possibilities with Scratch. Then, they will follow a step-by-step guide available on Scratch to try out the programming. Students will demonstrate learning by modifying their program with some original code at the end of the lesson. #CCSS.MATH.CONTENT.6.NS.C.5"
+objective: 
+  - Create an interactive animation using the scratch coding blocks
 attachments: 
   - path: "http://uploads.9dots.io/OoAHNhe.pptx"
     name: Scratch.pptx
@@ -15,9 +16,6 @@ image: "http://uploads.9dots.io/OouqeNr_md.jpg"
 fullImage: "http://uploads.9dots.io/OouqeNr_lrg.jpg"
 
 ---
-
-## Lesson Overview
-This lesson provides an exploration driven introduction into coding with Scratch. Students start by watching a video that demonstrates the possibilites with Scratch. Then, they will follow a step-by-step guide available on Scratch to try out the programming. Students will demonstrate learning by modifying their program with some original code at the end of the lesson.
 
 ## Setup
 

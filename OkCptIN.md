@@ -12,6 +12,9 @@ objective:
 id: "9dots-OkCptIN"
 image: "http://uploads.9dots.io/Ol4B61n_md.jpg"
 fullImage: "http://uploads.9dots.io/Ol4B61n_lrg.jpg"
+attachments: 
+  - path: "http://uploads.9dots.io/OzD0BNT.pdf"
+    name: GameDesign4Handout.pdf
 
 ---
 
@@ -20,7 +23,7 @@ fullImage: "http://uploads.9dots.io/Ol4B61n_lrg.jpg"
 ### Materials:
 
 - Computers with internet access
-- Handout
+- [Game design 4 handout](http://uploads.9dots.io/OzD0BNT.pdf)
 
 ### Project Time:
 45 minutes

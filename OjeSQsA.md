@@ -6,7 +6,7 @@ type: lesson
 title: "Cardboard Robots: Initial Goals"
 org: 9dots
 id: "9dots-OjeSQsA"
-blurb: "Students will go back to their initial goals for their robot, and devise a strategy to make their robot match their original ideas."
+blurb: "Students go back to their initial goals for their robot, and devise a strategy to make their robot match their original ideas."
 objective: 
   - Develop a strategy to complete their robot
 image: "http://uploads.9dots.io/Ol488Aa_md.jpg"

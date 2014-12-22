@@ -10,7 +10,6 @@ lessons:
   - "danleavitt0-OjYdRxS"
   - "9dots-OjYrhPt"
   - "9dots-OjYzgAz"
-  - "9dots-OjdUuoF"
   - "danleavitt0-OjdWbzL"
   - "9dots-OjduqFl"
   - "danleavitt0-OjeGPm4"

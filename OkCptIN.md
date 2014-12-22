@@ -59,10 +59,10 @@ What are the problems that you as a designer are trying to teach the player how 
 
 
 ## Ideate - 10 minutes
-Students draw a concept for a level that incorporates both new mechanics into the same level.
+On the handout, students draw a concept for a level that incorporates both new mechanics into the same level.
 
 ## Prototype - 15 minutes
-Students create their levels on gamefroot.
+Students create their levels on gamefroot and use the script from the third lesson to link this level to the previous ones.
 
 ## Test - 5 minutes
 

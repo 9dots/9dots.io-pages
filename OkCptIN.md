@@ -42,10 +42,13 @@ fullImage: "http://uploads.9dots.io/Ol4B61n_lrg.jpg"
 5. The second mechanic that students are adding is moving blocks.
 Moving blocks can be a fun way to challenge players to move over a gap
 	1. To create a moving block start by creating a gap that is too big for the player to jump across.
-	2. Add a block that start near the right side of the gap. 
+    ![](http://uploads.9dots.io/OzCuQF6) 
+	2. Add a block that start near the right side of the gap.
     3. Right click on the block to reveal the menu. 
     	- Click on the ‘Convert to moving tile...’ option
+    ![](http://uploads.9dots.io/OzCuUyw) 
 	4. Click on the endpoint the block should float to.
+    ![](http://uploads.9dots.io/OzCuXcF) 
 
 
 ## Define - 5 minutes

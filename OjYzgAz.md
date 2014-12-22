@@ -35,21 +35,18 @@ fullImage: "http://uploads.9dots.io/Ol46Uh7_lrg.jpg"
 
 - 40 min
 
-## Introduce
+## Engage
 
-### HOOK:
-Looking at the example robots, discuss the positive aspects of the designs that the teacher has chosen. 
+1. Looking at the example robots, discuss the positive aspects of the designs that the teacher has chosen. 
 
-### DISCUSS:
-_How important is it to cut the cardboard into the proper size and shape before connecting pieces?_
-Note that the students who are succeeding are making the cardboard into the size or shape that they need for their particular design.
+2. Discuss, _"How important is it to cut the cardboard into the proper size and shape before connecting pieces?"_
+	- Note that the students who are succeeding are making the cardboard into the size or shape that they need for their particular design.
 
-## Guided Practice
+## Explain
 
-### PLAN:
-Students will check to make sure that their own robots are being built according to the plan that they created. After, they will select to parts of their design that they want to focus on incorporating into their design for today.
+1. Students check to make sure that their own robots are being built according to the plan that they created. 
 
-## Explore
+2. After, they select two parts of their design that they want to focus on incorporating into their design for today.
 
-### BUILD:
-Students will continue building their robots according to their blueprints and building plan.
+## Elaborate
+Students continue building their robots according to their blueprints and building plan.

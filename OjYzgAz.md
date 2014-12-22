@@ -4,7 +4,7 @@ views: 0
 published: true
 type: lesson
 title: "Cardboard Robots: Building"
-blurb: "Using student projects as an example, students will discuss strategies for successfully building their robot and put them into practice."
+blurb: "Using student projects as an example, students discuss strategies for successfully building their robot and put them into practice. Students demonstrate learning by creating a fully formed robot."
 org: 9dots
 objective: 
   - Discuss strategies for building with cardboard
@@ -33,7 +33,7 @@ fullImage: "http://uploads.9dots.io/Ol46Uh7_lrg.jpg"
 
 ### Project Time 
 
-- 40 min
+- 1hr 20min
 
 ## Engage
 
@@ -46,7 +46,7 @@ fullImage: "http://uploads.9dots.io/Ol46Uh7_lrg.jpg"
 
 1. Students check to make sure that their own robots are being built according to the plan that they created. 
 
-2. After, they select two parts of their design that they want to focus on incorporating into their design for today.
+2. Each day, students select two parts of their design that they want to focus on incorporating into their design for today.
 
 ## Elaborate
 Students continue building their robots according to their blueprints and building plan.

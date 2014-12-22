@@ -57,7 +57,7 @@ attachments:
 ![](http://uploads.9dots.io/OzCmlfV_md.jpg) 
 
 10. Scroll down until you see this block:
-(http://uploads.9dots.io/OzCoW86_md.jpg) 
+![](http://uploads.9dots.io/OzCoW86_md.jpg) 
 
 11. Drag it into the script inside of the first block and select the next level of your game
 ![](http://uploads.9dots.io/OzCpa5y) 

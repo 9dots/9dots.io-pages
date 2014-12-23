@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: true
+published: false
 type: lesson
 title: "Cardboard Robots: Final Day"
 org: 9dots

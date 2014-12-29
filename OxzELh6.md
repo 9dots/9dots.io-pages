@@ -1,7 +1,7 @@
 ---
 author: miketeja
 views: 0
-published: false
+published: true
 type: lesson
 title: Paper Plate Speakers
 blurb: "Students learn about electromagnetic induction as a means to produce a current and generate voltage to make an inexpensive, working speaker out of household  items."

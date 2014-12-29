@@ -9,6 +9,8 @@ org: 9dots
 objective: 
   - "build a functional speaker using paper plates, magnets, and magnetic copper wire to demonstrate an understanding of electromagnetic induction"
 id: "9dots-OxzELh6"
+image: "http://uploads.9dots.io/OzrTRla_md.jpg"
+fullImage: "http://uploads.9dots.io/OzrTRla_lrg.jpg"
 
 ---
 

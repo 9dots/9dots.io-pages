@@ -11,6 +11,9 @@ objective:
   - Generate solutions to problems using algorithmic thinking
 blurb: "Using a series of hands on examples, students discover what an algorithm is and how to create their own algorithm to solve a problem. This first lesson is ‘unplugged’ so no computer is required to complete it."
 id: "9dots-P2h7X3P"
+attachments: 
+  - path: "http://uploads.9dots.io/P2hASph.pptx"
+    name: Programming 1.pptx
 
 ---
 
@@ -18,7 +21,14 @@ id: "9dots-P2h7X3P"
 
 ### Materials
 
+- Cups
+- [Tinkersmith Cup Stacking exercise](http://csedweek.org/files/CSEDrobotics.pdf)
+- Programming 1 powerpoint
+
 ### Preparations
+
+- Print cup stacking handouts
+- Set up projector
 
 ### Project Time
 

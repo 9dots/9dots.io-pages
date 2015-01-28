@@ -23,7 +23,7 @@ attachments:
 
 - Cups
 - [Tinkersmith Cup Stacking exercise](http://csedweek.org/files/CSEDrobotics.pdf)
-- Programming 1 powerpoint
+- [Programming 1 powerpoint](http://uploads.9dots.io/P2hASph.pptx)
 
 ### Preparations
 

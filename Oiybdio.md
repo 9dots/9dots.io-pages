@@ -59,25 +59,32 @@ Students go to www.getcoding.io and play the Spaceman Function levels.
 	6. It should look like:
     ![](http://uploads.9dots.io/P3GBAZi_md.jpg) 
 	7. The code that should be executed when the function is called goes between the curly braces.
-Ask students, “What is the code that the function turnRight should perform?”
-The function should call the rotate function three times.
-On a piece of paper, students write the a function called turnRight with the code it should execute.
-When it is finished the function should look like this:
-
-To use this function, simply call it like any of the other functions that have been used so far. An example could look like this:
-On the first level of the Spaceman Functions game, students create this turnRight function and use it to solve the maze.
-Elaborate - 15 minutes
+	8. Ask students, “What is the code that the function turnRight should perform?”
+		- The function should call the `rotate()` function three times.
+	9. On a piece of paper, students write the a function called turnRight with the code it should execute.
+	10. When it is finished the function should look like this:
+    ![](http://uploads.9dots.io/P3GKsIh_md.jpg) 
+
+8. To use this function, simply call it like any of the other functions that have been used so far. An example could look like this:
+![](http://uploads.9dots.io/P3GL9K7_md.jpg) 
+
+9. On the first level of the Spaceman Functions game, students create this turnRight function and use it to solve the maze.
+
+## Elaborate - 15 minutes
 
 Students do the Spaceman Function levels again but this time they need to use at least one original javascript function on each level.
-Example of some javascript functions they could create are:
-A function that does a move() two times
-A function that does a move() and a rotate()
-A function that does a move() and getPart()
 
-Evaluate - 5 minutes
+Example of some javascript functions they could create are:
+
+- A function that does a move() two times
+- A function that does a move() and a rotate()
+- A function that does a move() and getPart()
+
+## Evaluate - 5 minutes
 
 Ask students some follow up questions
-What is a function?
-How do you call a function?
-How do you define a function?
-What is the best original function you wrote to solve a level?
+
+- What is a function?
+- How do you call a function?
+- How do you define a function?
+- What is the best original function you wrote to solve a level?

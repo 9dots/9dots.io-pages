@@ -3,44 +3,81 @@ author: danleavitt0
 views: 0
 published: false
 type: lesson
-blurb: This will be the final day of capturing pictures for the stop motion movies. Students will make sure to take pictures for their last scene.
+blurb: "Students learn to create their own Javascript functions by generating a function to turn right in the spaceman challenges. Once they learn how to create functions, students continue by creating their own function to help solve the mazes with fewer lines of code."
 org: 9dots
 objective: 
-  - "Create stop motion videos which include 250 pictures, 1 scene with dialogue, and 1 establishing shot"
+  - Explain that a function is a reusable algorithm
+  - Use proper syntax to define a Javascript function
+  - Create original Javascript functions
 image: "http://uploads.9dots.io/Ol3wSSM_md.jpg"
 id: "9dots-Oiybdio"
-title: "Pictures: Last Day"
+title: Javascript Programming 3
 fullImage: "http://uploads.9dots.io/Ol3wSSM_lrg.jpg"
 
 ---
 
 ## Setup
 
-### Materials:
+### Materials
 
-- [Stop Motion Inspiration](http://vimeo.com/1105462)
-- Computer with Photo Booth (or other picture taking application)
-- Legos
-- Playdough
-- Markers
-- Crayon
-- Paper
-- Whiteboards
+- Computer
+- Powerpoint
 
-### Preparation:
+### Lesson Time
 
-- Bring completed storyboards
+- 45 minutes
 
-## Work Day
+## Engage/Explore - 15 minutes
 
-### DO NOW:
-Students will have 3 minutes to write a description of the final scene of their movie.
+Students go to www.getcoding.io and play the Spaceman Function levels.
 
-### HOOK:
-Watch some [stop motion inspiration](http://vimeo.com/1105462) to get the creativity flowing.
+## Explain - 10 minutes
 
-### EXPLAIN:
-Today is the last day for students to take pictures for their stop motion projects. To make sure that their movie has a proper ending, students should plan and take pictures for their final scene before doing any other scenes.
+1. Review with students by asking, “What is a function?”
+	- A function is a piece of code that can be called to complete a certain task.
 
-### CREATE:
-Students will begin taking pictures of their final scene. If they finish, they can continue to take pictures for other scenes. If a group feels that they have all of the pictures that they want, they can use the rest of the project time to begin editing their movies.
+2. So far, students have been using function calls to move the spaceman around.
+
+3. Each function is an algorithm (set of instructions) that be used many times by calling that function.
+
+4. Ask students, “What are the functions that are provided with spaceman?”
+	- move();
+	- rotate();
+	- getPart();
+
+5. Ask students, “What do you have to do to turn right in a spaceman level?”
+	- The rotate() function turns the spaceman to the left. To turn to the right, the rotate function needs to be called 3 times.
+
+6. Instead of having to write `rotate(); rotate(); rotate();` every time a right turn is required, student can create a function to turn right.
+
+7. How to define a function
+	1. To define a function, start with the word “function” 
+	2. The word is followed by the name of the function (which can be anything since it is your own function).
+	3. In this example, name the function “turnRight”
+	4. After the name, add parentheses ()
+	5. After the parentheses an open curly brace is written on the same line and then a closed curly brace on the line below.
+	6. It should look like:
+    ![](http://uploads.9dots.io/P3GBAZi_md.jpg) 
+	7. The code that should be executed when the function is called goes between the curly braces.
+Ask students, “What is the code that the function turnRight should perform?”
+The function should call the rotate function three times.
+On a piece of paper, students write the a function called turnRight with the code it should execute.
+When it is finished the function should look like this:
+
+To use this function, simply call it like any of the other functions that have been used so far. An example could look like this:
+On the first level of the Spaceman Functions game, students create this turnRight function and use it to solve the maze.
+Elaborate - 15 minutes
+
+Students do the Spaceman Function levels again but this time they need to use at least one original javascript function on each level.
+Example of some javascript functions they could create are:
+A function that does a move() two times
+A function that does a move() and a rotate()
+A function that does a move() and getPart()
+
+Evaluate - 5 minutes
+
+Ask students some follow up questions
+What is a function?
+How do you call a function?
+How do you define a function?
+What is the best original function you wrote to solve a level?

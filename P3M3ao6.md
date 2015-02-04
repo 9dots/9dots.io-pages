@@ -44,6 +44,8 @@ Define and identify the components of a microscope, how to properly handle one, 
  
 3. Provide students with the following diagram in the Microscope Day 1: Handout. 
 
+![](http://uploads.9dots.io/P3M7TVw_md.jpg) 
+
 4. Quickly review each component (define later) with students.
 
 5. Review the following tips on how to properly handle a microscope that are outlined in the handout:

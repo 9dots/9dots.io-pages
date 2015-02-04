@@ -40,7 +40,7 @@ Define and identify the components of a microscope, how to properly handle one, 
 
 2. Show students how to properly lift a microscope (not that students should be doing this). Lift the microscope with one hand firmly holding the arm and the other hand underneath the base. 
  
-3. Provide students with the following diagram in the Microscope Day 1: Handout4. 
+3. Provide students with the following diagram in the Microscope Day 1: Handout. 
 
 4. Quickly review each component (define later) with students.
 

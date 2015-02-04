@@ -53,6 +53,7 @@ Today students programs are getting smarter by using loops and conditionals.
 	4. Add curly braces
 	5. The code between the curly braces is repeated while there are still more parts to gather
 	6. The finished while statement should look like this: 
+    ![](http://uploads.9dots.io/P3LxY2I_md.jpg) 
 	7. This means that while the spaceman is not on a part, the spaceman continues to call the move function
 
 4. To write a conditional in Javascript
@@ -62,21 +63,26 @@ Today students programs are getting smarter by using loops and conditionals.
 	4. Add curly braces
 	5. The code between the curly braces is what is executed when the condition is true
 	6. The finished conditional should look like this:
+    ![](http://uploads.9dots.io/P3Lxg1T_md.jpg) 
 	7. This code means that if there is a path to the left, the spaceman should rotate
 
 5. To combine the two, simple put the if statement in the while loop.
+![](http://uploads.9dots.io/P3Lxnr0_md.jpg) 
 
 6. Ask students what this code will do.
 
-	1. While the spaceman is not on a part (repeats until the spaceman is on a part)
+```
+While the spaceman is not on a part (repeats until the spaceman is on a part)
 		1. move forward
 		2. if there is a path to the left
 		3. rotate to turn towards that path
+```
 
 
 ## Elaborate - 15 minutes
 
 1. Students play the www.getcoding.io and play the Spaceman Loops levels
+
 2. In each level, students write down the number of lines of code it took them to solve each level. Students should be aiming to write as few lines as possible.
 
 ## Evaluate - 5 minutes

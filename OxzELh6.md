@@ -35,7 +35,7 @@ fullImage: "http://uploads.9dots.io/OzrTRla_lrg.jpg"
 
 - 90 minutes
 
-## Day 1
+# Day 1
 
 ## Engage - 10 minutes
 
@@ -88,7 +88,7 @@ How the magnet generates a current in the copper wire
 
 (*NOTE: Students may bring an old pair of headphones to the next lesson if they have a pair, remind them these will be cut)  
 
-## Day 2
+# Day 2
 ### Preparation 
 
 - Using the lighter, burn off ~1" of the insulation wrapping from both ends of the copper wire that is coiled around the paper cylinder.

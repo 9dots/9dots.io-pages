@@ -14,6 +14,9 @@ objective:
 id: "9dots-OjdUuoF"
 image: "http://uploads.9dots.io/Ol46jjh_md.jpg"
 fullImage: "http://uploads.9dots.io/Ol46jjh_lrg.jpg"
+attachments: 
+  - path: "http://uploads.9dots.io/P3M0ria.pptx"
+    name: Programming4.pptx
 
 ---
 
@@ -23,6 +26,7 @@ fullImage: "http://uploads.9dots.io/Ol46jjh_lrg.jpg"
 
 - Computer
 - Powerpoint
+- [Programming 4 powerpoint](http://uploads.9dots.io/P3M0ria.pptx)
 
 ### Lesson Time
 

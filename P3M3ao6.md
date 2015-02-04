@@ -9,6 +9,9 @@ objective:
 blurb: Students are introduced to the basic functionality and proper handling of a microscope.
 title: Microscopes 1
 id: "9dots-P3M3ao6"
+attachments: 
+  - path: "http://uploads.9dots.io/P3M6vGz.docx"
+    name: MicroscopeDay1Handout.docx
 
 ---
 
@@ -16,8 +19,7 @@ id: "9dots-P3M3ao6"
 
 ### Materials
 
-- Microscopes Day 1: Powerpoint
-- Microscopes Day 2: Handout
+- [Microscopes Day 1: Handout](http://uploads.9dots.io/P3M6vGz.docx)
 - Microscope with up to 100x magnification
 - Prepared slides with size 10 Times New Roman font “e” under slide cover
 

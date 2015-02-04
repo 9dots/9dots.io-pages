@@ -13,6 +13,9 @@ image: "http://uploads.9dots.io/Ol3wSSM_md.jpg"
 id: "9dots-Oiybdio"
 title: Javascript Programming 3
 fullImage: "http://uploads.9dots.io/Ol3wSSM_lrg.jpg"
+attachments: 
+  - path: "http://uploads.9dots.io/P3M1Fo9.pptx"
+    name: Javascript Functions.pptx
 
 ---
 
@@ -22,6 +25,7 @@ fullImage: "http://uploads.9dots.io/Ol3wSSM_lrg.jpg"
 
 - Computer
 - Powerpoint
+- [Javascript 3 powerpoint](http://uploads.9dots.io/P3M1Fo9.pptx)
 
 ### Lesson Time
 

@@ -1,6 +1,6 @@
 ---
 author: danleavitt0
-views: 0
+views: 29
 published: true
 type: lesson
 title: "Giant Game Controllers: Building"

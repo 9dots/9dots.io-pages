@@ -1,6 +1,6 @@
 ---
 author: danleavitt0
-views: 0
+views: 483
 published: true
 type: lesson
 blurb: "In this lesson, students gain a basic understanding of the image, paragraph, and heading #HTML elements. Students demonstrate learning by completely translating an example document into HTML."
